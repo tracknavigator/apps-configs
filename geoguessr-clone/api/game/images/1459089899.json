@@ -1,0 +1,1008 @@
+{
+  "id": 1459089899,
+  "town": {
+    "name": {
+      "default": "Zeberio",
+      "es": "Ceberio",
+      "eu": "Zeberio"
+    },
+    "coordinates": {
+      "lat": 43.1476164,
+      "lon": -2.8481716
+    }
+  },
+  "files": [
+    {
+      "pageid": 81777664,
+      "ns": 6,
+      "title": "File:113 Sautuola, Zeberio - Fragua baserri.jpg",
+      "lat": 43.147443,
+      "lon": -2.85414,
+      "dist": 484.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81777664": {
+              "pageid": 81777664,
+              "ns": 6,
+              "title": "File:113 Sautuola, Zeberio - Fragua baserri.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/113_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg/500px-113_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/113_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg/960px-113_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/113_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg/960px-113_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/113_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:113_Sautuola,_Zeberio_-_Fragua_baserri.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81777664",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-01 17:31:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "113 Sautuola, Zeberio - Fragua baserri",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Fragua baserria|Self-published work|Spain photographs taken on 2018-11-11|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.147443",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.854140",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Fragua baserria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-11-11 09:18:59",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81777669,
+      "ns": 6,
+      "title": "File:112 Sautuola, Zeberio - Fragua baserri.jpg",
+      "lat": 43.147443,
+      "lon": -2.85414,
+      "dist": 484.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81777669": {
+              "pageid": 81777669,
+              "ns": 6,
+              "title": "File:112 Sautuola, Zeberio - Fragua baserri.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/112_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg/500px-112_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/112_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg/960px-112_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/112_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg/960px-112_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/112_Sautuola%2C_Zeberio_-_Fragua_baserri.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:112_Sautuola,_Zeberio_-_Fragua_baserri.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81777669",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-01 17:31:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "112 Sautuola, Zeberio - Fragua baserri",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Fragua baserria|Self-published work|Cultural heritage monuments in Spain with known IDs|Spain photographs taken on 2018-11-11|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.147443",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.854140",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Fragua baserria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-11-11 09:18:41",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81777469,
+      "ns": 6,
+      "title": "File:134 Sautuola, Zeberio - Errementerikoa baserri.jpg",
+      "lat": 43.147936,
+      "lon": -2.854422,
+      "dist": 508.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81777469": {
+              "pageid": 81777469,
+              "ns": 6,
+              "title": "File:134 Sautuola, Zeberio - Errementerikoa baserri.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/134_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/500px-134_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/134_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/960px-134_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/134_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/960px-134_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/134_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:134_Sautuola,_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81777469",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-01 17:27:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "134 Sautuola, Zeberio - Errementerikoa baserri",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Errementerikoa baserria|Self-published work|Spain photographs taken on 2018-11-11|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.147936",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.854422",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Errementerikoa baserria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-11-11 09:22:57",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81777467,
+      "ns": 6,
+      "title": "File:132 Sautuola, Zeberio - Errementerikoa baserri.jpg",
+      "lat": 43.147936,
+      "lon": -2.854422,
+      "dist": 508.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81777467": {
+              "pageid": 81777467,
+              "ns": 6,
+              "title": "File:132 Sautuola, Zeberio - Errementerikoa baserri.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/132_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/500px-132_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/132_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/960px-132_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/132_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/960px-132_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/132_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:132_Sautuola,_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81777467",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-01 17:27:44",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "132 Sautuola, Zeberio - Errementerikoa baserri",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Errementerikoa baserria|Self-published work|Spain photographs taken on 2018-11-11|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.147936",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.854422",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Errementerikoa baserria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-11-11 09:21:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81777466,
+      "ns": 6,
+      "title": "File:133 Sautuola, Zeberio - Errementerikoa baserri.jpg",
+      "lat": 43.147936,
+      "lon": -2.854422,
+      "dist": 508.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81777466": {
+              "pageid": 81777466,
+              "ns": 6,
+              "title": "File:133 Sautuola, Zeberio - Errementerikoa baserri.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/133_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/500px-133_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/133_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/960px-133_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/133_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/960px-133_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/133_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:133_Sautuola,_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81777466",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-01 17:27:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "133 Sautuola, Zeberio - Errementerikoa baserri",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Errementerikoa baserria|Self-published work|Spain photographs taken on 2018-11-11|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.147936",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.854422",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Errementerikoa baserria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-11-11 09:22:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81777468,
+      "ns": 6,
+      "title": "File:131 Sautuola, Zeberio - Errementerikoa baserri.jpg",
+      "lat": 43.147936,
+      "lon": -2.854422,
+      "dist": 508.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81777468": {
+              "pageid": 81777468,
+              "ns": 6,
+              "title": "File:131 Sautuola, Zeberio - Errementerikoa baserri.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/131_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/500px-131_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/131_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/960px-131_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/131_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg/960px-131_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/131_Sautuola%2C_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:131_Sautuola,_Zeberio_-_Errementerikoa_baserri.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81777468",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-01 17:27:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "131 Sautuola, Zeberio - Errementerikoa baserri",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Errementerikoa baserria|Self-published work|Spain photographs taken on 2018-11-11|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.147936",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.854422",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Errementerikoa baserria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-11-11 09:21:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 167293785,
+      "ns": 6,
+      "title": "File:Zeberioko Ortusantuaren ataria.jpg",
+      "lat": 43.145301805556,
+      "lon": -2.834903,
+      "dist": 1106.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "167293785": {
+              "pageid": 167293785,
+              "ns": 6,
+              "title": "File:Zeberioko Ortusantuaren ataria.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zeberioko_Ortusantuaren_ataria.jpg/500px-Zeberioko_Ortusantuaren_ataria.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zeberioko_Ortusantuaren_ataria.jpg/960px-Zeberioko_Ortusantuaren_ataria.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zeberioko_Ortusantuaren_ataria.jpg/960px-Zeberioko_Ortusantuaren_ataria.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Zeberioko_Ortusantuaren_ataria.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zeberioko_Ortusantuaren_ataria.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=167293785",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-06-10 08:40:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zeberioko Ortusantuaren ataria",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zeberio|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2025-06-10",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.145302",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.834903",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Zeberioko Ortusantuaren ataria (Zeberio Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 June 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josi\" title=\"User:Josi\">Josi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 167291509,
+      "ns": 6,
+      "title": "File:Areilza Dorrea.jpg",
+      "lat": 43.150234222222,
+      "lon": -2.8666550833333,
+      "dist": 1527.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "167291509": {
+              "pageid": 167291509,
+              "ns": 6,
+              "title": "File:Areilza Dorrea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Areilza_Dorrea.jpg/500px-Areilza_Dorrea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Areilza_Dorrea.jpg/960px-Areilza_Dorrea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Areilza_Dorrea.jpg/960px-Areilza_Dorrea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Areilza_Dorrea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Areilza_Dorrea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=167291509",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-06-10 08:00:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Areilza Dorrea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zeberio|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2025-06-10",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.150234",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.866655",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Areilza familiaren dorretxea (Zeberioko eraikuntza)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 June 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josi\" title=\"User:Josi\">Josi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

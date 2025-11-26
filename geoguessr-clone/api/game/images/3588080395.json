@@ -1,0 +1,1068 @@
+{
+  "id": 3588080395,
+  "town": {
+    "name": {
+      "default": "Aras",
+      "es": "Aras",
+      "eu": "Aras"
+    },
+    "coordinates": {
+      "lat": 42.5619834,
+      "lon": -2.3554319
+    }
+  },
+  "files": [
+    {
+      "pageid": 47419117,
+      "ns": 6,
+      "title": "File:¡A quién le molestaba - panoramio.jpg",
+      "lat": 42.577292,
+      "lon": -2.389634,
+      "dist": 3277.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "47419117": {
+              "pageid": 47419117,
+              "ns": 6,
+              "title": "File:¡A quién le molestaba - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%C2%A1A_qui%C3%A9n_le_molestaba_-_panoramio.jpg/500px-%C2%A1A_qui%C3%A9n_le_molestaba_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 303,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%C2%A1A_qui%C3%A9n_le_molestaba_-_panoramio.jpg/960px-%C2%A1A_qui%C3%A9n_le_molestaba_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%C2%A1A_qui%C3%A9n_le_molestaba_-_panoramio.jpg/960px-%C2%A1A_qui%C3%A9n_le_molestaba_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/%C2%A1A_qui%C3%A9n_le_molestaba_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:%C2%A1A_qui%C3%A9n_le_molestaba_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47419117",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-03-09 02:57:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "¡A quién le molestaba - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Aras (Navarra)|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.577292",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.389634",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "¡A quién le molestaba!",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "25 April 2008 (original upload date)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161011001708/http://www.panoramio.com/photo/9688243\">https://web.archive.org/web/20161011001708/http://www.panoramio.com/photo/9688243</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161011001710/http://www.panoramio.com/user/1015584?with_photo_id=9688243\">Diego Jiménez</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Diego Jiménez</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 9 March 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "Diego Jiménez",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 38093467,
+      "ns": 6,
+      "title": "File:Azuelo - panoramio.jpg",
+      "lat": 42.59189,
+      "lon": -2.344723,
+      "dist": 3439.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "38093467": {
+              "pageid": 38093467,
+              "ns": 6,
+              "title": "File:Azuelo - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azuelo_-_panoramio.jpg/500px-Azuelo_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azuelo_-_panoramio.jpg/960px-Azuelo_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azuelo_-_panoramio.jpg/960px-Azuelo_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Azuelo_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azuelo_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38093467",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-01-29 08:11:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Azuelo - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Azuelo|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2007-04-17|Photos from Panoramio ID 112166",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.591890",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.344723",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "azuelo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 17 April 2007",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161009231912/http://www.panoramio.com/photo/2080258\">https://web.archive.org/web/20161009231912/http://www.panoramio.com/photo/2080258</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161009231914/http://www.panoramio.com/user/112166?with_photo_id=2080258\">José Ibáñez</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">José Ibáñez</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 29 January 2015 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "José Ibáñez",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 85298573,
+      "ns": 6,
+      "title": "File:Dolmen (hipogeo) de Longar (49268303387).jpg",
+      "lat": 42.577425,
+      "lon": -2.393398,
+      "dist": 3551.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "85298573": {
+              "pageid": 85298573,
+              "ns": 6,
+              "title": "File:Dolmen (hipogeo) de Longar (49268303387).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dolmen_%28hipogeo%29_de_Longar_%2849268303387%29.jpg/500px-Dolmen_%28hipogeo%29_de_Longar_%2849268303387%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dolmen_%28hipogeo%29_de_Longar_%2849268303387%29.jpg/960px-Dolmen_%28hipogeo%29_de_Longar_%2849268303387%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dolmen_%28hipogeo%29_de_Longar_%2849268303387%29.jpg/960px-Dolmen_%28hipogeo%29_de_Longar_%2849268303387%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dolmen_%28hipogeo%29_de_Longar_%2849268303387%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dolmen_(hipogeo)_de_Longar_(49268303387).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85298573",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-12-27 13:20:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Dolmen (hipogeo) de Longar (49268303387)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Hipogeo de Longar|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.577425",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.393398",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sepulcro colectivo datado en finales del III milenio a.C. Se localizó intacto en 1989 y se excavó en los 90. Contenía de  restos óseos de unas 80 personas, entre ellas cuatro con puntas de flechas clavadas. Está en las cercanías de Viana, Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-08-12 17:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/49268303387/\">Dolmen (hipogeo) de Longar</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 55105493,
+      "ns": 6,
+      "title": "File:Hipogeo de Longar - panoramio (1).jpg",
+      "lat": 42.5774638889,
+      "lon": -2.39344722222,
+      "dist": 3557.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "55105493": {
+              "pageid": 55105493,
+              "ns": 6,
+              "title": "File:Hipogeo de Longar - panoramio (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hipogeo_de_Longar_-_panoramio_%281%29.jpg/500px-Hipogeo_de_Longar_-_panoramio_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 531,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hipogeo_de_Longar_-_panoramio_%281%29.jpg/960px-Hipogeo_de_Longar_-_panoramio_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hipogeo_de_Longar_-_panoramio_%281%29.jpg/960px-Hipogeo_de_Longar_-_panoramio_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hipogeo_de_Longar_-_panoramio_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hipogeo_de_Longar_-_panoramio_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55105493",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-01-18 01:10:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Hipogeo de Longar - panoramio (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Aras|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2012-08-17",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.577464",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.393447",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Hipogeo de Longar",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 17 August 2012",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161025164239/http://www.panoramio.com/photo/77227487\">https://web.archive.org/web/20161025164239/http://www.panoramio.com/photo/77227487</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161025164240/http://www.panoramio.com/user/663761?with_photo_id=77227487\">borjaper</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">borjaper</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 18 January 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "borjaper",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 55105489,
+      "ns": 6,
+      "title": "File:Interior hipogeo Longar - panoramio.jpg",
+      "lat": 42.5775,
+      "lon": -2.39343611111,
+      "dist": 3558.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "55105489": {
+              "pageid": 55105489,
+              "ns": 6,
+              "title": "File:Interior hipogeo Longar - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Interior_hipogeo_Longar_-_panoramio.jpg/500px-Interior_hipogeo_Longar_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 301,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Interior_hipogeo_Longar_-_panoramio.jpg/960px-Interior_hipogeo_Longar_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Interior_hipogeo_Longar_-_panoramio.jpg/960px-Interior_hipogeo_Longar_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Interior_hipogeo_Longar_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interior_hipogeo_Longar_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55105489",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-01-18 01:09:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Interior hipogeo Longar - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Viana (Navarre)|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2012-08-17",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.577500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.393436",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Interior hipogeo Longar",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 17 August 2012",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161024190404/http://www.panoramio.com/photo/77227469\">https://web.archive.org/web/20161024190404/http://www.panoramio.com/photo/77227469</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161024190406/http://www.panoramio.com/user/663761?with_photo_id=77227469\">borjaper</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">borjaper</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 18 January 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "borjaper",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 55105482,
+      "ns": 6,
+      "title": "File:Techo hipogeo Longar - panoramio.jpg",
+      "lat": 42.5775,
+      "lon": -2.39343611111,
+      "dist": 3558.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "55105482": {
+              "pageid": 55105482,
+              "ns": 6,
+              "title": "File:Techo hipogeo Longar - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Techo_hipogeo_Longar_-_panoramio.jpg/500px-Techo_hipogeo_Longar_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 301,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Techo_hipogeo_Longar_-_panoramio.jpg/960px-Techo_hipogeo_Longar_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Techo_hipogeo_Longar_-_panoramio.jpg/960px-Techo_hipogeo_Longar_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Techo_hipogeo_Longar_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Techo_hipogeo_Longar_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55105482",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-01-18 01:09:21",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Techo hipogeo Longar - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Viana (Navarre)|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2012-08-17",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.577500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.393436",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Techo hipogeo Longar",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 17 August 2012",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161027042902/http://www.panoramio.com/photo/77227455\">https://web.archive.org/web/20161027042902/http://www.panoramio.com/photo/77227455</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161027042903/http://www.panoramio.com/user/663761?with_photo_id=77227455\">borjaper</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">borjaper</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 18 January 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "borjaper",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 85298574,
+      "ns": 6,
+      "title": "File:Dolmen (hipogeo) de Longar (49267723118).jpg",
+      "lat": 42.577522,
+      "lon": -2.393437,
+      "dist": 3559.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "85298574": {
+              "pageid": 85298574,
+              "ns": 6,
+              "title": "File:Dolmen (hipogeo) de Longar (49267723118).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dolmen_%28hipogeo%29_de_Longar_%2849267723118%29.jpg/500px-Dolmen_%28hipogeo%29_de_Longar_%2849267723118%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dolmen_%28hipogeo%29_de_Longar_%2849267723118%29.jpg/960px-Dolmen_%28hipogeo%29_de_Longar_%2849267723118%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dolmen_%28hipogeo%29_de_Longar_%2849267723118%29.jpg/960px-Dolmen_%28hipogeo%29_de_Longar_%2849267723118%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Dolmen_%28hipogeo%29_de_Longar_%2849267723118%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dolmen_(hipogeo)_de_Longar_(49267723118).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85298574",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-12-27 13:20:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Dolmen (hipogeo) de Longar (49267723118)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Hipogeo de Longar|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.577522",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.393437",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sepulcro colectivo datado en finales del III milenio a.C. Se localizó intacto en 1989 y se excavó en los 90. Contenía de restos óseos de unas 80 personas, entre ellas cuatro con puntas de flechas clavadas. Está en las cercanías de Viana, Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-08-12 17:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/49267723118/\">Dolmen (hipogeo) de Longar</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 55105466,
+      "ns": 6,
+      "title": "File:Senda de Labraza al hipogeo de Longar (carapisana) - panoramio.jpg",
+      "lat": 42.5785944444,
+      "lon": -2.39806111111,
+      "dist": 3949.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "55105466": {
+              "pageid": 55105466,
+              "ns": 6,
+              "title": "File:Senda de Labraza al hipogeo de Longar (carapisana) - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Senda_de_Labraza_al_hipogeo_de_Longar_%28carapisana%29_-_panoramio.jpg/500px-Senda_de_Labraza_al_hipogeo_de_Longar_%28carapisana%29_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 531,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Senda_de_Labraza_al_hipogeo_de_Longar_%28carapisana%29_-_panoramio.jpg/960px-Senda_de_Labraza_al_hipogeo_de_Longar_%28carapisana%29_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Senda_de_Labraza_al_hipogeo_de_Longar_%28carapisana%29_-_panoramio.jpg/960px-Senda_de_Labraza_al_hipogeo_de_Longar_%28carapisana%29_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Senda_de_Labraza_al_hipogeo_de_Longar_%28carapisana%29_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Senda_de_Labraza_al_hipogeo_de_Longar_(carapisana)_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55105466",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-01-18 01:08:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Senda de Labraza al hipogeo de Longar (carapisana) - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2012-08-17|Landscapes of Rioja Alavesa",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.578594",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.398061",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Senda de Labraza al hipogeo de Longar (carapisana)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 17 August 2012",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161026041129/http://www.panoramio.com/photo/77227424\">https://web.archive.org/web/20161026041129/http://www.panoramio.com/photo/77227424</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161026041131/http://www.panoramio.com/user/663761?with_photo_id=77227424\">borjaper</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">borjaper</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 18 January 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "borjaper",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

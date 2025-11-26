@@ -1,0 +1,1269 @@
+{
+  "id": 5951216004,
+  "town": {
+    "name": {
+      "default": "Concha",
+      "es": "Concha",
+      "eu": "Concha"
+    },
+    "coordinates": {
+      "lat": 43.2229656,
+      "lon": -3.3596706
+    }
+  },
+  "files": [
+    {
+      "pageid": 74157864,
+      "ns": 6,
+      "title": "File:Ahedoko eliza.jpg",
+      "lat": 43.227256774722,
+      "lon": -3.3561482427778,
+      "dist": 556,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "74157864": {
+              "pageid": 74157864,
+              "ns": 6,
+              "title": "File:Ahedoko eliza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ahedoko_eliza.jpg/500px-Ahedoko_eliza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ahedoko_eliza.jpg/960px-Ahedoko_eliza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ahedoko_eliza.jpg/960px-Ahedoko_eliza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ahedoko_eliza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ahedoko_eliza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74157864",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-11-05 14:07:30",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ahedoko eliza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Miguel Arcángel, Ahedo|Self-published work|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Nov 2017-Aug 2019)|Files with coordinates missing SDC location of creation|Spain photographs taken on 2018-11-04",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.227257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.356148",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ahedoko eliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "4 November 2018 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Unai_Fdz._de_Beto%C3%B1o\" title=\"User:Unai Fdz. de Betoño\">Unai_Fdz._de_Betoño</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 74188881,
+      "ns": 6,
+      "title": "File:Karrantzako El Sucesoko birjina.jpg",
+      "lat": 43.228530883611,
+      "lon": -3.3481798169444,
+      "dist": 1117.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "74188881": {
+              "pageid": 74188881,
+              "ns": 6,
+              "title": "File:Karrantzako El Sucesoko birjina.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Karrantzako_El_Sucesoko_birjina.jpg/500px-Karrantzako_El_Sucesoko_birjina.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Karrantzako_El_Sucesoko_birjina.jpg/960px-Karrantzako_El_Sucesoko_birjina.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Karrantzako_El_Sucesoko_birjina.jpg/960px-Karrantzako_El_Sucesoko_birjina.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Karrantzako_El_Sucesoko_birjina.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karrantzako_El_Sucesoko_birjina.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74188881",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-11-06 16:42:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Karrantzako El Sucesoko birjina",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Joaquín Lucarini|Self-published work|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Nov 2017-Aug 2019)|Files with coordinates missing SDC location of creation|Spain photographs taken on 2018-11-04|Karrantza Harana/Valle de Carranza",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.228531",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.348180",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Karrantzako El Sucesoko birjina",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "4 November 2018 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Unai_Fdz._de_Beto%C3%B1o\" title=\"User:Unai Fdz. de Betoño\">Unai_Fdz._de_Betoño</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91793142,
+      "ns": 6,
+      "title": "File:050 Ambasaguas, Karrantza - Dolomitas.jpg",
+      "lat": 43.239607,
+      "lon": -3.357917,
+      "dist": 1855.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91793142": {
+              "pageid": 91793142,
+              "ns": 6,
+              "title": "File:050 Ambasaguas, Karrantza - Dolomitas.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/050_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg/500px-050_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/050_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg/960px-050_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/050_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg/960px-050_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/050_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:050_Ambasaguas,_Karrantza_-_Dolomitas.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91793142",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 21:05:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "050 Ambasaguas, Karrantza - Dolomitas",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Dolomitas del Norte|Self-published work|On OSM|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Carranza train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.239743",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.357840",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Dolomitas del Norte S.L. ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-06-07 12:06:20",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 94409362,
+      "ns": 6,
+      "title": "File:Ambasaguas, Karrantza - Dolomitas del Norte 01.jpg",
+      "lat": 43.239658,
+      "lon": -3.358138,
+      "dist": 1860.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "94409362": {
+              "pageid": 94409362,
+              "ns": 6,
+              "title": "File:Ambasaguas, Karrantza - Dolomitas del Norte 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_01.jpg/500px-Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_01.jpg/960px-Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_01.jpg/960px-Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambasaguas,_Karrantza_-_Dolomitas_del_Norte_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94409362",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-09-24 21:04:19",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ambasaguas, Karrantza - Dolomitas del Norte 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Dolomitas del Norte|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Images from Wiki Loves Monuments 2020 in the Basque Country|Uploaded via Campaign:wikibizi|Carranza train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.239658",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.358138",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Dolomitas del Norteko Tximinia (Karrantza)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-06-07 10:59:47",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 94409363,
+      "ns": 6,
+      "title": "File:Ambasaguas, Karrantza - Dolomitas del Norte 02.jpg",
+      "lat": 43.239658,
+      "lon": -3.358138,
+      "dist": 1860.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "94409363": {
+              "pageid": 94409363,
+              "ns": 6,
+              "title": "File:Ambasaguas, Karrantza - Dolomitas del Norte 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_02.jpg/500px-Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_02.jpg/960px-Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_02.jpg/960px-Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Ambasaguas%2C_Karrantza_-_Dolomitas_del_Norte_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambasaguas,_Karrantza_-_Dolomitas_del_Norte_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94409363",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-09-24 21:04:19",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ambasaguas, Karrantza - Dolomitas del Norte 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Dolomitas del Norte|Self-published work|On OSM|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Images from Wiki Loves Monuments 2020 in the Basque Country|Uploaded via Campaign:wikibizi|Carranza train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.239644",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.358136",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Dolomitas del Norteko Tximinia (Karrantza)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-06-07 12:05:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91793248,
+      "ns": 6,
+      "title": "File:044 Ambasaguas, Karrantza - Dolomitas.jpg",
+      "lat": 43.239702,
+      "lon": -3.357912,
+      "dist": 1866.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91793248": {
+              "pageid": 91793248,
+              "ns": 6,
+              "title": "File:044 Ambasaguas, Karrantza - Dolomitas.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/044_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg/500px-044_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/044_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg/960px-044_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/044_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg/960px-044_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/044_Ambasaguas%2C_Karrantza_-_Dolomitas.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:044_Ambasaguas,_Karrantza_-_Dolomitas.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91793248",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 21:08:30",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "044 Ambasaguas, Karrantza - Dolomitas",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Dolomitas del Norte|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Carranza train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.239702",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.357912",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Dolomitas del Norteko Siloak ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-06-07 12:02:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 94409429,
+      "ns": 6,
+      "title": "File:Ambasaguas, Karrantza - Dolomitas Aireko tranbiaren deskarga-estazioa 02.jpg",
+      "lat": 43.239769,
+      "lon": -3.35789,
+      "dist": 1874,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "94409429": {
+              "pageid": 94409429,
+              "ns": 6,
+              "title": "File:Ambasaguas, Karrantza - Dolomitas Aireko tranbiaren deskarga-estazioa 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_02.jpg/500px-Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_02.jpg/960px-Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_02.jpg/960px-Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambasaguas,_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94409429",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-09-24 21:08:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ambasaguas, Karrantza - Dolomitas Aireko tranbiaren deskarga-estazioa 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Dolomitas del Norte|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Images from Wiki Loves Monuments 2020 in the Basque Country|Uploaded via Campaign:wikibizi|Carranza train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.239769",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.357890",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aireko tranbiaren deskarga-estazioa (Karrantza)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-06-07 12:00:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 94409431,
+      "ns": 6,
+      "title": "File:Ambasaguas, Karrantza - Dolomitas Aireko tranbiaren deskarga-estazioa 01.jpg",
+      "lat": 43.239769,
+      "lon": -3.35789,
+      "dist": 1874,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "94409431": {
+              "pageid": 94409431,
+              "ns": 6,
+              "title": "File:Ambasaguas, Karrantza - Dolomitas Aireko tranbiaren deskarga-estazioa 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_01.jpg/500px-Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_01.jpg/960px-Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_01.jpg/960px-Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ambasaguas%2C_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambasaguas,_Karrantza_-_Dolomitas_Aireko_tranbiaren_deskarga-estazioa_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94409431",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-09-24 21:08:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ambasaguas, Karrantza - Dolomitas Aireko tranbiaren deskarga-estazioa 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Dolomitas del Norte|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Images from Wiki Loves Monuments 2020 in the Basque Country|Uploaded via Campaign:wikibizi|Carranza train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.239769",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.357890",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aireko tranbiaren deskarga-estazioa (Karrantza)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-06-07 12:00:27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 18436602,
+      "ns": 6,
+      "title": "File:Behi frisiarrak.jpg",
+      "lat": 43.239325,
+      "lon": -3.386579,
+      "dist": 2839.3,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2012-02-20T00:29:11Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "18436602": {
+              "pageid": 18436602,
+              "ns": 6,
+              "title": "File:Behi frisiarrak.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Behi_frisiarrak.jpg/500px-Behi_frisiarrak.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Behi_frisiarrak.jpg/960px-Behi_frisiarrak.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Behi_frisiarrak.jpg/960px-Behi_frisiarrak.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Behi_frisiarrak.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Behi_frisiarrak.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18436602",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-08-04 10:35:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Behi frisiarrak",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Holstein Friesian cattle|Files with coordinates missing SDC location of creation|Karrantza Harana/Valle de Carranza",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.239325",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.386579",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Behi frisiar hazienda Karrantza Haranako Matienzo auzoko Vista Alegre baserriko belardietan.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-02-20",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.vistaalegrebaserria.com/images/phocagallery/thumbs/phoca_thumb_l_cows7.jpg\">http://www.vistaalegrebaserria.com/images/phocagallery/thumbs/phoca_thumb_l_cows7.jpg</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Vista Alegre baserria",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 39715245,
+      "ns": 6,
+      "title": "File:Karrantza - panoramio.jpg",
+      "lat": 43.256206,
+      "lon": -3.365936,
+      "dist": 3730.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "39715245": {
+              "pageid": 39715245,
+              "ns": 6,
+              "title": "File:Karrantza - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Karrantza_-_panoramio.jpg/500px-Karrantza_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/0/07/Karrantza_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Karrantza_-_panoramio.jpg/600px-Karrantza_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Karrantza_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karrantza_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39715245",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-04-22 02:50:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Karrantza - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2007-06-30|Karrantza Harana/Valle de Carranza",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.256206",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.365936",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Karrantza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 30 June 2007",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161011150801/http://www.panoramio.com/photo/3077742\">https://web.archive.org/web/20161011150801/http://www.panoramio.com/photo/3077742</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161011150802/http://www.panoramio.com/user/10326?with_photo_id=3077742\">kurtsik</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">kurtsik</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 22 April 2015 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "kurtsik",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

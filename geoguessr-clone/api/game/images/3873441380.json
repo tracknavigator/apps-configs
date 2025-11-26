@@ -1,0 +1,1852 @@
+{
+  "id": 3873441380,
+  "town": {
+    "name": {
+      "default": "Arguedas",
+      "es": "Arguedas",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.1758188,
+      "lon": -1.5970062
+    }
+  },
+  "files": [
+    {
+      "pageid": 171377075,
+      "ns": 6,
+      "title": "File:Arguedas (75822).jpg",
+      "lat": 42.176298468007,
+      "lon": -1.5972757117161,
+      "dist": 57.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "171377075": {
+              "pageid": 171377075,
+              "ns": 6,
+              "title": "File:Arguedas (75822).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arguedas_%2875822%29.jpg/500px-Arguedas_%2875822%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arguedas_%2875822%29.jpg/960px-Arguedas_%2875822%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arguedas_%2875822%29.jpg/960px-Arguedas_%2875822%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Arguedas_%2875822%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arguedas_(75822).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=171377075",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-08-02 18:41:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arguedas (75822)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Arguedas|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-08-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.176298",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.597276",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arguedas Municipality",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2 August 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 171493105,
+      "ns": 6,
+      "title": "File:Senda Viva.jpg",
+      "lat": 42.188721317033,
+      "lon": -1.5798850814888,
+      "dist": 2012.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "171493105": {
+              "pageid": 171493105,
+              "ns": 6,
+              "title": "File:Senda Viva.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Senda_Viva.jpg/500px-Senda_Viva.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 228,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Senda_Viva.jpg/960px-Senda_Viva.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Senda_Viva.jpg/960px-Senda_Viva.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Senda_Viva.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Senda_Viva.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=171493105",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-08-03 21:35:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Senda Viva",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Sendaviva|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-08-03",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.188721",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.579885",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Senda Viva",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "3 August 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108616009,
+      "ns": 6,
+      "title": "File:ISS042-E-182909 - View of Earth.jpg",
+      "lat": 42.2,
+      "lon": -1.6,
+      "dist": 2700.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108616009": {
+              "pageid": 108616009,
+              "ns": 6,
+              "title": "File:ISS042-E-182909 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ISS042-E-182909_-_View_of_Earth.jpg/500px-ISS042-E-182909_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ISS042-E-182909_-_View_of_Earth.jpg/960px-ISS042-E-182909_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ISS042-E-182909_-_View_of_Earth.jpg/960px-ISS042-E-182909_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/ISS042-E-182909_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS042-E-182909_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108616009",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-15 14:17:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS042-E-182909 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Aurora viewed from space|Earth at night seen from space|ISS Expedition 42 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2015-01-24",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 42.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-01-24 00:31:41",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS042&amp;roll=E&amp;frame=182909\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111897708,
+      "ns": 6,
+      "title": "File:ISS030-E-185566 - View of Earth.jpg",
+      "lat": 42.2,
+      "lon": -1.6,
+      "dist": 2700.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111897708": {
+              "pageid": 111897708,
+              "ns": 6,
+              "title": "File:ISS030-E-185566 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/ISS030-E-185566_-_View_of_Earth.jpg/500px-ISS030-E-185566_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/ISS030-E-185566_-_View_of_Earth.jpg/960px-ISS030-E-185566_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/ISS030-E-185566_-_View_of_Earth.jpg/960px-ISS030-E-185566_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/ISS030-E-185566_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS030-E-185566_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111897708",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-28 04:58:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS030-E-185566 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D3s|PD NASA|ISS Expedition 30 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 30.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-03-28 01:59:11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS030&amp;roll=E&amp;frame=185566\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108398345,
+      "ns": 6,
+      "title": "File:ISS041-E-45485 - View of Earth.jpg",
+      "lat": 42.2,
+      "lon": -1.6,
+      "dist": 2700.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108398345": {
+              "pageid": 108398345,
+              "ns": 6,
+              "title": "File:ISS041-E-45485 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ISS041-E-45485_-_View_of_Earth.jpg/500px-ISS041-E-45485_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ISS041-E-45485_-_View_of_Earth.jpg/960px-ISS041-E-45485_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/ISS041-E-45485_-_View_of_Earth.jpg/960px-ISS041-E-45485_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/ISS041-E-45485_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS041-E-45485_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108398345",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-12 12:16:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS041-E-45485 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D3s|PD NASA|ISS Expedition 41 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2014-09-27",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 41.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-09-27 23:22:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS041&amp;roll=E&amp;frame=45485\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 103882006,
+      "ns": 6,
+      "title": "File:ISS057-E-11199 - View of Earth.jpg",
+      "lat": 42.2,
+      "lon": -1.6,
+      "dist": 2700.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "103882006": {
+              "pageid": 103882006,
+              "ns": 6,
+              "title": "File:ISS057-E-11199 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ISS057-E-11199_-_View_of_Earth.jpg/500px-ISS057-E-11199_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ISS057-E-11199_-_View_of_Earth.jpg/960px-ISS057-E-11199_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ISS057-E-11199_-_View_of_Earth.jpg/960px-ISS057-E-11199_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/ISS057-E-11199_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS057-E-11199_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103882006",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-18 17:39:15",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS057-E-11199 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 57 Crew Earth Observations (dump)|Files from NASA with known IDs|ISS photographs taken on 2018-10-06",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 57.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-10-06 14:21:55",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS057&amp;roll=E&amp;frame=11199\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/NASA\" title=\"NASA\">Earth Science and Remote Sensing Unit, NASA Johnson Space Center</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108615883,
+      "ns": 6,
+      "title": "File:ISS042-E-182910 - View of Earth.jpg",
+      "lat": 42.2,
+      "lon": -1.6,
+      "dist": 2700.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108615883": {
+              "pageid": 108615883,
+              "ns": 6,
+              "title": "File:ISS042-E-182910 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ISS042-E-182910_-_View_of_Earth.jpg/500px-ISS042-E-182910_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ISS042-E-182910_-_View_of_Earth.jpg/960px-ISS042-E-182910_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ISS042-E-182910_-_View_of_Earth.jpg/960px-ISS042-E-182910_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/ISS042-E-182910_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS042-E-182910_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108615883",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-15 14:15:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS042-E-182910 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Aurora viewed from space|Earth at night seen from space|ISS Expedition 42 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2015-01-24",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 42.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-01-24 00:31:42",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS042&amp;roll=E&amp;frame=182910\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 103882083,
+      "ns": 6,
+      "title": "File:ISS057-E-11198 - View of Earth.jpg",
+      "lat": 42.2,
+      "lon": -1.6,
+      "dist": 2700.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "103882083": {
+              "pageid": 103882083,
+              "ns": 6,
+              "title": "File:ISS057-E-11198 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ISS057-E-11198_-_View_of_Earth.jpg/500px-ISS057-E-11198_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ISS057-E-11198_-_View_of_Earth.jpg/960px-ISS057-E-11198_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ISS057-E-11198_-_View_of_Earth.jpg/960px-ISS057-E-11198_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/ISS057-E-11198_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS057-E-11198_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103882083",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-18 17:40:29",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS057-E-11198 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 57 Crew Earth Observations (dump)|Files from NASA with known IDs|ISS photographs taken on 2018-10-06",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 57.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-10-06 14:21:55",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS057&amp;roll=E&amp;frame=11198\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/NASA\" title=\"NASA\">Earth Science and Remote Sensing Unit, NASA Johnson Space Center</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 163796750,
+      "ns": 6,
+      "title": "File:Tigre Blanco Senda Viva (1).jpg",
+      "lat": 42.194315,
+      "lon": -1.575679,
+      "dist": 2705.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "163796750": {
+              "pageid": 163796750,
+              "ns": 6,
+              "title": "File:Tigre Blanco Senda Viva (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tigre_Blanco_Senda_Viva_%281%29.jpg/500px-Tigre_Blanco_Senda_Viva_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 227,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tigre_Blanco_Senda_Viva_%281%29.jpg/960px-Tigre_Blanco_Senda_Viva_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tigre_Blanco_Senda_Viva_%281%29.jpg/960px-Tigre_Blanco_Senda_Viva_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tigre_Blanco_Senda_Viva_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tigre_Blanco_Senda_Viva_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163796750",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-04-19 06:50:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Tigre Blanco Senda Viva (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Hypomelanistic white tigers",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.194315",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.575679",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>Please, feel free to comment. Much appreciated.\n</p><p>Also, take a moment and visit my 500px and Flickr profiles:\n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/people/dorron/\">https://www.flickr.com/people/dorron/</a>\"&gt;www.flickr.com/people/dorron/&lt;/a&gt;\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://500px.com/dorron\">http://500px.com/dorron</a>\" rel=\"noreferrer nofollow\"&gt;500px.com/dorron&lt;/a&gt;",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-26 18:48",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dorron/51730931516/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65976699@N00\">Urko Dorronsoro</a> from Donostia - San Sebastian, Euskal Herria (Basque Country)",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 163796790,
+      "ns": 6,
+      "title": "File:Tigre Blanco Senda Viva (2).jpg",
+      "lat": 42.194315,
+      "lon": -1.575679,
+      "dist": 2705.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "163796790": {
+              "pageid": 163796790,
+              "ns": 6,
+              "title": "File:Tigre Blanco Senda Viva (2).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tigre_Blanco_Senda_Viva_%282%29.jpg/500px-Tigre_Blanco_Senda_Viva_%282%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 194,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tigre_Blanco_Senda_Viva_%282%29.jpg/960px-Tigre_Blanco_Senda_Viva_%282%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tigre_Blanco_Senda_Viva_%282%29.jpg/960px-Tigre_Blanco_Senda_Viva_%282%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Tigre_Blanco_Senda_Viva_%282%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tigre_Blanco_Senda_Viva_(2).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163796790",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-04-19 06:51:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Tigre Blanco Senda Viva (2)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Flickr images missing SDC creator|Flickr images missing SDC inception|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Hypomelanistic white tigers",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.194315",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.575679",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>Please, feel free to comment. Much appreciated.\n</p><p>Also, take a moment and visit my 500px and Flickr profiles:\n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/people/dorron/\">http://www.flickr.com/people/dorron/</a>\"&gt;www.flickr.com/people/dorron/&lt;/a&gt;\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://500px.com/dorron\">http://500px.com/dorron</a>\" rel=\"noreferrer nofollow\"&gt;500px.com/dorron&lt;/a&gt;",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-26 18:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dorron/51775812927/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65976699@N00\">Urko Dorronsoro</a> from Donostia - San Sebastian, Euskal Herria (Basque Country)",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 163796814,
+      "ns": 6,
+      "title": "File:Tigre Blanco Senda Viva (3).jpg",
+      "lat": 42.194315,
+      "lon": -1.575679,
+      "dist": 2705.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "163796814": {
+              "pageid": 163796814,
+              "ns": 6,
+              "title": "File:Tigre Blanco Senda Viva (3).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tigre_Blanco_Senda_Viva_%283%29.jpg/500px-Tigre_Blanco_Senda_Viva_%283%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 247,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tigre_Blanco_Senda_Viva_%283%29.jpg/960px-Tigre_Blanco_Senda_Viva_%283%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tigre_Blanco_Senda_Viva_%283%29.jpg/960px-Tigre_Blanco_Senda_Viva_%283%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Tigre_Blanco_Senda_Viva_%283%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tigre_Blanco_Senda_Viva_(3).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163796814",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-04-19 06:51:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Tigre Blanco Senda Viva (3)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Flickr images missing SDC creator|Flickr images missing SDC inception|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.194315",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.575679",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>Please, feel free to comment. Much appreciated.\n</p><p>Also, take a moment and visit my 500px and Flickr profiles:\n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/people/dorron/\">http://www.flickr.com/people/dorron/</a>\"&gt;www.flickr.com/people/dorron/&lt;/a&gt;\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://500px.com/dorron\">http://500px.com/dorron</a>\" rel=\"noreferrer nofollow\"&gt;500px.com/dorron&lt;/a&gt;",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-26 19:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dorron/51787120783/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65976699@N00\">Urko Dorronsoro</a> from Donostia - San Sebastian, Euskal Herria (Basque Country)",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 123601235,
+      "ns": 6,
+      "title": "File:Wolf (51290245602).jpg",
+      "lat": 42.194315,
+      "lon": -1.575679,
+      "dist": 2705.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "123601235": {
+              "pageid": 123601235,
+              "ns": 6,
+              "title": "File:Wolf (51290245602).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wolf_%2851290245602%29.jpg/500px-Wolf_%2851290245602%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 402,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wolf_%2851290245602%29.jpg/960px-Wolf_%2851290245602%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wolf_%2851290245602%29.jpg/960px-Wolf_%2851290245602%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wolf_%2851290245602%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wolf_(51290245602).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123601235",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-30 20:25:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Wolf (51290245602)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Sendaviva|Female wolves|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Canis lupus signatus in zoos",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.194315",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.575679",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iberian wolf, Sendaviva, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-26 13:42",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dorron/51290245602/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65976699@N00\">Urko Dorronsoro</a> from Donostia - San Sebastian, Euskal Herria (Basque Country)",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 163796724,
+      "ns": 6,
+      "title": "File:Tigre Blanco Senda Viva.jpg",
+      "lat": 42.194315,
+      "lon": -1.575679,
+      "dist": 2705.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "163796724": {
+              "pageid": 163796724,
+              "ns": 6,
+              "title": "File:Tigre Blanco Senda Viva.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigre_Blanco_Senda_Viva.jpg/500px-Tigre_Blanco_Senda_Viva.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 289,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigre_Blanco_Senda_Viva.jpg/960px-Tigre_Blanco_Senda_Viva.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigre_Blanco_Senda_Viva.jpg/960px-Tigre_Blanco_Senda_Viva.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigre_Blanco_Senda_Viva.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tigre_Blanco_Senda_Viva.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163796724",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-04-19 06:49:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Tigre Blanco Senda Viva",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Flickr images missing SDC creator|Flickr images missing SDC inception|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Hypomelanistic white tigers",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.194315",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.575679",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>Please, feel free to comment. Much appreciated.\n</p><p>Also, take a moment and visit my 500px and Flickr profiles:\n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.flickr.com/people/dorron/\">http://www.flickr.com/people/dorron/</a>\"&gt;www.flickr.com/people/dorron/&lt;/a&gt;\n</p>\n&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://500px.com/dorron\">http://500px.com/dorron</a>\" rel=\"noreferrer nofollow\"&gt;500px.com/dorron&lt;/a&gt;",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-26 18:47",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dorron/51731185423/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/65976699@N00\">Urko Dorronsoro</a> from Donostia - San Sebastian, Euskal Herria (Basque Country)",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 20708736,
+      "ns": 6,
+      "title": "File:Albergue Nuestra Señora del Yugo.jpg",
+      "lat": 42.206301,
+      "lon": -1.585294,
+      "dist": 3524.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "20708736": {
+              "pageid": 20708736,
+              "ns": 6,
+              "title": "File:Albergue Nuestra Señora del Yugo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albergue_Nuestra_Se%C3%B1ora_del_Yugo.jpg/500px-Albergue_Nuestra_Se%C3%B1ora_del_Yugo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albergue_Nuestra_Se%C3%B1ora_del_Yugo.jpg/960px-Albergue_Nuestra_Se%C3%B1ora_del_Yugo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albergue_Nuestra_Se%C3%B1ora_del_Yugo.jpg/960px-Albergue_Nuestra_Se%C3%B1ora_del_Yugo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Albergue_Nuestra_Se%C3%B1ora_del_Yugo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Albergue_Nuestra_Se%C3%B1ora_del_Yugo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20708736",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2012-08-17 17:07:53",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Albergue Nuestra Señora del Yugo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Bardenas Reales|Self-published work|Hostels in Spain|Files with coordinates missing SDC location of creation|Buildings in Arguedas",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.206301",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.585294",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Albergue Nuestra Señora del Yugo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-03-27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kolossus&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kolossus (page does not exist)\">Kolossus</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 20708735,
+      "ns": 6,
+      "title": "File:Ermita de la Virgen del Yugo.jpg",
+      "lat": 42.206492,
+      "lon": -1.585428,
+      "dist": 3541.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "20708735": {
+              "pageid": 20708735,
+              "ns": 6,
+              "title": "File:Ermita de la Virgen del Yugo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ermita_de_la_Virgen_del_Yugo.jpg/500px-Ermita_de_la_Virgen_del_Yugo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 298,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ermita_de_la_Virgen_del_Yugo.jpg/960px-Ermita_de_la_Virgen_del_Yugo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ermita_de_la_Virgen_del_Yugo.jpg/960px-Ermita_de_la_Virgen_del_Yugo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ermita_de_la_Virgen_del_Yugo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_de_la_Virgen_del_Yugo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20708735",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2012-08-17 17:07:49",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita de la Virgen del Yugo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Virgen del Yugo (Arguedas)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.206492",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.585428",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ermita de la Virgen del Yugo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-03-26",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kolossus&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kolossus (page does not exist)\">Kolossus</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2856 @@
+{
+  "id": 314180413,
+  "town": {
+    "name": {
+      "default": "Lemoa",
+      "es": "Lemona",
+      "eu": "Lemoa"
+    },
+    "coordinates": {
+      "lat": 43.2098775,
+      "lon": -2.7788097
+    }
+  },
+  "files": [
+    {
+      "pageid": 126527504,
+      "ns": 6,
+      "title": "File:Intzuntza.jpg",
+      "lat": 43.209625,
+      "lon": -2.780664,
+      "dist": 152.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126527504": {
+              "pageid": 126527504,
+              "ns": 6,
+              "title": "File:Intzuntza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Intzuntza.jpg/500px-Intzuntza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Intzuntza.jpg/960px-Intzuntza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Intzuntza.jpg/960px-Intzuntza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Intzuntza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Intzuntza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126527504",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-11 15:37:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Intzuntza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lemoa|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.209625",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.780664",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://www.wikidata.org/wiki/Q12259658\" class=\"extiw\" title=\"d:Q12259658\">Intzuntza</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vanbasten_23\" title=\"User:Vanbasten 23\">Vanbasten 23</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126527552,
+      "ns": 6,
+      "title": "File:Intzuntza (Gasolindegia-Gasolinera) (2686).jpg",
+      "lat": 43.210072,
+      "lon": -2.782572,
+      "dist": 305.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126527552": {
+              "pageid": 126527552,
+              "ns": 6,
+              "title": "File:Intzuntza (Gasolindegia-Gasolinera) (2686).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Intzuntza_%28Gasolindegia-Gasolinera%29_%282686%29.jpg/500px-Intzuntza_%28Gasolindegia-Gasolinera%29_%282686%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Intzuntza_%28Gasolindegia-Gasolinera%29_%282686%29.jpg/960px-Intzuntza_%28Gasolindegia-Gasolinera%29_%282686%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Intzuntza_%28Gasolindegia-Gasolinera%29_%282686%29.jpg/960px-Intzuntza_%28Gasolindegia-Gasolinera%29_%282686%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Intzuntza_%28Gasolindegia-Gasolinera%29_%282686%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Intzuntza_(Gasolindegia-Gasolinera)_(2686).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126527552",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-11 15:39:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Intzuntza (Gasolindegia-Gasolinera) (2686)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lemoa|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Bus stops in the Basque Autonomous Community|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.210072",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.782572",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://www.wikidata.org/wiki/Q72597655\" class=\"extiw\" title=\"d:Q72597655\">Intzuntza (Gasolindegia/Gasolinera) (2686)</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vanbasten_23\" title=\"User:Vanbasten 23\">Vanbasten 23</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63147158,
+      "ns": 6,
+      "title": "File:Arratia Ibaia.jpg",
+      "lat": 43.206111,
+      "lon": -2.769167,
+      "dist": 886.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63147158": {
+              "pageid": 63147158,
+              "ns": 6,
+              "title": "File:Arratia Ibaia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Arratia_Ibaia.jpg/500px-Arratia_Ibaia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Arratia_Ibaia.jpg/800px-Arratia_Ibaia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Arratia_Ibaia.jpg/600px-Arratia_Ibaia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Arratia_Ibaia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arratia_Ibaia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63147158",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-10-04 15:18:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arratia Ibaia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Arratia River|Self-published work|Files with coordinates missing SDC location of creation|Images from Ibaien Paisaia contest|Uploaded via Campaign:ibaien paisaia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.206111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.769167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arratia Ibaia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-04",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mikeeel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mikeeel (page does not exist)\">Mikel Ugarriza</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111713934,
+      "ns": 6,
+      "title": "File:Lemoa azulejozko seinalea.jpg",
+      "lat": 43.195688,
+      "lon": -2.775721,
+      "dist": 1597.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111713934": {
+              "pageid": 111713934,
+              "ns": 6,
+              "title": "File:Lemoa azulejozko seinalea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lemoa_azulejozko_seinalea.jpg/400px-Lemoa_azulejozko_seinalea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 192,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lemoa_azulejozko_seinalea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lemoa_azulejozko_seinalea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lemoa_azulejozko_seinalea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lemoa_azulejozko_seinalea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111713934",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-25 16:01:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lemoa azulejozko seinalea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Azulejo place name road signs in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.195688",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.775721",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lemoa azulejozko seinalea",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-10-23 16:04:45",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Galtzaurdin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Galtzaurdin (page does not exist)\">Galtzaurdin</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 139536083,
+      "ns": 6,
+      "title": "File:Llegada del tranvía de Lemoa 6712.jpg",
+      "lat": 43.208611111111,
+      "lon": -2.8013888888889,
+      "dist": 1835.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "139536083": {
+              "pageid": 139536083,
+              "ns": 6,
+              "title": "File:Llegada del tranvía de Lemoa 6712.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Llegada_del_tranv%C3%ADa_de_Lemoa_6712.jpg/500px-Llegada_del_tranv%C3%ADa_de_Lemoa_6712.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 558,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Llegada_del_tranv%C3%ADa_de_Lemoa_6712.jpg/960px-Llegada_del_tranv%C3%ADa_de_Lemoa_6712.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Llegada_del_tranv%C3%ADa_de_Lemoa_6712.jpg/960px-Llegada_del_tranv%C3%ADa_de_Lemoa_6712.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Llegada_del_tranv%C3%ADa_de_Lemoa_6712.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Llegada_del_tranv%C3%ADa_de_Lemoa_6712.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=139536083",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-10-25 20:09:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "<div class=\"fn\">\nLlegada del tranvía de Lemoa</div>",
+                      "source": "commons-desc-page"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Bedia|Images from the Ojanguren Collection at GureGipuzkoa|Files with coordinates missing SDC location of creation|Bilbao-Durango-Arratia tram",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.208611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.801389",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Artist": {
+                      "value": "<div class=\"fn value\">\nOjanguren, Indalecio</div>",
+                      "source": "commons-desc-page"
+                    },
+                    "ImageDescription": {
+                      "value": "Tranvía de la línea Bilbao-Durango en Bedia.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "before 1964<div style=\"display: none;\">date QS:P571,+1964-00-00T00:00:00Z/7,P1326,+1964-00-00T00:00:00Z/9</div>",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%;clear:both;text-align:center;margin:0.5em auto;background-color:#f9f9f9;border:2px solid #e0e0e0;direction: ltr;\" class=\"layouttemplate partnershiptemplate\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:GureGipuzkoa\" title=\"Logo GureGipuzkoa\"><img alt=\"Logo GureGipuzkoa\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gure_Gipuzkoa.svg/120px-Gure_Gipuzkoa.svg.png\" decoding=\"async\" width=\"100\" height=\"26\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gure_Gipuzkoa.svg/250px-Gure_Gipuzkoa.svg.png 1.5x\" data-file-width=\"1250\" data-file-height=\"319\"></a></span>\n</td>\n<td>This image belongs to the Indalecio Ojanguren Collection and was provided to GureGipuzkoa by Hauxe <b>Source: </b>  <a rel=\"nofollow\" class=\"external text\" href=\"http://www.kutxateka.com/index.php/Fototeka/Index/param/about_fund_html/lang/en_US\">Kutxa Fototeka</a> (Kutxa Photograph Library). The image has been delivered under a <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/3.0/deed.es\">CC-BY-SA 3.0 license</a> and can be found <a rel=\"nofollow\" class=\"external text\" href=\"https://www.guregipuzkoa.eus/wp-content/gallery/indalecio-ojanguren/7792.jpg\">here</a>. Its description is available <a rel=\"nofollow\" class=\"external text\" href=\"https://www.guregipuzkoa.eus/irudia/?pid=6712#gallery/7efad86a0845b8558817881151aa1abf/6712/comments\">here</a> (click on the image for details).\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111634001,
+      "ns": 6,
+      "title": "File:ISS030-E-9685 - View of Earth.jpg",
+      "lat": 43.2,
+      "lon": -2.8,
+      "dist": 2038.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111634001": {
+              "pageid": 111634001,
+              "ns": 6,
+              "title": "File:ISS030-E-9685 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ISS030-E-9685_-_View_of_Earth.jpg/500px-ISS030-E-9685_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ISS030-E-9685_-_View_of_Earth.jpg/960px-ISS030-E-9685_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ISS030-E-9685_-_View_of_Earth.jpg/960px-ISS030-E-9685_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/ISS030-E-9685_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS030-E-9685_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111634001",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-24 15:59:26",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS030-E-9685 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D3s|PD NASA|ISS Expedition 30 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2011-12-04",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.800000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 30.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-12-04 00:16:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS030&amp;roll=E&amp;frame=9685\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108422037,
+      "ns": 6,
+      "title": "File:ISS041-E-66305 - View of Earth.jpg",
+      "lat": 43.2,
+      "lon": -2.8,
+      "dist": 2038.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108422037": {
+              "pageid": 108422037,
+              "ns": 6,
+              "title": "File:ISS041-E-66305 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ISS041-E-66305_-_View_of_Earth.jpg/500px-ISS041-E-66305_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ISS041-E-66305_-_View_of_Earth.jpg/960px-ISS041-E-66305_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ISS041-E-66305_-_View_of_Earth.jpg/960px-ISS041-E-66305_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/ISS041-E-66305_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS041-E-66305_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108422037",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-12 20:29:19",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS041-E-66305 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D3s|PD NASA|Earth at night seen from space|ISS Expedition 41 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2014-10-04",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.800000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 41.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-10-04 20:51:54",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS041&amp;roll=E&amp;frame=66305\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126525243,
+      "ns": 6,
+      "title": "File:Lemoatxa - Gantzabal.jpg",
+      "lat": 43.2196,
+      "lon": -2.814558,
+      "dist": 3092.1,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2022-12-11T14:39:23Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "126525243": {
+              "pageid": 126525243,
+              "ns": 6,
+              "title": "File:Lemoatxa - Gantzabal.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lemoatxa_-_Gantzabal.jpg/500px-Lemoatxa_-_Gantzabal.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lemoatxa_-_Gantzabal.jpg/960px-Lemoatxa_-_Gantzabal.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lemoatxa_-_Gantzabal.jpg/960px-Lemoatxa_-_Gantzabal.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lemoatxa_-_Gantzabal.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lemoatxa_-_Gantzabal.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126525243",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-11 14:42:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lemoatxa - Gantzabal",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Pages with local camera coordinates and missing SDC coordinates|Files with coordinates missing SDC location of creation|Lemoatx (mountain)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.219600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.814558",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://www.wikidata.org/wiki/Q112783922\" class=\"extiw\" title=\"d:Q112783922\">Lemoatxa / Gantzabal</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vanbasten_23\" title=\"User:Vanbasten 23\">Vanbasten 23</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 168339864,
+      "ns": 6,
+      "title": "File:Biblioteca Pública Municipal de Usansolo.jpg",
+      "lat": 43.219721666667,
+      "lon": -2.8179466666667,
+      "dist": 3355.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "168339864": {
+              "pageid": 168339864,
+              "ns": 6,
+              "title": "File:Biblioteca Pública Municipal de Usansolo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Biblioteca_P%C3%BAblica_Municipal_de_Usansolo.jpg/500px-Biblioteca_P%C3%BAblica_Municipal_de_Usansolo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Biblioteca_P%C3%BAblica_Municipal_de_Usansolo.jpg/960px-Biblioteca_P%C3%BAblica_Municipal_de_Usansolo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Biblioteca_P%C3%BAblica_Municipal_de_Usansolo.jpg/960px-Biblioteca_P%C3%BAblica_Municipal_de_Usansolo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Biblioteca_P%C3%BAblica_Municipal_de_Usansolo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Biblioteca_P%C3%BAblica_Municipal_de_Usansolo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168339864",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-06-23 08:45:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Biblioteca Pública Municipal de Usansolo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Libraries in Biscay|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2025-06-23|Usansolo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.219722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.817947",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Biblioteca Pública Municipal de Usansolo (Bibliothek in Spanien)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "23 June 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Txikillana\" title=\"User:Txikillana\">Txikillana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 168340060,
+      "ns": 6,
+      "title": "File:Consultorio de Usansolo.jpg",
+      "lat": 43.219513333333,
+      "lon": -2.81861,
+      "dist": 3398.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "168340060": {
+              "pageid": 168340060,
+              "ns": 6,
+              "title": "File:Consultorio de Usansolo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Consultorio_de_Usansolo.jpg/500px-Consultorio_de_Usansolo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Consultorio_de_Usansolo.jpg/960px-Consultorio_de_Usansolo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Consultorio_de_Usansolo.jpg/960px-Consultorio_de_Usansolo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Consultorio_de_Usansolo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Consultorio_de_Usansolo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168340060",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-06-23 08:49:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Consultorio de Usansolo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Buildings in Biscay|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2025-06-23|Health centres in the Basque Autonomous Communty",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.219513",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.818610",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Consultorio de Usansolo (consultorio del País Vasco)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "23 June 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Txikillana\" title=\"User:Txikillana\">Txikillana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 168340453,
+      "ns": 6,
+      "title": "File:Casa consistorial de Usánsolo.jpg",
+      "lat": 43.219563333333,
+      "lon": -2.819545,
+      "dist": 3472.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "168340453": {
+              "pageid": 168340453,
+              "ns": 6,
+              "title": "File:Casa consistorial de Usánsolo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Casa_consistorial_de_Us%C3%A1nsolo.jpg/500px-Casa_consistorial_de_Us%C3%A1nsolo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Casa_consistorial_de_Us%C3%A1nsolo.jpg/960px-Casa_consistorial_de_Us%C3%A1nsolo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Casa_consistorial_de_Us%C3%A1nsolo.jpg/960px-Casa_consistorial_de_Us%C3%A1nsolo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Casa_consistorial_de_Us%C3%A1nsolo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Casa_consistorial_de_Us%C3%A1nsolo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168340453",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-06-23 08:56:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Casa consistorial de Usánsolo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Town halls in the Basque Autonomous Community|Buildings in Biscay|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2025-06-23|Usansolo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.219563",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.819545",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "casa consistorial de Usánsolo (edifici seu de l'Ajuntament d'Usansolo)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "23 June 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Txikillana\" title=\"User:Txikillana\">Txikillana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 133160994,
+      "ns": 6,
+      "title": "File:Izaskun Rekalde 01.jpg",
+      "lat": 43.2219,
+      "lon": -2.8186,
+      "dist": 3490.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "133160994": {
+              "pageid": 133160994,
+              "ns": 6,
+              "title": "File:Izaskun Rekalde 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Izaskun_Rekalde_01.jpg/500px-Izaskun_Rekalde_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Izaskun_Rekalde_01.jpg/960px-Izaskun_Rekalde_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Izaskun_Rekalde_01.jpg/960px-Izaskun_Rekalde_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Izaskun_Rekalde_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Izaskun_Rekalde_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133160994",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-16 08:31:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Izaskun Rekalde 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Euskal Herriko Unibertsitatea|Izaskun Rekalde|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.221900",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.818600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Izaskun Rekalde economist, teacher, researcher and Basque language activist.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2023-02-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "BINKE aldizkaria, <a rel=\"nofollow\" class=\"external free\" href=\"https://binke.eus/izaskun-rekalde-euskararen-normalizaziorako-politikoek-erabaki-ausartak-hartu-behar-dituzte/\">https://binke.eus/izaskun-rekalde-euskararen-normalizaziorako-politikoek-erabaki-ausartak-hartu-behar-dituzte/</a>  images with cc-by-sa",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Jabi Rojo / Binke / CC-BY-SA",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 133160993,
+      "ns": 6,
+      "title": "File:Izaskun Rekalde 03.jpg",
+      "lat": 43.2219,
+      "lon": -2.8186,
+      "dist": 3490.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "133160993": {
+              "pageid": 133160993,
+              "ns": 6,
+              "title": "File:Izaskun Rekalde 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Izaskun_Rekalde_03.jpg/500px-Izaskun_Rekalde_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 242,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Izaskun_Rekalde_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Izaskun_Rekalde_03.jpg/599px-Izaskun_Rekalde_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Izaskun_Rekalde_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Izaskun_Rekalde_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133160993",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-16 08:31:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Izaskun Rekalde 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Euskal Herriko Unibertsitatea|Izaskun Rekalde|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.221900",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.818600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Izaskun Rekalde economist, teacher, researcher and Basque language activist.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2023-02-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "BINKE aldizkaria, <a rel=\"nofollow\" class=\"external free\" href=\"https://binke.eus/izaskun-rekalde-euskararen-normalizaziorako-politikoek-erabaki-ausartak-hartu-behar-dituzte/\">https://binke.eus/izaskun-rekalde-euskararen-normalizaziorako-politikoek-erabaki-ausartak-hartu-behar-dituzte/</a>  images with cc-by-sa",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Jabi Rojo / Binke / CC-BY-SA",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 133160991,
+      "ns": 6,
+      "title": "File:Izaskun Rekalde 02.jpg",
+      "lat": 43.2219,
+      "lon": -2.8186,
+      "dist": 3490.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "133160991": {
+              "pageid": 133160991,
+              "ns": 6,
+              "title": "File:Izaskun Rekalde 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Izaskun_Rekalde_02.jpg/500px-Izaskun_Rekalde_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Izaskun_Rekalde_02.jpg/960px-Izaskun_Rekalde_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Izaskun_Rekalde_02.jpg/960px-Izaskun_Rekalde_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Izaskun_Rekalde_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Izaskun_Rekalde_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133160991",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-16 08:31:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Izaskun Rekalde 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Euskal Herriko Unibertsitatea|Izaskun Rekalde|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.221900",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.818600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Izaskun Rekalde economist, teacher, researcher and Basque language activist.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2023-02-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "BINKE aldizkaria, <a rel=\"nofollow\" class=\"external free\" href=\"https://binke.eus/izaskun-rekalde-euskararen-normalizaziorako-politikoek-erabaki-ausartak-hartu-behar-dituzte/\">https://binke.eus/izaskun-rekalde-euskararen-normalizaziorako-politikoek-erabaki-ausartak-hartu-behar-dituzte/</a>  images with cc-by-sa",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Jabi Rojo / Binke / CC-BY-SA",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 133160998,
+      "ns": 6,
+      "title": "File:Izaskun Rekalde 04.jpg",
+      "lat": 43.2219,
+      "lon": -2.8186,
+      "dist": 3490.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "133160998": {
+              "pageid": 133160998,
+              "ns": 6,
+              "title": "File:Izaskun Rekalde 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Izaskun_Rekalde_04.jpg/500px-Izaskun_Rekalde_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Izaskun_Rekalde_04.jpg/960px-Izaskun_Rekalde_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Izaskun_Rekalde_04.jpg/960px-Izaskun_Rekalde_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Izaskun_Rekalde_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Izaskun_Rekalde_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133160998",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-16 08:31:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Izaskun Rekalde 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Euskal Herriko Unibertsitatea|Izaskun Rekalde|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.221900",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.818600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Izaskun Rekalde economist, teacher, researcher and Basque language activist.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2023-02-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "BINKE aldizkaria, <a rel=\"nofollow\" class=\"external free\" href=\"https://binke.eus/izaskun-rekalde-euskararen-normalizaziorako-politikoek-erabaki-ausartak-hartu-behar-dituzte/\">https://binke.eus/izaskun-rekalde-euskararen-normalizaziorako-politikoek-erabaki-ausartak-hartu-behar-dituzte/</a>  images with cc-by-sa",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Jabi Rojo / Binke / CC-BY-SA",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125783882,
+      "ns": 6,
+      "title": "File:Oskar Gaztelu.jpg",
+      "lat": 43.220508,
+      "lon": -2.734733,
+      "dist": 3762.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125783882": {
+              "pageid": 125783882,
+              "ns": 6,
+              "title": "File:Oskar Gaztelu.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Oskar_Gaztelu.jpg/500px-Oskar_Gaztelu.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Oskar_Gaztelu.jpg/960px-Oskar_Gaztelu.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Oskar_Gaztelu.jpg/960px-Oskar_Gaztelu.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Oskar_Gaztelu.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oskar_Gaztelu.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125783882",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-21 20:26:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Oskar Gaztelu",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Writers from Spain|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.220508",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.734733",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "\"Heriotza aurrez aurre begira\" liburuaren aurkezpena",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Oskar_Gaztelu_Bilbao&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Oskar Gaztelu Bilbao (page does not exist)\">Oskar Gaztelu Bilbao</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 112973600,
+      "ns": 6,
+      "title": "File:Galdakao río Ibaizabal y presa de puentelatorre.jpg",
+      "lat": 43.226447,
+      "lon": -2.820919,
+      "dist": 3877.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "112973600": {
+              "pageid": 112973600,
+              "ns": 6,
+              "title": "File:Galdakao río Ibaizabal y presa de puentelatorre.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Galdakao_r%C3%ADo_Ibaizabal_y_presa_de_puentelatorre.jpg/500px-Galdakao_r%C3%ADo_Ibaizabal_y_presa_de_puentelatorre.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Galdakao_r%C3%ADo_Ibaizabal_y_presa_de_puentelatorre.jpg/960px-Galdakao_r%C3%ADo_Ibaizabal_y_presa_de_puentelatorre.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Galdakao_r%C3%ADo_Ibaizabal_y_presa_de_puentelatorre.jpg/960px-Galdakao_r%C3%ADo_Ibaizabal_y_presa_de_puentelatorre.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Galdakao_r%C3%ADo_Ibaizabal_y_presa_de_puentelatorre.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Galdakao_r%C3%ADo_Ibaizabal_y_presa_de_puentelatorre.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112973600",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-12-01 14:56:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Galdakao río Ibaizabal y presa de puentelatorre",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Ibaizabal|Self-published work|Files with coordinates missing SDC location of creation|Nature of Galdakao",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.226447",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.820919",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Río Ibaizabal y presa de puentelatorre en el barrio de Usansolo de Galdakao en Bizkaia, País Vasco (España)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-10-25 13:15:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Txo\" title=\"User:Txo\">Txo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 61668188,
+      "ns": 6,
+      "title": "File:Amorebieta-Etxano, Spain (Unsplash otyxnXPBtOQ).jpg",
+      "lat": 43.2204692,
+      "lon": -2.733068,
+      "dist": 3889.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "61668188": {
+              "pageid": 61668188,
+              "ns": 6,
+              "title": "File:Amorebieta-Etxano, Spain (Unsplash otyxnXPBtOQ).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Amorebieta-Etxano%2C_Spain_%28Unsplash_otyxnXPBtOQ%29.jpg/500px-Amorebieta-Etxano%2C_Spain_%28Unsplash_otyxnXPBtOQ%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Amorebieta-Etxano%2C_Spain_%28Unsplash_otyxnXPBtOQ%29.jpg/960px-Amorebieta-Etxano%2C_Spain_%28Unsplash_otyxnXPBtOQ%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Amorebieta-Etxano%2C_Spain_%28Unsplash_otyxnXPBtOQ%29.jpg/960px-Amorebieta-Etxano%2C_Spain_%28Unsplash_otyxnXPBtOQ%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Amorebieta-Etxano%2C_Spain_%28Unsplash_otyxnXPBtOQ%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amorebieta-Etxano,_Spain_(Unsplash_otyxnXPBtOQ).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61668188",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-08-14 07:10:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Amorebieta-Etxano, Spain (Unsplash otyxnXPBtOQ)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Images uploaded by Fæ|Images from Unsplash|Files with coordinates missing SDC location of creation|Culture of Amorebieta-Etxano|Stock photographs",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.220469",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.733068",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Amorebieta-Etxano, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-05-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://unsplash.com/photos/otyxnXPBtOQ\">https://unsplash.com/photos/otyxnXPBtOQ</a>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 25 April 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170425022944/https%3A//images.unsplash.com/photo-1463569482774-e63b918040ff\">Image</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>\n</p>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 25 April 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170425022829/https%3A//unsplash.com/photos/otyxnXPBtOQ\">Gallery</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Brooke Lark <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@brookelark\">brookelark</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 61361400,
+      "ns": 6,
+      "title": "File:Classy meal for two (Unsplash).jpg",
+      "lat": 43.2204692,
+      "lon": -2.733068,
+      "dist": 3889.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "61361400": {
+              "pageid": 61361400,
+              "ns": 6,
+              "title": "File:Classy meal for two (Unsplash).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Classy_meal_for_two_%28Unsplash%29.jpg/500px-Classy_meal_for_two_%28Unsplash%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Classy_meal_for_two_%28Unsplash%29.jpg/960px-Classy_meal_for_two_%28Unsplash%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Classy_meal_for_two_%28Unsplash%29.jpg/960px-Classy_meal_for_two_%28Unsplash%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Classy_meal_for_two_%28Unsplash%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Classy_meal_for_two_(Unsplash).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61361400",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-07-29 10:20:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Classy meal for two (Unsplash)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Images uploaded by Fæ|Images from Unsplash|Images from Unsplash (review needed)|Files with coordinates missing SDC location of creation|Culture of Amorebieta-Etxano",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.220469",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.733068",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Amorebieta-Etxano, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-05-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://unsplash.com/photos/JkTv__BqmaA\">https://unsplash.com/photos/JkTv__BqmaA</a>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 24 April 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170424003842/https%3A//images.unsplash.com/photo-1463569643904-4fbae71ed917\">Image</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>\n</p>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 24 April 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170424004024/https%3A//unsplash.com/photos/JkTv__BqmaA\">Gallery</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Brooke Lark <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@brookelark\">brookelark</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62181816,
+      "ns": 6,
+      "title": "File:Pasta in Amorebieta (Unsplash).jpg",
+      "lat": 43.2204692,
+      "lon": -2.733068,
+      "dist": 3889.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62181816": {
+              "pageid": 62181816,
+              "ns": 6,
+              "title": "File:Pasta in Amorebieta (Unsplash).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pasta_in_Amorebieta_%28Unsplash%29.jpg/500px-Pasta_in_Amorebieta_%28Unsplash%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 595,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pasta_in_Amorebieta_%28Unsplash%29.jpg/960px-Pasta_in_Amorebieta_%28Unsplash%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pasta_in_Amorebieta_%28Unsplash%29.jpg/960px-Pasta_in_Amorebieta_%28Unsplash%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Pasta_in_Amorebieta_%28Unsplash%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pasta_in_Amorebieta_(Unsplash).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62181816",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-04 16:27:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Pasta in Amorebieta (Unsplash)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Images uploaded by Fæ|Images from Unsplash|Images from Unsplash (review needed)|Files with coordinates missing SDC location of creation|Culture of Amorebieta-Etxano",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.220469",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.733068",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Amorebieta-Etxano, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-12-16",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://unsplash.com/photos/-F_5g8EEHYE\">https://unsplash.com/photos/-F_5g8EEHYE</a>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 12 July 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170712070606/https%3A//images.unsplash.com/photo-1481931098730-318b6f776db0\">Image</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>\n</p>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 29 April 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170429120514/https%3A//unsplash.com/photos/-F_5g8EEHYE\">Gallery</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Brooke Lark <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@brookelark\">brookelark</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 61668115,
+      "ns": 6,
+      "title": "File:Melon bowl (Unsplash).jpg",
+      "lat": 43.2204692,
+      "lon": -2.733068,
+      "dist": 3889.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "61668115": {
+              "pageid": 61668115,
+              "ns": 6,
+              "title": "File:Melon bowl (Unsplash).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Melon_bowl_%28Unsplash%29.jpg/500px-Melon_bowl_%28Unsplash%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Melon_bowl_%28Unsplash%29.jpg/960px-Melon_bowl_%28Unsplash%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Melon_bowl_%28Unsplash%29.jpg/960px-Melon_bowl_%28Unsplash%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Melon_bowl_%28Unsplash%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Melon_bowl_(Unsplash).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61668115",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-08-14 07:05:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Melon bowl (Unsplash)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Images uploaded by Fæ|Images from Unsplash|Images from Unsplash (review needed)|Files with coordinates missing SDC location of creation|Culture of Amorebieta-Etxano",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.220469",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.733068",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Amorebieta-Etxano, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-05-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://unsplash.com/photos/g1-N7rv720w\">https://unsplash.com/photos/g1-N7rv720w</a>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 24 April 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170424005836/https%3A//images.unsplash.com/photo-1463570006545-030fa56a0f4a\">Image</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>\n</p>\n<bdi lang=\"en\" dir=\"ltr\" title=\"archived on 24 April 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170424010346/https%3A//unsplash.com/photos/g1-N7rv720w\">Gallery</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Brooke Lark <a rel=\"nofollow\" class=\"external text\" href=\"https://unsplash.com/@brookelark\">brookelark</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 112973597,
+      "ns": 6,
+      "title": "File:Galdakao Puente de puentelatorre.jpg",
+      "lat": 43.22665,
+      "lon": -2.821036,
+      "dist": 3897,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "112973597": {
+              "pageid": 112973597,
+              "ns": 6,
+              "title": "File:Galdakao Puente de puentelatorre.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Galdakao_Puente_de_puentelatorre.jpg/500px-Galdakao_Puente_de_puentelatorre.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Galdakao_Puente_de_puentelatorre.jpg/960px-Galdakao_Puente_de_puentelatorre.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Galdakao_Puente_de_puentelatorre.jpg/960px-Galdakao_Puente_de_puentelatorre.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Galdakao_Puente_de_puentelatorre.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Galdakao_Puente_de_puentelatorre.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112973597",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-12-01 14:56:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Galdakao Puente de puentelatorre",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Ibaizabal|Self-published work|Files with coordinates missing SDC location of creation|Nature of Galdakao",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.226650",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.821036",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Puente de puentelatorre sobre el río Ibaizabal en Usansolo, Galdakao Bizkaia (País Vasco, España)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-10-25 13:19:10",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Txo\" title=\"User:Txo\">Txo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 177958422,
+      "ns": 6,
+      "title": "File:Spain traffic signal - Bicycle slope (non official).svg",
+      "lat": 43.22075,
+      "lon": -2.732278,
+      "dist": 3959.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "177958422": {
+              "pageid": 177958422,
+              "ns": 6,
+              "title": "File:Spain traffic signal - Bicycle slope (non official).svg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Spain_traffic_signal_-_Bicycle_slope_%28non_official%29.svg/500px-Spain_traffic_signal_-_Bicycle_slope_%28non_official%29.svg.png",
+                  "thumbwidth": 400,
+                  "thumbheight": 352,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Spain_traffic_signal_-_Bicycle_slope_%28non_official%29.svg/960px-Spain_traffic_signal_-_Bicycle_slope_%28non_official%29.svg.png",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Spain_traffic_signal_-_Bicycle_slope_%28non_official%29.svg/960px-Spain_traffic_signal_-_Bicycle_slope_%28non_official%29.svg.png"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Spain_traffic_signal_-_Bicycle_slope_%28non_official%29.svg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Spain_traffic_signal_-_Bicycle_slope_(non_official).svg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=177958422",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-11-06 20:02:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Spain traffic signal - Bicycle slope (non official)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Diagrams of unusual warning road signs|Diagrams of non official road signs of Spain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.220750",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.732278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Señal no oficial para indicar una pendiente pronunciada para ciclistas. Utilizada en Amorebieta, País Vasco. <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.google.com/maps/@43.220783,-2.7323612,3a,15y,70.76h,91.82t/data=!3m7!1e1!3m5!1sEnmrUaqUXqtJYBu_IcrvKQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.8193215773896299%26panoid%3DEnmrUaqUXqtJYBu_IcrvKQ%26yaw%3D70.76288940636252!7i16384!8i8192?entry=ttu&amp;g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D\">[1]</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-11-06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Caminetero&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Caminetero (page does not exist)\">Caminetero</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

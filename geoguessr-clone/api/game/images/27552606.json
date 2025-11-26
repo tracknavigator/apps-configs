@@ -1,0 +1,3655 @@
+{
+  "id": 27552606,
+  "town": {
+    "name": {
+      "default": "Abaltzisketa",
+      "es": "Abalcisqueta",
+      "eu": "Abaltzisketa"
+    },
+    "coordinates": {
+      "lat": 43.047842,
+      "lon": -2.1052186
+    }
+  },
+  "files": [
+    {
+      "pageid": 52389808,
+      "ns": 6,
+      "title": "File:Larraitzko baseliza - panoramio.jpg",
+      "lat": 43.037842,
+      "lon": -2.101457,
+      "dist": 1153.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "52389808": {
+              "pageid": 52389808,
+              "ns": 6,
+              "title": "File:Larraitzko baseliza - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Larraitzko_baseliza_-_panoramio.jpg/500px-Larraitzko_baseliza_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 264,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Larraitzko_baseliza_-_panoramio.jpg/960px-Larraitzko_baseliza_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Larraitzko_baseliza_-_panoramio.jpg/960px-Larraitzko_baseliza_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Larraitzko_baseliza_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Larraitzko_baseliza_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52389808",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-10-20 06:37:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Larraitzko baseliza - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Media needing category review as of 20 October 2016|Larraitz (baseliza)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.037842",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.101457",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Larraitzko baseliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "8 March 2009 (original upload date)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161020064731/http://www.panoramio.com/photo/19812981\">https://web.archive.org/web/20161020064731/http://www.panoramio.com/photo/19812981</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161020064730/http://www.panoramio.com/user/2341586?with_photo_id=19812981\">GipuzkoaKultura</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">GipuzkoaKultura</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 20 October 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "GipuzkoaKultura",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151735679,
+      "ns": 6,
+      "title": "File:Larraitz 212112.jpg",
+      "lat": 43.036928,
+      "lon": -2.098911,
+      "dist": 1317.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151735679": {
+              "pageid": 151735679,
+              "ns": 6,
+              "title": "File:Larraitz 212112.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Larraitz_212112.jpg/500px-Larraitz_212112.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Larraitz_212112.jpg/960px-Larraitz_212112.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Larraitz_212112.jpg/960px-Larraitz_212112.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Larraitz_212112.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Larraitz_212112.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151735679",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-23 11:38:30",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Larraitz 212112",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Larraitz (baseliza)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.036928",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.098911",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Larraizko baseliza 2024an",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-07-20 21:21:12",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Luistxo\" title=\"User:Luistxo\">Luistxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 157568563,
+      "ns": 6,
+      "title": "File:Erremedioen Andre Mariaren Ermita.jpg",
+      "lat": 43.036869597576,
+      "lon": -2.0988643699127,
+      "dist": 1324.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "157568563": {
+              "pageid": 157568563,
+              "ns": 6,
+              "title": "File:Erremedioen Andre Mariaren Ermita.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erremedioen_Andre_Mariaren_Ermita.jpg/500px-Erremedioen_Andre_Mariaren_Ermita.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erremedioen_Andre_Mariaren_Ermita.jpg/960px-Erremedioen_Andre_Mariaren_Ermita.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erremedioen_Andre_Mariaren_Ermita.jpg/960px-Erremedioen_Andre_Mariaren_Ermita.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Erremedioen_Andre_Mariaren_Ermita.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erremedioen_Andre_Mariaren_Ermita.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157568563",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-01-05 21:57:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Erremedioen Andre Mariaren Ermita",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Larraitz|Photographs taken on 2024-12-29",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.036870",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.098864",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Erremedioen Andre Mariaren Ermita (Abaltzisketako ondare zerrendatua)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "29 December 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 52389686,
+      "ns": 6,
+      "title": "File:Amezketako eliza - panoramio.jpg",
+      "lat": 43.044696,
+      "lon": -2.083819,
+      "dist": 1773.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "52389686": {
+              "pageid": 52389686,
+              "ns": 6,
+              "title": "File:Amezketako eliza - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Amezketako_eliza_-_panoramio.jpg/500px-Amezketako_eliza_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 597,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Amezketako_eliza_-_panoramio.jpg/960px-Amezketako_eliza_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Amezketako_eliza_-_panoramio.jpg/960px-Amezketako_eliza_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Amezketako_eliza_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amezketako_eliza_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52389686",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-10-20 06:27:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Amezketako eliza - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Amezketa|Pages with maps|Panoramio files uploaded by Panoramio upload bot|Unknown date|Black and white photographs of the Basque Autonomous Community|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.044696",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.083819",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Amezketako eliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Unknown date",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161020065508/http://www.panoramio.com/photo/19812942\">https://web.archive.org/web/20161020065508/http://www.panoramio.com/photo/19812942</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161020065506/http://www.panoramio.com/user/2341586?with_photo_id=19812942\">GipuzkoaKultura</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">GipuzkoaKultura</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 20 October 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "GipuzkoaKultura",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 145039399,
+      "ns": 6,
+      "title": "File:Baliarraingo ikuspegia airetik gauez.webm",
+      "lat": 43.0694,
+      "lon": -2.1284,
+      "dist": 3048.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "145039399": {
+              "pageid": 145039399,
+              "ns": 6,
+              "title": "File:Baliarraingo ikuspegia airetik gauez.webm",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Baliarraingo_ikuspegia_airetik_gauez.webm/400px--Baliarraingo_ikuspegia_airetik_gauez.webm.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Baliarraingo_ikuspegia_airetik_gauez.webm/800px--Baliarraingo_ikuspegia_airetik_gauez.webm.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Baliarraingo_ikuspegia_airetik_gauez.webm/600px--Baliarraingo_ikuspegia_airetik_gauez.webm.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Baliarraingo_ikuspegia_airetik_gauez.webm",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baliarraingo_ikuspegia_airetik_gauez.webm",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145039399",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-05 17:00:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Baliarraingo ikuspegia airetik gauez",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Baliarrain|Self-published work|Files with coordinates missing SDC location of creation|Videos from unmanned aerial vehicles of Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.069400",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.128400",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Baliarraingo ikuspegia airetik gauez",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-02-05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 21985730,
+      "ns": 6,
+      "title": "File:Ermitage de Larraitz2.jpg",
+      "lat": 43.023611,
+      "lon": -2.086667,
+      "dist": 3087.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "21985730": {
+              "pageid": 21985730,
+              "ns": 6,
+              "title": "File:Ermitage de Larraitz2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ermitage_de_Larraitz2.jpg/500px-Ermitage_de_Larraitz2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 576,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ermitage_de_Larraitz2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ermitage_de_Larraitz2.jpg/600px-Ermitage_de_Larraitz2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ermitage_de_Larraitz2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermitage_de_Larraitz2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21985730",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2012-10-09 15:29:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermitage de Larraitz2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Views of Txindoki from Saturdi|Hermitages in Gipuzkoa|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.023611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.086667",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "L'ermitage de Saturdi, devant le Txindoki (Pays basque).",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-03-16 16:01:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10690/79951\">http://hdl.handle.net/10690/79951</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Juan San Martin",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 21985813,
+      "ns": 6,
+      "title": "File:Txindoki6.jpg",
+      "lat": 43.023611,
+      "lon": -2.086667,
+      "dist": 3087.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "21985813": {
+              "pageid": 21985813,
+              "ns": 6,
+              "title": "File:Txindoki6.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Txindoki6.jpg/500px-Txindoki6.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 290,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Txindoki6.jpg/960px-Txindoki6.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Txindoki6.jpg/960px-Txindoki6.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Txindoki6.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Txindoki6.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21985813",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2012-10-09 15:35:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Txindoki6",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from the Ojanguren Collection at GureGipuzkoa|Files with coordinates missing SDC location of creation|Remote views of Txindoki",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.023611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.086667",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Le mont Larrunarri, ou Txindoki (Pays basque).",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-10-09 17:32:27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10690/80179\">http://hdl.handle.net/10690/80179</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q11683103\" class=\"extiw\" title=\"d:Q11683103\"><span title=\"Spanish mountaineer and photographer (1887-1972)\">Indalecio Ojanguren</span></a></bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 21985649,
+      "ns": 6,
+      "title": "File:Abalzisketa et Txindoki.jpg",
+      "lat": 43.023611,
+      "lon": -2.086667,
+      "dist": 3087.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "21985649": {
+              "pageid": 21985649,
+              "ns": 6,
+              "title": "File:Abalzisketa et Txindoki.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Abalzisketa_et_Txindoki.jpg/500px-Abalzisketa_et_Txindoki.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 244,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Abalzisketa_et_Txindoki.jpg/960px-Abalzisketa_et_Txindoki.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Abalzisketa_et_Txindoki.jpg/960px-Abalzisketa_et_Txindoki.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Abalzisketa_et_Txindoki.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Abalzisketa_et_Txindoki.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21985649",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2012-10-09 15:21:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Abalzisketa et Txindoki",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Txindoki|Images from the Ojanguren Collection at GureGipuzkoa|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.023611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.086667",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Abalzisketa devant le Txindoki (Pays basque).",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-10-09 17:17:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://hdl.handle.net/10690/80293\">https://hdl.handle.net/10690/80293</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q11683103\" class=\"extiw\" title=\"d:Q11683103\"><span title=\"Spanish mountaineer and photographer (1887-1972)\">Indalecio Ojanguren</span></a></bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 21985535,
+      "ns": 6,
+      "title": "File:Txindoki5.jpg",
+      "lat": 43.023611,
+      "lon": -2.086667,
+      "dist": 3087.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "21985535": {
+              "pageid": 21985535,
+              "ns": 6,
+              "title": "File:Txindoki5.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Txindoki5.jpg/500px-Txindoki5.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 379,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Txindoki5.jpg/960px-Txindoki5.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Txindoki5.jpg/960px-Txindoki5.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Txindoki5.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Txindoki5.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21985535",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2012-10-09 15:12:20",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Txindoki5",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Views of Txindoki from Saturdi|Hermitages in Gipuzkoa|Images from the Ojanguren Collection at GureGipuzkoa|Files with coordinates missing SDC location of creation|Saturdiko baseliza",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.023611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.086667",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Le mont Txindoki (Pays basque).",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-10-09 17:08:32",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10690/79839\">http://hdl.handle.net/10690/79839</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q11683103\" class=\"extiw\" title=\"d:Q11683103\"><span title=\"Spanish mountaineer and photographer (1887-1972)\">Indalecio Ojanguren</span></a></bdi>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 7805045,
+      "ns": 6,
+      "title": "File:Amezketa eta Oria.jpg",
+      "lat": 43.022847222222,
+      "lon": -2.0884333333333,
+      "dist": 3096.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "7805045": {
+              "pageid": 7805045,
+              "ns": 6,
+              "title": "File:Amezketa eta Oria.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Amezketa_eta_Oria.jpg/500px-Amezketa_eta_Oria.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Amezketa_eta_Oria.jpg/960px-Amezketa_eta_Oria.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Amezketa_eta_Oria.jpg/960px-Amezketa_eta_Oria.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Amezketa_eta_Oria.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amezketa_eta_Oria.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7805045",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2009-09-13 20:05:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Amezketa eta Oria",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Views from Txindoki|GFDL|Taken with Canon PowerShot A400|License migration redundant|Self-published work|Landscapes of Gipuzkoa|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.022847",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.088433",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "A view of <a href=\"https://en.wikipedia.org/wiki/Amezketa\" class=\"extiw\" title=\"en:Amezketa\">Amezketa</a>, the <a href=\"https://en.wikipedia.org/wiki/Oria_(river)\" class=\"extiw\" title=\"en:Oria (river)\">Oria</a> valley, <a href=\"https://en.wikipedia.org/wiki/Hernio\" class=\"extiw\" title=\"en:Hernio\">Hernio</a> top left and a glimpse of <a href=\"https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n\" class=\"extiw\" title=\"en:San Sebastián\">San Sebastián</a> and the <a href=\"https://en.wikipedia.org/wiki/Bay_of_Biscay\" class=\"extiw\" title=\"en:Bay of Biscay\">Bay of Biscay</a> in the far background, in <a href=\"https://en.wikipedia.org/wiki/Gipuzkoa\" class=\"extiw\" title=\"en:Gipuzkoa\">Gipuzkoa</a>, <a href=\"https://en.wikipedia.org/wiki/Basque_Country\" class=\"extiw\" title=\"en:Basque Country\">Basque Country</a> of <a href=\"https://en.wikipedia.org/wiki/Spain\" class=\"extiw\" title=\"en:Spain\">Spain</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "04/09/2005",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\">self-made</bdi></i></span>)",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/User:I%C3%B1aki_LL\" class=\"extiw\" title=\"en:User:Iñaki LL\">Iñaki LL</a> (<a href=\"https://en.wikipedia.org/wiki/User_talk:I%C3%B1aki_LL\" class=\"extiw\" title=\"en:User talk:Iñaki LL\">talk</a>) 20:42, 25 April 2008 (UTC)",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/User:I%C3%B1aki_LL\" class=\"extiw\" title=\"wikipedia:User:Iñaki LL\">Iñaki LL</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 11836720,
+      "ns": 6,
+      "title": "File:Txindokitik ekialdera.JPG",
+      "lat": 43.023002777778,
+      "lon": -2.0866722222222,
+      "dist": 3146.6,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2010-11-18T23:18:51Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "11836720": {
+              "pageid": 11836720,
+              "ns": 6,
+              "title": "File:Txindokitik ekialdera.JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Txindokitik_ekialdera.JPG/500px-Txindokitik_ekialdera.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Txindokitik_ekialdera.JPG/960px-Txindokitik_ekialdera.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Txindokitik_ekialdera.JPG/960px-Txindokitik_ekialdera.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Txindokitik_ekialdera.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Txindokitik_ekialdera.JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11836720",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2010-11-18 23:21:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Txindokitik ekialdera",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Views from Txindoki|Aralar|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.023003",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.086672",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Climb to Mt. <a href=\"https://en.wikipedia.org/wiki/Txindoki\" class=\"extiw\" title=\"en:Txindoki\">Txindoki</a> in <a href=\"https://en.wikipedia.org/wiki/Aralar_Range\" class=\"extiw\" title=\"en:Aralar Range\">Aralar</a>, view to the east",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-10-21",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Iñaki LLM",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">GFDL</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "GFDL",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 9470058,
+      "ns": 6,
+      "title": "File:Ibiur Baliarrain.JPG",
+      "lat": 43.075398020819,
+      "lon": -2.1232542044889,
+      "dist": 3396.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "9470058": {
+              "pageid": 9470058,
+              "ns": 6,
+              "title": "File:Ibiur Baliarrain.JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ibiur_Baliarrain.JPG/500px-Ibiur_Baliarrain.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ibiur_Baliarrain.JPG/960px-Ibiur_Baliarrain.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ibiur_Baliarrain.JPG/960px-Ibiur_Baliarrain.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ibiur_Baliarrain.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ibiur_Baliarrain.JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9470058",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2010-02-13 18:15:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ibiur Baliarrain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Kodak EasyShare M763|Baliarrain|Self-published work|Nature of Gipuzkoa|Aerial photographs of Gipuzkoa|Bodies of water in the Basque Autonomous Community|2010 in Gipuzkoa|February 2010 in the Basque Autonomous Community|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.075398",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.123254",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Baliarrain udalerriko Ibiur urtegia. Gipuzkoa, Euskal Herria.\nIbiur dam in Baliarrain village. Gipuzkoa, Basque Country.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-02-13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://eu.wikipedia.org/wiki/Lankide:Euskalduna\" class=\"extiw\" title=\"eu:Lankide:Euskalduna\">Euskalduna</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "My own work",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 66101724,
+      "ns": 6,
+      "title": "File:Orendain.jpg",
+      "lat": 43.079486846667,
+      "lon": -2.1138505933333,
+      "dist": 3587.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "66101724": {
+              "pageid": 66101724,
+              "ns": 6,
+              "title": "File:Orendain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Orendain.jpg/500px-Orendain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Orendain.jpg/960px-Orendain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Orendain.jpg/960px-Orendain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Orendain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66101724",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-02-03 20:22:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Gipuzkoa|Town halls in Gipuzkoa|Orendain|Self-published work|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Nov 2017-Aug 2019)|Files with coordinates missing SDC location of creation|Spain photographs taken on 2018-01-31",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079487",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.113851",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ayuntamiento de Orendain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "31 January 2018 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josi\" title=\"User:Josi\">Josi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887932,
+      "ns": 6,
+      "title": "File:Orendain airetik 02.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887932": {
+              "pageid": 144887932,
+              "ns": 6,
+              "title": "File:Orendain airetik 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Orendain_airetik_02.jpg/500px-Orendain_airetik_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Orendain_airetik_02.jpg/960px-Orendain_airetik_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Orendain_airetik_02.jpg/960px-Orendain_airetik_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Orendain_airetik_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887932",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:53",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887938,
+      "ns": 6,
+      "title": "File:Orendain airetik 08.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887938": {
+              "pageid": 144887938,
+              "ns": 6,
+              "title": "File:Orendain airetik 08.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orendain_airetik_08.jpg/500px-Orendain_airetik_08.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orendain_airetik_08.jpg/960px-Orendain_airetik_08.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orendain_airetik_08.jpg/960px-Orendain_airetik_08.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Orendain_airetik_08.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_08.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887938",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 08",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887930,
+      "ns": 6,
+      "title": "File:Orendain airetik 03.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887930": {
+              "pageid": 144887930,
+              "ns": 6,
+              "title": "File:Orendain airetik 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Orendain_airetik_03.jpg/500px-Orendain_airetik_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Orendain_airetik_03.jpg/960px-Orendain_airetik_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Orendain_airetik_03.jpg/960px-Orendain_airetik_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Orendain_airetik_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887930",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887933,
+      "ns": 6,
+      "title": "File:Orendain airetik 04.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887933": {
+              "pageid": 144887933,
+              "ns": 6,
+              "title": "File:Orendain airetik 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orendain_airetik_04.jpg/500px-Orendain_airetik_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orendain_airetik_04.jpg/960px-Orendain_airetik_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Orendain_airetik_04.jpg/960px-Orendain_airetik_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Orendain_airetik_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887933",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887947,
+      "ns": 6,
+      "title": "File:Baliarrain.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887947": {
+              "pageid": 144887947,
+              "ns": 6,
+              "title": "File:Baliarrain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baliarrain.jpg/500px-Baliarrain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baliarrain.jpg/960px-Baliarrain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baliarrain.jpg/960px-Baliarrain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Baliarrain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baliarrain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887947",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:59:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Baliarrain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Baliarrain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Baliarraingo ikuspegia airetik. Drone bidez hartutako irudia. Atzeko planoan agertzen den herria Orendain da.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887939,
+      "ns": 6,
+      "title": "File:Orendain airetik 07.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887939": {
+              "pageid": 144887939,
+              "ns": 6,
+              "title": "File:Orendain airetik 07.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Orendain_airetik_07.jpg/500px-Orendain_airetik_07.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Orendain_airetik_07.jpg/960px-Orendain_airetik_07.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Orendain_airetik_07.jpg/960px-Orendain_airetik_07.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Orendain_airetik_07.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_07.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887939",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 07",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887935,
+      "ns": 6,
+      "title": "File:Orendain airetik 06.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887935": {
+              "pageid": 144887935,
+              "ns": 6,
+              "title": "File:Orendain airetik 06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Orendain_airetik_06.jpg/500px-Orendain_airetik_06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Orendain_airetik_06.jpg/960px-Orendain_airetik_06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Orendain_airetik_06.jpg/960px-Orendain_airetik_06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Orendain_airetik_06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887935",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144933688,
+      "ns": 6,
+      "title": "File:Orendain airetik.webm",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144933688": {
+              "pageid": 144933688,
+              "ns": 6,
+              "title": "File:Orendain airetik.webm",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Orendain_airetik.webm/400px--Orendain_airetik.webm.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Orendain_airetik.webm/800px--Orendain_airetik.webm.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Orendain_airetik.webm/600px--Orendain_airetik.webm.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Orendain_airetik.webm",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik.webm",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144933688",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-02 17:13:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Videos from unmanned aerial vehicles of Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendain herriaren bideoa airetik.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887945,
+      "ns": 6,
+      "title": "File:Orendain airetik 11.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887945": {
+              "pageid": 144887945,
+              "ns": 6,
+              "title": "File:Orendain airetik 11.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Orendain_airetik_11.jpg/500px-Orendain_airetik_11.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Orendain_airetik_11.jpg/960px-Orendain_airetik_11.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Orendain_airetik_11.jpg/960px-Orendain_airetik_11.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Orendain_airetik_11.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_11.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887945",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:59:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 11",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887931,
+      "ns": 6,
+      "title": "File:Orendain airetik 01.png",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887931": {
+              "pageid": 144887931,
+              "ns": 6,
+              "title": "File:Orendain airetik 01.png",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Orendain_airetik_01.png/500px-Orendain_airetik_01.png",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Orendain_airetik_01.png/960px-Orendain_airetik_01.png",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Orendain_airetik_01.png/960px-Orendain_airetik_01.png"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Orendain_airetik_01.png",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_01.png",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887931",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887942,
+      "ns": 6,
+      "title": "File:Orendain airetik 09.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887942": {
+              "pageid": 144887942,
+              "ns": 6,
+              "title": "File:Orendain airetik 09.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Orendain_airetik_09.jpg/500px-Orendain_airetik_09.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Orendain_airetik_09.jpg/960px-Orendain_airetik_09.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Orendain_airetik_09.jpg/960px-Orendain_airetik_09.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Orendain_airetik_09.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_09.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887942",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 09",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887934,
+      "ns": 6,
+      "title": "File:Orendain airetik 05.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887934": {
+              "pageid": 144887934,
+              "ns": 6,
+              "title": "File:Orendain airetik 05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Orendain_airetik_05.jpg/500px-Orendain_airetik_05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Orendain_airetik_05.jpg/960px-Orendain_airetik_05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Orendain_airetik_05.jpg/960px-Orendain_airetik_05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Orendain_airetik_05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887934",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:58:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144887944,
+      "ns": 6,
+      "title": "File:Orendain airetik 10.jpg",
+      "lat": 43.0795,
+      "lon": -2.1141,
+      "dist": 3593.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144887944": {
+              "pageid": 144887944,
+              "ns": 6,
+              "title": "File:Orendain airetik 10.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Orendain_airetik_10.jpg/500px-Orendain_airetik_10.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Orendain_airetik_10.jpg/960px-Orendain_airetik_10.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Orendain_airetik_10.jpg/960px-Orendain_airetik_10.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Orendain_airetik_10.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Orendain_airetik_10.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144887944",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-01 18:59:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Orendain airetik 10",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Orendain|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.114100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orendainen ikuspegia airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-01-31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153428363,
+      "ns": 6,
+      "title": "File:Olakosaroi..jpg",
+      "lat": 43.019615036579,
+      "lon": -2.1308213244533,
+      "dist": 3765.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153428363": {
+              "pageid": 153428363,
+              "ns": 6,
+              "title": "File:Olakosaroi..jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Olakosaroi..jpg/500px-Olakosaroi..jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Olakosaroi..jpg/960px-Olakosaroi..jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Olakosaroi..jpg/960px-Olakosaroi..jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Olakosaroi..jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olakosaroi..jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153428363",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-01 10:40:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Olakosaroi.",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Ausa Gaztelu (mountain)|Aralar|Zaldibia|Enirioko lurrak zeharkatuz|Self-published work|Spain photographs taken on 2024-10-01|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.019615",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.130821",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Olakosaroi, Ausa-Gaztelu magalean. Aralar Parke Naturaleko sarreretako bat, Zaldibian.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "1 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Txapisotegi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Txapisotegi (page does not exist)\">Txapisotegi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 31912276,
+      "ns": 6,
+      "title": "File:Zazpi jauzi zaldibia 2012 01.jpg",
+      "lat": 43.03870101,
+      "lon": -2.1503927,
+      "dist": 3809.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "31912276": {
+              "pageid": 31912276,
+              "ns": 6,
+              "title": "File:Zazpi jauzi zaldibia 2012 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zazpi_jauzi_zaldibia_2012_01.jpg/500px-Zazpi_jauzi_zaldibia_2012_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zazpi_jauzi_zaldibia_2012_01.jpg/960px-Zazpi_jauzi_zaldibia_2012_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zazpi_jauzi_zaldibia_2012_01.jpg/960px-Zazpi_jauzi_zaldibia_2012_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Zazpi_jauzi_zaldibia_2012_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zazpi_jauzi_zaldibia_2012_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31912276",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-03-31 06:25:34",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zazpi jauzi zaldibia 2012 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zaldibia|Folk dance of the Basque Country|Flickr images reviewed by trusted users|2012 in Gipuzkoa|Files with coordinates missing SDC location of creation|Featured pictures on Wikipedia, Basque",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.038701",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.150393",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Zazpi jauzi basque dance in Zaldibia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-03-25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/49760672@N03/7014294047\">https://www.flickr.com/photos/49760672@N03/7014294047</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/49760672@N03/\">Xabier Otegi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 132599653,
+      "ns": 6,
+      "title": "File:Ibiurko urtegia 01.jpg",
+      "lat": 43.079444,
+      "lon": -2.125,
+      "dist": 3864,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "132599653": {
+              "pageid": 132599653,
+              "ns": 6,
+              "title": "File:Ibiurko urtegia 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ibiurko_urtegia_01.jpg/500px-Ibiurko_urtegia_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ibiurko_urtegia_01.jpg/960px-Ibiurko_urtegia_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ibiurko_urtegia_01.jpg/960px-Ibiurko_urtegia_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ibiurko_urtegia_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ibiurko_urtegia_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132599653",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-02 14:57:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ibiurko urtegia 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Ibiur Reservoir|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.079444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.125000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ibiurko urtegiaren aireko ikuspegia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2023-06-02 12:12:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2248 @@
+{
+  "id": 346145463,
+  "town": {
+    "name": {
+      "default": "Erice",
+      "es": "Erice",
+      "eu": "Eritze"
+    },
+    "coordinates": {
+      "lat": 42.8844329,
+      "lon": -1.7674417
+    }
+  },
+  "files": [
+    {
+      "pageid": 35956759,
+      "ns": 6,
+      "title": "File:E! (5273129559).jpg",
+      "lat": 42.873165,
+      "lon": -1.77824,
+      "dist": 1531,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "35956759": {
+              "pageid": 35956759,
+              "ns": 6,
+              "title": "File:E! (5273129559).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/E%21_%285273129559%29.jpg/500px-E%21_%285273129559%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/E%21_%285273129559%29.jpg/960px-E%21_%285273129559%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/E%21_%285273129559%29.jpg/960px-E%21_%285273129559%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/E%21_%285273129559%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:E!_(5273129559).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35956759",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-07 07:48:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "E! (5273129559)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Railway lines in Navarre|Renfe class 120|Flickr images reviewed by FlickreviewR|April 2010 in Navarre|Files with coordinates missing SDC location of creation|Rail vehicles in Spain photographed in 2010|Photographs by André Marques",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.873165",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.778240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>Que no estoy muerto, aunque lo parezca! Bueno, hace tiempo dije que hasta que no tuviese coche/carnet iba a dejar el tema de la fotografía ferroviaria, más que nada por la pereza de patearme 20km en bici. Pero esto no quiere decir que sea un tránsfuga/chaquetero :) Así que, más que nunca, en 2011 espero volver a la carga ;-)\n</p><p>Aqui os dejo cierto amado tren, una foto de Abril de este año que se nos acaba, en 2011 espero poder dedicarme mucho más a esta gran afición que hacen posible gente como: Melco, Powell, Jacob, Montepo, Brz, y otros muchos más aficionados que me dejo por el camino.\n</p>\nA todos ellos y a los demás, felices fiestas, próspero Año Nuevo, y trenes!",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-04-27 12:18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/gransaco/5273129559/\">E!</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26802171@N05\">André  Marques</a> from Madrid",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 35956766,
+      "ns": 6,
+      "title": "File:El Megacombi por Ochovi (4561487824).jpg",
+      "lat": 42.873322,
+      "lon": -1.782789,
+      "dist": 1757.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "35956766": {
+              "pageid": 35956766,
+              "ns": 6,
+              "title": "File:El Megacombi por Ochovi (4561487824).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/El_Megacombi_por_Ochovi_%284561487824%29.jpg/500px-El_Megacombi_por_Ochovi_%284561487824%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/El_Megacombi_por_Ochovi_%284561487824%29.jpg/960px-El_Megacombi_por_Ochovi_%284561487824%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/El_Megacombi_por_Ochovi_%284561487824%29.jpg/960px-El_Megacombi_por_Ochovi_%284561487824%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/El_Megacombi_por_Ochovi_%284561487824%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Megacombi_por_Ochovi_(4561487824).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35956766",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-07 07:48:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Megacombi por Ochovi (4561487824)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Renfe Class 253|Castejón de Ebro-Alsasua railway line|Flickr images reviewed by FlickreviewR|Container trains in Spain|April 2010 in Navarre|Files with coordinates missing SDC location of creation|Rail vehicles in Spain photographed in 2010|Photographs by André Marques",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.873322",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.782789",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>Con esta foto doy por iniciada la temporada de Trainspotting 2010. Después de los meses de hibernación vuelve a salir el sol.\n</p><p>No puedo dejarme dedicar esta fotografía a \"jiesnarr\", que al parecer se conoce esta linea de pe a pa, y uno no puede hacer más que seguir sus pasos. Aquí os dejo una foto suya en este mismo sitio.\n</p><p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jiesnarr/3451024966/in/set-72157604136828271/\">www.flickr.com/photos/jiesnarr/3451024966/in/set-72157604...</a>\n</p><p>Gracias a las obras por la zona de los Madrises, resulta que ahora los mercantes al norte van desviados, y uno de ellos es el Mega/Traxxcombi que vemos pasar por Ochovi a eso de las 14:30 en un caluroso martes de primavera.\n</p>\nUn saludo a todos y gracias por pasaros, y sobretodo, perdón por el abandono!",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-04-27 13:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/gransaco/4561487824/\">El Megacombi por Ochovi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26802171@N05\">André  Marques</a> from Madrid",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151156167,
+      "ns": 6,
+      "title": "File:Larunbeko Larraheren aurkezpena.jpg",
+      "lat": 42.896914,
+      "lon": -1.787511,
+      "dist": 2144.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151156167": {
+              "pageid": 151156167,
+              "ns": 6,
+              "title": "File:Larunbeko Larraheren aurkezpena.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Larunbeko_Larraheren_aurkezpena.jpg/500px-Larunbeko_Larraheren_aurkezpena.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 711,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Larunbeko_Larraheren_aurkezpena.jpg/960px-Larunbeko_Larraheren_aurkezpena.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Larunbeko_Larraheren_aurkezpena.jpg/960px-Larunbeko_Larraheren_aurkezpena.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Larunbeko_Larraheren_aurkezpena.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Larunbeko_Larraheren_aurkezpena.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151156167",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-04 15:32:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Larunbeko Larraheren aurkezpena",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Archaeology|Larunbe-Larumbe|Self-published work|Files with coordinates missing SDC location of creation|Larunbeko aldarea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.896914",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.787511",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "English",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-15 09:43:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gaizkaranguren&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gaizkaranguren (page does not exist)\">Gaizkaranguren</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151156168,
+      "ns": 6,
+      "title": "File:Larunbeko Larraheren omenezko erromatar garaiko Ara.jpg",
+      "lat": 42.896914,
+      "lon": -1.787511,
+      "dist": 2144.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151156168": {
+              "pageid": 151156168,
+              "ns": 6,
+              "title": "File:Larunbeko Larraheren omenezko erromatar garaiko Ara.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Larunbeko_Larraheren_omenezko_erromatar_garaiko_Ara.jpg/500px-Larunbeko_Larraheren_omenezko_erromatar_garaiko_Ara.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 711,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Larunbeko_Larraheren_omenezko_erromatar_garaiko_Ara.jpg/960px-Larunbeko_Larraheren_omenezko_erromatar_garaiko_Ara.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Larunbeko_Larraheren_omenezko_erromatar_garaiko_Ara.jpg/960px-Larunbeko_Larraheren_omenezko_erromatar_garaiko_Ara.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Larunbeko_Larraheren_omenezko_erromatar_garaiko_Ara.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Larunbeko_Larraheren_omenezko_erromatar_garaiko_Ara.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151156168",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-04 15:32:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Larunbeko Larraheren omenezko erromatar garaiko Ara",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Larunbe-Larumbe|Self-published work|Ancient Roman inscriptions in Navarre|Files with coordinates missing SDC location of creation|Inscriptions with vasconic-aquitanian names|Larunbeko aldarea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.896914",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.787511",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Larunbeko Larraheren aurkezpena",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-15 09:42:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gaizkaranguren&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gaizkaranguren (page does not exist)\">Gaizkaranguren</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781317,
+      "ns": 6,
+      "title": "File:Clave de la Iglesia de San Vicente en Larumbe 01.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781317": {
+              "pageid": 50781317,
+              "ns": 6,
+              "title": "File:Clave de la Iglesia de San Vicente en Larumbe 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg/500px-Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg/960px-Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg/960px-Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781317",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:14:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Clave de la Iglesia de San Vicente en Larumbe 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:01:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781319,
+      "ns": 6,
+      "title": "File:Clave de la Iglesia de San Vicente en Larumbe 02.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781319": {
+              "pageid": 50781319,
+              "ns": 6,
+              "title": "File:Clave de la Iglesia de San Vicente en Larumbe 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg/500px-Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg/960px-Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg/960px-Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Clave_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781319",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:14:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Clave de la Iglesia de San Vicente en Larumbe 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:02:40",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781325,
+      "ns": 6,
+      "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 07.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781325": {
+              "pageid": 50781325,
+              "ns": 6,
+              "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 07.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_07.jpg/500px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_07.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 601,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_07.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_07.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_07.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_07.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_07.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_07.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781325",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:15:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Capitel de la Iglesia de San Vicente en Larumbe 07",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:06:32",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781318,
+      "ns": 6,
+      "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 03.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781318": {
+              "pageid": 50781318,
+              "ns": 6,
+              "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_03.jpg/500px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_03.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_03.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781318",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:14:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Capitel de la Iglesia de San Vicente en Larumbe 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:03:31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781322,
+      "ns": 6,
+      "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 04.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781322": {
+              "pageid": 50781322,
+              "ns": 6,
+              "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_04.jpg/500px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_04.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_04.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781322",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:15:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Capitel de la Iglesia de San Vicente en Larumbe 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:03:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781326,
+      "ns": 6,
+      "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 08.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781326": {
+              "pageid": 50781326,
+              "ns": 6,
+              "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 08.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_08.jpg/500px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_08.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_08.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_08.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_08.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_08.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_08.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_08.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781326",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:15:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Capitel de la Iglesia de San Vicente en Larumbe 08",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:07:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781324,
+      "ns": 6,
+      "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 05.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781324": {
+              "pageid": 50781324,
+              "ns": 6,
+              "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_05.jpg/500px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_05.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_05.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781324",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:15:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Capitel de la Iglesia de San Vicente en Larumbe 05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:04:51",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781323,
+      "ns": 6,
+      "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 06.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781323": {
+              "pageid": 50781323,
+              "ns": 6,
+              "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_06.jpg/500px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_06.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_06.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781323",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:15:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Capitel de la Iglesia de San Vicente en Larumbe 06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:05:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781316,
+      "ns": 6,
+      "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 01.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781316": {
+              "pageid": 50781316,
+              "ns": 6,
+              "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg/500px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781316",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:14:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Capitel de la Iglesia de San Vicente en Larumbe 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 15:59:03",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781327,
+      "ns": 6,
+      "title": "File:Iglesia de San Vicente en Larumbe.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781327": {
+              "pageid": 50781327,
+              "ns": 6,
+              "title": "File:Iglesia de San Vicente en Larumbe.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Iglesia_de_San_Vicente_en_Larumbe.jpg/500px-Iglesia_de_San_Vicente_en_Larumbe.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Iglesia_de_San_Vicente_en_Larumbe.jpg/960px-Iglesia_de_San_Vicente_en_Larumbe.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Iglesia_de_San_Vicente_en_Larumbe.jpg/960px-Iglesia_de_San_Vicente_en_Larumbe.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Iglesia_de_San_Vicente_en_Larumbe.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Vicente_en_Larumbe.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781327",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:15:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de San Vicente en Larumbe",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 16:24:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50781315,
+      "ns": 6,
+      "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 02.jpg",
+      "lat": 42.908538,
+      "lon": -1.767273,
+      "dist": 2680.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50781315": {
+              "pageid": 50781315,
+              "ns": 6,
+              "title": "File:Capitel de la Iglesia de San Vicente en Larumbe 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg/500px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg/960px-Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Capitel_de_la_Iglesia_de_San_Vicente_en_Larumbe_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50781315",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-20 13:14:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Capitel de la Iglesia de San Vicente en Larumbe 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Iglesia de San Vicente de Larumbe (Iza, Navarra)|Images of monuments of Spain without photograph WLM 2015",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.767273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Vicente",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 15:59:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">María del Milagro Bolado Tirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151156166,
+      "ns": 6,
+      "title": "File:Larraheren omenezko murala, Larunben (NG).jpg",
+      "lat": 42.908764,
+      "lon": -1.769742,
+      "dist": 2712,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151156166": {
+              "pageid": 151156166,
+              "ns": 6,
+              "title": "File:Larraheren omenezko murala, Larunben (NG).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Larraheren_omenezko_murala%2C_Larunben_%28NG%29.jpg/500px-Larraheren_omenezko_murala%2C_Larunben_%28NG%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Larraheren_omenezko_murala%2C_Larunben_%28NG%29.jpg/960px-Larraheren_omenezko_murala%2C_Larunben_%28NG%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Larraheren_omenezko_murala%2C_Larunben_%28NG%29.jpg/960px-Larraheren_omenezko_murala%2C_Larunben_%28NG%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Larraheren_omenezko_murala%2C_Larunben_%28NG%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Larraheren_omenezko_murala,_Larunben_(NG).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151156166",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-04 15:32:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Larraheren omenezko murala, Larunben (NG)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Larunbe-Larumbe|Self-published work|Files with coordinates missing SDC location of creation|Larunbeko aldarea|Larunbeko Larrahe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.908764",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.769742",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Larunbeko herrian, Gulibarren, Itza udalerrian, Nafarroa Garaia (Euskal Herria), Larraheren omenez Iker Uribek egindako margoketa.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-15 12:54:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gaizkaranguren&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gaizkaranguren (page does not exist)\">Gaizkaranguren</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125055943,
+      "ns": 6,
+      "title": "File:Erlea.jpg",
+      "lat": 42.86665,
+      "lon": -1.797242,
+      "dist": 3131.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125055943": {
+              "pageid": 125055943,
+              "ns": 6,
+              "title": "File:Erlea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Erlea.jpg/500px-Erlea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Erlea.jpg/960px-Erlea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Erlea.jpg/960px-Erlea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Erlea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erlea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125055943",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-05 11:48:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Erlea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Abejar|Self-published work|Unidentified Diptera|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.866650",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.797242",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Erle bat, ohikoena baino handiagoa eta hirian udazken betean.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nlopezaraq1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nlopezaraq1 (page does not exist)\">Nlopezaraq1</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 35956763,
+      "ns": 6,
+      "title": "File:Era de esperar (4647601117).jpg",
+      "lat": 42.854205,
+      "lon": -1.748757,
+      "dist": 3690,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "35956763": {
+              "pageid": 35956763,
+              "ns": 6,
+              "title": "File:Era de esperar (4647601117).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Era_de_esperar_%284647601117%29.jpg/500px-Era_de_esperar_%284647601117%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Era_de_esperar_%284647601117%29.jpg/960px-Era_de_esperar_%284647601117%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Era_de_esperar_%284647601117%29.jpg/960px-Era_de_esperar_%284647601117%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Era_de_esperar_%284647601117%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Era_de_esperar_(4647601117).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35956763",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-07 07:48:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Era de esperar (4647601117)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Renfe Class 432|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Photos in Flickr Explore|Photographs by André Marques",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.854205",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.748757",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Un automotor eléctrico de la serie 432 de Renfe Operadora en la estación de Zuasti (Navarra).\n<p>Más de uno los dio por enterrados hace ya un par de años, y aunque razones no le faltarían, el caso es que han aguantado contra todo hasta esta semana.\n</p><p>Pero no se van con un mal sabor de boca, se van con casi 40 años bajo sus pantógrafos, y el haber sobrevivido a series más modernas..440, 276, 250, 444, 448. Es por eso que esta era sin duda alguna una de las mejores series de trenes que Renfe ha tenido. Podéis hacer todas las quejas que queráis, pero los datos son los datos y ahí están. Cierto que ultimamente ya n oestaban para muchos trotes, aunque el trato que llevaban por parte de renfe era aún peor....\n</p><p>Bueno, hasta donde yo tengo conocimiento (es decir, casi ná) este fue el ultimo servicio comercial de los 432 en Pamplona, el regional a Vitoria de las 19:40 del Miércoles. \n</p><p>PD: Gracias a Jacob, por avisarme, a Javier López por comentarlo, y a todos los que salisteis a sacarles una foto sea cuando fuere.\n</p><p>COMENTARIO FINAL: Se busca posible aficionado al ferrocarril que estuviese el miércoles a las 19 en la estación de Zuasti.  Coche: Renault Megane\nMotivo: Si, era yo el que estaba en la estación xD\n</p>\nGracias por pasaros!",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-05-26 18:48",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/gransaco/4647601117/\">Era de esperar</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26802171@N05\">André  Marques</a> from Madrid",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

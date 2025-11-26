@@ -1,0 +1,1369 @@
+{
+  "id": 1601729548,
+  "town": {
+    "name": {
+      "default": "Eugi",
+      "es": "Eugui",
+      "eu": "Eugi"
+    },
+    "coordinates": {
+      "lat": 42.9791578,
+      "lon": -1.5109451
+    }
+  },
+  "files": [
+    {
+      "pageid": 28858778,
+      "ns": 6,
+      "title": "File:Embalse de Eugi.JPG",
+      "lat": 42.979063055556,
+      "lon": -1.5101413888889,
+      "dist": 66.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "28858778": {
+              "pageid": 28858778,
+              "ns": 6,
+              "title": "File:Embalse de Eugi.JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Embalse_de_Eugi.JPG/500px-Embalse_de_Eugi.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Embalse_de_Eugi.JPG/960px-Embalse_de_Eugi.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Embalse_de_Eugi.JPG/960px-Embalse_de_Eugi.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Embalse_de_Eugi.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Embalse_de_Eugi.JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28858778",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2013-10-05 14:42:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Embalse de Eugi",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Eugi Reservoir|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.979063",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.510141",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Embalse de Eugi",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-06-23 15:51:45",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cherubino\" title=\"User:Cherubino\">Cherubino</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 129703522,
+      "ns": 6,
+      "title": "File:Eugiko urtegia herritik ikusita.jpg",
+      "lat": 42.978355555556,
+      "lon": -1.5096583333333,
+      "dist": 137.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "129703522": {
+              "pageid": 129703522,
+              "ns": 6,
+              "title": "File:Eugiko urtegia herritik ikusita.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Eugiko_urtegia_herritik_ikusita.jpg/500px-Eugiko_urtegia_herritik_ikusita.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 180,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Eugiko_urtegia_herritik_ikusita.jpg/960px-Eugiko_urtegia_herritik_ikusita.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Eugiko_urtegia_herritik_ikusita.jpg/960px-Eugiko_urtegia_herritik_ikusita.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eugiko_urtegia_herritik_ikusita.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eugiko_urtegia_herritik_ikusita.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129703522",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-03-18 12:35:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Eugiko urtegia herritik ikusita",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Eugi Reservoir|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2023-03-18",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.978356",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.509658",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Eugiko urtegia herritik ikusita",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "18 March 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bixintxo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bixintxo (page does not exist)\">Bixintxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 51292840,
+      "ns": 6,
+      "title": "File:Espejo de primavera en Eugi (5663939604).jpg",
+      "lat": 42.974208,
+      "lon": -1.509429,
+      "dist": 564,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "51292840": {
+              "pageid": 51292840,
+              "ns": 6,
+              "title": "File:Espejo de primavera en Eugi (5663939604).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Espejo_de_primavera_en_Eugi_%285663939604%29.jpg/500px-Espejo_de_primavera_en_Eugi_%285663939604%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Espejo_de_primavera_en_Eugi_%285663939604%29.jpg/960px-Espejo_de_primavera_en_Eugi_%285663939604%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Espejo_de_primavera_en_Eugi_%285663939604%29.jpg/960px-Espejo_de_primavera_en_Eugi_%285663939604%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Espejo_de_primavera_en_Eugi_%285663939604%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Espejo_de_primavera_en_Eugi_(5663939604).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=51292840",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-09-10 09:10:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Espejo de primavera en Eugi (5663939604)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Eugi Reservoir|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.974208",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.509429",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.quintoreal.com\">www.quintoreal.com</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-04-24 12:35",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/fgoni/5663939604/\">Espejo de primavera en Eugi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46432005@N07\">Fernando Goñi Erice</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 100321169,
+      "ns": 6,
+      "title": "File:Pagadia KIntoan.jpg",
+      "lat": 42.982297,
+      "lon": -1.494827,
+      "dist": 1356.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "100321169": {
+              "pageid": 100321169,
+              "ns": 6,
+              "title": "File:Pagadia KIntoan.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pagadia_KIntoan.jpg/500px-Pagadia_KIntoan.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pagadia_KIntoan.jpg/960px-Pagadia_KIntoan.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pagadia_KIntoan.jpg/960px-Pagadia_KIntoan.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pagadia_KIntoan.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pagadia_KIntoan.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100321169",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-02-25 19:03:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Pagadia KIntoan",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Monte Alduide (Special Area of Conservation)|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Fagus sylvatica forests in Navarre",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.982297",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.494827",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "www.quintoreal.com",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-11-04 12:14:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/fgoni/6312178789/\">https://www.flickr.com/photos/fgoni/6312178789/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Fernando Goñi Erice",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 103198992,
+      "ns": 6,
+      "title": "File:ISS053-E-286844 - View of Earth.jpg",
+      "lat": 43,
+      "lon": -1.5,
+      "dist": 2482.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "103198992": {
+              "pageid": 103198992,
+              "ns": 6,
+              "title": "File:ISS053-E-286844 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ISS053-E-286844_-_View_of_Earth.jpg/500px-ISS053-E-286844_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ISS053-E-286844_-_View_of_Earth.jpg/960px-ISS053-E-286844_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ISS053-E-286844_-_View_of_Earth.jpg/960px-ISS053-E-286844_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/ISS053-E-286844_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS053-E-286844_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103198992",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-06 20:21:53",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS053-E-286844 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Aurora viewed from space|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 53 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-11-28",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 53.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-11-28 00:35:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS053&amp;roll=E&amp;frame=286844\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 103202832,
+      "ns": 6,
+      "title": "File:ISS053-E-295007 - View of Earth.jpg",
+      "lat": 43,
+      "lon": -1.5,
+      "dist": 2482.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "103202832": {
+              "pageid": 103202832,
+              "ns": 6,
+              "title": "File:ISS053-E-295007 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ISS053-E-295007_-_View_of_Earth.jpg/500px-ISS053-E-295007_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ISS053-E-295007_-_View_of_Earth.jpg/960px-ISS053-E-295007_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ISS053-E-295007_-_View_of_Earth.jpg/960px-ISS053-E-295007_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/ISS053-E-295007_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS053-E-295007_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103202832",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-06 21:24:29",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS053-E-295007 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 53 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-11-28",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 53.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-11-28 00:35:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS053&amp;roll=E&amp;frame=295007\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 103202817,
+      "ns": 6,
+      "title": "File:ISS053-E-295006 - View of Earth.jpg",
+      "lat": 43,
+      "lon": -1.5,
+      "dist": 2482.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "103202817": {
+              "pageid": 103202817,
+              "ns": 6,
+              "title": "File:ISS053-E-295006 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISS053-E-295006_-_View_of_Earth.jpg/500px-ISS053-E-295006_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISS053-E-295006_-_View_of_Earth.jpg/960px-ISS053-E-295006_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISS053-E-295006_-_View_of_Earth.jpg/960px-ISS053-E-295006_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISS053-E-295006_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS053-E-295006_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103202817",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-06 21:24:15",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS053-E-295006 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 53 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-11-28",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 53.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-11-28 00:35:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS053&amp;roll=E&amp;frame=295006\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 114109052,
+      "ns": 6,
+      "title": "File:Bayonne-Rue des Gouverneurs-1900.jpg",
+      "lat": 43,
+      "lon": -1.47748337,
+      "dist": 3574.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "114109052": {
+              "pageid": 114109052,
+              "ns": 6,
+              "title": "File:Bayonne-Rue des Gouverneurs-1900.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bayonne-Rue_des_Gouverneurs-1900.jpg/500px-Bayonne-Rue_des_Gouverneurs-1900.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 253,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bayonne-Rue_des_Gouverneurs-1900.jpg/960px-Bayonne-Rue_des_Gouverneurs-1900.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bayonne-Rue_des_Gouverneurs-1900.jpg/960px-Bayonne-Rue_des_Gouverneurs-1900.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bayonne-Rue_des_Gouverneurs-1900.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bayonne-Rue_des_Gouverneurs-1900.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114109052",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-01-08 16:10:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Bayonne-Rue des Gouverneurs-1900",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Rue des Gouverneurs, Bayonne|History of Bayonne|PD US expired|PD-anon-70-EU|Files with coordinates missing SDC location of creation|1900 in Bayonne",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.477483",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "The “Rue des Gouverneurs” (Governors' stret) seen from the entrance to the courtyard of the “Château Vieux”..",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "circa 1900<div style=\"display: none;\">date QS:P,+1900-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Personal collection of <a href=\"//commons.wikimedia.org/wiki/User:Daniel_VILLAFRUELA\" title=\"User:Daniel VILLAFRUELA\"> Daniel VILLAFRUELA</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<i><b>Note:</b> In Germany and possibly other countries, certain anonymous works published before July 1, 1995 are copyrighted until 70 years after the death of the author. See <a href=\"https://de.wikipedia.org/wiki/Anonymes_Werk_(Urheberrecht)#Fr%C3%BChere_Rechtslage_in_Deutschland_/_%C3%9Cbergangsrecht\" class=\"extiw\" title=\"de:Anonymes Werk (Urheberrecht)\">Übergangsrecht</a>.  Please use this template only if the author never claimed authorship or their authorship never became public in any other way.  If the work is anonymous or pseudonymous (e.g., published only under a corporate or organization's name), use this template for images published more than 70 years ago.</i>\n<i>For a work made available to the public in the United Kingdom, please use <a href=\"//commons.wikimedia.org/wiki/Template:PD-UK-unknown\" title=\"Template:PD-UK-unknown\">Template:PD-UK-unknown</a> instead.</i>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "Public domain works must be out of copyright in both the United States and in the source country of the work in order to be hosted on the Commons. If the work is not a U.S. work, the file <b>must</b> have an additional <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags\" title=\"Commons:Copyright tags\">copyright tag</a> indicating the copyright status in the source country.<br><b>Note:</b> This tag should <i>not</i> be used for sound recordings.<span style=\"display:none;\"><span class=\"licensetpl_short\">PD-1923</span><span class=\"licensetpl_long\"><a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">Public domain</a> in the United States</span><span class=\"licensetpl_link\">//commons.wikimedia.org/wiki/File:Bayonne-Rue_des_Gouverneurs-1900.jpg</span></span>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50697006,
+      "ns": 6,
+      "title": "File:Zilbeti.jpg",
+      "lat": 42.984771,
+      "lon": -1.46441,
+      "dist": 3836.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50697006": {
+              "pageid": 50697006,
+              "ns": 6,
+              "title": "File:Zilbeti.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zilbeti.jpg/500px-Zilbeti.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zilbeti.jpg/960px-Zilbeti.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zilbeti.jpg/960px-Zilbeti.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Zilbeti.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zilbeti.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50697006",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-15 20:33:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zilbeti",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zilbeti|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.984771",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.464410",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista del casco urbano de Zilbeti, en el municipio de Erro, Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-12 11:28:11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mbtirado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mbtirado (page does not exist)\">Mbtirado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 129700006,
+      "ns": 6,
+      "title": "File:Leranotz.jpg",
+      "lat": 42.945554657999,
+      "lon": -1.5239427594337,
+      "dist": 3883.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "129700006": {
+              "pageid": 129700006,
+              "ns": 6,
+              "title": "File:Leranotz.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Leranotz.jpg/500px-Leranotz.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Leranotz.jpg/960px-Leranotz.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Leranotz.jpg/960px-Leranotz.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Leranotz.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leranotz.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129700006",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-03-18 10:04:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Leranotz",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Leranotz|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2023-03-18",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.945555",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.523943",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Leranotz (Esteribarko lekua, Nafarroa Garaian)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "18 March 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bixintxo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bixintxo (page does not exist)\">Bixintxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 129699996,
+      "ns": 6,
+      "title": "File:Leranotz fosa.jpg",
+      "lat": 42.945040492635,
+      "lon": -1.5224149112091,
+      "dist": 3906.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "129699996": {
+              "pageid": 129699996,
+              "ns": 6,
+              "title": "File:Leranotz fosa.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leranotz_fosa.jpg/500px-Leranotz_fosa.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 180,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leranotz_fosa.jpg/960px-Leranotz_fosa.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leranotz_fosa.jpg/960px-Leranotz_fosa.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Leranotz_fosa.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leranotz_fosa.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129699996",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-03-18 10:03:29",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Leranotz fosa",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Leranotz|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2023-03-18|Media needing category review as of 6 June 2023|Oroimen historikoa|Oroimenaren txokoa",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.945040",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.522415",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Leranotz fosa (Espainiako Gerra Zibileko hobia Nafarroan)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "18 March 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bixintxo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bixintxo (page does not exist)\">Bixintxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

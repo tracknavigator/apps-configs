@@ -1,0 +1,760 @@
+{
+  "id": 3597180019,
+  "town": {
+    "name": {
+      "default": "San Martín de Unx",
+      "es": "San Martín de Unx",
+      "eu": "San Martin Unx"
+    },
+    "coordinates": {
+      "lat": 42.5237233,
+      "lon": -1.5616093
+    }
+  },
+  "files": [
+    {
+      "pageid": 74470888,
+      "ns": 6,
+      "title": "File:Cripta de San Martín en Unx (45714818721).jpg",
+      "lat": 42.525555,
+      "lon": -1.560803,
+      "dist": 214.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "74470888": {
+              "pageid": 74470888,
+              "ns": 6,
+              "title": "File:Cripta de San Martín en Unx (45714818721).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845714818721%29.jpg/500px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845714818721%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845714818721%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845714818721%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845714818721%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845714818721%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845714818721%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cripta_de_San_Mart%C3%ADn_en_Unx_(45714818721).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74470888",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-11-17 21:17:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cripta de San Martín en Unx (45714818721)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Church of San Martin de Tours, San Martín de Unx|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.525555",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.560803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martín de Tours es una iglesia en la localidad de San Martín de Unx, en Navarra. Construida en el siglo XII, tiene una cripta que ayuda a salvar el desnivel del terreno y a la que se accede por una escalera de caracol dentro del templo.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-19 16:48",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/45714818721/\">Cripta de San Martín en Unx</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 74470882,
+      "ns": 6,
+      "title": "File:Cripta de San Martín en Unx (45664816332).jpg",
+      "lat": 42.525555,
+      "lon": -1.560803,
+      "dist": 214.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "74470882": {
+              "pageid": 74470882,
+              "ns": 6,
+              "title": "File:Cripta de San Martín en Unx (45664816332).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664816332%29.jpg/500px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664816332%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 294,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664816332%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664816332%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664816332%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664816332%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664816332%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cripta_de_San_Mart%C3%ADn_en_Unx_(45664816332).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74470882",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-11-17 21:17:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cripta de San Martín en Unx (45664816332)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Martin de Tours, San Martín de Unx|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.525555",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.560803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martín de Tours es una iglesia en la localidad de San Martín de Unx, en Navarra. Construida en el siglo XII, tiene una cripta que ayuda a salvar el desnivel del terreno y a la que se accede por una escalera de caracol dentro del templo.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-19 16:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/45664816332/\">Cripta de San Martín en Unx</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 74470891,
+      "ns": 6,
+      "title": "File:Cripta de San Martín en Unx (44990216424).jpg",
+      "lat": 42.525555,
+      "lon": -1.560803,
+      "dist": 214.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "74470891": {
+              "pageid": 74470891,
+              "ns": 6,
+              "title": "File:Cripta de San Martín en Unx (44990216424).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cripta_de_San_Mart%C3%ADn_en_Unx_%2844990216424%29.jpg/500px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2844990216424%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cripta_de_San_Mart%C3%ADn_en_Unx_%2844990216424%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2844990216424%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cripta_de_San_Mart%C3%ADn_en_Unx_%2844990216424%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2844990216424%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cripta_de_San_Mart%C3%ADn_en_Unx_%2844990216424%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cripta_de_San_Mart%C3%ADn_en_Unx_(44990216424).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74470891",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-11-17 21:17:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cripta de San Martín en Unx (44990216424)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Martin de Tours, San Martín de Unx|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.525555",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.560803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martín de Tours es una iglesia en la localidad de San Martín de Unx, en Navarra. Construida en el siglo XII, tiene una cripta que ayuda a salvar el desnivel del terreno y a la que se accede por una escalera de caracol dentro del templo.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-19 16:47",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/44990216424/\">Cripta de San Martín en Unx</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 74470879,
+      "ns": 6,
+      "title": "File:Cripta de San Martín en Unx (45715484001).jpg",
+      "lat": 42.525555,
+      "lon": -1.560803,
+      "dist": 214.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "74470879": {
+              "pageid": 74470879,
+              "ns": 6,
+              "title": "File:Cripta de San Martín en Unx (45715484001).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845715484001%29.jpg/500px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845715484001%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 278,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845715484001%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845715484001%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845715484001%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845715484001%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845715484001%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cripta_de_San_Mart%C3%ADn_en_Unx_(45715484001).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74470879",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-11-17 21:17:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cripta de San Martín en Unx (45715484001)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Martin de Tours, San Martín de Unx|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.525555",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.560803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martín de Tours es una iglesia en la localidad de San Martín de Unx, en Navarra. Construida en el siglo XII, tiene una cripta que ayuda a salvar el desnivel del terreno y a la que se accede por una escalera de caracol dentro del templo.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-19 16:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/45715484001/\">Cripta de San Martín en Unx</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 74470886,
+      "ns": 6,
+      "title": "File:Cripta de San Martín en Unx (45664824392).jpg",
+      "lat": 42.525555,
+      "lon": -1.560803,
+      "dist": 214.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "74470886": {
+              "pageid": 74470886,
+              "ns": 6,
+              "title": "File:Cripta de San Martín en Unx (45664824392).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664824392%29.jpg/500px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664824392%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 272,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664824392%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664824392%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664824392%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664824392%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cripta_de_San_Mart%C3%ADn_en_Unx_%2845664824392%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cripta_de_San_Mart%C3%ADn_en_Unx_(45664824392).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74470886",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-11-17 21:17:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cripta de San Martín en Unx (45664824392)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Martin de Tours, San Martín de Unx|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.525555",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.560803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martín de Tours es una iglesia en la localidad de San Martín de Unx, en Navarra. Construida en el siglo XII, tiene una cripta que ayuda a salvar el desnivel del terreno y a la que se accede por una escalera de caracol dentro del templo.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-19 16:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/45664824392/\">Cripta de San Martín en Unx</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 74470877,
+      "ns": 6,
+      "title": "File:Cripta de San Martín en Unx (44801482175).jpg",
+      "lat": 42.525555,
+      "lon": -1.560803,
+      "dist": 214.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "74470877": {
+              "pageid": 74470877,
+              "ns": 6,
+              "title": "File:Cripta de San Martín en Unx (44801482175).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cripta_de_San_Mart%C3%ADn_en_Unx_%2844801482175%29.jpg/500px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2844801482175%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 307,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cripta_de_San_Mart%C3%ADn_en_Unx_%2844801482175%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2844801482175%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cripta_de_San_Mart%C3%ADn_en_Unx_%2844801482175%29.jpg/960px-Cripta_de_San_Mart%C3%ADn_en_Unx_%2844801482175%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cripta_de_San_Mart%C3%ADn_en_Unx_%2844801482175%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cripta_de_San_Mart%C3%ADn_en_Unx_(44801482175).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74470877",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-11-17 21:16:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cripta de San Martín en Unx (44801482175)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Martin de Tours, San Martín de Unx|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.525555",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.560803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martín de Tours es una iglesia en la localidad de San Martín de Unx, en Navarra. Construida en el siglo XII, tiene una cripta que ayuda a salvar el desnivel del terreno y a la que se accede por una escalera de caracol dentro del templo.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-19 16:54",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/44801482175/\">Cripta de San Martín en Unx</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

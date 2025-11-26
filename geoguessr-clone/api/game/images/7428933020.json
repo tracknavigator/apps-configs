@@ -1,0 +1,3250 @@
+{
+  "id": 7428933020,
+  "town": {
+    "name": {
+      "default": "La Iglesia",
+      "es": null,
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 43.271827,
+      "lon": -3.2563996
+    }
+  },
+  "files": [
+    {
+      "pageid": 82274054,
+      "ns": 6,
+      "title": "File:Turtzioz - Romañako San Pedro eliza 007.jpg",
+      "lat": 43.272387,
+      "lon": -3.256499,
+      "dist": 62.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82274054": {
+              "pageid": 82274054,
+              "ns": 6,
+              "title": "File:Turtzioz - Romañako San Pedro eliza 007.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_007.jpg/500px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_007.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_007.jpg/960px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_007.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_007.jpg/960px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_007.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_007.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_007.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82274054",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-17 21:22:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Turtzioz - Romañako San Pedro eliza 007",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Self-published work|Spain photographs taken on 2010-08-01|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.272387",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.256499",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Romañako San Pedro Eliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-08-01 11:34:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82274053,
+      "ns": 6,
+      "title": "File:Turtzioz - Romañako San Pedro eliza 001.jpg",
+      "lat": 43.272387,
+      "lon": -3.256499,
+      "dist": 62.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82274053": {
+              "pageid": 82274053,
+              "ns": 6,
+              "title": "File:Turtzioz - Romañako San Pedro eliza 001.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_001.jpg/500px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_001.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_001.jpg/960px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_001.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_001.jpg/960px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_001.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_001.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_001.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82274053",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-17 21:22:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Turtzioz - Romañako San Pedro eliza 001",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Self-published work|Spain photographs taken on 2010-08-01|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.272387",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.256499",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Romañako San Pedro Eliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-08-01 11:30:48",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82274052,
+      "ns": 6,
+      "title": "File:Turtzioz - Romañako San Pedro eliza 004.jpg",
+      "lat": 43.272387,
+      "lon": -3.256499,
+      "dist": 62.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82274052": {
+              "pageid": 82274052,
+              "ns": 6,
+              "title": "File:Turtzioz - Romañako San Pedro eliza 004.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_004.jpg/500px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_004.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_004.jpg/960px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_004.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_004.jpg/960px-Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_004.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_004.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Turtzioz_-_Roma%C3%B1ako_San_Pedro_eliza_004.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82274052",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-17 21:22:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Turtzioz - Romañako San Pedro eliza 004",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Self-published work|Spain photographs taken on 2010-08-01|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.272387",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.256499",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Romañako San Pedro Eliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-08-01 11:34:02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 148768356,
+      "ns": 6,
+      "title": "File:KZgunea de Trucíos.jpg",
+      "lat": 43.272369,
+      "lon": -3.256762,
+      "dist": 67,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "148768356": {
+              "pageid": 148768356,
+              "ns": 6,
+              "title": "File:KZgunea de Trucíos.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KZgunea_de_Truc%C3%ADos.jpg/500px-KZgunea_de_Truc%C3%ADos.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KZgunea_de_Truc%C3%ADos.jpg/960px-KZgunea_de_Truc%C3%ADos.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KZgunea_de_Truc%C3%ADos.jpg/960px-KZgunea_de_Truc%C3%ADos.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/KZgunea_de_Truc%C3%ADos.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:KZgunea_de_Truc%C3%ADos.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148768356",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-05-27 10:32:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "KZgunea de Trucíos",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Casa de Cultura de Trucíos",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.272369",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.256762",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "El KZgunea de Trucíos está en la Casa de Cultura y tiene 4 ordenadores y una impresora",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-05-08 16:45:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Turtziozkultur&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Turtziozkultur (page does not exist)\">Turtziozkultur</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 148768364,
+      "ns": 6,
+      "title": "File:Sala de audiovisuales de Trucíos.jpg",
+      "lat": 43.272369,
+      "lon": -3.256762,
+      "dist": 67,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "148768364": {
+              "pageid": 148768364,
+              "ns": 6,
+              "title": "File:Sala de audiovisuales de Trucíos.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sala_de_audiovisuales_de_Truc%C3%ADos.jpg/500px-Sala_de_audiovisuales_de_Truc%C3%ADos.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sala_de_audiovisuales_de_Truc%C3%ADos.jpg/960px-Sala_de_audiovisuales_de_Truc%C3%ADos.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sala_de_audiovisuales_de_Truc%C3%ADos.jpg/960px-Sala_de_audiovisuales_de_Truc%C3%ADos.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sala_de_audiovisuales_de_Truc%C3%ADos.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sala_de_audiovisuales_de_Truc%C3%ADos.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148768364",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-05-27 10:33:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sala de audiovisuales de Trucíos",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|Casa de Cultura de Trucíos",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.272369",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.256762",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sala de video de la Casa de Cultura de Trucíos",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-05-08 16:50:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Turtziozkultur&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Turtziozkultur (page does not exist)\">Turtziozkultur</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791723,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría08.jpg",
+      "lat": 43.257573,
+      "lon": -3.263808,
+      "dist": 1694.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791723": {
+              "pageid": 124791723,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría08.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa08.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa08.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa08.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa08.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa08.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa08.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa08.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa08.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791723",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría08",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257573",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.263808",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:45:41",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791725,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría09.jpg",
+      "lat": 43.257586,
+      "lon": -3.263866,
+      "dist": 1695,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791725": {
+              "pageid": 124791725,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría09.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa09.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa09.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa09.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa09.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa09.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa09.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa09.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa09.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791725",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría09",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257586",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.263866",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:47:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791713,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría01.jpg",
+      "lat": 43.257373,
+      "lon": -3.263986,
+      "dist": 1720.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791713": {
+              "pageid": 124791713,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa01.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa01.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa01.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791713",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257373",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.263986",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:39:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791734,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría15.jpg",
+      "lat": 43.257266,
+      "lon": -3.263729,
+      "dist": 1724.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791734": {
+              "pageid": 124791734,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría15.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa15.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa15.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa15.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa15.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa15.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa15.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa15.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa15.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791734",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:25",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría15",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257266",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.263729",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:37:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791726,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría10.jpg",
+      "lat": 43.257372,
+      "lon": -3.264136,
+      "dist": 1725.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791726": {
+              "pageid": 124791726,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría10.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa10.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa10.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa10.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa10.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa10.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa10.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa10.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa10.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791726",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:21",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría10",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257372",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264136",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:48:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791733,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría14.jpg",
+      "lat": 43.257215,
+      "lon": -3.263735,
+      "dist": 1729.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791733": {
+              "pageid": 124791733,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría14.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa14.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa14.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa14.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa14.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa14.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa14.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa14.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa14.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791733",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:25",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría14",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257215",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.263735",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:37:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791729,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría12.jpg",
+      "lat": 43.257186,
+      "lon": -3.263707,
+      "dist": 1732.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791729": {
+              "pageid": 124791729,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría12.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa12.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa12.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa12.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa12.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa12.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa12.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa12.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa12.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791729",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría12",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257186",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.263707",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:36:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791732,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría13.jpg",
+      "lat": 43.257186,
+      "lon": -3.263707,
+      "dist": 1732.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791732": {
+              "pageid": 124791732,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría13.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa13.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa13.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa13.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa13.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa13.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa13.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa13.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa13.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791732",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:24",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría13",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257186",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.263707",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:36:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791727,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría11.jpg",
+      "lat": 43.25718,
+      "lon": -3.26371,
+      "dist": 1732.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791727": {
+              "pageid": 124791727,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría11.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa11.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa11.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa11.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa11.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa11.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa11.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa11.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa11.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791727",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:21",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría11",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257180",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.263710",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:36:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791724,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría07.jpg",
+      "lat": 43.257303,
+      "lon": -3.264248,
+      "dist": 1735.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791724": {
+              "pageid": 124791724,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría07.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa07.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa07.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa07.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa07.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa07.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa07.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa07.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa07.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791724",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría07",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257303",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264248",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:43:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791499,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros04.jpg",
+      "lat": 43.257163,
+      "lon": -3.264095,
+      "dist": 1745.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791499": {
+              "pageid": 124791499,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros04.jpg/500px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros04.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros04.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791499",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:39:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257163",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264095",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Antigua plaza de toros junto a la iglesa de Santa María - Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:38:57",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791495,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros02.jpg",
+      "lat": 43.257163,
+      "lon": -3.264095,
+      "dist": 1745.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791495": {
+              "pageid": 124791495,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros02.jpg/500px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros02.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros02.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791495",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:39:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257163",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264095",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Antigua plaza de toros junto a la iglesa de Santa María - Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:33:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791496,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros03.jpg",
+      "lat": 43.257163,
+      "lon": -3.264095,
+      "dist": 1745.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791496": {
+              "pageid": 124791496,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros03.jpg/500px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros03.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros03.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791496",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:39:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257163",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264095",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Antigua plaza de toros junto a la iglesa de Santa María - Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:38:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791564,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros01.jpg",
+      "lat": 43.257163,
+      "lon": -3.264095,
+      "dist": 1745.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791564": {
+              "pageid": 124791564,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros01.jpg/500px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros01.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros01.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791564",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:40:53",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257163",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264095",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Antigua plaza de toros junto a la iglesa de Santa María - Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:33:20",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791500,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros05.jpg",
+      "lat": 43.257163,
+      "lon": -3.264095,
+      "dist": 1745.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791500": {
+              "pageid": 124791500,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros05.jpg/500px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros05.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros05.jpg/960px-ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-BarrioSantaMar%C3%ADa-PlazaDeToros05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791500",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:39:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-BarrioSantaMaría-PlazaDeToros05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257163",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264095",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Antigua plaza de toros junto a la iglesa de Santa María - Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:39:10",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791715,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría02.jpg",
+      "lat": 43.257135,
+      "lon": -3.264066,
+      "dist": 1747.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791715": {
+              "pageid": 124791715,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa02.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa02.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa02.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791715",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257135",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264066",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:41:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791719,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría06.jpg",
+      "lat": 43.257075,
+      "lon": -3.264121,
+      "dist": 1755.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791719": {
+              "pageid": 124791719,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa06.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa06.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa06.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791719",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:15",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257075",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264121",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:42:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791718,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría05.jpg",
+      "lat": 43.257058,
+      "lon": -3.264094,
+      "dist": 1756.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791718": {
+              "pageid": 124791718,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa05.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa05.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa05.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791718",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Pages with maps|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257058",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264094",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:41:55",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791714,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría03.jpg",
+      "lat": 43.257052,
+      "lon": -3.264144,
+      "dist": 1758.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791714": {
+              "pageid": 124791714,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa03.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa03.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa03.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791714",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257052",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264144",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:41:32",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124791717,
+      "ns": 6,
+      "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría04.jpg",
+      "lat": 43.257047,
+      "lon": -3.264138,
+      "dist": 1758.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124791717": {
+              "pageid": 124791717,
+              "ns": 6,
+              "title": "File:ValleDeVillaverde-IglesiaDeSantaMaría04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa04.jpg/500px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa04.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa04.jpg/960px-ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ValleDeVillaverde-IglesiaDeSantaMar%C3%ADa04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124791717",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-31 18:45:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ValleDeVillaverde-IglesiaDeSantaMaría04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Cantabria|Valle de Villaverde|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.257047",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.264138",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María, Valle de Villaverde",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-09 16:41:44",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Trastolillo\" title=\"User:Trastolillo\">Trastolillo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 39703655,
+      "ns": 6,
+      "title": "File:Villaverde de Trucíos - panoramio.jpg",
+      "lat": 43.244452,
+      "lon": -3.260794,
+      "dist": 3064.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "39703655": {
+              "pageid": 39703655,
+              "ns": 6,
+              "title": "File:Villaverde de Trucíos - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Villaverde_de_Truc%C3%ADos_-_panoramio.jpg/500px-Villaverde_de_Truc%C3%ADos_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Villaverde_de_Truc%C3%ADos_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Villaverde_de_Truc%C3%ADos_-_panoramio.jpg/600px-Villaverde_de_Truc%C3%ADos_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Villaverde_de_Truc%C3%ADos_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Villaverde_de_Truc%C3%ADos_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39703655",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-04-21 12:30:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Villaverde de Trucíos - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Valle de Villaverde|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.244452",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.260794",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Villaverde de Trucíos",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "1 July 2007 (original upload date)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161011011411/http://www.panoramio.com/photo/3064511\">https://web.archive.org/web/20161011011411/http://www.panoramio.com/photo/3064511</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161011011414/http://www.panoramio.com/user/360799?with_photo_id=3064511\">manolofeal</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">manolofeal</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 21 April 2015 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "manolofeal",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "id": 1439532177,
+  "town": {
+    "name": {
+      "default": "Lezaun",
+      "es": "Lezáun",
+      "eu": "Lezaun"
+    },
+    "coordinates": {
+      "lat": 42.7778491,
+      "lon": -1.9942909
+    }
+  },
+  "files": [
+    {
+      "pageid": 58889295,
+      "ns": 6,
+      "title": "File:Lezáun 03.jpg",
+      "lat": 42.777146,
+      "lon": -1.993902,
+      "dist": 84.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58889295": {
+              "pageid": 58889295,
+              "ns": 6,
+              "title": "File:Lezáun 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lez%C3%A1un_03.jpg/500px-Lez%C3%A1un_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 271,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lez%C3%A1un_03.jpg/960px-Lez%C3%A1un_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Lez%C3%A1un_03.jpg/960px-Lez%C3%A1un_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Lez%C3%A1un_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lez%C3%A1un_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58889295",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-05-14 17:47:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lezáun 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Abandoned buildings in Spain|Lezáun|Images with annotations|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Rural houses in Spain|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.777146",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.993902",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lezaun, village houses, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-05-13 11:35:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58889299,
+      "ns": 6,
+      "title": "File:Lezáun - Portal 01.jpg",
+      "lat": 42.777065,
+      "lon": -1.993949,
+      "dist": 91.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58889299": {
+              "pageid": 58889299,
+              "ns": 6,
+              "title": "File:Lezáun - Portal 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lez%C3%A1un_-_Portal_01.jpg/500px-Lez%C3%A1un_-_Portal_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 473,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lez%C3%A1un_-_Portal_01.jpg/960px-Lez%C3%A1un_-_Portal_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lez%C3%A1un_-_Portal_01.jpg/960px-Lez%C3%A1un_-_Portal_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lez%C3%A1un_-_Portal_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lez%C3%A1un_-_Portal_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58889299",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-05-14 17:47:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lezáun - Portal 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Abandoned buildings in Spain|Lezáun|Pages with maps|Coats of arms on buildings in Navarre|Self-published work|Images of municipalities without photograph until now|Portals in Navarre|Images from Spanish municipalities with no previous picture uploaded in 2017|Reliefs of coats of arms in Navarre|Wooden doors in Navarre|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.777065",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.993949",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lezaun, façade of an abanoned building, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-05-13 11:35:34",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58889297,
+      "ns": 6,
+      "title": "File:Lezáun 01.jpg",
+      "lat": 42.77728,
+      "lon": -1.993412,
+      "dist": 95.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58889297": {
+              "pageid": 58889297,
+              "ns": 6,
+              "title": "File:Lezáun 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lez%C3%A1un_01.jpg/500px-Lez%C3%A1un_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 315,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lez%C3%A1un_01.jpg/960px-Lez%C3%A1un_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lez%C3%A1un_01.jpg/960px-Lez%C3%A1un_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lez%C3%A1un_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lez%C3%A1un_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58889297",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-05-14 17:47:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lezáun 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Lezáun|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Rural houses in Spain|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.777280",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.993412",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lezaun, village houses and the church, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-05-13 11:34:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58889298,
+      "ns": 6,
+      "title": "File:Lezáun 02.jpg",
+      "lat": 42.773413,
+      "lon": -1.993133,
+      "dist": 502.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58889298": {
+              "pageid": 58889298,
+              "ns": 6,
+              "title": "File:Lezáun 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lez%C3%A1un_02.jpg/500px-Lez%C3%A1un_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 276,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lez%C3%A1un_02.jpg/960px-Lez%C3%A1un_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lez%C3%A1un_02.jpg/960px-Lez%C3%A1un_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lez%C3%A1un_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lez%C3%A1un_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58889298",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-05-14 17:47:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lezáun 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lezáun|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Containers in Spain|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773413",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.993133",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Lezaun, Navarre, Spain; in front container of a school farm",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-05-13 11:24:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 101634812,
+      "ns": 6,
+      "title": "File:ISS043-E-127091 - View of Earth.jpg",
+      "lat": 42.8,
+      "lon": -2,
+      "dist": 2506.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "101634812": {
+              "pageid": 101634812,
+              "ns": 6,
+              "title": "File:ISS043-E-127091 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ISS043-E-127091_-_View_of_Earth.jpg/500px-ISS043-E-127091_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ISS043-E-127091_-_View_of_Earth.jpg/960px-ISS043-E-127091_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ISS043-E-127091_-_View_of_Earth.jpg/960px-ISS043-E-127091_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/ISS043-E-127091_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS043-E-127091_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101634812",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-16 19:23:29",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS043-E-127091 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|ISS Expedition 43 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2015-04-20|Daytime Earth viewed from space",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.800000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 43.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-04-20 14:08:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS043&amp;roll=E&amp;frame=127091\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 101634814,
+      "ns": 6,
+      "title": "File:ISS043-E-127093 - View of Earth.jpg",
+      "lat": 42.8,
+      "lon": -2,
+      "dist": 2506.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "101634814": {
+              "pageid": 101634814,
+              "ns": 6,
+              "title": "File:ISS043-E-127093 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/ISS043-E-127093_-_View_of_Earth.jpg/500px-ISS043-E-127093_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/ISS043-E-127093_-_View_of_Earth.jpg/960px-ISS043-E-127093_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/ISS043-E-127093_-_View_of_Earth.jpg/960px-ISS043-E-127093_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/ISS043-E-127093_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS043-E-127093_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101634814",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-16 19:23:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS043-E-127093 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|ISS Expedition 43 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2015-04-20|Daytime Earth viewed from space",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.800000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 43.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-04-20 14:08:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS043&amp;roll=E&amp;frame=127093\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 101634820,
+      "ns": 6,
+      "title": "File:ISS043-E-127092 - View of Earth.jpg",
+      "lat": 42.8,
+      "lon": -2,
+      "dist": 2506.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "101634820": {
+              "pageid": 101634820,
+              "ns": 6,
+              "title": "File:ISS043-E-127092 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ISS043-E-127092_-_View_of_Earth.jpg/500px-ISS043-E-127092_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ISS043-E-127092_-_View_of_Earth.jpg/960px-ISS043-E-127092_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ISS043-E-127092_-_View_of_Earth.jpg/960px-ISS043-E-127092_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/ISS043-E-127092_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS043-E-127092_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101634820",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-16 19:23:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS043-E-127092 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|ISS Expedition 43 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2015-04-20|Daytime Earth viewed from space",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.800000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 43.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-04-20 14:08:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS043&amp;roll=E&amp;frame=127092\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 37667370,
+      "ns": 6,
+      "title": "File:Iturgoyen (2).JPG",
+      "lat": 42.776967,
+      "lon": -1.954501,
+      "dist": 3249,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "37667370": {
+              "pageid": 37667370,
+              "ns": 6,
+              "title": "File:Iturgoyen (2).JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Iturgoyen_%282%29.JPG/500px-Iturgoyen_%282%29.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Iturgoyen_%282%29.JPG/960px-Iturgoyen_%282%29.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Iturgoyen_%282%29.JPG/960px-Iturgoyen_%282%29.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Iturgoyen_%282%29.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturgoyen_(2).JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37667370",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-01-04 12:35:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturgoyen (2)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Iturgoyen|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.776967",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.954501",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iturgoyen",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-08-11 17:14:14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jvinolase\" title=\"User:Jvinolase\">Josep Maria Viñolas Esteva</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 37667369,
+      "ns": 6,
+      "title": "File:Iturgoyen (5).JPG",
+      "lat": 42.776373,
+      "lon": -1.954125,
+      "dist": 3282.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "37667369": {
+              "pageid": 37667369,
+              "ns": 6,
+              "title": "File:Iturgoyen (5).JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iturgoyen_%285%29.JPG/500px-Iturgoyen_%285%29.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 292,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iturgoyen_%285%29.JPG/960px-Iturgoyen_%285%29.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iturgoyen_%285%29.JPG/960px-Iturgoyen_%285%29.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Iturgoyen_%285%29.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturgoyen_(5).JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37667369",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-01-04 12:35:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturgoyen (5)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Iturgoyen|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.776373",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.954125",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iturgoyen",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-08-11 17:19:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jvinolase\" title=\"User:Jvinolase\">Josep Maria Viñolas Esteva</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

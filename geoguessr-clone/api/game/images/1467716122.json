@@ -1,0 +1,508 @@
+{
+  "id": 1467716122,
+  "town": {
+    "name": {
+      "default": "Murchante",
+      "es": "Murchante",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.0309725,
+      "lon": -1.655853
+    }
+  },
+  "files": [
+    {
+      "pageid": 99543419,
+      "ns": 6,
+      "title": "File:Autovía A-68 - 50887599328.jpg",
+      "lat": 42.051381,
+      "lon": -1.623382,
+      "dist": 3512.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "99543419": {
+              "pageid": 99543419,
+              "ns": 6,
+              "title": "File:Autovía A-68 - 50887599328.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Autov%C3%ADa_A-68_-_50887599328.jpg/500px-Autov%C3%ADa_A-68_-_50887599328.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 186,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Autov%C3%ADa_A-68_-_50887599328.jpg/960px-Autov%C3%ADa_A-68_-_50887599328.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Autov%C3%ADa_A-68_-_50887599328.jpg/960px-Autov%C3%ADa_A-68_-_50887599328.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Autov%C3%ADa_A-68_-_50887599328.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Autov%C3%ADa_A-68_-_50887599328.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99543419",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-02-03 18:18:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Autovía A-68 - 50887599328",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|A-68|Roads in Navarre|Trucks in Spain|Spain photographs taken on 2020-11-27|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Transport in Tudela|Photographs by Txemai Argazki",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.051381",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.623382",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Autovía A-68",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 27 November 2020, 12:53:32",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/serrvill/50887599328/\">https://www.flickr.com/photos/serrvill/50887599328/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59170444@N05\">Txemari</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 99543379,
+      "ns": 6,
+      "title": "File:Transporte por carretera - 50899631001.jpg",
+      "lat": 42.051412,
+      "lon": -1.623314,
+      "dist": 3519.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "99543379": {
+              "pageid": 99543379,
+              "ns": 6,
+              "title": "File:Transporte por carretera - 50899631001.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Transporte_por_carretera_-_50899631001.jpg/500px-Transporte_por_carretera_-_50899631001.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 195,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Transporte_por_carretera_-_50899631001.jpg/960px-Transporte_por_carretera_-_50899631001.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Transporte_por_carretera_-_50899631001.jpg/960px-Transporte_por_carretera_-_50899631001.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Transporte_por_carretera_-_50899631001.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Transporte_por_carretera_-_50899631001.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99543379",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-02-03 18:17:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Transporte por carretera - 50899631001",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|A-68|Roads in Navarre|Trucks in Spain|Spain photographs taken on 2020-11-27|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Transport in Tudela|Photographs by Txemai Argazki",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.051412",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.623314",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Transporte por carretera en España.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 27 November 2020, 12:53:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/serrvill/50899631001/\">https://www.flickr.com/photos/serrvill/50899631001/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59170444@N05\">Txemari</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 97560511,
+      "ns": 6,
+      "title": "File:CONDA - Tutera.jpg",
+      "lat": 42.051032,
+      "lon": -1.622714,
+      "dist": 3530.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "97560511": {
+              "pageid": 97560511,
+              "ns": 6,
+              "title": "File:CONDA - Tutera.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CONDA_-_Tutera.jpg/500px-CONDA_-_Tutera.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 271,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CONDA_-_Tutera.jpg/960px-CONDA_-_Tutera.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CONDA_-_Tutera.jpg/960px-CONDA_-_Tutera.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/CONDA_-_Tutera.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:CONDA_-_Tutera.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97560511",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-12-14 16:28:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "CONDA - Tutera",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Buses in Pamplona-Iruña|Nbus|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|PD-author-FlickrPDM|Photographs by Txemai Argazki",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.051032",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.622714",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://eu.wikipedia.org/wiki/Nafarroako_Hiriarteko_Garraioa\" class=\"extiw\" title=\"eu:Nafarroako Hiriarteko Garraioa\">Nbus</a> sareko autobus bat <a href=\"https://eu.wikipedia.org/wiki/Tutera\" class=\"extiw\" title=\"eu:Tutera\">Tuteran</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-11-29 12:36:09",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/serrvill/49239762018/\">https://www.flickr.com/photos/serrvill/49239762018/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59170444@N05\">Txemari</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 117942310,
+      "ns": 6,
+      "title": "File:Planta de fabricación de piensos - Tudela.jpg",
+      "lat": 42.059525,
+      "lon": -1.630783,
+      "dist": 3790.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "117942310": {
+              "pageid": 117942310,
+              "ns": 6,
+              "title": "File:Planta de fabricación de piensos - Tudela.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Planta_de_fabricaci%C3%B3n_de_piensos_-_Tudela.jpg/500px-Planta_de_fabricaci%C3%B3n_de_piensos_-_Tudela.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 194,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Planta_de_fabricaci%C3%B3n_de_piensos_-_Tudela.jpg/960px-Planta_de_fabricaci%C3%B3n_de_piensos_-_Tudela.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Planta_de_fabricaci%C3%B3n_de_piensos_-_Tudela.jpg/960px-Planta_de_fabricaci%C3%B3n_de_piensos_-_Tudela.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Planta_de_fabricaci%C3%B3n_de_piensos_-_Tudela.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Planta_de_fabricaci%C3%B3n_de_piensos_-_Tudela.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117942310",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-05-12 19:36:25",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Planta de fabricación de piensos - Tudela",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Factories in Navarre|Spain photographs taken on 2020-12-14|Silos in Navarre|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Buildings in Tudela|Economy of Tudela|Photographs by Txemai Argazki",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.059525",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.630783",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Planta de fabricación de piensos en Tudela, en Navarra (España).",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 14 December 2020, 11:50:00",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/serrvill/50743552773/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59170444@N05\">Txemari (Argazki).</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

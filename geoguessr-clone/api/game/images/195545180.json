@@ -1,0 +1,2360 @@
+{
+  "id": 195545180,
+  "town": {
+    "name": {
+      "default": "Lerga",
+      "es": "Lerga",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.5667872,
+      "lon": -1.5006508
+    }
+  },
+  "files": [
+    {
+      "pageid": 151054277,
+      "ns": 6,
+      "title": "File:Molino de Olleta 6.jpg",
+      "lat": 42.559745,
+      "lon": -1.541935,
+      "dist": 3470.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151054277": {
+              "pageid": 151054277,
+              "ns": 6,
+              "title": "File:Molino de Olleta 6.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Molino_de_Olleta_6.jpg/500px-Molino_de_Olleta_6.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Molino_de_Olleta_6.jpg/960px-Molino_de_Olleta_6.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Molino_de_Olleta_6.jpg/960px-Molino_de_Olleta_6.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Molino_de_Olleta_6.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Molino_de_Olleta_6.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151054277",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-01 14:54:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Molino de Olleta 6",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Molino de Olleta",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.559745",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.541935",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Molino de Iracheta",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-05-23 11:10:00",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151054276,
+      "ns": 6,
+      "title": "File:Molino de Olleta 5.jpg",
+      "lat": 42.560017,
+      "lon": -1.542038,
+      "dist": 3472.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151054276": {
+              "pageid": 151054276,
+              "ns": 6,
+              "title": "File:Molino de Olleta 5.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Molino_de_Olleta_5.jpg/500px-Molino_de_Olleta_5.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Molino_de_Olleta_5.jpg/960px-Molino_de_Olleta_5.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Molino_de_Olleta_5.jpg/960px-Molino_de_Olleta_5.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Molino_de_Olleta_5.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Molino_de_Olleta_5.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151054276",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-01 14:54:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Molino de Olleta 5",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Molino de Olleta",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.560017",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.542038",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Muela del Molino de Iracheta",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-05-23 11:21:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151054272,
+      "ns": 6,
+      "title": "File:Molino de Olleta 4.jpg",
+      "lat": 42.560017,
+      "lon": -1.542038,
+      "dist": 3472.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151054272": {
+              "pageid": 151054272,
+              "ns": 6,
+              "title": "File:Molino de Olleta 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Molino_de_Olleta_4.jpg/500px-Molino_de_Olleta_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Molino_de_Olleta_4.jpg/960px-Molino_de_Olleta_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Molino_de_Olleta_4.jpg/960px-Molino_de_Olleta_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Molino_de_Olleta_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Molino_de_Olleta_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151054272",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-01 14:54:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Molino de Olleta 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Molino de Olleta",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.560017",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.542038",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Rueda movida por las aspas y que mueven la muelas del Molino de Iracheta",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-05-23 11:21:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151054271,
+      "ns": 6,
+      "title": "File:Molino de Olleta 3.jpg",
+      "lat": 42.560017,
+      "lon": -1.542038,
+      "dist": 3472.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151054271": {
+              "pageid": 151054271,
+              "ns": 6,
+              "title": "File:Molino de Olleta 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Molino_de_Olleta_3.jpg/500px-Molino_de_Olleta_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Molino_de_Olleta_3.jpg/960px-Molino_de_Olleta_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Molino_de_Olleta_3.jpg/960px-Molino_de_Olleta_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Molino_de_Olleta_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Molino_de_Olleta_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151054271",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-01 14:54:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Molino de Olleta 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Molino de Olleta",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.560017",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.542038",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mecanismo para subir el grano hasta la planta en que están las muelas para molerlo. Molino de Iracheta",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-05-23 11:21:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151054278,
+      "ns": 6,
+      "title": "File:Molino de Olleta 7.jpg",
+      "lat": 42.559792,
+      "lon": -1.542278,
+      "dist": 3496.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151054278": {
+              "pageid": 151054278,
+              "ns": 6,
+              "title": "File:Molino de Olleta 7.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Molino_de_Olleta_7.jpg/500px-Molino_de_Olleta_7.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Molino_de_Olleta_7.jpg/960px-Molino_de_Olleta_7.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Molino_de_Olleta_7.jpg/960px-Molino_de_Olleta_7.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Molino_de_Olleta_7.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Molino_de_Olleta_7.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151054278",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-01 14:54:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Molino de Olleta 7",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Molino de Olleta",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.559792",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.542278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Molino de Iracheta",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-05-23 11:48:28",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151054270,
+      "ns": 6,
+      "title": "File:Molino de Olleta 2.jpg",
+      "lat": 42.559768,
+      "lon": -1.542285,
+      "dist": 3498,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151054270": {
+              "pageid": 151054270,
+              "ns": 6,
+              "title": "File:Molino de Olleta 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Molino_de_Olleta_2.jpg/500px-Molino_de_Olleta_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Molino_de_Olleta_2.jpg/960px-Molino_de_Olleta_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Molino_de_Olleta_2.jpg/960px-Molino_de_Olleta_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Molino_de_Olleta_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Molino_de_Olleta_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151054270",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-01 14:54:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Molino de Olleta 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Molino de Olleta",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.559768",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.542285",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Molino de Olleta",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-05-23 11:48:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 121310154,
+      "ns": 6,
+      "title": "File:ISS002-E-5607 - View of Spain.jpg",
+      "lat": 42.6,
+      "lon": -1.5,
+      "dist": 3693.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "121310154": {
+              "pageid": 121310154,
+              "ns": 6,
+              "title": "File:ISS002-E-5607 - View of Spain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ISS002-E-5607_-_View_of_Spain.jpg/500px-ISS002-E-5607_-_View_of_Spain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 273,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ISS002-E-5607_-_View_of_Spain.jpg/960px-ISS002-E-5607_-_View_of_Spain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ISS002-E-5607_-_View_of_Spain.jpg/960px-ISS002-E-5607_-_View_of_Spain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/ISS002-E-5607_-_View_of_Spain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS002-E-5607_-_View_of_Spain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121310154",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-08-01 09:06:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS002-E-5607 - View of Spain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "PD NASA|Photos of Spain from ISS|ISS Expedition 2 Crew Earth Observations (dump)|2001 in Fuengirola|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2001-04-22",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Spain taken during ISS Expedition 2.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2001-04-22 13:44:46",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS002&amp;roll=E&amp;frame=5607\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108728523,
+      "ns": 6,
+      "title": "File:ISS042-E-255054 - View of Earth.jpg",
+      "lat": 42.6,
+      "lon": -1.5,
+      "dist": 3693.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108728523": {
+              "pageid": 108728523,
+              "ns": 6,
+              "title": "File:ISS042-E-255054 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS042-E-255054_-_View_of_Earth.jpg/500px-ISS042-E-255054_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS042-E-255054_-_View_of_Earth.jpg/960px-ISS042-E-255054_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS042-E-255054_-_View_of_Earth.jpg/960px-ISS042-E-255054_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/ISS042-E-255054_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS042-E-255054_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108728523",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-17 02:27:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS042-E-255054 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|ISS Expedition 42 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|Daytime Earth viewed from space|ISS photographs taken on 2015-02-12",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 42.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-02-12 16:44:47",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS042&amp;roll=E&amp;frame=255054\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108728384,
+      "ns": 6,
+      "title": "File:ISS042-E-255055 - View of Earth.jpg",
+      "lat": 42.6,
+      "lon": -1.5,
+      "dist": 3693.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108728384": {
+              "pageid": 108728384,
+              "ns": 6,
+              "title": "File:ISS042-E-255055 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/ISS042-E-255055_-_View_of_Earth.jpg/500px-ISS042-E-255055_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/ISS042-E-255055_-_View_of_Earth.jpg/960px-ISS042-E-255055_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/ISS042-E-255055_-_View_of_Earth.jpg/960px-ISS042-E-255055_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/ISS042-E-255055_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS042-E-255055_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108728384",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-17 02:24:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS042-E-255055 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|ISS Expedition 42 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|Daytime Earth viewed from space|ISS photographs taken on 2015-02-12",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 42.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-02-12 16:44:47",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS042&amp;roll=E&amp;frame=255055\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077017,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Olleta 8.jpg",
+      "lat": 42.58469,
+      "lon": -1.539438,
+      "dist": 3748.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077017": {
+              "pageid": 150077017,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Olleta 8.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_8.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_8.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_8.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_8.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_8.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_8.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_8.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Olleta_8.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077017",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:01:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Olleta 8",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.584690",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aranque de los arcos fajones del lado del evangelio, el situado a la derecha de la imagen da acceso al falso crucero en el que se abre una hornacina lateral",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:53:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077018,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Olleta 7.jpg",
+      "lat": 42.584643,
+      "lon": -1.539582,
+      "dist": 3755.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077018": {
+              "pageid": 150077018,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Olleta 7.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_7.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_7.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_7.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_7.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_7.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_7.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_7.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Olleta_7.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077018",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:01:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Olleta 7",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.584643",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539582",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ábside de la Iglesia románica de la Asunción de Olleta (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:45:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077015,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Olleta 6.jpg",
+      "lat": 42.584682,
+      "lon": -1.539557,
+      "dist": 3756.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077015": {
+              "pageid": 150077015,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Olleta 6.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_6.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_6.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_6.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_6.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_6.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_6.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_6.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Olleta_6.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077015",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:01:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Olleta 6",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.584682",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539557",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Fachada lateral (al sur) de la iglesia románica de la Asunción de Olleta (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:44:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077009,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Olleta 3.jpg",
+      "lat": 42.584673,
+      "lon": -1.539652,
+      "dist": 3762.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077009": {
+              "pageid": 150077009,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Olleta 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_3.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_3.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_3.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Olleta_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077009",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:01:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Olleta 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Romanesque portals in Navarre|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.584673",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539652",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Portada de la iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:43:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077013,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Olleta 4.jpg",
+      "lat": 42.58474,
+      "lon": -1.539602,
+      "dist": 3762.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077013": {
+              "pageid": 150077013,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Olleta 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_4.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_4.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_4.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Olleta_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077013",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:01:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Olleta 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.584740",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539602",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Portada de la iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:43:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077014,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Olleta 5.jpg",
+      "lat": 42.584773,
+      "lon": -1.539593,
+      "dist": 3764,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077014": {
+              "pageid": 150077014,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Olleta 5.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_5.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_5.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 470,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_5.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_5.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_5.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_5.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_5.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Olleta_5.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077014",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:01:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Olleta 5",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Romanesque apses in Navarre|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.584773",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539593",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ábside de la Iglesia románica de la Asunción de Olleta (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:44:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077006,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Olleta 1.jpg",
+      "lat": 42.585085,
+      "lon": -1.53964,
+      "dist": 3785.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077006": {
+              "pageid": 150077006,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Olleta 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_1.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_1.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_1.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Olleta_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077006",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:01:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Olleta 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.585085",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539640",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia románica de la Asunción de Olleta (Navarra) 1",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:40:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077008,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Olleta 2.jpg",
+      "lat": 42.585085,
+      "lon": -1.53964,
+      "dist": 3785.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077008": {
+              "pageid": 150077008,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Olleta 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_2.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_2.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_2.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Olleta_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Iglesia_de_la_Asunci%C3%B3n_de_Olleta_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Olleta_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077008",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:01:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Olleta 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.585085",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539640",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista interiot del cimborrio sobre trompas situado en el falso crucero que antece al ábside que sirve de prebiterio de la iglesia de la Asunción de Olleta (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:41:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151475959,
+      "ns": 6,
+      "title": "File:Planta de Santa María de Olleta 1.svg",
+      "lat": 42.585085,
+      "lon": -1.53964,
+      "dist": 3785.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151475959": {
+              "pageid": 151475959,
+              "ns": 6,
+              "title": "File:Planta de Santa María de Olleta 1.svg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Planta_de_Santa_Mar%C3%ADa_de_Olleta_1.svg/400px-Planta_de_Santa_Mar%C3%ADa_de_Olleta_1.svg.png",
+                  "thumbwidth": 400,
+                  "thumbheight": 277,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Planta_de_Santa_Mar%C3%ADa_de_Olleta_1.svg/800px-Planta_de_Santa_Mar%C3%ADa_de_Olleta_1.svg.png",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Planta_de_Santa_Mar%C3%ADa_de_Olleta_1.svg/600px-Planta_de_Santa_Mar%C3%ADa_de_Olleta_1.svg.png"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Planta_de_Santa_Mar%C3%ADa_de_Olleta_1.svg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Planta_de_Santa_Mar%C3%ADa_de_Olleta_1.svg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151475959",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-14 14:26:30",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Planta de Santa María de Olleta 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de la Asunción de Olleta (Navarra)|Plans of Romanesque churches in Navarra",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.585085",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539640",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Planta de la iglesia de la Asunción de Olleta",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-08-14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150077347,
+      "ns": 6,
+      "title": "File:Olleta 01.jpg",
+      "lat": 42.585072,
+      "lon": -1.539667,
+      "dist": 3786.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150077347": {
+              "pageid": 150077347,
+              "ns": 6,
+              "title": "File:Olleta 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olleta_01.jpg/500px-Olleta_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olleta_01.jpg/960px-Olleta_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olleta_01.jpg/960px-Olleta_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Olleta_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Olleta_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150077347",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-06 18:17:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Olleta 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Olleta",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.585072",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539667",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Puente medieval de Olleta",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 13:38:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

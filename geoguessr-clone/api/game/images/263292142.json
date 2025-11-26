@@ -1,0 +1,512 @@
+{
+  "id": 263292142,
+  "town": {
+    "name": {
+      "default": "Fitero",
+      "es": "Fitero",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.0557224,
+      "lon": -1.8565659
+    }
+  },
+  "files": [
+    {
+      "pageid": 120284209,
+      "ns": 6,
+      "title": "File:Plaza de toros de Fitero.jpg",
+      "lat": 42.056497972222,
+      "lon": -1.856203,
+      "dist": 91.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "120284209": {
+              "pageid": 120284209,
+              "ns": 6,
+              "title": "File:Plaza de toros de Fitero.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Plaza_de_toros_de_Fitero.jpg/500px-Plaza_de_toros_de_Fitero.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Plaza_de_toros_de_Fitero.jpg/960px-Plaza_de_toros_de_Fitero.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Plaza_de_toros_de_Fitero.jpg/960px-Plaza_de_toros_de_Fitero.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Plaza_de_toros_de_Fitero.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plaza_de_toros_de_Fitero.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120284209",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-07-10 10:26:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Plaza de toros de Fitero",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Fitero|Self-published work|Spain photographs taken on 2022-07-10|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.056498",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.856203",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Plaza de toros de Fitero (edificio en Fitero)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 July 2022 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gargoileh&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gargoileh (page does not exist)\">Gargoileh</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77703338,
+      "ns": 6,
+      "title": "File:Monasterio de Fitero (46245438914).jpg",
+      "lat": 42.056747,
+      "lon": -1.856796,
+      "dist": 115.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77703338": {
+              "pageid": 77703338,
+              "ns": 6,
+              "title": "File:Monasterio de Fitero (46245438914).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Monasterio_de_Fitero_%2846245438914%29.jpg/500px-Monasterio_de_Fitero_%2846245438914%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 271,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Monasterio_de_Fitero_%2846245438914%29.jpg/960px-Monasterio_de_Fitero_%2846245438914%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Monasterio_de_Fitero_%2846245438914%29.jpg/960px-Monasterio_de_Fitero_%2846245438914%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Monasterio_de_Fitero_%2846245438914%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_Fitero_(46245438914).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77703338",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-04-01 04:33:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Monasterio de Fitero (46245438914)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Monastery of Santa María la Real, Fitero|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.056747",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.856796",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "El monasterio cisterciense de Santa María la Real,​ también llamado Santa María de Nienzebas,​ está en Fitero, Navarra. Con origen en el siglo XII, actualmente se encuentra adosado a edificaciones que impiden verlo en su totalidad en el exterior.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-17 13:58",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/46245438914/\">Monasterio de Fitero</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 147116790,
+      "ns": 6,
+      "title": "File:Ibai-basoko etxea.jpg",
+      "lat": 42.050338333333,
+      "lon": -1.8473933333333,
+      "dist": 965.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "147116790": {
+              "pageid": 147116790,
+              "ns": 6,
+              "title": "File:Ibai-basoko etxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ibai-basoko_etxea.jpg/500px-Ibai-basoko_etxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ibai-basoko_etxea.jpg/960px-Ibai-basoko_etxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ibai-basoko_etxea.jpg/960px-Ibai-basoko_etxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ibai-basoko_etxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ibai-basoko_etxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147116790",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-04-05 18:08:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ibai-basoko etxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Fitero|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-04-05|Nafarroako kultura ondasunak",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.050338",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.847393",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Fiteron, Alhama ibaiaren ondoan, monasterioaren eraikin bat",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "5 April 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Smatxi\" title=\"User:Smatxi\">Smatxi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 53830062,
+      "ns": 6,
+      "title": "File:Línea del ferrocarril Soria-Castejón - Estacion de Fitero, Navarra (6336374653).jpg",
+      "lat": 42.052989,
+      "lon": -1.81137,
+      "dist": 3743.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "53830062": {
+              "pageid": 53830062,
+              "ns": 6,
+              "title": "File:Línea del ferrocarril Soria-Castejón - Estacion de Fitero, Navarra (6336374653).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/L%C3%ADnea_del_ferrocarril_Soria-Castej%C3%B3n_-_Estacion_de_Fitero%2C_Navarra_%286336374653%29.jpg/500px-L%C3%ADnea_del_ferrocarril_Soria-Castej%C3%B3n_-_Estacion_de_Fitero%2C_Navarra_%286336374653%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/L%C3%ADnea_del_ferrocarril_Soria-Castej%C3%B3n_-_Estacion_de_Fitero%2C_Navarra_%286336374653%29.jpg/960px-L%C3%ADnea_del_ferrocarril_Soria-Castej%C3%B3n_-_Estacion_de_Fitero%2C_Navarra_%286336374653%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/L%C3%ADnea_del_ferrocarril_Soria-Castej%C3%B3n_-_Estacion_de_Fitero%2C_Navarra_%286336374653%29.jpg/960px-L%C3%ADnea_del_ferrocarril_Soria-Castej%C3%B3n_-_Estacion_de_Fitero%2C_Navarra_%286336374653%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/L%C3%ADnea_del_ferrocarril_Soria-Castej%C3%B3n_-_Estacion_de_Fitero%2C_Navarra_%286336374653%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:L%C3%ADnea_del_ferrocarril_Soria-Castej%C3%B3n_-_Estacion_de_Fitero,_Navarra_(6336374653).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53830062",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-12-06 15:22:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Línea del ferrocarril Soria-Castejón - Estacion de Fitero, Navarra (6336374653)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Fitero train station|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.052989",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.811370",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Línea del ferrocarril Soria-Castejón. Estacion de Fitero, Navarra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-11-11 16:54",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/6336374653/\">Linea del ferrocarril Soria-Castejón. Estación de Cintruénigo. Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": 277974836,
+  "town": {
+    "name": {
+      "default": "Tirapu",
+      "es": "Tirapu",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.6566786,
+      "lon": -1.7029388
+    }
+  },
+  "files": [
+    {
+      "pageid": 86245665,
+      "ns": 6,
+      "title": "File:San Miguel en Olcoz (46690487185).jpg",
+      "lat": 42.664266,
+      "lon": -1.68077,
+      "dist": 1999.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "86245665": {
+              "pageid": 86245665,
+              "ns": 6,
+              "title": "File:San Miguel en Olcoz (46690487185).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Miguel_en_Olcoz_%2846690487185%29.jpg/500px-San_Miguel_en_Olcoz_%2846690487185%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 430,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Miguel_en_Olcoz_%2846690487185%29.jpg/960px-San_Miguel_en_Olcoz_%2846690487185%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Miguel_en_Olcoz_%2846690487185%29.jpg/960px-San_Miguel_en_Olcoz_%2846690487185%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/San_Miguel_en_Olcoz_%2846690487185%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Miguel_en_Olcoz_(46690487185).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86245665",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-01-23 21:52:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Miguel en Olcoz (46690487185)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.664266",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.680770",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Cabeza humana en un capitel de la portada de San Miguel, en Olcoz, Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-19 10:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/46690487185/\">San Miguel en Olcoz</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

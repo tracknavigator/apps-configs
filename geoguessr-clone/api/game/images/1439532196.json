@@ -1,0 +1,1256 @@
+{
+  "id": 1439532196,
+  "town": {
+    "name": {
+      "default": "Petilla de Aragón",
+      "es": "Petilla de Aragón",
+      "eu": "Petilla Aragoi"
+    },
+    "coordinates": {
+      "lat": 42.4614023,
+      "lon": -1.0926115
+    }
+  },
+  "files": [
+    {
+      "pageid": 145368009,
+      "ns": 6,
+      "title": "File:Petilla Aragoi2.png",
+      "lat": 42.46146,
+      "lon": -1.092432,
+      "dist": 16.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "145368009": {
+              "pageid": 145368009,
+              "ns": 6,
+              "title": "File:Petilla Aragoi2.png",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Petilla_Aragoi2.png/500px-Petilla_Aragoi2.png",
+                  "thumbwidth": 400,
+                  "thumbheight": 211,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Petilla_Aragoi2.png/960px-Petilla_Aragoi2.png",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Petilla_Aragoi2.png/960px-Petilla_Aragoi2.png"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Petilla_Aragoi2.png",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petilla_Aragoi2.png",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145368009",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-15 10:44:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Petilla Aragoi2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Petilla de Aragón|Self-published work|Aerial photographs of Navarre|Files with coordinates missing SDC location of creation|Photos from unmanned aerial vehicles of Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.461460",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.092432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Petilla Aragoiko ikuspegia airetik",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-02-14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 145351359,
+      "ns": 6,
+      "title": "File:Petilla Aragoi pilotalekua.jpg",
+      "lat": 42.46125241409,
+      "lon": -1.0927533143938,
+      "dist": 20.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "145351359": {
+              "pageid": 145351359,
+              "ns": 6,
+              "title": "File:Petilla Aragoi pilotalekua.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Petilla_Aragoi_pilotalekua.jpg/500px-Petilla_Aragoi_pilotalekua.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 189,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Petilla_Aragoi_pilotalekua.jpg/960px-Petilla_Aragoi_pilotalekua.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Petilla_Aragoi_pilotalekua.jpg/960px-Petilla_Aragoi_pilotalekua.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Petilla_Aragoi_pilotalekua.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petilla_Aragoi_pilotalekua.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145351359",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-14 22:01:20",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Petilla Aragoi pilotalekua",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Petilla de Aragón|Self-published work|Pelota courts in Navarre|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-02-14",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.461252",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.092753",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Petilla Aragoiko pilotalekua",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "14 February 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150137379,
+      "ns": 6,
+      "title": "File:Petilla Aragoiko kale nagusia-2.jpg",
+      "lat": 42.461558,
+      "lon": -1.092422,
+      "dist": 23.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150137379": {
+              "pageid": 150137379,
+              "ns": 6,
+              "title": "File:Petilla Aragoiko kale nagusia-2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Petilla_Aragoiko_kale_nagusia-2.jpg/500px-Petilla_Aragoiko_kale_nagusia-2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Petilla_Aragoiko_kale_nagusia-2.jpg/960px-Petilla_Aragoiko_kale_nagusia-2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Petilla_Aragoiko_kale_nagusia-2.jpg/960px-Petilla_Aragoiko_kale_nagusia-2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Petilla_Aragoiko_kale_nagusia-2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petilla_Aragoiko_kale_nagusia-2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150137379",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-08 14:39:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Petilla Aragoiko kale nagusia-2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Petilla de Aragón|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.461558",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.092422",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Petilla Aragoiko kale nagusia-2",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-25 12:59:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josu\" title=\"User:Josu\">Josu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 145368403,
+      "ns": 6,
+      "title": "File:Petilla Aragoi Karitatetik.jpg",
+      "lat": 42.461728979783,
+      "lon": -1.0924820932889,
+      "dist": 37.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "145368403": {
+              "pageid": 145368403,
+              "ns": 6,
+              "title": "File:Petilla Aragoi Karitatetik.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Petilla_Aragoi_Karitatetik.jpg/500px-Petilla_Aragoi_Karitatetik.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 189,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Petilla_Aragoi_Karitatetik.jpg/960px-Petilla_Aragoi_Karitatetik.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Petilla_Aragoi_Karitatetik.jpg/960px-Petilla_Aragoi_Karitatetik.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Petilla_Aragoi_Karitatetik.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petilla_Aragoi_Karitatetik.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145368403",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-15 10:56:25",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Petilla Aragoi Karitatetik",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Petilla de Aragón|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-02-14",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.461729",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.092482",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Petilla Aragoi Karitatearen baselizatik",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "14 February 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150137316,
+      "ns": 6,
+      "title": "File:Petilla Aragoiko eliza, goitik.jpg",
+      "lat": 42.462131,
+      "lon": -1.092378,
+      "dist": 83.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150137316": {
+              "pageid": 150137316,
+              "ns": 6,
+              "title": "File:Petilla Aragoiko eliza, goitik.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Petilla_Aragoiko_eliza%2C_goitik.jpg/500px-Petilla_Aragoiko_eliza%2C_goitik.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Petilla_Aragoiko_eliza%2C_goitik.jpg/960px-Petilla_Aragoiko_eliza%2C_goitik.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Petilla_Aragoiko_eliza%2C_goitik.jpg/960px-Petilla_Aragoiko_eliza%2C_goitik.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Petilla_Aragoiko_eliza%2C_goitik.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petilla_Aragoiko_eliza,_goitik.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150137316",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-08 14:37:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Petilla Aragoiko eliza, goitik",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Petilla de Aragón|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.462131",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.092378",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Petilla Aragoiko eliza, goitik",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-25 12:53:18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josu\" title=\"User:Josu\">Josu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150137714,
+      "ns": 6,
+      "title": "File:Petilla Aragoiko Karitateko Amaren Baseliza.jpg",
+      "lat": 42.461575,
+      "lon": -1.091492,
+      "dist": 93.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150137714": {
+              "pageid": 150137714,
+              "ns": 6,
+              "title": "File:Petilla Aragoiko Karitateko Amaren Baseliza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Petilla_Aragoiko_Karitateko_Amaren_Baseliza.jpg/500px-Petilla_Aragoiko_Karitateko_Amaren_Baseliza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Petilla_Aragoiko_Karitateko_Amaren_Baseliza.jpg/960px-Petilla_Aragoiko_Karitateko_Amaren_Baseliza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Petilla_Aragoiko_Karitateko_Amaren_Baseliza.jpg/960px-Petilla_Aragoiko_Karitateko_Amaren_Baseliza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Petilla_Aragoiko_Karitateko_Amaren_Baseliza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petilla_Aragoiko_Karitateko_Amaren_Baseliza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150137714",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-08 14:48:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Petilla Aragoiko Karitateko Amaren Baseliza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Petilla de Aragón|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.461575",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.091492",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Petilla Aragoiko Karitateko Amaren Baseliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-25 13:01:20",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josu\" title=\"User:Josu\">Josu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150137257,
+      "ns": 6,
+      "title": "File:Ramón y Cajalen jaiotetxea.jpg",
+      "lat": 42.46165,
+      "lon": -1.091189,
+      "dist": 119.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150137257": {
+              "pageid": 150137257,
+              "ns": 6,
+              "title": "File:Ramón y Cajalen jaiotetxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ram%C3%B3n_y_Cajalen_jaiotetxea.jpg/500px-Ram%C3%B3n_y_Cajalen_jaiotetxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ram%C3%B3n_y_Cajalen_jaiotetxea.jpg/960px-Ram%C3%B3n_y_Cajalen_jaiotetxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ram%C3%B3n_y_Cajalen_jaiotetxea.jpg/960px-Ram%C3%B3n_y_Cajalen_jaiotetxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ram%C3%B3n_y_Cajalen_jaiotetxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ram%C3%B3n_y_Cajalen_jaiotetxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150137257",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-08 14:33:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ramón y Cajalen jaiotetxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Petilla de Aragón|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.461650",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.091189",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ramón y Cajalen jaiotetxea",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-25 13:02:35",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josu\" title=\"User:Josu\">Josu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150137286,
+      "ns": 6,
+      "title": "File:Petilla Aragoiko kale nagusia.jpg",
+      "lat": 42.461675,
+      "lon": -1.091167,
+      "dist": 122.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150137286": {
+              "pageid": 150137286,
+              "ns": 6,
+              "title": "File:Petilla Aragoiko kale nagusia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Petilla_Aragoiko_kale_nagusia.jpg/500px-Petilla_Aragoiko_kale_nagusia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Petilla_Aragoiko_kale_nagusia.jpg/960px-Petilla_Aragoiko_kale_nagusia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Petilla_Aragoiko_kale_nagusia.jpg/960px-Petilla_Aragoiko_kale_nagusia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Petilla_Aragoiko_kale_nagusia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petilla_Aragoiko_kale_nagusia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150137286",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-08 14:35:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Petilla Aragoiko kale nagusia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Petilla de Aragón|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.461675",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.091167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Petilla Aragoiko kale nagusia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-25 13:02:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josu\" title=\"User:Josu\">Josu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 150137116,
+      "ns": 6,
+      "title": "File:Petilla Aragoi. Ikuspegi orokorra.jpg",
+      "lat": 42.461006,
+      "lon": -1.089503,
+      "dist": 258.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150137116": {
+              "pageid": 150137116,
+              "ns": 6,
+              "title": "File:Petilla Aragoi. Ikuspegi orokorra.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petilla_Aragoi._Ikuspegi_orokorra.jpg/500px-Petilla_Aragoi._Ikuspegi_orokorra.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petilla_Aragoi._Ikuspegi_orokorra.jpg/960px-Petilla_Aragoi._Ikuspegi_orokorra.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petilla_Aragoi._Ikuspegi_orokorra.jpg/960px-Petilla_Aragoi._Ikuspegi_orokorra.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Petilla_Aragoi._Ikuspegi_orokorra.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Petilla_Aragoi._Ikuspegi_orokorra.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150137116",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-08 14:27:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Petilla Aragoi. Ikuspegi orokorra",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Petilla de Aragón|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.461006",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.089503",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Petilla Aragoi. Ikuspegi orokorra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-06-25 12:29:18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Josu\" title=\"User:Josu\">Josu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 145368235,
+      "ns": 6,
+      "title": "File:Karitatearen Ama Birjinaren beseliza.jpg",
+      "lat": 42.459357222632,
+      "lon": -1.0885848381835,
+      "dist": 401,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "145368235": {
+              "pageid": 145368235,
+              "ns": 6,
+              "title": "File:Karitatearen Ama Birjinaren beseliza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Karitatearen_Ama_Birjinaren_beseliza.jpg/500px-Karitatearen_Ama_Birjinaren_beseliza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 190,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Karitatearen_Ama_Birjinaren_beseliza.jpg/960px-Karitatearen_Ama_Birjinaren_beseliza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Karitatearen_Ama_Birjinaren_beseliza.jpg/960px-Karitatearen_Ama_Birjinaren_beseliza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Karitatearen_Ama_Birjinaren_beseliza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karitatearen_Ama_Birjinaren_beseliza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145368235",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-02-15 10:50:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Karitatearen Ama Birjinaren beseliza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Hermitages in Navarre|Petilla de Aragón|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-02-14",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.459357",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.088585",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Karitatearen Ama Birjinaren beseliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "14 February 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1410 @@
+{
+  "id": 4868053739,
+  "town": {
+    "name": {
+      "default": "Marcilla",
+      "es": "Marcilla",
+      "eu": "Martzilla"
+    },
+    "coordinates": {
+      "lat": 42.3258784,
+      "lon": -1.7380991
+    }
+  },
+  "files": [
+    {
+      "pageid": 157092875,
+      "ns": 6,
+      "title": "File:🇪🇸 🇪🇺 Castillo de Marcilla (Navarra, España, 13-10-2012) (54210494754).jpg",
+      "lat": 42.326316,
+      "lon": -1.739145,
+      "dist": 98.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "157092875": {
+              "pageid": 157092875,
+              "ns": 6,
+              "title": "File:🇪🇸 🇪🇺 Castillo de Marcilla (Navarra, España, 13-10-2012) (54210494754).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Castillo_de_Marcilla_%28Navarra%2C_Espa%C3%B1a%2C_13-10-2012%29_%2854210494754%29.jpg/500px-%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Castillo_de_Marcilla_%28Navarra%2C_Espa%C3%B1a%2C_13-10-2012%29_%2854210494754%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 270,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Castillo_de_Marcilla_%28Navarra%2C_Espa%C3%B1a%2C_13-10-2012%29_%2854210494754%29.jpg/960px-%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Castillo_de_Marcilla_%28Navarra%2C_Espa%C3%B1a%2C_13-10-2012%29_%2854210494754%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Castillo_de_Marcilla_%28Navarra%2C_Espa%C3%B1a%2C_13-10-2012%29_%2854210494754%29.jpg/960px-%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Castillo_de_Marcilla_%28Navarra%2C_Espa%C3%B1a%2C_13-10-2012%29_%2854210494754%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Castillo_de_Marcilla_%28Navarra%2C_Espa%C3%B1a%2C_13-10-2012%29_%2854210494754%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Castillo_de_Marcilla_(Navarra,_Espa%C3%B1a,_13-10-2012)_(54210494754).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157092875",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-12-25 14:18:53",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "🇪🇸 🇪🇺 Castillo de Marcilla (Navarra, España, 13-10-2012) (54210494754)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castillo de Marcilla|Flickr images missing SDC creator|Files with coordinates missing SDC location of creation|Spain photographs taken on 2012-10-13|Flickr images reviewed by FlickreviewR 2|Photographs by Juanje Orío",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.326316",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.739145",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p><b>Bien de interés cultural, catalogado como Monumento.</b>\n</p><p><b>WIKIPEDIA:\n🇪🇸 &lt;a href=\"<a class=\"external free\" href=\"https://es.wikipedia.org/wiki/Castillo_palacio_de_Marcilla\">https://es.wikipedia.org/wiki/Castillo_palacio_de_Marcilla</a>\" rel=\"noreferrer nofollow\"&gt;Castillo palacio de Marcilla&lt;/a&gt;</b>\n</p><p>Tomada a <b>291</b> m.s.n.m.\n</p><p>++++++++++++++++++++++++++++++++++++\n<b>LMF:</b>\nLMF Castillos,fortalezas de ESPAÑA(P1/C2) ()\n</p>\n<hr>\n<hr>\n<p>LMF 0+ comments (P1/C3) ()\n+++++++++++++++++++++++++++++++++++2\n<b>OTROS GRUPOS (CON):</b>\n</p>\n<hr>\n<p>! 0-29 Faves (P1,A+F3) ()\n</p>\n<hr>\n<p>Auto Focus Level 1 [4] ()\n+++++++++++++++++++++++++++++++++++2\n<b>OTROS GRUPOS (SIN):</b>\n</p>\n<hr>\n<p>Castles,Fortresses,Palaces,Manors in Europe ⏳\n+++++++++++++++++++++++++++++++++++1\n<b>Pasos:</b>\n+++++++++++++++++++++++++++++++++++0\n<b>(0) Invitados - (0) Eliminados</b>\n+++++++++++++++++++++++++++++++++++0\nESP, NAV\n</p>\n++++++++++++++++++++++++++++++++++05",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 13 October 2012, 11:50",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/juanjeorio/54210494754/\">🇪🇸 🇪🇺 Castillo de Marcilla (Navarra, España, 13-10-2012)</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26119068@N03\">Juanje Orío</a> from Logroño, España (Europa)",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81752937,
+      "ns": 6,
+      "title": "File:Castillo de Marcilla 03.jpg",
+      "lat": 42.326686,
+      "lon": -1.738635,
+      "dist": 100,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81752937": {
+              "pageid": 81752937,
+              "ns": 6,
+              "title": "File:Castillo de Marcilla 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Castillo_de_Marcilla_03.jpg/500px-Castillo_de_Marcilla_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Castillo_de_Marcilla_03.jpg/960px-Castillo_de_Marcilla_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Castillo_de_Marcilla_03.jpg/960px-Castillo_de_Marcilla_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Castillo_de_Marcilla_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillo_de_Marcilla_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81752937",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-31 23:03:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillo de Marcilla 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castillo de Marcilla|Images from Wiki Loves Monuments 2019|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Spain photographs taken on 2019-04-08|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Files by User:Millars|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.326686",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.738635",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/Castillo_de_Marcilla\" class=\"mw-redirect\" title=\"Castillo de Marcilla\">Castillo de Marcilla</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-04-08 14:12:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Millars\" title=\"User:Millars\">Millars</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81752943,
+      "ns": 6,
+      "title": "File:Castillo de Marcilla 07.jpg",
+      "lat": 42.326686,
+      "lon": -1.738635,
+      "dist": 100,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81752943": {
+              "pageid": 81752943,
+              "ns": 6,
+              "title": "File:Castillo de Marcilla 07.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Castillo_de_Marcilla_07.jpg/500px-Castillo_de_Marcilla_07.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Castillo_de_Marcilla_07.jpg/960px-Castillo_de_Marcilla_07.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Castillo_de_Marcilla_07.jpg/960px-Castillo_de_Marcilla_07.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Castillo_de_Marcilla_07.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillo_de_Marcilla_07.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81752943",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-31 23:03:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillo de Marcilla 07",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castillo de Marcilla|Images from Wiki Loves Monuments 2019|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Spain photographs taken on 2019-04-08|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Files by User:Millars|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.326686",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.738635",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/Castillo_de_Marcilla\" class=\"mw-redirect\" title=\"Castillo de Marcilla\">Castillo de Marcilla</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-04-08 14:23:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Millars\" title=\"User:Millars\">Millars</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81752938,
+      "ns": 6,
+      "title": "File:Castillo de Marcilla 02.jpg",
+      "lat": 42.326686,
+      "lon": -1.738635,
+      "dist": 100,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81752938": {
+              "pageid": 81752938,
+              "ns": 6,
+              "title": "File:Castillo de Marcilla 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Castillo_de_Marcilla_02.jpg/500px-Castillo_de_Marcilla_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Castillo_de_Marcilla_02.jpg/960px-Castillo_de_Marcilla_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Castillo_de_Marcilla_02.jpg/960px-Castillo_de_Marcilla_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Castillo_de_Marcilla_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillo_de_Marcilla_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81752938",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-31 23:03:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillo de Marcilla 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castillo de Marcilla|Images from Wiki Loves Monuments 2019|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Spain photographs taken on 2019-04-08|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Files by User:Millars|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.326686",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.738635",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/Castillo_de_Marcilla\" class=\"mw-redirect\" title=\"Castillo de Marcilla\">Castillo de Marcilla</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-04-08 14:12:35",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Millars\" title=\"User:Millars\">Millars</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81752939,
+      "ns": 6,
+      "title": "File:Castillo de Marcilla 05.jpg",
+      "lat": 42.326686,
+      "lon": -1.738635,
+      "dist": 100,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81752939": {
+              "pageid": 81752939,
+              "ns": 6,
+              "title": "File:Castillo de Marcilla 05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Castillo_de_Marcilla_05.jpg/500px-Castillo_de_Marcilla_05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Castillo_de_Marcilla_05.jpg/960px-Castillo_de_Marcilla_05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Castillo_de_Marcilla_05.jpg/960px-Castillo_de_Marcilla_05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Castillo_de_Marcilla_05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillo_de_Marcilla_05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81752939",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-31 23:03:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillo de Marcilla 05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castillo de Marcilla|Images from Wiki Loves Monuments 2019|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Spain photographs taken on 2019-04-08|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Files by User:Millars|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.326686",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.738635",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/Castillo_de_Marcilla\" class=\"mw-redirect\" title=\"Castillo de Marcilla\">Castillo de Marcilla</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-04-08 14:14:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Millars\" title=\"User:Millars\">Millars</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81752936,
+      "ns": 6,
+      "title": "File:Castillo de Marcilla 01.jpg",
+      "lat": 42.326686,
+      "lon": -1.738635,
+      "dist": 100,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81752936": {
+              "pageid": 81752936,
+              "ns": 6,
+              "title": "File:Castillo de Marcilla 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Castillo_de_Marcilla_01.jpg/500px-Castillo_de_Marcilla_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Castillo_de_Marcilla_01.jpg/960px-Castillo_de_Marcilla_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Castillo_de_Marcilla_01.jpg/960px-Castillo_de_Marcilla_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Castillo_de_Marcilla_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillo_de_Marcilla_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81752936",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-31 23:03:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillo de Marcilla 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castillo de Marcilla|Images from Wiki Loves Monuments 2019|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Spain photographs taken on 2019-04-08|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Files by User:Millars|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.326686",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.738635",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/Castillo_de_Marcilla\" class=\"mw-redirect\" title=\"Castillo de Marcilla\">Castillo de Marcilla</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-04-08 14:12:15",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Millars\" title=\"User:Millars\">Millars</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81752940,
+      "ns": 6,
+      "title": "File:Castillo de Marcilla 04.jpg",
+      "lat": 42.326686,
+      "lon": -1.738635,
+      "dist": 100,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81752940": {
+              "pageid": 81752940,
+              "ns": 6,
+              "title": "File:Castillo de Marcilla 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Castillo_de_Marcilla_04.jpg/500px-Castillo_de_Marcilla_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Castillo_de_Marcilla_04.jpg/960px-Castillo_de_Marcilla_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Castillo_de_Marcilla_04.jpg/960px-Castillo_de_Marcilla_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Castillo_de_Marcilla_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillo_de_Marcilla_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81752940",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-31 23:03:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillo de Marcilla 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castillo de Marcilla|Images from Wiki Loves Monuments 2019|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Spain photographs taken on 2019-04-08|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Files by User:Millars|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.326686",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.738635",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/Castillo_de_Marcilla\" class=\"mw-redirect\" title=\"Castillo de Marcilla\">Castillo de Marcilla</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-04-08 14:14:09",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Millars\" title=\"User:Millars\">Millars</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81752941,
+      "ns": 6,
+      "title": "File:Castillo de Marcilla 06.jpg",
+      "lat": 42.326686,
+      "lon": -1.738635,
+      "dist": 100,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81752941": {
+              "pageid": 81752941,
+              "ns": 6,
+              "title": "File:Castillo de Marcilla 06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Castillo_de_Marcilla_06.jpg/500px-Castillo_de_Marcilla_06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Castillo_de_Marcilla_06.jpg/960px-Castillo_de_Marcilla_06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Castillo_de_Marcilla_06.jpg/960px-Castillo_de_Marcilla_06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Castillo_de_Marcilla_06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillo_de_Marcilla_06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81752941",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-31 23:03:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillo de Marcilla 06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castillo de Marcilla|Images from Wiki Loves Monuments 2019|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Spain photographs taken on 2019-04-08|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Files by User:Millars|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.326686",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.738635",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/Castillo_de_Marcilla\" class=\"mw-redirect\" title=\"Castillo de Marcilla\">Castillo de Marcilla</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-04-08 14:15:03",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Millars\" title=\"User:Millars\">Millars</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 46075061,
+      "ns": 6,
+      "title": "File:Postigo - panoramio.jpg",
+      "lat": 42.325386,
+      "lon": -1.739166,
+      "dist": 103.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "46075061": {
+              "pageid": 46075061,
+              "ns": 6,
+              "title": "File:Postigo - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Postigo_-_panoramio.jpg/500px-Postigo_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 123,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Postigo_-_panoramio.jpg/960px-Postigo_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Postigo_-_panoramio.jpg/960px-Postigo_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Postigo_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Postigo_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=46075061",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-01-03 11:23:28",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Postigo - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Panoramio files uploaded by Panoramio upload bot|Panoramic photographs|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Streets in Marcilla|Photos from Panoramio ID 12556",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.325386",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.739166",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Postigo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "8 December 2007 (original upload date)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161013035151/http://www.panoramio.com/photo/6370356\">https://web.archive.org/web/20161013035151/http://www.panoramio.com/photo/6370356</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161013034948/http://www.panoramio.com/user/12556?with_photo_id=6370356\">vicente gonzalez</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">vicente gonzalez</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 3 January 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "vicente gonzalez",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 46075429,
+      "ns": 6,
+      "title": "File:Jubis-Biblioteca - panoramio.jpg",
+      "lat": 42.325928,
+      "lon": -1.739632,
+      "dist": 126.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "46075429": {
+              "pageid": 46075429,
+              "ns": 6,
+              "title": "File:Jubis-Biblioteca - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jubis-Biblioteca_-_panoramio.jpg/500px-Jubis-Biblioteca_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 540,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jubis-Biblioteca_-_panoramio.jpg/800px-Jubis-Biblioteca_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jubis-Biblioteca_-_panoramio.jpg/600px-Jubis-Biblioteca_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jubis-Biblioteca_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jubis-Biblioteca_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=46075429",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-01-03 11:45:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Jubis-Biblioteca - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Libraries in Navarre|Pages with maps|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Media needing category review as of 3 January 2016|Files with coordinates missing SDC location of creation|Buildings in Marcilla|Photos from Panoramio ID 12556",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.325928",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.739632",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Jubis/Biblioteca",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "8 December 2007 (original upload date)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161010064152/http://www.panoramio.com/photo/6372618\">https://web.archive.org/web/20161010064152/http://www.panoramio.com/photo/6372618</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161010064154/http://www.panoramio.com/user/12556?with_photo_id=6372618\">vicente gonzalez</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">vicente gonzalez</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 3 January 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "vicente gonzalez",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 46075621,
+      "ns": 6,
+      "title": "File:Nueva - panoramio.jpg",
+      "lat": 42.325704,
+      "lon": -1.739895,
+      "dist": 148.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "46075621": {
+              "pageid": 46075621,
+              "ns": 6,
+              "title": "File:Nueva - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nueva_-_panoramio.jpg/500px-Nueva_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 420,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nueva_-_panoramio.jpg/960px-Nueva_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Nueva_-_panoramio.jpg/960px-Nueva_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Nueva_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nueva_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=46075621",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-01-03 11:51:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Nueva - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Streets in Marcilla|Photos from Panoramio ID 12556",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.325704",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.739895",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Nueva",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "8 December 2007 (original upload date)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161011114659/http://www.panoramio.com/photo/6373203\">https://web.archive.org/web/20161011114659/http://www.panoramio.com/photo/6373203</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161011114701/http://www.panoramio.com/user/12556?with_photo_id=6373203\">vicente gonzalez</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">vicente gonzalez</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 3 January 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "vicente gonzalez",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

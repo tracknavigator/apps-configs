@@ -1,0 +1,264 @@
+{
+  "id": 309641202,
+  "town": {
+    "name": {
+      "default": "Oteiza",
+      "es": "Oteiza",
+      "eu": "Oteitza"
+    },
+    "coordinates": {
+      "lat": 42.6194776,
+      "lon": -1.9537957
+    }
+  },
+  "files": [
+    {
+      "pageid": 81054778,
+      "ns": 6,
+      "title": "File:Iglesia de San Miguel - Oteiza de la Solana (Navarra) 1.jpg",
+      "lat": 42.619683,
+      "lon": -1.953166,
+      "dist": 56.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81054778": {
+              "pageid": 81054778,
+              "ns": 6,
+              "title": "File:Iglesia de San Miguel - Oteiza de la Solana (Navarra) 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Iglesia_de_San_Miguel_-_Oteiza_de_la_Solana_%28Navarra%29_1.jpg/500px-Iglesia_de_San_Miguel_-_Oteiza_de_la_Solana_%28Navarra%29_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Iglesia_de_San_Miguel_-_Oteiza_de_la_Solana_%28Navarra%29_1.jpg/960px-Iglesia_de_San_Miguel_-_Oteiza_de_la_Solana_%28Navarra%29_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Iglesia_de_San_Miguel_-_Oteiza_de_la_Solana_%28Navarra%29_1.jpg/960px-Iglesia_de_San_Miguel_-_Oteiza_de_la_Solana_%28Navarra%29_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Iglesia_de_San_Miguel_-_Oteiza_de_la_Solana_%28Navarra%29_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Miguel_-_Oteiza_de_la_Solana_(Navarra)_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81054778",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-05 13:03:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de San Miguel - Oteiza de la Solana (Navarra) 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files uploaded by Pompilos|Church of San Miguel, Oteiza",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.619683",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.953166",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Miguel, en la plaza del ayuntamiento de Oteiza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-30 11:20:51",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">José M. Ciordia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 113920461,
+      "ns": 6,
+      "title": "File:Arínzano (1).jpg",
+      "lat": 42.631159,
+      "lon": -1.993377,
+      "dist": 3489.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "113920461": {
+              "pageid": 113920461,
+              "ns": 6,
+              "title": "File:Arínzano (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ar%C3%ADnzano_%281%29.jpg/500px-Ar%C3%ADnzano_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 253,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ar%C3%ADnzano_%281%29.jpg/960px-Ar%C3%ADnzano_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ar%C3%ADnzano_%281%29.jpg/960px-Ar%C3%ADnzano_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ar%C3%ADnzano_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ar%C3%ADnzano_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113920461",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-01-02 16:52:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arínzano (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Arínzano|Self-published work|Wineries in Navarre|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.631159",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.993377",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Caserío de Arínzano, con capilla a la derecha, caserón a la izquierda y bodegas al fondo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-01-02 10:54:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,4130 @@
+{
+  "id": 252520623,
+  "town": {
+    "name": {
+      "default": "Elizondo",
+      "es": "Elizondo",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 43.1463292,
+      "lon": -1.5183842
+    }
+  },
+  "files": [
+    {
+      "pageid": 168906113,
+      "ns": 6,
+      "title": "File:Biblioteca Pública de Baztan (cropped).jpg",
+      "lat": 43.145833630944,
+      "lon": -1.5181975079644,
+      "dist": 57.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "168906113": {
+              "pageid": 168906113,
+              "ns": 6,
+              "title": "File:Biblioteca Pública de Baztan (cropped).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Biblioteca_P%C3%BAblica_de_Baztan_%28cropped%29.jpg/500px-Biblioteca_P%C3%BAblica_de_Baztan_%28cropped%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 334,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Biblioteca_P%C3%BAblica_de_Baztan_%28cropped%29.jpg/799px-Biblioteca_P%C3%BAblica_de_Baztan_%28cropped%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Biblioteca_P%C3%BAblica_de_Baztan_%28cropped%29.jpg/600px-Biblioteca_P%C3%BAblica_de_Baztan_%28cropped%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Biblioteca_P%C3%BAblica_de_Baztan_%28cropped%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Biblioteca_P%C3%BAblica_de_Baztan_(cropped).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168906113",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-06-30 10:45:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Biblioteca Pública de Baztan (cropped)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Extracted images|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2025-03-22|Baztango harri gorria",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.145834",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.518198",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Biblioteca Pública de Baztan (biblioteca in Spagna)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "22 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Txapisotegi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Txapisotegi (page does not exist)\">Txapisotegi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 162628455,
+      "ns": 6,
+      "title": "File:Biblioteca Pública de Baztan.jpg",
+      "lat": 43.145833630944,
+      "lon": -1.5181975079644,
+      "dist": 57.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "162628455": {
+              "pageid": 162628455,
+              "ns": 6,
+              "title": "File:Biblioteca Pública de Baztan.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Biblioteca_P%C3%BAblica_de_Baztan.jpg/500px-Biblioteca_P%C3%BAblica_de_Baztan.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Biblioteca_P%C3%BAblica_de_Baztan.jpg/960px-Biblioteca_P%C3%BAblica_de_Baztan.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Biblioteca_P%C3%BAblica_de_Baztan.jpg/960px-Biblioteca_P%C3%BAblica_de_Baztan.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Biblioteca_P%C3%BAblica_de_Baztan.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Biblioteca_P%C3%BAblica_de_Baztan.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162628455",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-03-22 15:44:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Biblioteca Pública de Baztan",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Libraries in Navarre|Baztan|Elizondo|Self-published work|Images with extracted images|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2025-03-22|Buildings in Elizondo|Buildings in Baztan|Baztango harri gorria",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.145834",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.518198",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Biblioteca Pública de Baztan (biblioteca in Spagna)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "22 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Txapisotegi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Txapisotegi (page does not exist)\">Txapisotegi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 92852438,
+      "ns": 6,
+      "title": "File:Baztan ibaia Elizondon.jpg",
+      "lat": 43.145429700879,
+      "lon": -1.5188831350476,
+      "dist": 107.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "92852438": {
+              "pageid": 92852438,
+              "ns": 6,
+              "title": "File:Baztan ibaia Elizondon.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Baztan_ibaia_Elizondon.jpg/500px-Baztan_ibaia_Elizondon.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Baztan_ibaia_Elizondon.jpg/960px-Baztan_ibaia_Elizondon.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Baztan_ibaia_Elizondon.jpg/960px-Baztan_ibaia_Elizondon.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Baztan_ibaia_Elizondon.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baztan_ibaia_Elizondon.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92852438",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-08-03 17:40:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Baztan ibaia Elizondon",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Media lacking a description|Elizondo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Rivers of Baztan",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.145430",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.518883",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-03",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 56021195,
+      "ns": 6,
+      "title": "File:IGLESIA DE SANTIAGO APOSTOL...VER DETALLES - panoramio.jpg",
+      "lat": 43.145746,
+      "lon": -1.516802,
+      "dist": 143.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "56021195": {
+              "pageid": 56021195,
+              "ns": 6,
+              "title": "File:IGLESIA DE SANTIAGO APOSTOL...VER DETALLES - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/IGLESIA_DE_SANTIAGO_APOSTOL...VER_DETALLES_-_panoramio.jpg/500px-IGLESIA_DE_SANTIAGO_APOSTOL...VER_DETALLES_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/IGLESIA_DE_SANTIAGO_APOSTOL...VER_DETALLES_-_panoramio.jpg/960px-IGLESIA_DE_SANTIAGO_APOSTOL...VER_DETALLES_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/IGLESIA_DE_SANTIAGO_APOSTOL...VER_DETALLES_-_panoramio.jpg/960px-IGLESIA_DE_SANTIAGO_APOSTOL...VER_DETALLES_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/IGLESIA_DE_SANTIAGO_APOSTOL...VER_DETALLES_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:IGLESIA_DE_SANTIAGO_APOSTOL...VER_DETALLES_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56021195",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-02-08 02:22:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "IGLESIA DE SANTIAGO APOSTOL...VER DETALLES - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Church of Santiago Apóstol, Elizondo|Panoramio files uploaded by Panoramio upload bot|Media needing category review as of 8 February 2017|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2012-11-02|Photos from Panoramio ID 3013410",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.145746",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.516802",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "IGLESIA DE SANTIAGO APOSTOL...VER DETALLES",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 2 November 2012",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161025132841/http://www.panoramio.com/photo/83318617\">https://web.archive.org/web/20161025132841/http://www.panoramio.com/photo/83318617</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161025132845/http://www.panoramio.com/user/3013410?with_photo_id=83318617\">Manuel pino</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Manuel pino</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 8 February 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "Manuel pino",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 71748239,
+      "ns": 6,
+      "title": "File:Baztandarren Biltzarra 2017 Ziga.jpg",
+      "lat": 43.145,
+      "lon": -1.52,
+      "dist": 197.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "71748239": {
+              "pageid": 71748239,
+              "ns": 6,
+              "title": "File:Baztandarren Biltzarra 2017 Ziga.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Baztandarren_Biltzarra_2017_Ziga.jpg/500px-Baztandarren_Biltzarra_2017_Ziga.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Baztandarren_Biltzarra_2017_Ziga.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Baztandarren_Biltzarra_2017_Ziga.jpg/600px-Baztandarren_Biltzarra_2017_Ziga.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Baztandarren_Biltzarra_2017_Ziga.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baztandarren_Biltzarra_2017_Ziga.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71748239",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-18 23:53:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Baztandarren Biltzarra 2017 Ziga",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Ziga|Files with coordinates missing SDC location of creation|Town hall of Baztan|Baztandarren Biltzarra",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.145000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.520000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ziga herriak 2017an 'Maitena zinea' orgarekin Elizondon lehen saria lortu zuen Baztandarren biltzarrean.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-07-16",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p>erran.eus  CC-BY-SA 3.0\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://erran.eus/baztan/1500303463555-zigako-orga-nagusitu-da-baztandarren-biltzarra-jendetsuan\">https://erran.eus/baztan/1500303463555-zigako-orga-nagusitu-da-baztandarren-biltzarra-jendetsuan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Ttipi-Ttapa, Alicia del Castillo",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 113479254,
+      "ns": 6,
+      "title": "File:Jaurola jauregia Elbete Atea.jpg",
+      "lat": 43.148759,
+      "lon": -1.510549,
+      "dist": 690.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "113479254": {
+              "pageid": 113479254,
+              "ns": 6,
+              "title": "File:Jaurola jauregia Elbete Atea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jaurola_jauregia_Elbete_Atea.jpg/500px-Jaurola_jauregia_Elbete_Atea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 450,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jaurola_jauregia_Elbete_Atea.jpg/960px-Jaurola_jauregia_Elbete_Atea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jaurola_jauregia_Elbete_Atea.jpg/960px-Jaurola_jauregia_Elbete_Atea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jaurola_jauregia_Elbete_Atea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jaurola_jauregia_Elbete_Atea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113479254",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-12-19 08:29:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Jaurola jauregia Elbete Atea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Jaurola Jauregia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.148759",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.510549",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Jaurola jauregiko atea, Elbete, 2021eko abenduan",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-12-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 113479255,
+      "ns": 6,
+      "title": "File:Jaurola jauregia Elbete 03.jpg",
+      "lat": 43.148759,
+      "lon": -1.510549,
+      "dist": 690.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "113479255": {
+              "pageid": 113479255,
+              "ns": 6,
+              "title": "File:Jaurola jauregia Elbete 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jaurola_jauregia_Elbete_03.jpg/500px-Jaurola_jauregia_Elbete_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 246,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jaurola_jauregia_Elbete_03.jpg/960px-Jaurola_jauregia_Elbete_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jaurola_jauregia_Elbete_03.jpg/960px-Jaurola_jauregia_Elbete_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Jaurola_jauregia_Elbete_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jaurola_jauregia_Elbete_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113479255",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-12-19 08:29:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Jaurola jauregia Elbete 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Jaurola Jauregia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.148759",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.510549",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Jaurola jauregia, Elbete, 2021eko abenduan, hegoko aldea eta inguruko etxeak",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-12-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 113479257,
+      "ns": 6,
+      "title": "File:Jaurola jauregia Elbete 04.jpg",
+      "lat": 43.148759,
+      "lon": -1.510549,
+      "dist": 690.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "113479257": {
+              "pageid": 113479257,
+              "ns": 6,
+              "title": "File:Jaurola jauregia Elbete 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jaurola_jauregia_Elbete_04.jpg/500px-Jaurola_jauregia_Elbete_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 211,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jaurola_jauregia_Elbete_04.jpg/960px-Jaurola_jauregia_Elbete_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jaurola_jauregia_Elbete_04.jpg/960px-Jaurola_jauregia_Elbete_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Jaurola_jauregia_Elbete_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jaurola_jauregia_Elbete_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113479257",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-12-19 08:29:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Jaurola jauregia Elbete 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Jaurola Jauregia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.148759",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.510549",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Jaurola jauregia, Elbete, 2021eko abenduan, belar-bolak, hegoko aldea eta inguruko etxeak",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-12-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 113479256,
+      "ns": 6,
+      "title": "File:Jaurola jauregia Elbete 01.jpg",
+      "lat": 43.148759,
+      "lon": -1.510549,
+      "dist": 690.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "113479256": {
+              "pageid": 113479256,
+              "ns": 6,
+              "title": "File:Jaurola jauregia Elbete 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jaurola_jauregia_Elbete_01.jpg/500px-Jaurola_jauregia_Elbete_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 213,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jaurola_jauregia_Elbete_01.jpg/960px-Jaurola_jauregia_Elbete_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jaurola_jauregia_Elbete_01.jpg/960px-Jaurola_jauregia_Elbete_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Jaurola_jauregia_Elbete_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jaurola_jauregia_Elbete_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113479256",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-12-19 08:29:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Jaurola jauregia Elbete 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Jaurola Jauregia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.148759",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.510549",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Jaurola jauregia, Elbete, 2021eko abenduan, hego eta mendebaldeko aldeak",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-12-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 95176195,
+      "ns": 6,
+      "title": "File:Datueberria.jpg",
+      "lat": 43.139755,
+      "lon": -1.526217,
+      "dist": 968.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "95176195": {
+              "pageid": 95176195,
+              "ns": 6,
+              "title": "File:Datueberria.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Datueberria.jpg/500px-Datueberria.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Datueberria.jpg/960px-Datueberria.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Datueberria.jpg/960px-Datueberria.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Datueberria.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Datueberria.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95176195",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-10-18 06:30:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Datueberria",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|Palaces and houses in Elizondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.139755",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.526217",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Datueberria jauregi barrokoa Elizondon dago, Nafarroa Garaian. Hangoa zen Agustin Jauregi Aldekoa militar eta politikaria, eta han bizi izan zen Martin Luis Etxeberria Baztango alkate eta militarra Maria de los Angeles Iturralde Aldekoarekin ezkondu ondoren. <a rel=\"nofollow\" class=\"external free\" href=\"https://www.berria.eus/paperekoa/1829/038/001/2014-10-10/historiaren-zati-bat-salgai.htm\">https://www.berria.eus/paperekoa/1829/038/001/2014-10-10/historiaren-zati-bat-salgai.htm</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-10-17 15:24:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Xirkan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Xirkan (page does not exist)\">Xirkan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 56189291,
+      "ns": 6,
+      "title": "File:ELIZONDO, BAZTAN - panoramio.jpg",
+      "lat": 43.139299,
+      "lon": -1.525924,
+      "dist": 992.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "56189291": {
+              "pageid": 56189291,
+              "ns": 6,
+              "title": "File:ELIZONDO, BAZTAN - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ELIZONDO%2C_BAZTAN_-_panoramio.jpg/500px-ELIZONDO%2C_BAZTAN_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ELIZONDO%2C_BAZTAN_-_panoramio.jpg/960px-ELIZONDO%2C_BAZTAN_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ELIZONDO%2C_BAZTAN_-_panoramio.jpg/960px-ELIZONDO%2C_BAZTAN_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/ELIZONDO%2C_BAZTAN_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ELIZONDO,_BAZTAN_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56189291",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-02-11 20:43:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ELIZONDO, BAZTAN - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2012-11-02|Bidasoa river in Elizondo|Photos from Panoramio ID 3013410",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.139299",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.525924",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "ELIZONDO, BAZTAN",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 2 November 2012",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161025064616/http://www.panoramio.com/photo/84922060\">https://web.archive.org/web/20161025064616/http://www.panoramio.com/photo/84922060</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161025064623/http://www.panoramio.com/user/3013410?with_photo_id=84922060\">Manuel pino</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Manuel pino</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 11 February 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "Manuel pino",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 55368549,
+      "ns": 6,
+      "title": "File:COLORES DE OTOÑO - panoramio (1).jpg",
+      "lat": 43.139218,
+      "lon": -1.532671,
+      "dist": 1403.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "55368549": {
+              "pageid": 55368549,
+              "ns": 6,
+              "title": "File:COLORES DE OTOÑO - panoramio (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/COLORES_DE_OTO%C3%91O_-_panoramio_%281%29.jpg/500px-COLORES_DE_OTO%C3%91O_-_panoramio_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/COLORES_DE_OTO%C3%91O_-_panoramio_%281%29.jpg/960px-COLORES_DE_OTO%C3%91O_-_panoramio_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/COLORES_DE_OTO%C3%91O_-_panoramio_%281%29.jpg/960px-COLORES_DE_OTO%C3%91O_-_panoramio_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/COLORES_DE_OTO%C3%91O_-_panoramio_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:COLORES_DE_OTO%C3%91O_-_panoramio_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55368549",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-01-26 01:14:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "COLORES DE OTOÑO - panoramio (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2012-11-02|Media needing category review as of 26 January 2017|Landscapes of Baztan",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.139218",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.532671",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "COLORES DE OTOÑO",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 2 November 2012",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161027112455/http://www.panoramio.com/photo/81663697\">https://web.archive.org/web/20161027112455/http://www.panoramio.com/photo/81663697</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161027112457/http://www.panoramio.com/user/3013410?with_photo_id=81663697\">Manuel pino</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Manuel pino</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 26 January 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "Manuel pino",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72206309,
+      "ns": 6,
+      "title": "File:Lekaroz 05.jpg",
+      "lat": 43.146111,
+      "lon": -1.539722,
+      "dist": 1731.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72206309": {
+              "pageid": 72206309,
+              "ns": 6,
+              "title": "File:Lekaroz 05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lekaroz_05.jpg/500px-Lekaroz_05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lekaroz_05.jpg/960px-Lekaroz_05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lekaroz_05.jpg/960px-Lekaroz_05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Lekaroz_05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lekaroz_05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72206309",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-31 23:39:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lekaroz 05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lekaroz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.146111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Square in the village of Lekaroz in the Baztan valley of Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72206316,
+      "ns": 6,
+      "title": "File:Lekaroz 07.jpg",
+      "lat": 43.146111,
+      "lon": -1.539722,
+      "dist": 1731.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72206316": {
+              "pageid": 72206316,
+              "ns": 6,
+              "title": "File:Lekaroz 07.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lekaroz_07.jpg/500px-Lekaroz_07.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lekaroz_07.jpg/960px-Lekaroz_07.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lekaroz_07.jpg/960px-Lekaroz_07.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lekaroz_07.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lekaroz_07.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72206316",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-31 23:39:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lekaroz 07",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lekaroz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.146111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Fontain in the pelota court of Lekaroz in the Baztan valley of Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72206301,
+      "ns": 6,
+      "title": "File:Lekaroz 02.jpg",
+      "lat": 43.146111,
+      "lon": -1.539722,
+      "dist": 1731.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72206301": {
+              "pageid": 72206301,
+              "ns": 6,
+              "title": "File:Lekaroz 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lekaroz_02.jpg/500px-Lekaroz_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lekaroz_02.jpg/960px-Lekaroz_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lekaroz_02.jpg/960px-Lekaroz_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lekaroz_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lekaroz_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72206301",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-31 23:39:32",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lekaroz 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lekaroz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.146111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "\"Txiki Polita\" pelota court in Lekaroz (Baztan valley in Navarre)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72206308,
+      "ns": 6,
+      "title": "File:Lekaroz 04.jpg",
+      "lat": 43.146111,
+      "lon": -1.539722,
+      "dist": 1731.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72206308": {
+              "pageid": 72206308,
+              "ns": 6,
+              "title": "File:Lekaroz 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lekaroz_04.jpg/500px-Lekaroz_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lekaroz_04.jpg/960px-Lekaroz_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lekaroz_04.jpg/960px-Lekaroz_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lekaroz_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lekaroz_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72206308",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-31 23:39:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lekaroz 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lekaroz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.146111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "The church of Lekaroz in the Baztan valley of Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72206311,
+      "ns": 6,
+      "title": "File:Lekaroz 06.jpg",
+      "lat": 43.146111,
+      "lon": -1.539722,
+      "dist": 1731.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72206311": {
+              "pageid": 72206311,
+              "ns": 6,
+              "title": "File:Lekaroz 06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lekaroz_06.jpg/500px-Lekaroz_06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lekaroz_06.jpg/960px-Lekaroz_06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lekaroz_06.jpg/960px-Lekaroz_06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lekaroz_06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lekaroz_06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72206311",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-31 23:39:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lekaroz 06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lekaroz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.146111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lekaroz in the Baztan valley of Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72206303,
+      "ns": 6,
+      "title": "File:Lekaroz 01.jpg",
+      "lat": 43.146111,
+      "lon": -1.539722,
+      "dist": 1731.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72206303": {
+              "pageid": 72206303,
+              "ns": 6,
+              "title": "File:Lekaroz 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lekaroz_01.jpg/500px-Lekaroz_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 251,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lekaroz_01.jpg/960px-Lekaroz_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lekaroz_01.jpg/960px-Lekaroz_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lekaroz_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lekaroz_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72206303",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-31 23:39:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lekaroz 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lekaroz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.146111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Balcony in the village of Lekaroz in the Baztan valley of Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72206302,
+      "ns": 6,
+      "title": "File:Lekaroz 03.jpg",
+      "lat": 43.146111,
+      "lon": -1.539722,
+      "dist": 1731.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72206302": {
+              "pageid": 72206302,
+              "ns": 6,
+              "title": "File:Lekaroz 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lekaroz_03.jpg/500px-Lekaroz_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 606,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lekaroz_03.jpg/960px-Lekaroz_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lekaroz_03.jpg/960px-Lekaroz_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lekaroz_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lekaroz_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72206302",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-31 23:39:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lekaroz 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lekaroz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.146111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.539722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "The church in the village of Lekaroz in the Baztan valley of Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63722608,
+      "ns": 6,
+      "title": "File:Baztan ibaia Irurita Loizu 1.jpg",
+      "lat": 43.13731,
+      "lon": -1.54354,
+      "dist": 2274.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63722608": {
+              "pageid": 63722608,
+              "ns": 6,
+              "title": "File:Baztan ibaia Irurita Loizu 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baztan_ibaia_Irurita_Loizu_1.jpg/500px-Baztan_ibaia_Irurita_Loizu_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 132,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baztan_ibaia_Irurita_Loizu_1.jpg/960px-Baztan_ibaia_Irurita_Loizu_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Baztan_ibaia_Irurita_Loizu_1.jpg/960px-Baztan_ibaia_Irurita_Loizu_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Baztan_ibaia_Irurita_Loizu_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baztan_ibaia_Irurita_Loizu_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63722608",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-10-29 18:58:53",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Baztan ibaia Irurita Loizu 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Bidasoa|Rivers of the Basque Country|Media lacking a description|Irurita|Self-published work|Files with coordinates missing SDC location of creation|Images from Ibaien Paisaia contest|Uploaded via Campaign:ibaien paisaia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.137310",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.543540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-12",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81249262,
+      "ns": 6,
+      "title": "File:Zimitz laranja Iruritan 2019 01.jpg",
+      "lat": 43.1283,
+      "lon": -1.5428,
+      "dist": 2818.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81249262": {
+              "pageid": 81249262,
+              "ns": 6,
+              "title": "File:Zimitz laranja Iruritan 2019 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Zimitz_laranja_Iruritan_2019_01.jpg/500px-Zimitz_laranja_Iruritan_2019_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 334,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Zimitz_laranja_Iruritan_2019_01.jpg/960px-Zimitz_laranja_Iruritan_2019_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Zimitz_laranja_Iruritan_2019_01.jpg/960px-Zimitz_laranja_Iruritan_2019_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Zimitz_laranja_Iruritan_2019_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zimitz_laranja_Iruritan_2019_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81249262",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-11 20:42:34",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zimitz laranja Iruritan 2019 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Irurita|Self-published work|Files with coordinates missing SDC location of creation|Unidentified Heteroptera of Spain|Hemiptera on Daucus carota flowers",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.128300",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.542800",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Orange bedbug in Irurita, Nafarroa, August 2019",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-08-03",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 106629172,
+      "ns": 6,
+      "title": "File:Jauregia dorretxea.jpg",
+      "lat": 43.131192,
+      "lon": -1.547001,
+      "dist": 2867.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "106629172": {
+              "pageid": 106629172,
+              "ns": 6,
+              "title": "File:Jauregia dorretxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jauregia_dorretxea.jpg/500px-Jauregia_dorretxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jauregia_dorretxea.jpg/960px-Jauregia_dorretxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jauregia_dorretxea.jpg/960px-Jauregia_dorretxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jauregia_dorretxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jauregia_dorretxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106629172",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-06-16 06:25:20",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Jauregia dorretxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|All media needing categories as of 2021|Pages with local camera coordinates and missing SDC coordinates|Files with coordinates missing SDC location of creation|Media needing categories as of 16 June 2021",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.131192",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.547001",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "jauregia dorretxea",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Irurita-urtzelape&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Irurita-urtzelape (page does not exist)\">Irurita-urtzelape</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 106629219,
+      "ns": 6,
+      "title": "File:Gaston iriarte jauregia23.jpg",
+      "lat": 43.131214,
+      "lon": -1.547131,
+      "dist": 2875,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "106629219": {
+              "pageid": 106629219,
+              "ns": 6,
+              "title": "File:Gaston iriarte jauregia23.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gaston_iriarte_jauregia23.jpg/500px-Gaston_iriarte_jauregia23.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gaston_iriarte_jauregia23.jpg/960px-Gaston_iriarte_jauregia23.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gaston_iriarte_jauregia23.jpg/960px-Gaston_iriarte_jauregia23.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gaston_iriarte_jauregia23.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gaston_iriarte_jauregia23.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106629219",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-06-16 06:28:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gaston iriarte jauregia23",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|All media needing categories as of 2021|Pages with local camera coordinates and missing SDC coordinates|Files with coordinates missing SDC location of creation|Media needing categories as of 16 June 2021",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.131214",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.547131",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "gaston iriarte jauregia23",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Irurita-urtzelape&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Irurita-urtzelape (page does not exist)\">Irurita-urtzelape</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 106629138,
+      "ns": 6,
+      "title": "File:Dorrea23.jpg",
+      "lat": 43.131605,
+      "lon": -1.548449,
+      "dist": 2937.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "106629138": {
+              "pageid": 106629138,
+              "ns": 6,
+              "title": "File:Dorrea23.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dorrea23.jpg/500px-Dorrea23.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dorrea23.jpg/960px-Dorrea23.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dorrea23.jpg/960px-Dorrea23.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Dorrea23.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dorrea23.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106629138",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-06-16 06:23:15",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Dorrea23",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Pages with local camera coordinates and missing SDC coordinates|White facades|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.131605",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.548449",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "dorrea23",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Irurita-urtzelape&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Irurita-urtzelape (page does not exist)\">Irurita-urtzelape</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 106603909,
+      "ns": 6,
+      "title": "File:Ferrategia.jpg",
+      "lat": 43.128609,
+      "lon": -1.548818,
+      "dist": 3159.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "106603909": {
+              "pageid": 106603909,
+              "ns": 6,
+              "title": "File:Ferrategia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ferrategia.jpg/500px-Ferrategia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ferrategia.jpg/960px-Ferrategia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ferrategia.jpg/960px-Ferrategia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ferrategia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ferrategia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106603909",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-06-15 11:52:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ferrategia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|All media needing categories as of 2021|Pages with local camera coordinates and missing SDC coordinates|Files with coordinates missing SDC location of creation|Media needing categories as of 15 June 2021",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.128609",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.548818",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "ferrategia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Irurita-urtzelape&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Irurita-urtzelape (page does not exist)\">Irurita-urtzelape</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 106443692,
+      "ns": 6,
+      "title": "File:3.Ane Eli.jpg",
+      "lat": 43.1281468,
+      "lon": -1.5487080972222,
+      "dist": 3184.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "106443692": {
+              "pageid": 106443692,
+              "ns": 6,
+              "title": "File:3.Ane Eli.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/3.Ane_Eli.jpg/500px-3.Ane_Eli.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/3.Ane_Eli.jpg/960px-3.Ane_Eli.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/3.Ane_Eli.jpg/960px-3.Ane_Eli.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/3.Ane_Eli.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:3.Ane_Eli.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106443692",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-06-10 07:33:34",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "3.Ane Eli",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Irurita|Self-published work|Files with coordinates missing SDC location of creation|Streets in Baztan",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.128147",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.548708",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "bidegurutzea",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-03-21",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Irurita-urtzelape&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Irurita-urtzelape (page does not exist)\">Irurita-urtzelape</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124113353,
+      "ns": 6,
+      "title": "File:Saioa mendia.jpg",
+      "lat": 43.169376,
+      "lon": -1.494696,
+      "dist": 3203,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124113353": {
+              "pageid": 124113353,
+              "ns": 6,
+              "title": "File:Saioa mendia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Saioa_mendia.jpg/500px-Saioa_mendia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Saioa_mendia.jpg/960px-Saioa_mendia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Saioa_mendia.jpg/960px-Saioa_mendia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Saioa_mendia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saioa_mendia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124113353",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-12 19:02:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Saioa mendia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Mountains of Navarre|Self-published work|Spain photographs taken on 2020-07-08|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.169376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.494696",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Saioa media",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 8 July 2020, 12:26:22",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hodei_Casado&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hodei Casado (page does not exist)\">Hodei Casado</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72265913,
+      "ns": 6,
+      "title": "File:Zubiria Jauregia Arraioz 01.jpg",
+      "lat": 43.14,
+      "lon": -1.563611,
+      "dist": 3736.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72265913": {
+              "pageid": 72265913,
+              "ns": 6,
+              "title": "File:Zubiria Jauregia Arraioz 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zubiria_Jauregia_Arraioz_01.jpg/500px-Zubiria_Jauregia_Arraioz_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 247,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zubiria_Jauregia_Arraioz_01.jpg/960px-Zubiria_Jauregia_Arraioz_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zubiria_Jauregia_Arraioz_01.jpg/960px-Zubiria_Jauregia_Arraioz_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Zubiria_Jauregia_Arraioz_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zubiria_Jauregia_Arraioz_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72265913",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-02 12:32:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zubiria Jauregia Arraioz 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Jaureguizarrea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.140000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.563611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Zubiria Palace, Arraioz, Baztan, Navarre",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 71869523,
+      "ns": 6,
+      "title": "File:Arraioz Pilotalekua 20180818-1.jpg",
+      "lat": 43.14,
+      "lon": -1.563611,
+      "dist": 3736.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "71869523": {
+              "pageid": 71869523,
+              "ns": 6,
+              "title": "File:Arraioz Pilotalekua 20180818-1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arraioz_Pilotalekua_20180818-1.jpg/500px-Arraioz_Pilotalekua_20180818-1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 149,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arraioz_Pilotalekua_20180818-1.jpg/960px-Arraioz_Pilotalekua_20180818-1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arraioz_Pilotalekua_20180818-1.jpg/960px-Arraioz_Pilotalekua_20180818-1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Arraioz_Pilotalekua_20180818-1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arraioz_Pilotalekua_20180818-1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71869523",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-22 08:10:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arraioz Pilotalekua 20180818-1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pilota valenciana|Laxoa|Self-published work|Files with coordinates missing SDC location of creation|Sports in Arraioz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.140000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.563611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arraioz. Square to play \"laxo\", behind the church. It is the only open ball court with a grass floor. Flags to mark the line, stone for the serve and marker.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-18 18:07:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 71869350,
+      "ns": 6,
+      "title": "File:Arraioz Pilotalekua 20180818-4.jpg",
+      "lat": 43.14,
+      "lon": -1.563611,
+      "dist": 3736.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "71869350": {
+              "pageid": 71869350,
+              "ns": 6,
+              "title": "File:Arraioz Pilotalekua 20180818-4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arraioz_Pilotalekua_20180818-4.jpg/500px-Arraioz_Pilotalekua_20180818-4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arraioz_Pilotalekua_20180818-4.jpg/960px-Arraioz_Pilotalekua_20180818-4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arraioz_Pilotalekua_20180818-4.jpg/960px-Arraioz_Pilotalekua_20180818-4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Arraioz_Pilotalekua_20180818-4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arraioz_Pilotalekua_20180818-4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71869350",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-22 07:59:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arraioz Pilotalekua 20180818-4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pelota|Laxoa|Self-published work|Files with coordinates missing SDC location of creation|Sports in Arraioz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.140000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.563611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arraioz. Square to play \"laxo\", behind the church. It is the only open ball court with a grass floor. Flags to mark the line, stone for the serve and marker.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-18 17:59:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 71869348,
+      "ns": 6,
+      "title": "File:Arraioz Pilotalekua 20180818-3.jpg",
+      "lat": 43.14,
+      "lon": -1.563611,
+      "dist": 3736.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "71869348": {
+              "pageid": 71869348,
+              "ns": 6,
+              "title": "File:Arraioz Pilotalekua 20180818-3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Arraioz_Pilotalekua_20180818-3.jpg/500px-Arraioz_Pilotalekua_20180818-3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Arraioz_Pilotalekua_20180818-3.jpg/960px-Arraioz_Pilotalekua_20180818-3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Arraioz_Pilotalekua_20180818-3.jpg/960px-Arraioz_Pilotalekua_20180818-3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Arraioz_Pilotalekua_20180818-3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arraioz_Pilotalekua_20180818-3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71869348",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-22 07:59:48",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arraioz Pilotalekua 20180818-3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pilota valenciana|Laxoa|Self-published work|Files with coordinates missing SDC location of creation|Sports in Arraioz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.140000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.563611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arraioz. Square to play \"laxo\", behind the church. It is the only open ball court with a grass floor. Flags to mark the line, stone for the serve and marker.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-18 18:02:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72265914,
+      "ns": 6,
+      "title": "File:Zubiria Jauregia Arraioz 02.jpg",
+      "lat": 43.14,
+      "lon": -1.563611,
+      "dist": 3736.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72265914": {
+              "pageid": 72265914,
+              "ns": 6,
+              "title": "File:Zubiria Jauregia Arraioz 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Zubiria_Jauregia_Arraioz_02.jpg/500px-Zubiria_Jauregia_Arraioz_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Zubiria_Jauregia_Arraioz_02.jpg/960px-Zubiria_Jauregia_Arraioz_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Zubiria_Jauregia_Arraioz_02.jpg/960px-Zubiria_Jauregia_Arraioz_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Zubiria_Jauregia_Arraioz_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zubiria_Jauregia_Arraioz_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72265914",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-02 12:32:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zubiria Jauregia Arraioz 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Jaureguizarrea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.140000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.563611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Zubiria Palace, Arraioz, Baztan, Navarre",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 71869349,
+      "ns": 6,
+      "title": "File:Arraioz Pilotalekua 20180818-2.jpg",
+      "lat": 43.14,
+      "lon": -1.563611,
+      "dist": 3736.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "71869349": {
+              "pageid": 71869349,
+              "ns": 6,
+              "title": "File:Arraioz Pilotalekua 20180818-2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arraioz_Pilotalekua_20180818-2.jpg/500px-Arraioz_Pilotalekua_20180818-2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 235,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arraioz_Pilotalekua_20180818-2.jpg/960px-Arraioz_Pilotalekua_20180818-2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arraioz_Pilotalekua_20180818-2.jpg/960px-Arraioz_Pilotalekua_20180818-2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Arraioz_Pilotalekua_20180818-2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arraioz_Pilotalekua_20180818-2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71869349",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-22 07:59:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arraioz Pilotalekua 20180818-2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pilota valenciana|Laxoa|Self-published work|Files with coordinates missing SDC location of creation|Sports in Arraioz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.140000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.563611",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arraioz. Square to play \"laxo\", behind the church. It is the only open ball court with a grass floor. Flags to mark the line, stone for the serve and marker.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-18 18:07:04",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

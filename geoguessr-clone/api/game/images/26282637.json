@@ -1,0 +1,1490 @@
+{
+  "id": 26282637,
+  "town": {
+    "name": {
+      "default": "Murillo el Cuende",
+      "es": "Murillo el Cuende",
+      "eu": "Murillo el Cuende"
+    },
+    "coordinates": {
+      "lat": 42.3978449,
+      "lon": -1.6304866
+    }
+  },
+  "files": [
+    {
+      "pageid": 144768339,
+      "ns": 6,
+      "title": "File:Santa Kruz baseliza Murelu Kuenden.jpg",
+      "lat": 42.397925,
+      "lon": -1.627985,
+      "dist": 205.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144768339": {
+              "pageid": 144768339,
+              "ns": 6,
+              "title": "File:Santa Kruz baseliza Murelu Kuenden.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Santa_Kruz_baseliza_Murelu_Kuenden.jpg/500px-Santa_Kruz_baseliza_Murelu_Kuenden.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Santa_Kruz_baseliza_Murelu_Kuenden.jpg/960px-Santa_Kruz_baseliza_Murelu_Kuenden.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Santa_Kruz_baseliza_Murelu_Kuenden.jpg/960px-Santa_Kruz_baseliza_Murelu_Kuenden.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Santa_Kruz_baseliza_Murelu_Kuenden.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santa_Kruz_baseliza_Murelu_Kuenden.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144768339",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-01-30 11:16:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Santa Kruz baseliza Murelu Kuenden",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Murillo el Cuende|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-01-30|Nafarroako kultura ondasunak",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.397925",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.627985",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Santa Kruz baseliza Murillo el Cuenden",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 January 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Smatxi\" title=\"User:Smatxi\">Smatxi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144767966,
+      "ns": 6,
+      "title": "File:Murillo el Cuende.jpg",
+      "lat": 42.400187011623,
+      "lon": -1.6255717809732,
+      "dist": 480.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144767966": {
+              "pageid": 144767966,
+              "ns": 6,
+              "title": "File:Murillo el Cuende.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Murillo_el_Cuende.jpg/500px-Murillo_el_Cuende.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Murillo_el_Cuende.jpg/960px-Murillo_el_Cuende.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Murillo_el_Cuende.jpg/960px-Murillo_el_Cuende.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Murillo_el_Cuende.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Murillo_el_Cuende.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144767966",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-01-30 11:05:21",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Murillo el Cuende",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Murillo el Cuende (concejo)|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-01-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400187",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.625572",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Nafarroa Garaiko herria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 January 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Smatxi\" title=\"User:Smatxi\">Smatxi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 176235294,
+      "ns": 6,
+      "title": "File:Cruce de Talgos en la estación de Caparroso.jpg",
+      "lat": 42.381107,
+      "lon": -1.64517,
+      "dist": 2217.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "176235294": {
+              "pageid": 176235294,
+              "ns": 6,
+              "title": "File:Cruce de Talgos en la estación de Caparroso.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cruce_de_Talgos_en_la_estaci%C3%B3n_de_Caparroso.jpg/500px-Cruce_de_Talgos_en_la_estaci%C3%B3n_de_Caparroso.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cruce_de_Talgos_en_la_estaci%C3%B3n_de_Caparroso.jpg/960px-Cruce_de_Talgos_en_la_estaci%C3%B3n_de_Caparroso.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cruce_de_Talgos_en_la_estaci%C3%B3n_de_Caparroso.jpg/960px-Cruce_de_Talgos_en_la_estaci%C3%B3n_de_Caparroso.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cruce_de_Talgos_en_la_estaci%C3%B3n_de_Caparroso.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cruce_de_Talgos_en_la_estaci%C3%B3n_de_Caparroso.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176235294",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-10-07 00:51:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cruce de Talgos en la estación de Caparroso",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Talgo III|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Caparroso train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381107",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645170",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Todo un lujo para un aficionado al ferrocarril: un cruce de Talgo III. Con los dos semáforos en rojo, el \"Covadonga-Finisterre\" dirección Barcelona había entrado por la vía 2 y estaba detenido esperando el veloz paso del \"Miguel de Unamuno\" camino de lrún. Qué tiempos y parece que fue ayer...",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2007-06-06 17:02:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jiesnarr/4336837103/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Jose Ignacio Esnarriaga San Jose",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 176230818,
+      "ns": 6,
+      "title": "File:Alvia S-120 \"Covadonga-Finisterre\" en la estación de Caparroso.jpg",
+      "lat": 42.381107,
+      "lon": -1.64517,
+      "dist": 2217.7,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2025-10-06T22:25:03Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "176230818": {
+              "pageid": 176230818,
+              "ns": 6,
+              "title": "File:Alvia S-120 \"Covadonga-Finisterre\" en la estación de Caparroso.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alvia_S-120_%22Covadonga-Finisterre%22_en_la_estaci%C3%B3n_de_Caparroso.jpg/500px-Alvia_S-120_%22Covadonga-Finisterre%22_en_la_estaci%C3%B3n_de_Caparroso.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 264,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alvia_S-120_%22Covadonga-Finisterre%22_en_la_estaci%C3%B3n_de_Caparroso.jpg/960px-Alvia_S-120_%22Covadonga-Finisterre%22_en_la_estaci%C3%B3n_de_Caparroso.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alvia_S-120_%22Covadonga-Finisterre%22_en_la_estaci%C3%B3n_de_Caparroso.jpg/960px-Alvia_S-120_%22Covadonga-Finisterre%22_en_la_estaci%C3%B3n_de_Caparroso.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Alvia_S-120_%22Covadonga-Finisterre%22_en_la_estaci%C3%B3n_de_Caparroso.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alvia_S-120_%22Covadonga-Finisterre%22_en_la_estaci%C3%B3n_de_Caparroso.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176230818",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-10-15 21:21:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Alvia S-120 \"Covadonga-Finisterre\" en la estación de Caparroso",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in|Caparroso train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381107",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645170",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "También en esta foto tuve suerte. La media hora de retraso que llevaba el tren a su paso por Caparroso, me sirvió para que no se me escapara. La foto es un poco diferente a las demás que tengo en esta estación, situándome al final del antiguo muelle de mercancías de la estación, en lugar de al principio del andén 2º. La luz, como podéis apreciar en la foto, comenzaba a escasear con el sol ya puesto en el horizonte...",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2009-02-12 18:34:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jiesnarr/3277036183/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "José Ignacio Esnarriaga San José",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 176228916,
+      "ns": 6,
+      "title": "File:Cruce de Talgo III en Caparroso (Navarra).jpg",
+      "lat": 42.381107,
+      "lon": -1.64517,
+      "dist": 2217.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "176228916": {
+              "pageid": 176228916,
+              "ns": 6,
+              "title": "File:Cruce de Talgo III en Caparroso (Navarra).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cruce_de_Talgo_III_en_Caparroso_%28Navarra%29.jpg/500px-Cruce_de_Talgo_III_en_Caparroso_%28Navarra%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cruce_de_Talgo_III_en_Caparroso_%28Navarra%29.jpg/960px-Cruce_de_Talgo_III_en_Caparroso_%28Navarra%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cruce_de_Talgo_III_en_Caparroso_%28Navarra%29.jpg/960px-Cruce_de_Talgo_III_en_Caparroso_%28Navarra%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cruce_de_Talgo_III_en_Caparroso_%28Navarra%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cruce_de_Talgo_III_en_Caparroso_(Navarra).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176228916",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-10-06 21:51:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cruce de Talgo III en Caparroso (Navarra)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Caparroso train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381107",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645170",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "In the third sequence you can see the two Talgos, the \"Miguel de Unamuno\" and the \"Covadonga-Finisterre\"crossing at Caparroso station...",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2007-07-12 18:11:49",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jiesnarr/50393518122/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Jose Ignacio Esnarriaga San Jose",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 176228920,
+      "ns": 6,
+      "title": "File:Talgo III Barcelona Sants-Irún en Caparroso.jpg",
+      "lat": 42.381052,
+      "lon": -1.645245,
+      "dist": 2226.2,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2025-10-06T21:51:28Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "176228920": {
+              "pageid": 176228920,
+              "ns": 6,
+              "title": "File:Talgo III Barcelona Sants-Irún en Caparroso.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Talgo_III_Barcelona_Sants-Ir%C3%BAn_en_Caparroso.jpg/500px-Talgo_III_Barcelona_Sants-Ir%C3%BAn_en_Caparroso.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Talgo_III_Barcelona_Sants-Ir%C3%BAn_en_Caparroso.jpg/960px-Talgo_III_Barcelona_Sants-Ir%C3%BAn_en_Caparroso.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Talgo_III_Barcelona_Sants-Ir%C3%BAn_en_Caparroso.jpg/960px-Talgo_III_Barcelona_Sants-Ir%C3%BAn_en_Caparroso.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Talgo_III_Barcelona_Sants-Ir%C3%BAn_en_Caparroso.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Talgo_III_Barcelona_Sants-Ir%C3%BAn_en_Caparroso.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176228920",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-10-15 23:55:48",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Talgo III Barcelona Sants-Irún en Caparroso",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in|Caparroso train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381052",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645245",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Four sequences for my favourite crossing... This crossing was relatively common in that year 2007 and it's not just anything...there were two Talgo III, the \"Covadonga-Finisterre\" coming from A Coruña/Vigo and Gijón going to Barcelona-Sants and \"Miguel de Unamuno\" proceeding from Barcelona-Sants and with destination Irún (Previously, the trainset of Bibao and Salamanca had been separated).\nIn the first sequence, the Talgo \"Miguel de Unamuno\" Barcelona Sants-Irún arrives at Caparroso station and stops, waiting for the crossing of another Talgo. In that occasion the locomotive in head of the Talgo was 252-068.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2007-07-12 18:10:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jiesnarr/50393479467/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "José Ignacio Esnarriaga San José",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102534409,
+      "ns": 6,
+      "title": "File:ISS051-E-13532 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -1.6,
+      "dist": 2514.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102534409": {
+              "pageid": 102534409,
+              "ns": 6,
+              "title": "File:ISS051-E-13532 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ISS051-E-13532_-_View_of_Earth.jpg/500px-ISS051-E-13532_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ISS051-E-13532_-_View_of_Earth.jpg/960px-ISS051-E-13532_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ISS051-E-13532_-_View_of_Earth.jpg/960px-ISS051-E-13532_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/ISS051-E-13532_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS051-E-13532_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102534409",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-29 02:04:29",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS051-E-13532 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 51 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-04-15",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 51.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-15 12:57:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS051&amp;roll=E&amp;frame=13532\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 119407219,
+      "ns": 6,
+      "title": "File:ISS035-E-32349 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -1.6,
+      "dist": 2514.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "119407219": {
+              "pageid": 119407219,
+              "ns": 6,
+              "title": "File:ISS035-E-32349 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/ISS035-E-32349_-_View_of_Earth.jpg/500px-ISS035-E-32349_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/ISS035-E-32349_-_View_of_Earth.jpg/960px-ISS035-E-32349_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/ISS035-E-32349_-_View_of_Earth.jpg/960px-ISS035-E-32349_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/ISS035-E-32349_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS035-E-32349_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119407219",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-06-17 21:32:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS035-E-32349 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D3s|PD NASA|ISS Expedition 35 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2013-05-01",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 35.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-05-01 11:11:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS035&amp;roll=E&amp;frame=32349\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102534410,
+      "ns": 6,
+      "title": "File:ISS051-E-13533 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -1.6,
+      "dist": 2514.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102534410": {
+              "pageid": 102534410,
+              "ns": 6,
+              "title": "File:ISS051-E-13533 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ISS051-E-13533_-_View_of_Earth.jpg/500px-ISS051-E-13533_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ISS051-E-13533_-_View_of_Earth.jpg/960px-ISS051-E-13533_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ISS051-E-13533_-_View_of_Earth.jpg/960px-ISS051-E-13533_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/ISS051-E-13533_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS051-E-13533_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102534410",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-29 02:04:30",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS051-E-13533 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Pages with maps|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 51 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-04-15",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 51.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-15 12:57:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS051&amp;roll=E&amp;frame=13533\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102535959,
+      "ns": 6,
+      "title": "File:ISS051-E-14771 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -1.6,
+      "dist": 2514.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102535959": {
+              "pageid": 102535959,
+              "ns": 6,
+              "title": "File:ISS051-E-14771 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ISS051-E-14771_-_View_of_Earth.jpg/500px-ISS051-E-14771_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ISS051-E-14771_-_View_of_Earth.jpg/960px-ISS051-E-14771_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ISS051-E-14771_-_View_of_Earth.jpg/960px-ISS051-E-14771_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ISS051-E-14771_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS051-E-14771_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102535959",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-29 02:21:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS051-E-14771 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Pages with maps|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 51 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-04-15",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 51.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-15 12:57:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS051&amp;roll=E&amp;frame=14771\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102535961,
+      "ns": 6,
+      "title": "File:ISS051-E-14770 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -1.6,
+      "dist": 2514.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102535961": {
+              "pageid": 102535961,
+              "ns": 6,
+              "title": "File:ISS051-E-14770 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ISS051-E-14770_-_View_of_Earth.jpg/500px-ISS051-E-14770_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ISS051-E-14770_-_View_of_Earth.jpg/960px-ISS051-E-14770_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ISS051-E-14770_-_View_of_Earth.jpg/960px-ISS051-E-14770_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/ISS051-E-14770_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS051-E-14770_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102535961",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-29 02:21:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS051-E-14770 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 51 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-04-15",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 51.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-15 12:57:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS051&amp;roll=E&amp;frame=14770\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144764299,
+      "ns": 6,
+      "title": "File:Traibuenaseko jauregia.jpg",
+      "lat": 42.36691,
+      "lon": -1.6289416666666,
+      "dist": 3442.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144764299": {
+              "pageid": 144764299,
+              "ns": 6,
+              "title": "File:Traibuenaseko jauregia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Traibuenaseko_jauregia.jpg/500px-Traibuenaseko_jauregia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Traibuenaseko_jauregia.jpg/960px-Traibuenaseko_jauregia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Traibuenaseko_jauregia.jpg/960px-Traibuenaseko_jauregia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Traibuenaseko_jauregia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Traibuenaseko_jauregia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144764299",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-01-30 09:41:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Traibuenaseko jauregia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Traibuenas|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-01-30|Nafarroako kultura ondasunak",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.366910",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.628942",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mirandako Dukeen jauregi gotortua",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 January 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Smatxi\" title=\"User:Smatxi\">Smatxi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

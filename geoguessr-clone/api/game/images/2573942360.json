@@ -1,0 +1,3484 @@
+{
+  "id": 2573942360,
+  "town": {
+    "name": {
+      "default": "Aranguren",
+      "es": null,
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 43.210629,
+      "lon": -3.1167193
+    }
+  },
+  "files": [
+    {
+      "pageid": 150603092,
+      "ns": 6,
+      "title": "File:Parque de bomberos de Zalla.jpg",
+      "lat": 43.207117,
+      "lon": -3.125133,
+      "dist": 785.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "150603092": {
+              "pageid": 150603092,
+              "ns": 6,
+              "title": "File:Parque de bomberos de Zalla.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Parque_de_bomberos_de_Zalla.jpg/500px-Parque_de_bomberos_de_Zalla.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Parque_de_bomberos_de_Zalla.jpg/960px-Parque_de_bomberos_de_Zalla.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Parque_de_bomberos_de_Zalla.jpg/960px-Parque_de_bomberos_de_Zalla.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Parque_de_bomberos_de_Zalla.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parque_de_bomberos_de_Zalla.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150603092",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-07-21 18:51:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Parque de bomberos de Zalla",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zalla|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Fire stations in the Basque Autonomous Community|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.207117",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.125133",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://www.wikidata.org/wiki/Q126198548\" class=\"extiw\" title=\"d:Q126198548\">Parque de bomberos de Zalla</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Vanbasten_23\" title=\"User:Vanbasten 23\">Vanbasten 23</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 7856288,
+      "ns": 6,
+      "title": "File:Encartaciones-20080302110102.jpg",
+      "lat": 43.2144875451,
+      "lon": -3.13262701035,
+      "dist": 1358.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "7856288": {
+              "pageid": 7856288,
+              "ns": 6,
+              "title": "File:Encartaciones-20080302110102.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Encartaciones-20080302110102.jpg/500px-Encartaciones-20080302110102.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Encartaciones-20080302110102.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Encartaciones-20080302110102.jpg/600px-Encartaciones-20080302110102.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Encartaciones-20080302110102.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Encartaciones-20080302110102.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7856288",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2009-09-20 16:45:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Encartaciones-20080302110102",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Canon Digital IXUS 400|Files from external sources with reviewed licenses|Files with coordinates missing SDC location of creation|Exterior of the Church of San Miguel Arcángel, Mimetiz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.214488",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.132627",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Church of St. Michael in Zalla (Biscay, Spain)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-03-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://encartaciones.nirudia.com/3095\">http://encartaciones.nirudia.com/3095</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Grupo de Encartaciones",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73202305,
+      "ns": 6,
+      "title": "File:Llantada Dorrea.jpg",
+      "lat": 43.205172,
+      "lon": -3.133436,
+      "dist": 1484.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73202305": {
+              "pageid": 73202305,
+              "ns": 6,
+              "title": "File:Llantada Dorrea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Llantada_Dorrea.jpg/500px-Llantada_Dorrea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Llantada_Dorrea.jpg/960px-Llantada_Dorrea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Llantada_Dorrea.jpg/960px-Llantada_Dorrea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Llantada_Dorrea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Llantada_Dorrea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73202305",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-29 17:26:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Llantada Dorrea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Llantada Dorrea|Self-published work|Tower houses in Biscay|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.205172",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.133436",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Llantada_Dorrea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Llantada Dorrea (page does not exist)\">Llantada Dorrea</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 17:59:18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73221148,
+      "ns": 6,
+      "title": "File:Llantada Dorrea eta mahastiak.jpg",
+      "lat": 43.204906,
+      "lon": -3.133728,
+      "dist": 1518.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73221148": {
+              "pageid": 73221148,
+              "ns": 6,
+              "title": "File:Llantada Dorrea eta mahastiak.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Llantada_Dorrea_eta_mahastiak.jpg/500px-Llantada_Dorrea_eta_mahastiak.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Llantada_Dorrea_eta_mahastiak.jpg/960px-Llantada_Dorrea_eta_mahastiak.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Llantada_Dorrea_eta_mahastiak.jpg/960px-Llantada_Dorrea_eta_mahastiak.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Llantada_Dorrea_eta_mahastiak.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Llantada_Dorrea_eta_mahastiak.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73221148",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 06:27:19",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Llantada Dorrea eta mahastiak",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Llantada Dorrea|Self-published work|Tower houses in Biscay|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.204906",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.133728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Llantada_Dorrea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Llantada Dorrea (page does not exist)\">Llantada Dorrea</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:01:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 129470539,
+      "ns": 6,
+      "title": "File:Ainhoa Ezeiza by Gorka Palazio.jpg",
+      "lat": 43.212333,
+      "lon": -3.136833,
+      "dist": 1641,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "129470539": {
+              "pageid": 129470539,
+              "ns": 6,
+              "title": "File:Ainhoa Ezeiza by Gorka Palazio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ainhoa_Ezeiza_by_Gorka_Palazio.jpg/500px-Ainhoa_Ezeiza_by_Gorka_Palazio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ainhoa_Ezeiza_by_Gorka_Palazio.jpg/960px-Ainhoa_Ezeiza_by_Gorka_Palazio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ainhoa_Ezeiza_by_Gorka_Palazio.jpg/960px-Ainhoa_Ezeiza_by_Gorka_Palazio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ainhoa_Ezeiza_by_Gorka_Palazio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ainhoa_Ezeiza_by_Gorka_Palazio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=129470539",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-03-10 09:39:29",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ainhoa Ezeiza by Gorka Palazio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Euskal Herriko Unibertsitatea in Gipuzkoa|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.212333",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.136833",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ainhoa Ezeiza Ikasnabar 2013 kongresuan",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-07-10 12:27:02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/palazio/9255432828/\">Ainhoa Ezeiza Ikasnabar 2013 kongresuan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Gorka Palazio",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 7856491,
+      "ns": 6,
+      "title": "File:Encartaciones-20080302110415.jpg",
+      "lat": 43.2121261228,
+      "lon": -3.13734769821,
+      "dist": 1680,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "7856491": {
+              "pageid": 7856491,
+              "ns": 6,
+              "title": "File:Encartaciones-20080302110415.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Encartaciones-20080302110415.jpg/500px-Encartaciones-20080302110415.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/9/92/Encartaciones-20080302110415.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Encartaciones-20080302110415.jpg/600px-Encartaciones-20080302110415.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Encartaciones-20080302110415.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Encartaciones-20080302110415.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7856491",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2009-09-20 17:10:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Encartaciones-20080302110415",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Canon Digital IXUS 400|Mimetiz|Files from external sources with reviewed licenses|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.212126",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.137348",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Cinema and theatre of Zalla (Biscay, Spain)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-03-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://encartaciones.nirudia.com/3096\">Zalla Zine-Antzokia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://encartaciones.nirudia.com/\">Grupo de Encartaciones</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91787447,
+      "ns": 6,
+      "title": "File:Gueñes - Hurtado Ametzaga jauregia 2.jpg",
+      "lat": 43.20959,
+      "lon": -3.09588,
+      "dist": 1692.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91787447": {
+              "pageid": 91787447,
+              "ns": 6,
+              "title": "File:Gueñes - Hurtado Ametzaga jauregia 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia_2.jpg/500px-Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia_2.jpg/960px-Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia_2.jpg/960px-Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787447",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:11:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gueñes - Hurtado Ametzaga jauregia 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Güeñes|Self-published work|Palaces in Biscay|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.209590",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.095880",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Hurtado Ametzaga jauregia ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-01-21 10:53:12",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91787448,
+      "ns": 6,
+      "title": "File:Gueñes - Hurtado Ametzaga jauregia.jpg",
+      "lat": 43.20959,
+      "lon": -3.09588,
+      "dist": 1692.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91787448": {
+              "pageid": 91787448,
+              "ns": 6,
+              "title": "File:Gueñes - Hurtado Ametzaga jauregia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia.jpg/500px-Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia.jpg/960px-Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia.jpg/960px-Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gue%C3%B1es_-_Hurtado_Ametzaga_jauregia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787448",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:11:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gueñes - Hurtado Ametzaga jauregia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Güeñes|Self-published work|Palaces in Biscay|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.209590",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.095880",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Hurtado Ametzaga jauregia ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-01-21 10:52:58",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 133018008,
+      "ns": 6,
+      "title": "File:José de los Heros mira a la cámara mientras se firma el contrato de construcción del faro de Matxitxako.jpg",
+      "lat": 43.205883,
+      "lon": -3.137772,
+      "dist": 1786,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "133018008": {
+              "pageid": 133018008,
+              "ns": 6,
+              "title": "File:José de los Heros mira a la cámara mientras se firma el contrato de construcción del faro de Matxitxako.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jos%C3%A9_de_los_Heros_mira_a_la_c%C3%A1mara_mientras_se_firma_el_contrato_de_construcci%C3%B3n_del_faro_de_Matxitxako.jpg/500px-Jos%C3%A9_de_los_Heros_mira_a_la_c%C3%A1mara_mientras_se_firma_el_contrato_de_construcci%C3%B3n_del_faro_de_Matxitxako.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 262,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jos%C3%A9_de_los_Heros_mira_a_la_c%C3%A1mara_mientras_se_firma_el_contrato_de_construcci%C3%B3n_del_faro_de_Matxitxako.jpg/960px-Jos%C3%A9_de_los_Heros_mira_a_la_c%C3%A1mara_mientras_se_firma_el_contrato_de_construcci%C3%B3n_del_faro_de_Matxitxako.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jos%C3%A9_de_los_Heros_mira_a_la_c%C3%A1mara_mientras_se_firma_el_contrato_de_construcci%C3%B3n_del_faro_de_Matxitxako.jpg/960px-Jos%C3%A9_de_los_Heros_mira_a_la_c%C3%A1mara_mientras_se_firma_el_contrato_de_construcci%C3%B3n_del_faro_de_Matxitxako.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jos%C3%A9_de_los_Heros_mira_a_la_c%C3%A1mara_mientras_se_firma_el_contrato_de_construcci%C3%B3n_del_faro_de_Matxitxako.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_de_los_Heros_mira_a_la_c%C3%A1mara_mientras_se_firma_el_contrato_de_construcci%C3%B3n_del_faro_de_Matxitxako.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133018008",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-12 13:53:20",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "José de los Heros mira a la cámara mientras se firma el contrato de construcción del faro de Matxitxako",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Engineering|Pages with maps|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.205883",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.137772",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "José de los Heros mira a la cámara mientras se firma el contrato de construcción del faro de Matxitxako",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "1910",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Javietxebarria&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Javietxebarria (page does not exist)\">Javietxebarria</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91788056,
+      "ns": 6,
+      "title": "File:011 Gueñes - Casa Baratas La Unión.jpg",
+      "lat": 43.211803,
+      "lon": -3.093775,
+      "dist": 1864,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91788056": {
+              "pageid": 91788056,
+              "ns": 6,
+              "title": "File:011 Gueñes - Casa Baratas La Unión.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/500px-011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 205,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91788056",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:29:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "011 Gueñes - Casa Baratas La Unión",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Güeñes|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.211803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.093775",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "La Unión ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-06-29 23:19:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91788060,
+      "ns": 6,
+      "title": "File:010 Gueñes - Casa Baratas La Unión.jpg",
+      "lat": 43.211803,
+      "lon": -3.093775,
+      "dist": 1864,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91788060": {
+              "pageid": 91788060,
+              "ns": 6,
+              "title": "File:010 Gueñes - Casa Baratas La Unión.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/500px-010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91788060",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:29:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "010 Gueñes - Casa Baratas La Unión",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Güeñes|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.211803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.093775",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "La Unión ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-03-10 13:06:22",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91788058,
+      "ns": 6,
+      "title": "File:012 Gueñes - Casa Baratas La Unión.jpg",
+      "lat": 43.211803,
+      "lon": -3.093775,
+      "dist": 1864,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91788058": {
+              "pageid": 91788058,
+              "ns": 6,
+              "title": "File:012 Gueñes - Casa Baratas La Unión.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/500px-012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91788058",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:29:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "012 Gueñes - Casa Baratas La Unión",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Güeñes|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.211803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.093775",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "La Unión ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-03-10 13:23:27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73268283,
+      "ns": 6,
+      "title": "File:Zariketeko San Pedro baseliza.jpg",
+      "lat": 43.209144,
+      "lon": -3.141294,
+      "dist": 1998.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73268283": {
+              "pageid": 73268283,
+              "ns": 6,
+              "title": "File:Zariketeko San Pedro baseliza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zariketeko_San_Pedro_baseliza.jpg/500px-Zariketeko_San_Pedro_baseliza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zariketeko_San_Pedro_baseliza.jpg/960px-Zariketeko_San_Pedro_baseliza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zariketeko_San_Pedro_baseliza.jpg/960px-Zariketeko_San_Pedro_baseliza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Zariketeko_San_Pedro_baseliza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zariketeko_San_Pedro_baseliza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73268283",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 20:42:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zariketeko San Pedro baseliza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Hermitage of San Pedro de Zarikete|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.209144",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.141294",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Zariketeko_San_Pedro_baseliza&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Zariketeko San Pedro baseliza (page does not exist)\">Zariketeko San Pedro baseliza</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:59:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82411503,
+      "ns": 6,
+      "title": "File:Gueñes - San Lorenzo de Bermejillo 003.jpg",
+      "lat": 43.22924,
+      "lon": -3.109615,
+      "dist": 2148,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82411503": {
+              "pageid": 82411503,
+              "ns": 6,
+              "title": "File:Gueñes - San Lorenzo de Bermejillo 003.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_003.jpg/500px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_003.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_003.jpg/960px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_003.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_003.jpg/960px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_003.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_003.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_003.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82411503",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-22 06:05:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gueñes - San Lorenzo de Bermejillo 003",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Hermitage of San Lorenzo, Güeñes|Self-published work|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Spain photographs taken on 2006-01-21|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.229240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.109615",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Lorentzo baseliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-01-21 10:42:11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82411502,
+      "ns": 6,
+      "title": "File:Gueñes - San Lorenzo de Bermejillo 004.jpg",
+      "lat": 43.22924,
+      "lon": -3.109615,
+      "dist": 2148,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82411502": {
+              "pageid": 82411502,
+              "ns": 6,
+              "title": "File:Gueñes - San Lorenzo de Bermejillo 004.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_004.jpg/500px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_004.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_004.jpg/960px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_004.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_004.jpg/960px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_004.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_004.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_004.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82411502",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-22 06:05:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gueñes - San Lorenzo de Bermejillo 004",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Hermitage of San Lorenzo, Güeñes|Self-published work|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Spain photographs taken on 2006-01-21|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.229240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.109615",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Lorentzo baseliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-01-21 10:40:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82411507,
+      "ns": 6,
+      "title": "File:Gueñes - San Lorenzo de Bermejillo 005.jpg",
+      "lat": 43.22924,
+      "lon": -3.109615,
+      "dist": 2148,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82411507": {
+              "pageid": 82411507,
+              "ns": 6,
+              "title": "File:Gueñes - San Lorenzo de Bermejillo 005.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_005.jpg/500px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_005.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_005.jpg/960px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_005.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_005.jpg/960px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_005.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_005.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_005.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82411507",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-22 06:06:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gueñes - San Lorenzo de Bermejillo 005",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Hermitage of San Lorenzo, Güeñes|Self-published work|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Spain photographs taken on 2006-01-21|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.229240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.109615",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Lorentzo baseliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-01-21 10:41:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82411505,
+      "ns": 6,
+      "title": "File:Gueñes - San Lorenzo de Bermejillo 001.jpg",
+      "lat": 43.22924,
+      "lon": -3.109615,
+      "dist": 2148,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82411505": {
+              "pageid": 82411505,
+              "ns": 6,
+              "title": "File:Gueñes - San Lorenzo de Bermejillo 001.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_001.jpg/500px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_001.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_001.jpg/960px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_001.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_001.jpg/960px-Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_001.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_001.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gue%C3%B1es_-_San_Lorenzo_de_Bermejillo_001.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82411505",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-22 06:06:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gueñes - San Lorenzo de Bermejillo 001",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Hermitage of San Lorenzo, Güeñes|Self-published work|Files with coordinates missing SDC location of creation|Cultural heritage monuments in the Basque Country|Uploaded via Campaign:wlm-es-eus|Spain photographs taken on 2006-01-21|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.229240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.109615",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Lorentzo baseliza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-01-21 10:39:48",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73220723,
+      "ns": 6,
+      "title": "File:Ibarra 13 baserria.jpg",
+      "lat": 43.204861,
+      "lon": -3.142986,
+      "dist": 2223.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73220723": {
+              "pageid": 73220723,
+              "ns": 6,
+              "title": "File:Ibarra 13 baserria.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ibarra_13_baserria.jpg/500px-Ibarra_13_baserria.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ibarra_13_baserria.jpg/960px-Ibarra_13_baserria.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ibarra_13_baserria.jpg/960px-Ibarra_13_baserria.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ibarra_13_baserria.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ibarra_13_baserria.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73220723",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 06:11:19",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ibarra 13 baserria",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Ibarra 13 baserria|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.204861",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.142986",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Ibarra_13_baserria&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ibarra 13 baserria (page does not exist)\">Ibarra 13 baserria</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:49:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 47161217,
+      "ns": 6,
+      "title": "File:Azulejuzko murala Zallan.JPG",
+      "lat": 43.204865,
+      "lon": -3.144184,
+      "dist": 2316.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "47161217": {
+              "pageid": 47161217,
+              "ns": 6,
+              "title": "File:Azulejuzko murala Zallan.JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Azulejuzko_murala_Zallan.JPG/500px-Azulejuzko_murala_Zallan.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Azulejuzko_murala_Zallan.JPG/960px-Azulejuzko_murala_Zallan.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Azulejuzko_murala_Zallan.JPG/960px-Azulejuzko_murala_Zallan.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Azulejuzko_murala_Zallan.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azulejuzko_murala_Zallan.JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=47161217",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-02-25 05:42:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Azulejuzko murala Zallan",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Biscay|Zalla|Art of the Basque Country|José Arrue|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.204865",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.144184",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Bizkaiko Foru Aldundiak Zallan kokatua duen frutagintza estazioaren kanpoko aldean dagoen baserri bateko azulejuz egindako murala.\nMuralaren ezkerrean egilearen sinadura ageri da: \"J. Arrue\".",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-02-24 16:39:13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Xeskisabel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Xeskisabel (page does not exist)\">Xeskisabel</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73220618,
+      "ns": 6,
+      "title": "File:Gobeo Jauregia.jpg",
+      "lat": 43.200417,
+      "lon": -3.146725,
+      "dist": 2684,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73220618": {
+              "pageid": 73220618,
+              "ns": 6,
+              "title": "File:Gobeo Jauregia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gobeo_Jauregia.jpg/500px-Gobeo_Jauregia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gobeo_Jauregia.jpg/960px-Gobeo_Jauregia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gobeo_Jauregia.jpg/960px-Gobeo_Jauregia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gobeo_Jauregia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gobeo_Jauregia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73220618",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 06:07:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gobeo Jauregia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Gobeo jauregia|Self-published work|Palaces in Biscay|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200417",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.146725",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Gobeo_jauregia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gobeo jauregia (page does not exist)\">Gobeo jauregia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:44:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73220619,
+      "ns": 6,
+      "title": "File:Gobeo Jauregiaren etxe-aurrea.jpg",
+      "lat": 43.200314,
+      "lon": -3.146747,
+      "dist": 2690.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73220619": {
+              "pageid": 73220619,
+              "ns": 6,
+              "title": "File:Gobeo Jauregiaren etxe-aurrea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gobeo_Jauregiaren_etxe-aurrea.jpg/500px-Gobeo_Jauregiaren_etxe-aurrea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gobeo_Jauregiaren_etxe-aurrea.jpg/960px-Gobeo_Jauregiaren_etxe-aurrea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gobeo_Jauregiaren_etxe-aurrea.jpg/960px-Gobeo_Jauregiaren_etxe-aurrea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Gobeo_Jauregiaren_etxe-aurrea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gobeo_Jauregiaren_etxe-aurrea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73220619",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 06:07:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gobeo Jauregiaren etxe-aurrea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Gobeo jauregia|Self-published work|Palaces in Biscay|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200314",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.146747",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Gobeo_jauregia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gobeo jauregia (page does not exist)\">Gobeo jauregia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:42:39",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73220617,
+      "ns": 6,
+      "title": "File:Gobeo Jauregiaren armarria.jpg",
+      "lat": 43.200314,
+      "lon": -3.146772,
+      "dist": 2692.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73220617": {
+              "pageid": 73220617,
+              "ns": 6,
+              "title": "File:Gobeo Jauregiaren armarria.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gobeo_Jauregiaren_armarria.jpg/500px-Gobeo_Jauregiaren_armarria.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 400,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gobeo_Jauregiaren_armarria.jpg/960px-Gobeo_Jauregiaren_armarria.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gobeo_Jauregiaren_armarria.jpg/960px-Gobeo_Jauregiaren_armarria.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gobeo_Jauregiaren_armarria.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gobeo_Jauregiaren_armarria.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73220617",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 06:07:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gobeo Jauregiaren armarria",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Self-published work|Reliefs of coats of arms in Biscay|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Sculptures in Zalla|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200314",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.146772",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Gobeo_jauregia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gobeo jauregia (page does not exist)\">Gobeo jauregia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:43:16",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73220409,
+      "ns": 6,
+      "title": "File:Bolunburu burdinola Kadagua erreka ondoan.jpg",
+      "lat": 43.200847,
+      "lon": -3.154072,
+      "dist": 3216.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73220409": {
+              "pageid": 73220409,
+              "ns": 6,
+              "title": "File:Bolunburu burdinola Kadagua erreka ondoan.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bolunburu_burdinola_Kadagua_erreka_ondoan.jpg/500px-Bolunburu_burdinola_Kadagua_erreka_ondoan.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bolunburu_burdinola_Kadagua_erreka_ondoan.jpg/960px-Bolunburu_burdinola_Kadagua_erreka_ondoan.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bolunburu_burdinola_Kadagua_erreka_ondoan.jpg/960px-Bolunburu_burdinola_Kadagua_erreka_ondoan.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bolunburu_burdinola_Kadagua_erreka_ondoan.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bolunburu_burdinola_Kadagua_erreka_ondoan.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73220409",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 05:57:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Bolunburu burdinola Kadagua erreka ondoan",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Bolunburu (burdinola)|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200847",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.154072",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Bolunburu_burdinola&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bolunburu burdinola (page does not exist)\">Bolunburu burdinola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:17:28",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73220408,
+      "ns": 6,
+      "title": "File:Bolunburu burdinolaren hondakinak.jpg",
+      "lat": 43.200353,
+      "lon": -3.154114,
+      "dist": 3239.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73220408": {
+              "pageid": 73220408,
+              "ns": 6,
+              "title": "File:Bolunburu burdinolaren hondakinak.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bolunburu_burdinolaren_hondakinak.jpg/500px-Bolunburu_burdinolaren_hondakinak.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bolunburu_burdinolaren_hondakinak.jpg/960px-Bolunburu_burdinolaren_hondakinak.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bolunburu_burdinolaren_hondakinak.jpg/960px-Bolunburu_burdinolaren_hondakinak.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bolunburu_burdinolaren_hondakinak.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bolunburu_burdinolaren_hondakinak.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73220408",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 05:57:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Bolunburu burdinolaren hondakinak",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Bolunburu (burdinola)|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200353",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.154114",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Bolunburu_burdinola&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bolunburu burdinola (page does not exist)\">Bolunburu burdinola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:18:51",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73220406,
+      "ns": 6,
+      "title": "File:Bolunburu burdinola.jpg",
+      "lat": 43.200358,
+      "lon": -3.154458,
+      "dist": 3265,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73220406": {
+              "pageid": 73220406,
+              "ns": 6,
+              "title": "File:Bolunburu burdinola.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bolunburu_burdinola.jpg/500px-Bolunburu_burdinola.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bolunburu_burdinola.jpg/960px-Bolunburu_burdinola.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bolunburu_burdinola.jpg/960px-Bolunburu_burdinola.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bolunburu_burdinola.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bolunburu_burdinola.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73220406",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 05:57:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Bolunburu burdinola",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Bolunburu (burdinola)|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200358",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.154458",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Bolunburu_burdinola&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bolunburu burdinola (page does not exist)\">Bolunburu burdinola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:21:54",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73219936,
+      "ns": 6,
+      "title": "File:Bolunburuko Dorrea.jpg",
+      "lat": 43.199189,
+      "lon": -3.154253,
+      "dist": 3297.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73219936": {
+              "pageid": 73219936,
+              "ns": 6,
+              "title": "File:Bolunburuko Dorrea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bolunburuko_Dorrea.jpg/500px-Bolunburuko_Dorrea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bolunburuko_Dorrea.jpg/960px-Bolunburuko_Dorrea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bolunburuko_Dorrea.jpg/960px-Bolunburuko_Dorrea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bolunburuko_Dorrea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bolunburuko_Dorrea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73219936",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 05:40:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Bolunburuko Dorrea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Bolonburuko Dorrea|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.199189",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.154253",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Bolonburuko_Dorrea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bolonburuko Dorrea (page does not exist)\">Bolonburuko Dorrea</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:31:09",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 73268506,
+      "ns": 6,
+      "title": "File:Santa Ana baseliza.jpg",
+      "lat": 43.198983,
+      "lon": -3.154525,
+      "dist": 3326.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "73268506": {
+              "pageid": 73268506,
+              "ns": 6,
+              "title": "File:Santa Ana baseliza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Santa_Ana_baseliza.jpg/500px-Santa_Ana_baseliza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Santa_Ana_baseliza.jpg/960px-Santa_Ana_baseliza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Santa_Ana_baseliza.jpg/960px-Santa_Ana_baseliza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Santa_Ana_baseliza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santa_Ana_baseliza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73268506",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-30 20:46:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Santa Ana baseliza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2018|Santa Ana baseliza, Zalla|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2018 in Spain|Images from Wiki Loves Monuments 2018 in the Basque Country|Spain photographs taken on 2018-09-28|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2018 in Biscay",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.198983",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.154525",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Santa_Ana_baseliza&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Santa Ana baseliza (page does not exist)\">Santa Ana baseliza</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-09-28 18:25:11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Iurdana&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Iurdana (page does not exist)\">Iurdana</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 7856367,
+      "ns": 6,
+      "title": "File:Encartaciones-20080302104838.jpg",
+      "lat": 43.1988629271,
+      "lon": -3.15472841263,
+      "dist": 3347,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "7856367": {
+              "pageid": 7856367,
+              "ns": 6,
+              "title": "File:Encartaciones-20080302104838.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Encartaciones-20080302104838.jpg/500px-Encartaciones-20080302104838.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Encartaciones-20080302104838.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Encartaciones-20080302104838.jpg/600px-Encartaciones-20080302104838.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Encartaciones-20080302104838.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Encartaciones-20080302104838.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7856367",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2009-09-20 16:54:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Encartaciones-20080302104838",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Biscay|Taken with Canon Digital IXUS 400|Files from external sources with reviewed licenses|Bolonburuko Dorrea|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.198863",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.154728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Tower of Bolunburu and church of Saint Anne in Zalla (Biscay, Spain)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-03-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://encartaciones.nirudia.com/3093\">http://encartaciones.nirudia.com/3093</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Grupo de Encartaciones",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

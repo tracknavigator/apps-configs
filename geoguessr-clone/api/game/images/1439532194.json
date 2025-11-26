@@ -1,0 +1,2496 @@
+{
+  "id": 1439532194,
+  "town": {
+    "name": {
+      "default": "Ollo",
+      "es": "Ollo",
+      "eu": "Ollo"
+    },
+    "coordinates": {
+      "lat": 42.8673369,
+      "lon": -1.8585331
+    }
+  },
+  "files": [
+    {
+      "pageid": 124157275,
+      "ns": 6,
+      "title": "File:Joxe Ulibarrena 2011 Argia 01.jpg",
+      "lat": 42.861935,
+      "lon": -1.86986,
+      "dist": 1101.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124157275": {
+              "pageid": 124157275,
+              "ns": 6,
+              "title": "File:Joxe Ulibarrena 2011 Argia 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Joxe_Ulibarrena_2011_Argia_01.jpg/500px-Joxe_Ulibarrena_2011_Argia_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 297,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Joxe_Ulibarrena_2011_Argia_01.jpg/960px-Joxe_Ulibarrena_2011_Argia_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Joxe_Ulibarrena_2011_Argia_01.jpg/960px-Joxe_Ulibarrena_2011_Argia_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Joxe_Ulibarrena_2011_Argia_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Joxe_Ulibarrena_2011_Argia_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124157275",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-13 21:45:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Joxe Ulibarrena 2011 Argia 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Joxe Ulibarrena|Ethnographic Museum of the Kingdom of Pamplona|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.861935",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.869860",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Joxe Ulibarrena eskultorea Artetako museo etnografikoan (2011)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-07-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Argia.eus, CC-BY-SA, <a rel=\"nofollow\" class=\"external free\" href=\"https://www.argia.eus/albistea/joxe-ulibarrena-eskultore-nafarra-hil-da\">https://www.argia.eus/albistea/joxe-ulibarrena-eskultore-nafarra-hil-da</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Dani Blanco, Argia.eus",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124157277,
+      "ns": 6,
+      "title": "File:Joxe Ulibarrena 2011 Argia 03.jpg",
+      "lat": 42.861935,
+      "lon": -1.86986,
+      "dist": 1101.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124157277": {
+              "pageid": 124157277,
+              "ns": 6,
+              "title": "File:Joxe Ulibarrena 2011 Argia 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Joxe_Ulibarrena_2011_Argia_03.jpg/500px-Joxe_Ulibarrena_2011_Argia_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 270,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Joxe_Ulibarrena_2011_Argia_03.jpg/960px-Joxe_Ulibarrena_2011_Argia_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Joxe_Ulibarrena_2011_Argia_03.jpg/960px-Joxe_Ulibarrena_2011_Argia_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Joxe_Ulibarrena_2011_Argia_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Joxe_Ulibarrena_2011_Argia_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124157277",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-13 21:45:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Joxe Ulibarrena 2011 Argia 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Joxe Ulibarrena|Ethnographic Museum of the Kingdom of Pamplona|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.861935",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.869860",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Joxe Ulibarrena eskultorea Artetako museo etnografikoan (2011)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-07-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Argia.eus, CC-BY-SA, <a rel=\"nofollow\" class=\"external free\" href=\"https://www.argia.eus/albistea/joxe-ulibarrena-eskultore-nafarra-hil-da\">https://www.argia.eus/albistea/joxe-ulibarrena-eskultore-nafarra-hil-da</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Dani Blanco, Argia.eus",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124157279,
+      "ns": 6,
+      "title": "File:Joxe Ulibarrena 2011 Argia 04.jpg",
+      "lat": 42.861935,
+      "lon": -1.86986,
+      "dist": 1101.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124157279": {
+              "pageid": 124157279,
+              "ns": 6,
+              "title": "File:Joxe Ulibarrena 2011 Argia 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Joxe_Ulibarrena_2011_Argia_04.jpg/500px-Joxe_Ulibarrena_2011_Argia_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 375,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Joxe_Ulibarrena_2011_Argia_04.jpg/960px-Joxe_Ulibarrena_2011_Argia_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Joxe_Ulibarrena_2011_Argia_04.jpg/960px-Joxe_Ulibarrena_2011_Argia_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Joxe_Ulibarrena_2011_Argia_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Joxe_Ulibarrena_2011_Argia_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124157279",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-13 21:45:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Joxe Ulibarrena 2011 Argia 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Joxe Ulibarrena|Ethnographic Museum of the Kingdom of Pamplona|Dani Blanco|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.861935",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.869860",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Joxe Ulibarrena eskultorea Artetako museo etnografikoan (2011)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-07-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Argia.eus, CC-BY-SA, <a rel=\"nofollow\" class=\"external free\" href=\"https://www.argia.eus/albistea/joxe-ulibarrena-eskultore-nafarra-hil-da\">https://www.argia.eus/albistea/joxe-ulibarrena-eskultore-nafarra-hil-da</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Dani Blanco, Argia.eus",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124157276,
+      "ns": 6,
+      "title": "File:Joxe Ulibarrena 2011 Argia 02.jpg",
+      "lat": 42.861935,
+      "lon": -1.86986,
+      "dist": 1101.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124157276": {
+              "pageid": 124157276,
+              "ns": 6,
+              "title": "File:Joxe Ulibarrena 2011 Argia 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Joxe_Ulibarrena_2011_Argia_02.jpg/500px-Joxe_Ulibarrena_2011_Argia_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 487,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Joxe_Ulibarrena_2011_Argia_02.jpg/960px-Joxe_Ulibarrena_2011_Argia_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Joxe_Ulibarrena_2011_Argia_02.jpg/960px-Joxe_Ulibarrena_2011_Argia_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Joxe_Ulibarrena_2011_Argia_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Joxe_Ulibarrena_2011_Argia_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124157276",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-13 21:45:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Joxe Ulibarrena 2011 Argia 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Joxe Ulibarrena|Ethnographic Museum of the Kingdom of Pamplona|Files with coordinates missing SDC location of creation|Sculptors at work",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.861935",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.869860",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Joxe Ulibarrena eskultorea Artetako museo etnografikoan (2011)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-07-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Argia.eus, CC-BY-SA, <a rel=\"nofollow\" class=\"external free\" href=\"https://www.argia.eus/albistea/joxe-ulibarrena-eskultore-nafarra-hil-da\">https://www.argia.eus/albistea/joxe-ulibarrena-eskultore-nafarra-hil-da</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Dani Blanco, Argia.eus",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175662608,
+      "ns": 6,
+      "title": "File:Ulzurrun año 2018 a 21.jpg",
+      "lat": 42.855725,
+      "lon": -1.854328,
+      "dist": 1335.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175662608": {
+              "pageid": 175662608,
+              "ns": 6,
+              "title": "File:Ulzurrun año 2018 a 21.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulzurrun_a%C3%B1o_2018_a_21.jpg/500px-Ulzurrun_a%C3%B1o_2018_a_21.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulzurrun_a%C3%B1o_2018_a_21.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_21.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ulzurrun_a%C3%B1o_2018_a_21.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_21.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ulzurrun_a%C3%B1o_2018_a_21.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulzurrun_a%C3%B1o_2018_a_21.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175662608",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-27 07:59:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ulzurrun año 2018 a 21",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ulzurrun",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.855725",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.854328",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ulzurrun año 2018",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-10 11:55:39",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:19Tarrestnom65\" title=\"User:19Tarrestnom65\">19Tarrestnom65</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175662579,
+      "ns": 6,
+      "title": "File:Ulzurrun año 2018 a 20.jpg",
+      "lat": 42.855725,
+      "lon": -1.854328,
+      "dist": 1335.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175662579": {
+              "pageid": 175662579,
+              "ns": 6,
+              "title": "File:Ulzurrun año 2018 a 20.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ulzurrun_a%C3%B1o_2018_a_20.jpg/500px-Ulzurrun_a%C3%B1o_2018_a_20.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ulzurrun_a%C3%B1o_2018_a_20.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_20.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ulzurrun_a%C3%B1o_2018_a_20.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_20.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ulzurrun_a%C3%B1o_2018_a_20.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulzurrun_a%C3%B1o_2018_a_20.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175662579",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-27 07:58:48",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ulzurrun año 2018 a 20",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ulzurrun",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.855725",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.854328",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ulzurrun año 2018",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-10 11:55:38",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:19Tarrestnom65\" title=\"User:19Tarrestnom65\">19Tarrestnom65</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175662547,
+      "ns": 6,
+      "title": "File:Ulzurrun año 2018 a 09.jpg",
+      "lat": 42.855339,
+      "lon": -1.854594,
+      "dist": 1372.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175662547": {
+              "pageid": 175662547,
+              "ns": 6,
+              "title": "File:Ulzurrun año 2018 a 09.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ulzurrun_a%C3%B1o_2018_a_09.jpg/500px-Ulzurrun_a%C3%B1o_2018_a_09.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ulzurrun_a%C3%B1o_2018_a_09.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_09.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ulzurrun_a%C3%B1o_2018_a_09.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_09.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ulzurrun_a%C3%B1o_2018_a_09.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulzurrun_a%C3%B1o_2018_a_09.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175662547",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-27 07:58:24",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ulzurrun año 2018 a 09",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ulzurrun",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.855339",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.854594",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ulzurrun año 2018",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-10 11:53:00",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:19Tarrestnom65\" title=\"User:19Tarrestnom65\">19Tarrestnom65</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175662560,
+      "ns": 6,
+      "title": "File:Ulzurrun año 2018 a 13.jpg",
+      "lat": 42.85535,
+      "lon": -1.854358,
+      "dist": 1375.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175662560": {
+              "pageid": 175662560,
+              "ns": 6,
+              "title": "File:Ulzurrun año 2018 a 13.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ulzurrun_a%C3%B1o_2018_a_13.jpg/500px-Ulzurrun_a%C3%B1o_2018_a_13.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ulzurrun_a%C3%B1o_2018_a_13.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_13.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ulzurrun_a%C3%B1o_2018_a_13.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_13.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ulzurrun_a%C3%B1o_2018_a_13.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulzurrun_a%C3%B1o_2018_a_13.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175662560",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-27 07:58:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ulzurrun año 2018 a 13",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ulzurrun",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.855350",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.854358",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ulzurrun año 2018",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-10 11:53:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:19Tarrestnom65\" title=\"User:19Tarrestnom65\">19Tarrestnom65</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175662555,
+      "ns": 6,
+      "title": "File:Ulzurrun año 2018 a 12.jpg",
+      "lat": 42.855339,
+      "lon": -1.854344,
+      "dist": 1377.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175662555": {
+              "pageid": 175662555,
+              "ns": 6,
+              "title": "File:Ulzurrun año 2018 a 12.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ulzurrun_a%C3%B1o_2018_a_12.jpg/500px-Ulzurrun_a%C3%B1o_2018_a_12.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ulzurrun_a%C3%B1o_2018_a_12.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_12.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ulzurrun_a%C3%B1o_2018_a_12.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_12.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ulzurrun_a%C3%B1o_2018_a_12.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulzurrun_a%C3%B1o_2018_a_12.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175662555",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-27 07:58:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ulzurrun año 2018 a 12",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ulzurrun",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.855339",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.854344",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ulzurrun año 2018",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-10 11:53:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:19Tarrestnom65\" title=\"User:19Tarrestnom65\">19Tarrestnom65</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175662536,
+      "ns": 6,
+      "title": "File:Ulzurrun año 2018 a 01.jpg",
+      "lat": 42.855511,
+      "lon": -1.850319,
+      "dist": 1475.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175662536": {
+              "pageid": 175662536,
+              "ns": 6,
+              "title": "File:Ulzurrun año 2018 a 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ulzurrun_a%C3%B1o_2018_a_01.jpg/500px-Ulzurrun_a%C3%B1o_2018_a_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ulzurrun_a%C3%B1o_2018_a_01.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ulzurrun_a%C3%B1o_2018_a_01.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ulzurrun_a%C3%B1o_2018_a_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulzurrun_a%C3%B1o_2018_a_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175662536",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-27 07:58:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ulzurrun año 2018 a 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ulzurrun",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.855511",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.850319",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ulzurrun año 2018",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-10 11:42:39",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:19Tarrestnom65\" title=\"User:19Tarrestnom65\">19Tarrestnom65</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175662654,
+      "ns": 6,
+      "title": "File:Ulzurrun año 2018 a 32.jpg",
+      "lat": 42.854694,
+      "lon": -1.852483,
+      "dist": 1489.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175662654": {
+              "pageid": 175662654,
+              "ns": 6,
+              "title": "File:Ulzurrun año 2018 a 32.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ulzurrun_a%C3%B1o_2018_a_32.jpg/500px-Ulzurrun_a%C3%B1o_2018_a_32.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ulzurrun_a%C3%B1o_2018_a_32.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_32.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ulzurrun_a%C3%B1o_2018_a_32.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_32.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ulzurrun_a%C3%B1o_2018_a_32.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulzurrun_a%C3%B1o_2018_a_32.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175662654",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-27 07:59:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ulzurrun año 2018 a 32",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ulzurrun",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.854694",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.852483",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ulzurrun año 2018",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-10 12:04:44",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:19Tarrestnom65\" title=\"User:19Tarrestnom65\">19Tarrestnom65</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175662650,
+      "ns": 6,
+      "title": "File:Ulzurrun año 2018 a 31.jpg",
+      "lat": 42.854678,
+      "lon": -1.852483,
+      "dist": 1491.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175662650": {
+              "pageid": 175662650,
+              "ns": 6,
+              "title": "File:Ulzurrun año 2018 a 31.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ulzurrun_a%C3%B1o_2018_a_31.jpg/500px-Ulzurrun_a%C3%B1o_2018_a_31.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ulzurrun_a%C3%B1o_2018_a_31.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_31.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ulzurrun_a%C3%B1o_2018_a_31.jpg/960px-Ulzurrun_a%C3%B1o_2018_a_31.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Ulzurrun_a%C3%B1o_2018_a_31.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ulzurrun_a%C3%B1o_2018_a_31.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175662650",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-27 07:59:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ulzurrun año 2018 a 31",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ulzurrun",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.854678",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.852483",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ulzurrun año 2018",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-10 12:04:35",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:19Tarrestnom65\" title=\"User:19Tarrestnom65\">19Tarrestnom65</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 51872606,
+      "ns": 6,
+      "title": "File:Northern Spain (20414638640).jpg",
+      "lat": 42.856638,
+      "lon": -1.847213,
+      "dist": 1505.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "51872606": {
+              "pageid": 51872606,
+              "ns": 6,
+              "title": "File:Northern Spain (20414638640).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Northern_Spain_%2820414638640%29.jpg/500px-Northern_Spain_%2820414638640%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Northern_Spain_%2820414638640%29.jpg/960px-Northern_Spain_%2820414638640%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Northern_Spain_%2820414638640%29.jpg/960px-Northern_Spain_%2820414638640%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Northern_Spain_%2820414638640%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Northern_Spain_(20414638640).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=51872606",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-09-29 08:54:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Northern Spain (20414638640)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Udarbe|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Ollo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.856638",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.847213",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Northern Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-06-07 08:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/vankarsten/20414638640/\">Northern Spain</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/53804656@N02\">Karsten Wentink</a> from Leiden, The Netherlands",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63721482,
+      "ns": 6,
+      "title": "File:Udarbeko erreka. Artazulgo zintzurra 02.jpg",
+      "lat": 42.83989,
+      "lon": -1.87433,
+      "dist": 3312.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63721482": {
+              "pageid": 63721482,
+              "ns": 6,
+              "title": "File:Udarbeko erreka. Artazulgo zintzurra 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Udarbeko_erreka._Artazulgo_zintzurra_02.jpg/500px-Udarbeko_erreka._Artazulgo_zintzurra_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Udarbeko_erreka._Artazulgo_zintzurra_02.jpg/960px-Udarbeko_erreka._Artazulgo_zintzurra_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Udarbeko_erreka._Artazulgo_zintzurra_02.jpg/960px-Udarbeko_erreka._Artazulgo_zintzurra_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Udarbeko_erreka._Artazulgo_zintzurra_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Udarbeko_erreka._Artazulgo_zintzurra_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63721482",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-10-29 18:15:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Udarbeko erreka. Artazulgo zintzurra 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Rivers of the Basque Country|Arakil River|Udarbe|Self-published work|Files with coordinates missing SDC location of creation|Images from Ibaien Paisaia contest|Uploaded via Campaign:ibaien paisaia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.839890",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.874330",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Throat of Artizul. Udarbe stream, tributary of the Arakil river in the Ollo valley. Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-08-26",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63721480,
+      "ns": 6,
+      "title": "File:Udarbeko erreka 03.jpg",
+      "lat": 42.83989,
+      "lon": -1.87433,
+      "dist": 3312.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63721480": {
+              "pageid": 63721480,
+              "ns": 6,
+              "title": "File:Udarbeko erreka 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Udarbeko_erreka_03.jpg/500px-Udarbeko_erreka_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 210,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Udarbeko_erreka_03.jpg/960px-Udarbeko_erreka_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Udarbeko_erreka_03.jpg/960px-Udarbeko_erreka_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Udarbeko_erreka_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Udarbeko_erreka_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63721480",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-10-29 18:15:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Udarbeko erreka 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Rivers of the Basque Country|Arakil River|Udarbe|Self-published work|Files with coordinates missing SDC location of creation|Images from Ibaien Paisaia contest|Uploaded via Campaign:ibaien paisaia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.839890",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.874330",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Udarbe stream, tributary of the Arakil river in the Ollo valley. Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-08-26",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63721479,
+      "ns": 6,
+      "title": "File:Udarbeko erreka01.jpg",
+      "lat": 42.83989,
+      "lon": -1.87433,
+      "dist": 3312.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63721479": {
+              "pageid": 63721479,
+              "ns": 6,
+              "title": "File:Udarbeko erreka01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Udarbeko_erreka01.jpg/500px-Udarbeko_erreka01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Udarbeko_erreka01.jpg/960px-Udarbeko_erreka01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Udarbeko_erreka01.jpg/960px-Udarbeko_erreka01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Udarbeko_erreka01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Udarbeko_erreka01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63721479",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-10-29 18:15:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Udarbeko erreka01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Rivers of the Basque Country|Arakil River|Udarbe|Self-published work|Files with coordinates missing SDC location of creation|Images from Ibaien Paisaia contest|Uploaded via Campaign:ibaien paisaia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.839890",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.874330",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Udarbe stream, tributary of the Arakil river in the Ollo valley. Navarre.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-08-26",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 92122409,
+      "ns": 6,
+      "title": "File:Oskia, Oskiatea.jpg",
+      "lat": 42.885076444444,
+      "lon": -1.8252404444444,
+      "dist": 3354.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "92122409": {
+              "pageid": 92122409,
+              "ns": 6,
+              "title": "File:Oskia, Oskiatea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Oskia%2C_Oskiatea.jpg/500px-Oskia%2C_Oskiatea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Oskia%2C_Oskiatea.jpg/960px-Oskia%2C_Oskiatea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Oskia%2C_Oskiatea.jpg/960px-Oskia%2C_Oskiatea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Oskia%2C_Oskiatea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oskia,_Oskiatea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92122409",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-11 14:26:20",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Oskia, Oskiatea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Oskia|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2020-06-21",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.885076",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.825240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arakil ibaiko zintzurra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "21 June 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Luistxo\" title=\"User:Luistxo\">Luistxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 92122442,
+      "ns": 6,
+      "title": "File:Oskia, Oskiatea 2.jpg",
+      "lat": 42.885191888889,
+      "lon": -1.8252841666667,
+      "dist": 3358.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "92122442": {
+              "pageid": 92122442,
+              "ns": 6,
+              "title": "File:Oskia, Oskiatea 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oskia%2C_Oskiatea_2.jpg/500px-Oskia%2C_Oskiatea_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oskia%2C_Oskiatea_2.jpg/960px-Oskia%2C_Oskiatea_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oskia%2C_Oskiatea_2.jpg/960px-Oskia%2C_Oskiatea_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Oskia%2C_Oskiatea_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oskia,_Oskiatea_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92122442",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-11 14:26:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Oskia, Oskiatea 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2020-06-21|Arakil River in Oskia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.885192",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.825284",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arakil ibaiko zintzurra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "21 June 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Luistxo\" title=\"User:Luistxo\">Luistxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 138508280,
+      "ns": 6,
+      "title": "File:Garañoko gaztelua airetik.jpg",
+      "lat": 42.854444,
+      "lon": -1.819167,
+      "dist": 3514.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "138508280": {
+              "pageid": 138508280,
+              "ns": 6,
+              "title": "File:Garañoko gaztelua airetik.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gara%C3%B1oko_gaztelua_airetik.jpg/500px-Gara%C3%B1oko_gaztelua_airetik.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gara%C3%B1oko_gaztelua_airetik.jpg/960px-Gara%C3%B1oko_gaztelua_airetik.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gara%C3%B1oko_gaztelua_airetik.jpg/960px-Gara%C3%B1oko_gaztelua_airetik.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gara%C3%B1oko_gaztelua_airetik.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gara%C3%B1oko_gaztelua_airetik.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138508280",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-10-05 11:56:19",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Garañoko gaztelua airetik",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Garaño (Navarre)|Self-published work|Files with coordinates missing SDC location of creation|Taken with Potensic Atom SE|Photos from unmanned aerial vehicles of Basque Country|All media supported by Basque Wikimedians User Group",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.854444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.819167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Garañoko gaztelua airetik. Drone bidez hartutako irudia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2023-10-04 18:20:46",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 138490366,
+      "ns": 6,
+      "title": "File:Azulejo ikurra Errotzen.jpg",
+      "lat": 42.894455843861,
+      "lon": -1.8270439011038,
+      "dist": 3959.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "138490366": {
+              "pageid": 138490366,
+              "ns": 6,
+              "title": "File:Azulejo ikurra Errotzen.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Azulejo_ikurra_Errotzen.jpg/500px-Azulejo_ikurra_Errotzen.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 189,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Azulejo_ikurra_Errotzen.jpg/960px-Azulejo_ikurra_Errotzen.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Azulejo_ikurra_Errotzen.jpg/960px-Azulejo_ikurra_Errotzen.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Azulejo_ikurra_Errotzen.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azulejo_ikurra_Errotzen.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138490366",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-10-04 20:29:15",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Azulejo ikurra Errotzen",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Spain photographs taken on 2023-10-04|Errotz|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Azulejo place name road signs in Navarre",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.894456",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.827044",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Azulejo ikurra Errotzen",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "4 October 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

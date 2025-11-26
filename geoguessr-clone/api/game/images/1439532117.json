@@ -1,0 +1,2000 @@
+{
+  "id": 1439532117,
+  "town": {
+    "name": {
+      "default": "Cabanillas",
+      "es": "Cabanillas",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.0328841,
+      "lon": -1.5254634
+    }
+  },
+  "files": [
+    {
+      "pageid": 111288262,
+      "ns": 6,
+      "title": "File:Frontón de Cabanillas 04.jpg",
+      "lat": 42.034111,
+      "lon": -1.528003,
+      "dist": 250.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111288262": {
+              "pageid": 111288262,
+              "ns": 6,
+              "title": "File:Frontón de Cabanillas 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Front%C3%B3n_de_Cabanillas_04.jpg/500px-Front%C3%B3n_de_Cabanillas_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Front%C3%B3n_de_Cabanillas_04.jpg/960px-Front%C3%B3n_de_Cabanillas_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Front%C3%B3n_de_Cabanillas_04.jpg/960px-Front%C3%B3n_de_Cabanillas_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Front%C3%B3n_de_Cabanillas_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Front%C3%B3n_de_Cabanillas_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111288262",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-19 13:11:21",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Frontón de Cabanillas 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Flickr images missing SDC inception|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Frontón de Cabanillas",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.034111",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.528003",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Frontón de Cabanillas",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-06-15 16:35:03",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/inaxo/2587561835/\">https://www.flickr.com/photos/inaxo/2587561835/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Iñaki Queralt",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111288259,
+      "ns": 6,
+      "title": "File:Frontón de Cabanillas 01.jpg",
+      "lat": 42.034031,
+      "lon": -1.528094,
+      "dist": 251.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111288259": {
+              "pageid": 111288259,
+              "ns": 6,
+              "title": "File:Frontón de Cabanillas 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Front%C3%B3n_de_Cabanillas_01.jpg/500px-Front%C3%B3n_de_Cabanillas_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Front%C3%B3n_de_Cabanillas_01.jpg/960px-Front%C3%B3n_de_Cabanillas_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Front%C3%B3n_de_Cabanillas_01.jpg/960px-Front%C3%B3n_de_Cabanillas_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Front%C3%B3n_de_Cabanillas_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Front%C3%B3n_de_Cabanillas_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111288259",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-19 13:11:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Frontón de Cabanillas 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Frontón de Cabanillas",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.034031",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.528094",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Frontón de Cabanillas",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-06-15 16:33:34",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/inaxo/2588376832/\">https://www.flickr.com/photos/inaxo/2588376832/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Iñaki Queralt",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111287832,
+      "ns": 6,
+      "title": "File:Frontón de Cabanillas.jpg",
+      "lat": 42.034169,
+      "lon": -1.527983,
+      "dist": 252.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111287832": {
+              "pageid": 111287832,
+              "ns": 6,
+              "title": "File:Frontón de Cabanillas.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Front%C3%B3n_de_Cabanillas.jpg/500px-Front%C3%B3n_de_Cabanillas.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Front%C3%B3n_de_Cabanillas.jpg/960px-Front%C3%B3n_de_Cabanillas.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Front%C3%B3n_de_Cabanillas.jpg/960px-Front%C3%B3n_de_Cabanillas.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Front%C3%B3n_de_Cabanillas.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Front%C3%B3n_de_Cabanillas.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111287832",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-19 13:04:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Frontón de Cabanillas",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Flickr images missing SDC inception|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Frontón de Cabanillas",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.034169",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.527983",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Frontón de Cabanillas",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-06-15 16:35:22",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/inaxo/2587566869/\">https://www.flickr.com/photos/inaxo/2587566869/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Iñaki Queralt",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111288257,
+      "ns": 6,
+      "title": "File:Frontón de Cabanillas 03.jpg",
+      "lat": 42.034106,
+      "lon": -1.5281,
+      "dist": 256.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111288257": {
+              "pageid": 111288257,
+              "ns": 6,
+              "title": "File:Frontón de Cabanillas 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Front%C3%B3n_de_Cabanillas_03.jpg/500px-Front%C3%B3n_de_Cabanillas_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Front%C3%B3n_de_Cabanillas_03.jpg/960px-Front%C3%B3n_de_Cabanillas_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Front%C3%B3n_de_Cabanillas_03.jpg/960px-Front%C3%B3n_de_Cabanillas_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Front%C3%B3n_de_Cabanillas_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Front%C3%B3n_de_Cabanillas_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111288257",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-19 13:11:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Frontón de Cabanillas 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Frontón de Cabanillas",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.034106",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.528100",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Frontón de Cabanillas",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-06-15 16:34:22",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/inaxo/2588378734/\">https://www.flickr.com/photos/inaxo/2588378734/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Iñaki Queralt",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111288258,
+      "ns": 6,
+      "title": "File:Frontón de Cabanillas 02.jpg",
+      "lat": 42.034139,
+      "lon": -1.528086,
+      "dist": 257.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111288258": {
+              "pageid": 111288258,
+              "ns": 6,
+              "title": "File:Frontón de Cabanillas 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Front%C3%B3n_de_Cabanillas_02.jpg/500px-Front%C3%B3n_de_Cabanillas_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Front%C3%B3n_de_Cabanillas_02.jpg/960px-Front%C3%B3n_de_Cabanillas_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Front%C3%B3n_de_Cabanillas_02.jpg/960px-Front%C3%B3n_de_Cabanillas_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Front%C3%B3n_de_Cabanillas_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Front%C3%B3n_de_Cabanillas_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111288258",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-19 13:11:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Frontón de Cabanillas 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Flickr images missing SDC inception|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Frontón de Cabanillas",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.034139",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.528086",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Frontón de Cabanillas",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-06-15 16:34:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/inaxo/2588390412/\">https://www.flickr.com/photos/inaxo/2588390412/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Iñaki Queralt",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 86245670,
+      "ns": 6,
+      "title": "File:San Juan de Jerusalén en Cabanillas (46683126965).jpg",
+      "lat": 42.029273,
+      "lon": -1.521359,
+      "dist": 525.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "86245670": {
+              "pageid": 86245670,
+              "ns": 6,
+              "title": "File:San Juan de Jerusalén en Cabanillas (46683126965).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/San_Juan_de_Jerusal%C3%A9n_en_Cabanillas_%2846683126965%29.jpg/500px-San_Juan_de_Jerusal%C3%A9n_en_Cabanillas_%2846683126965%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 429,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/San_Juan_de_Jerusal%C3%A9n_en_Cabanillas_%2846683126965%29.jpg/960px-San_Juan_de_Jerusal%C3%A9n_en_Cabanillas_%2846683126965%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/San_Juan_de_Jerusal%C3%A9n_en_Cabanillas_%2846683126965%29.jpg/960px-San_Juan_de_Jerusal%C3%A9n_en_Cabanillas_%2846683126965%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/San_Juan_de_Jerusal%C3%A9n_en_Cabanillas_%2846683126965%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Juan_de_Jerusal%C3%A9n_en_Cabanillas_(46683126965).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86245670",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-01-23 21:52:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Juan de Jerusalén en Cabanillas (46683126965)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Church of San Juan de Jerusalén, Cabanillas|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.029273",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521359",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia construida entre los siglos XII y XIII en Cabanillas, Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-17 20:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/46683126965/\">San Juan de Jerusalén en Cabanillas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36261918,
+      "ns": 6,
+      "title": "File:El Bocal -Fontellas.Navarra. (10517801254).jpg",
+      "lat": 42.017927,
+      "lon": -1.555337,
+      "dist": 2975.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36261918": {
+              "pageid": 36261918,
+              "ns": 6,
+              "title": "File:El Bocal -Fontellas.Navarra. (10517801254).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/El_Bocal_-Fontellas.Navarra._%2810517801254%29.jpg/500px-El_Bocal_-Fontellas.Navarra._%2810517801254%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/El_Bocal_-Fontellas.Navarra._%2810517801254%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810517801254%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/El_Bocal_-Fontellas.Navarra._%2810517801254%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810517801254%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/El_Bocal_-Fontellas.Navarra._%2810517801254%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Bocal_-Fontellas.Navarra._(10517801254).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36261918",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:50:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Bocal -Fontellas.Navarra. (10517801254)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "El Bocal|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.017927",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.555337",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>Recibe el nombre de Bocal de Fontellas el comienzo del Canal Imperial de Aragón, en Navarra.\n</p><p><br>\n</p><p><br>\n</p>\n<pre>El Palacio de Carlos V y ribera del río Ebro.\n</pre>\n<p>En Navarra, al sureste de la villa de Fontellas y entre el río Ebro y el Canal Imperial, se halla el poblado de El Bocal, formado en el último tercio del siglo XVIII. Se encuentra también el Palacio de Carlos V, siendo éste edificio una vieja fábrica del siglo XVI, aunque muy transformada, en especial en su fachada principal, en el siglo XIX. Se concibe como un sólido bloque de ladrillo con un primer cuerpo de sillería y otros dos de ladrillo, cuya fachada principal presenta dos torreones y entre ellos una galería de arcadas inferior y otra de remate, en un plano posterior. Está rodeado por unos agradables jardines con estanques y estatuas. Una de éstas es un busto masculino de finales del siglo XIX, que aparece sobre un capitel de retorcida hojarasca, también de la época. Junto al Palacio de Carlos V, se localiza una iglesia neoclásica de finales del siglo XVIII. Su fachada principal tiene un bloque central con una puerta neoclásica de piedra, adintelada y con un frontón triangular sobre ménsulas. Encuadran la fachada dos cuerpos\n</p><p><br>\n</p><p><br>\n</p>\n<pre>Fuente con el río Ebro al fondo.\n</pre>\n<p>laterales, de menos altura, con ventanas adinteladas de piedra. Al otro lado del camino que hay junto al Palacio y dando vista al Canal Imperial, se encuentra el poblado del siglo XVIII, constituido por cuatro grandes bloques rectangulares, con dos pisos y tejados a dos aguas. Las fachadas principales de estos pabellones presentan una fuerte tendencia a la horizontalidad y se articulan rítmicamente con múltiples vanos adintelados y ventanas en el piso inferior y balcones y ventanas, alternativamente, en el superior.\n</p><p>El poblado se une al palacio a través de una avenida, flanqueada por árboles.\n</p>\nTambién se deben reseñar dos presas en el río Ebro. La más vieja, situada detrás del Palacio de Carlos V, es una obra de sillería del siglo XVI, realizada por Gil de Morlanes. La otra, ubicada aguas arriba, pertenece al siglo XVIII y se debe a la iniciativa del canónigo aragonés Ramón de Pignatelli.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 15:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/10517801254/\">El Bocal -Fontellas.Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36261919,
+      "ns": 6,
+      "title": "File:El Bocal -Fontellas.Navarra. (10533771395).jpg",
+      "lat": 42.019967,
+      "lon": -1.557054,
+      "dist": 2978.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36261919": {
+              "pageid": 36261919,
+              "ns": 6,
+              "title": "File:El Bocal -Fontellas.Navarra. (10533771395).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/El_Bocal_-Fontellas.Navarra._%2810533771395%29.jpg/500px-El_Bocal_-Fontellas.Navarra._%2810533771395%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/El_Bocal_-Fontellas.Navarra._%2810533771395%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810533771395%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/El_Bocal_-Fontellas.Navarra._%2810533771395%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810533771395%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/El_Bocal_-Fontellas.Navarra._%2810533771395%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Bocal_-Fontellas.Navarra._(10533771395).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36261919",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:50:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Bocal -Fontellas.Navarra. (10533771395)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "El Bocal|Flickr images reviewed by FlickreviewR|October 2013 in Spain|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.019967",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.557054",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Del siglo XVIII. Capilla neoclásica dedicada a San Carlos Borromeo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 15:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/10533771395/\">El Bocal -Fontellas.Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36261917,
+      "ns": 6,
+      "title": "File:El Bocal -Fontellas.Navarra. (10517794305).jpg",
+      "lat": 42.019967,
+      "lon": -1.557054,
+      "dist": 2978.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36261917": {
+              "pageid": 36261917,
+              "ns": 6,
+              "title": "File:El Bocal -Fontellas.Navarra. (10517794305).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/El_Bocal_-Fontellas.Navarra._%2810517794305%29.jpg/500px-El_Bocal_-Fontellas.Navarra._%2810517794305%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/El_Bocal_-Fontellas.Navarra._%2810517794305%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810517794305%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/El_Bocal_-Fontellas.Navarra._%2810517794305%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810517794305%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/El_Bocal_-Fontellas.Navarra._%2810517794305%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Bocal_-Fontellas.Navarra._(10517794305).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36261917",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:50:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Bocal -Fontellas.Navarra. (10517794305)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "El Bocal|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.019967",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.557054",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>La palabra \"bocal\" significa presa o azud que se levanta en un río con el fin de desviar su caudal y así, las presas del  Bocal de Fontellas a la orilla del Ebro, dan origen al nacimiento del Canal Imperial de Aragón, el cual vino a ser un sueño convertido en realidad. Es una obra que se anticipa a su tiempo, pero sobre todo y en cualquier caso es un \"canto\" a la perseverancia y al esfuerzo colectivo y de la que podemos decir que recientemente ha sido declarada monumento de interés cultural. \n</p><p>A lo largo de 108 kilómetros de recorrido, con un trazado que va mas o menos paralelo a la margen derecha del río, podemos encontrar presas, azudes, almenaras, puentes, esclusas y puertos fluviales que lo convierten en un verdadero museo de las obras públicas, a pesar de que muchas de las obras originales están desaparecidas o muy deterioradas.\n</p><p>En la actualidad la superficie regada por el Canal Imperial de Aragón es de 26.500 ha, de las que aproximadamente 23.600 ha están ubicadas en Aragón (Zaragoza) y 2.900 ha en Navarra y su capacidad, en origen, es de 30 m3/s.\n</p><p>Esta magna obra de ingeniería se remonta al siglo XVI, cuando el rey Carlos I mandó construir a  Gil de Morlanes una gran acequia para poner en riego las áridas tierras del valle del Ebro a su paso por Navarra y Aragón. \n</p><p>La idea inicial pretendía juntar el Ebro con el Jalón en el término de  Alagón (provincia de Zaragoza) y desde allí llegar hasta la capital aragonesa. Pero aquel proyecto se quedó a medias pues a las dificultades técnicas se sumó la oposición de los grandes terratenientes, y la  Acequia Imperial -como se llamó aquel primer canal- apenas llegó a regar los términos navarros de Ribaforada, Buñuel y Cortes. Quedó prácticamente inutilizada hacia 1587 pues las roturas y filtraciones enlodaban el agua.\n</p><p><br>\n</p>\n<pre>Palacio de Carlos V\n\n</pre>\n<p>A pesar del recorte del proyecto, solo fueron cerca de 60 kilómetros de acequia, aquella primera fue ya una obra digna de admiración destacando como principales elementos en aquel complejo hidrológico la presa vieja y el palacio de Carlos V, obras del  Renacimiento que tienen ya 500 años, y son hoy la parte más antigua de todo el recinto.  Por debajo de este palacio, reformado hacia el siglo XIX, cruzaban antiguamente las aguas que iban desde el Ebro hasta la Acequia Imperial.  Posteriormente, las compuertas del Bocal del Rey -como se llamaba originariamente el palacio- fueron cerradas, y en su lugar se planteó el jardín (con un roble centenario de 33 metros de altura declarado monumento natural) que adorna hoy esta construcción señorial de estilo aragonés.\n</p><p><br>\n</p>\n<pre>Estatua de Ramón Pignatelli\n</pre>\n<pre>en el parque de su nombre (Zaragoza)\n\n</pre>\n<p>Un hito destacado en la historia del Canal es la fecha del 5 de mayo de 1772, día en el que fue nombrado el canónigo zaragozano Don Ramón de Pignatelli como protector del Canal Imperial, iniciando así la construcción de una nueva presa aguas arriba de la anterior que ya había quedado obsoleta y que gracias a su decisivo impulso pudo ser finalizada esta obra hidráulica que vino a ser una de las más importantes realizadas en el continente. \n</p><p>Para regular el canal Pignatelli construyó la Casa de Compuertas, con once bocas, y acometió modificaciones en el trazado para darle mayor profundidad y anchura, con el fin de que fuera navegable hasta Zaragoza. \n</p><p>Por aquel entonces, el proyecto era construir un canal que comunicara el mar Cantábrico con el Mediterráneo, una vía navegable que además cubriera la necesidad de saciar los regadíos de la ribera alta del Ebro. Todo ello hay que entenderlo dentro de su contexto histórico, dominado por las ideas de la Ilustración, que pasaban por construir canales en España a imitación de otros países como Inglaterra y Francia. Unos planes utópicos, puesto que no se valoraba ni su coste real, ni las condiciones naturales del país, que lo hacían imposible.\n</p><p>De todo este grandioso proyecto tan sólo una parte se llevó a cabo, entre 1776 y 1790 Pignatelli acabó:\n</p><p><br>\n◦\n1780 -  el gran acueducto del Jalón (que ya hemos visitado)\n</p><p>◦\n1784 - el cauce hasta Zaragoza\n</p><p>◦\n1786 - el puerto de Miraflores, las principales dependencias de la empresa en la zona del hoy destruido cuartel de Torrero en Zaragoza (oficinas, viviendas, talleres, astilleros, cuartel, almacenes).\n</p><p>◦\n1786 - finaliza la \"Fuente de los incrédulos\" llegando el agua a Zaragoza\n</p><p>◦\n1790 - el monumental azud de El Bocal, de 230 metros de longitud y 6'5 de altura, así como multitud de puentes y almenaras. También el molino de Casablanca, y diversas esclusas, aguas abajo, para la navegación, colocándose la última piedra en la Presa Nueva de El Bocal.\n</p><p><br> \n</p><p>Del siglo XVIII también es la capilla neoclásica dedicada a San Carlos Borromeo y de finales de ese siglo la construcción del poblado de aire racionalista para albergar a los operarios encargados del mantenimiento así como una posada para los viajeros que utilizaban el canal.  \n</p><p>Este poblado está constituido por cuatro grandes bloques rectangulares, con dos pisos y tejados a dos aguas. Las fachadas principales de estos pabellones presentan una fuerte tendencia a la horizontalidad y se articulan rítmicamente con múltiples adintelados y ventanas en el piso inferior y balcones y ventanas alternativamente en el superior, se encuentra en el entorno del palacio y se une a él a través de una avenida flanqueada por tupidos árboles. \n</p>\n<pre>Todas estas obras, ocuparon durante años a miles de campesinos de toda la Ribera, a presidiarios y a regimientos del ejército, que llevaron el agua hasta unos dos Km. aguas abajo de Torrero. \n</pre>\n<pre>El sucesor de Pignatelli, el Conde de Sástago, levantó la actual iglesia de San Fernando de Torrero, y años después, en 1826, el descubrimiento en la zona de ricas vetas de arcilla, necesaria para revestir la obra y proseguir el cauce, permitió reiniciar los trabajos, que siguieron de forma intermitente a lo largo del siglo XIX. \n</pre>\n<p>El otro objeto para el que este Canal fue proyectado, la navegación, nunca se vio plenamente cumplido pues el cauce no se alargó más allá de Zaragoza; en el siglo XIX se intentó en ocasiones prolongar el cauce hasta Tudela por un lado y construir esclusas en Zaragoza para comunicarlo con el Ebro, pero esta idea no llegó a realizarse. Sirve hoy en día el Bocal como magnífico observatorio para apreciar los caminos de sirga desde los que los bueyes arrastraban las embarcaciones mediante cables cuando no había viento suficiente para la navegación a vela. \n</p><p>La navegación por el Canal, que ha perdurado hasta hace poco, fue establecida por Pignatelli y ofreció un servicio muy efectivo de transporte de mercancías y viajeros en varias modalidades. La existencia de aduana entre Navarra y Aragón dificultó el tráfico interregional de mercancías; no obstante cumplió con efectividad su mermado papel de vía de comunicación comarcal. El tráfico quedó hundido por bastante tiempo con la guerra de la Independencia. \n</p>\nAsí pues el Canal nunca llegó a su destino; no obstante la idea de navegar el Ebro no desapareció y ha pervivido casi hasta nuestros días. Siguiendo hoy en pie la idea de prologar su cauce pero para extender el riego",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 16:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/10517794305/\">El Bocal -Fontellas.Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36261916,
+      "ns": 6,
+      "title": "File:El Bocal -Fontellas.Navarra. (10533796264).jpg",
+      "lat": 42.026726,
+      "lon": -1.560573,
+      "dist": 2979.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36261916": {
+              "pageid": 36261916,
+              "ns": 6,
+              "title": "File:El Bocal -Fontellas.Navarra. (10533796264).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/El_Bocal_-Fontellas.Navarra._%2810533796264%29.jpg/500px-El_Bocal_-Fontellas.Navarra._%2810533796264%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 260,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/El_Bocal_-Fontellas.Navarra._%2810533796264%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810533796264%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/El_Bocal_-Fontellas.Navarra._%2810533796264%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810533796264%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/El_Bocal_-Fontellas.Navarra._%2810533796264%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Bocal_-Fontellas.Navarra._(10533796264).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36261916",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:50:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Bocal -Fontellas.Navarra. (10533796264)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "El Bocal|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.026726",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.560573",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "El Bocal -Fontellas.Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 15:59",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/10533796264/\">El Bocal -Fontellas.Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36261920,
+      "ns": 6,
+      "title": "File:El Bocal -Fontellas.Navarra. (10533820396).jpg",
+      "lat": 42.026917,
+      "lon": -1.561088,
+      "dist": 3016.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36261920": {
+              "pageid": 36261920,
+              "ns": 6,
+              "title": "File:El Bocal -Fontellas.Navarra. (10533820396).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/El_Bocal_-Fontellas.Navarra._%2810533820396%29.jpg/500px-El_Bocal_-Fontellas.Navarra._%2810533820396%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/El_Bocal_-Fontellas.Navarra._%2810533820396%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810533820396%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/El_Bocal_-Fontellas.Navarra._%2810533820396%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810533820396%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/El_Bocal_-Fontellas.Navarra._%2810533820396%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Bocal_-Fontellas.Navarra._(10533820396).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36261920",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:50:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Bocal -Fontellas.Navarra. (10533820396)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "2013 in Navarre|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García|Casa de Compuertas, El Bocal",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.026917",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.561088",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Casa de Compuertas",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 16:02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/10533820396/\">El Bocal -Fontellas.Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36261923,
+      "ns": 6,
+      "title": "File:El Bocal -Fontellas.Navarra. (10534028043).jpg",
+      "lat": 42.020541,
+      "lon": -1.559972,
+      "dist": 3163.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36261923": {
+              "pageid": 36261923,
+              "ns": 6,
+              "title": "File:El Bocal -Fontellas.Navarra. (10534028043).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/El_Bocal_-Fontellas.Navarra._%2810534028043%29.jpg/500px-El_Bocal_-Fontellas.Navarra._%2810534028043%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/El_Bocal_-Fontellas.Navarra._%2810534028043%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810534028043%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/El_Bocal_-Fontellas.Navarra._%2810534028043%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810534028043%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/El_Bocal_-Fontellas.Navarra._%2810534028043%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Bocal_-Fontellas.Navarra._(10534028043).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36261923",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:50:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Bocal -Fontellas.Navarra. (10534028043)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Roble de El Bocal|Flickr images reviewed by FlickreviewR|Trees in Navarre|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.020541",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.559972",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p>Roble de \"El Bocal\"\nQuercus robur L.\n.\n</p>\nroble de 33 metros de altura, que según dicen fue plantado aquí, cuando se iniciaron las obras de la acequia imperial hace ya más de 500 años.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 16:49",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/10534028043/\">El Bocal -Fontellas.Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36261921,
+      "ns": 6,
+      "title": "File:El Bocal -Fontellas.Navarra. (10533968953).jpg",
+      "lat": 42.024749,
+      "lon": -1.562376,
+      "dist": 3180.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36261921": {
+              "pageid": 36261921,
+              "ns": 6,
+              "title": "File:El Bocal -Fontellas.Navarra. (10533968953).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/El_Bocal_-Fontellas.Navarra._%2810533968953%29.jpg/500px-El_Bocal_-Fontellas.Navarra._%2810533968953%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/El_Bocal_-Fontellas.Navarra._%2810533968953%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810533968953%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/El_Bocal_-Fontellas.Navarra._%2810533968953%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810533968953%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/El_Bocal_-Fontellas.Navarra._%2810533968953%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Bocal_-Fontellas.Navarra._(10533968953).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36261921",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:50:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Bocal -Fontellas.Navarra. (10533968953)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "El Bocal|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.024749",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.562376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "El Bocal -Fontellas.Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 16:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/10533968953/\">El Bocal -Fontellas.Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 101206259,
+      "ns": 6,
+      "title": "File:José de C. Sola Arrondo.jpg",
+      "lat": 42.021494444444,
+      "lon": -1.4896305555556,
+      "dist": 3219.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "101206259": {
+              "pageid": 101206259,
+              "ns": 6,
+              "title": "File:José de C. Sola Arrondo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jos%C3%A9_de_C._Sola_Arrondo.jpg/500px-Jos%C3%A9_de_C._Sola_Arrondo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 875,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jos%C3%A9_de_C._Sola_Arrondo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jos%C3%A9_de_C._Sola_Arrondo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jos%C3%A9_de_C._Sola_Arrondo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_de_C._Sola_Arrondo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101206259",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-07 20:39:19",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "José de C. Sola Arrondo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Priests|Self-published work|Files with coordinates missing SDC location of creation|Compañía de Jesús (España)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.021494",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.489631",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Fotografía del jesuita navarro José Sola Arrondo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-03-05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lost%26Fer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lost&amp;Fer (page does not exist)\">Lost&amp;Fer</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36261922,
+      "ns": 6,
+      "title": "File:El Bocal -Fontellas.Navarra. (10523225576).jpg",
+      "lat": 42.023028,
+      "lon": -1.562461,
+      "dist": 3246.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36261922": {
+              "pageid": 36261922,
+              "ns": 6,
+              "title": "File:El Bocal -Fontellas.Navarra. (10523225576).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/El_Bocal_-Fontellas.Navarra._%2810523225576%29.jpg/500px-El_Bocal_-Fontellas.Navarra._%2810523225576%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/El_Bocal_-Fontellas.Navarra._%2810523225576%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810523225576%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/El_Bocal_-Fontellas.Navarra._%2810523225576%29.jpg/960px-El_Bocal_-Fontellas.Navarra._%2810523225576%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/El_Bocal_-Fontellas.Navarra._%2810523225576%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Bocal_-Fontellas.Navarra._(10523225576).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36261922",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:50:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "El Bocal -Fontellas.Navarra. (10523225576)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "El Bocal|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.023028",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.562461",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Rio Ebro.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 16:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/10523225576/\">El Bocal -Fontellas.Navarra.</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 79146182,
+      "ns": 6,
+      "title": "File:Compacted potassium chloride, fertilizer grade.jpg",
+      "lat": 42.021389,
+      "lon": -1.485,
+      "dist": 3578.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "79146182": {
+              "pageid": 79146182,
+              "ns": 6,
+              "title": "File:Compacted potassium chloride, fertilizer grade.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Compacted_potassium_chloride%2C_fertilizer_grade.jpg/500px-Compacted_potassium_chloride%2C_fertilizer_grade.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Compacted_potassium_chloride%2C_fertilizer_grade.jpg/960px-Compacted_potassium_chloride%2C_fertilizer_grade.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Compacted_potassium_chloride%2C_fertilizer_grade.jpg/960px-Compacted_potassium_chloride%2C_fertilizer_grade.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Compacted_potassium_chloride%2C_fertilizer_grade.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Compacted_potassium_chloride,_fertilizer_grade.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79146182",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-05-22 19:52:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Compacted potassium chloride, fertilizer grade",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Potassium chloride|Self-published work|Files with coordinates missing SDC location of creation|Potassium fertilizers",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.021389",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.485000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Potassium chloride is a fertilizer, frequently used in a compacted form to facilitate broadcast application.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-12-19 11:29:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Abbas_cucaniensis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Abbas cucaniensis (page does not exist)\">Abbas cucaniensis</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

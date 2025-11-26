@@ -1,0 +1,2254 @@
+{
+  "id": 248068368,
+  "town": {
+    "name": {
+      "default": "Olague",
+      "es": "Olagüe",
+      "eu": "Olague"
+    },
+    "coordinates": {
+      "lat": 42.9633684,
+      "lon": -1.6185884
+    }
+  },
+  "files": [
+    {
+      "pageid": 58141403,
+      "ns": 6,
+      "title": "File:Anué - Olagüe 01.jpg",
+      "lat": 42.962978,
+      "lon": -1.618753,
+      "dist": 45.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58141403": {
+              "pageid": 58141403,
+              "ns": 6,
+              "title": "File:Anué - Olagüe 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anu%C3%A9_-_Olag%C3%BCe_01.jpg/500px-Anu%C3%A9_-_Olag%C3%BCe_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 246,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anu%C3%A9_-_Olag%C3%BCe_01.jpg/960px-Anu%C3%A9_-_Olag%C3%BCe_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anu%C3%A9_-_Olag%C3%BCe_01.jpg/960px-Anu%C3%A9_-_Olag%C3%BCe_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Anu%C3%A9_-_Olag%C3%BCe_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Anu%C3%A9_-_Olag%C3%BCe_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58141403",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-18 18:44:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Anué - Olagüe 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Olague|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|2017 in Navarre|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Rural houses in Spain|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.962978",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.618753",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Olagüe in the municipality of Anué, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-13 13:11:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58141404,
+      "ns": 6,
+      "title": "File:Anué - Olagüe 02.jpg",
+      "lat": 42.962414,
+      "lon": -1.617284,
+      "dist": 150.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58141404": {
+              "pageid": 58141404,
+              "ns": 6,
+              "title": "File:Anué - Olagüe 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Anu%C3%A9_-_Olag%C3%BCe_02.jpg/500px-Anu%C3%A9_-_Olag%C3%BCe_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Anu%C3%A9_-_Olag%C3%BCe_02.jpg/960px-Anu%C3%A9_-_Olag%C3%BCe_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Anu%C3%A9_-_Olag%C3%BCe_02.jpg/960px-Anu%C3%A9_-_Olag%C3%BCe_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anu%C3%A9_-_Olag%C3%BCe_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Anu%C3%A9_-_Olag%C3%BCe_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58141404",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-18 18:44:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Anué - Olagüe 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Olague|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Rural houses in Spain|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.962414",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.617284",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Olagüe in the municipality of Anué, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-13 13:14:59",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175785790,
+      "ns": 6,
+      "title": "File:Anueko Udala 2.jpg",
+      "lat": 42.960866651146,
+      "lon": -1.6158914559037,
+      "dist": 354.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175785790": {
+              "pageid": 175785790,
+              "ns": 6,
+              "title": "File:Anueko Udala 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Anueko_Udala_2.jpg/500px-Anueko_Udala_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Anueko_Udala_2.jpg/960px-Anueko_Udala_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Anueko_Udala_2.jpg/960px-Anueko_Udala_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Anueko_Udala_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Anueko_Udala_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175785790",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-29 09:04:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Anueko Udala 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Spain|Self-published work|Pages with local camera coordinates and missing SDC coordinates|Uploaded via Campaign:wlm-es|Images from Wiki Loves Monuments 2025|Images from Wiki Loves Monuments 2025 in Spain|All media supported by Wikimedia España in 2025|Town hall of Anue",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.960867",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.615891",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ayuntamiento de Anué ubicado en el concejo de Olagüe.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-09-28",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lector_d_Wiki\" title=\"User:Lector d Wiki\">Lector d Wiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175785795,
+      "ns": 6,
+      "title": "File:Anueko Udala 1.jpg",
+      "lat": 42.960866651146,
+      "lon": -1.6158914559037,
+      "dist": 354.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175785795": {
+              "pageid": 175785795,
+              "ns": 6,
+              "title": "File:Anueko Udala 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Anueko_Udala_1.jpg/500px-Anueko_Udala_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Anueko_Udala_1.jpg/960px-Anueko_Udala_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Anueko_Udala_1.jpg/960px-Anueko_Udala_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Anueko_Udala_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Anueko_Udala_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175785795",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-29 09:04:20",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Anueko Udala 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Spain|Self-published work|Uploaded via Campaign:wlm-es|Images from Wiki Loves Monuments 2025|Images from Wiki Loves Monuments 2025 in Spain|All media supported by Wikimedia España in 2025|Town hall of Anue",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.960867",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.615891",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ayuntamiento de Anué ubicado en el concejo de Olagüe.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-09-28",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lector_d_Wiki\" title=\"User:Lector d Wiki\">Lector d Wiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 94001635,
+      "ns": 6,
+      "title": "File:Eglise Saint Volusien de Foix.jpg",
+      "lat": 42.966944,
+      "lon": -1.606667,
+      "dist": 1048.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "94001635": {
+              "pageid": 94001635,
+              "ns": 6,
+              "title": "File:Eglise Saint Volusien de Foix.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eglise_Saint_Volusien_de_Foix.jpg/500px-Eglise_Saint_Volusien_de_Foix.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eglise_Saint_Volusien_de_Foix.jpg/960px-Eglise_Saint_Volusien_de_Foix.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eglise_Saint_Volusien_de_Foix.jpg/960px-Eglise_Saint_Volusien_de_Foix.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Eglise_Saint_Volusien_de_Foix.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eglise_Saint_Volusien_de_Foix.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94001635",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-09-10 12:05:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Eglise Saint Volusien de Foix",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Abbatiale Saint-Volusien de Foix|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.966944",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.606667",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Façade de l'église Saint Volusien de Foix",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-08-16 14:03:42",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Christasie&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Christasie (page does not exist)\">Christasie</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 64564525,
+      "ns": 6,
+      "title": "File:Retrato del Infante Carlos Mª Isidro de Borbón.jpg",
+      "lat": 42.943104,
+      "lon": -1.643373,
+      "dist": 3024.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "64564525": {
+              "pageid": 64564525,
+              "ns": 6,
+              "title": "File:Retrato del Infante Carlos Mª Isidro de Borbón.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Retrato_del_Infante_Carlos_M%C2%AA_Isidro_de_Borb%C3%B3n.jpg/500px-Retrato_del_Infante_Carlos_M%C2%AA_Isidro_de_Borb%C3%B3n.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 653,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Retrato_del_Infante_Carlos_M%C2%AA_Isidro_de_Borb%C3%B3n.jpg/960px-Retrato_del_Infante_Carlos_M%C2%AA_Isidro_de_Borb%C3%B3n.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Retrato_del_Infante_Carlos_M%C2%AA_Isidro_de_Borb%C3%B3n.jpg/960px-Retrato_del_Infante_Carlos_M%C2%AA_Isidro_de_Borb%C3%B3n.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Retrato_del_Infante_Carlos_M%C2%AA_Isidro_de_Borb%C3%B3n.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Retrato_del_Infante_Carlos_M%C2%AA_Isidro_de_Borb%C3%B3n.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=64564525",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-12-03 17:32:48",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Retrato del Infante Carlos Mª Isidro de Borbón",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Pages with local camera coordinates and missing SDC coordinates|Files with coordinates missing SDC location of creation|1819 portrait paintings of men",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.943104",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.643373",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Retrato del Infante Carlos Mª Isidro de Borbón vistiendo uniforme de capitán general, por Agustín Esteve h. 1819. Col. Iñigo Pérez de Rada Cavanilles (Madrid)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-12-03",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wikiyub&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wikiyub (page does not exist)\">Wikiyub</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 69944607,
+      "ns": 6,
+      "title": "File:VASQUESDEARCE.jpg",
+      "lat": 42.938340555556,
+      "lon": -1.6383566666667,
+      "dist": 3214.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "69944607": {
+              "pageid": 69944607,
+              "ns": 6,
+              "title": "File:VASQUESDEARCE.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VASQUESDEARCE.jpg/500px-VASQUESDEARCE.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 627,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VASQUESDEARCE.jpg/960px-VASQUESDEARCE.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VASQUESDEARCE.jpg/960px-VASQUESDEARCE.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/VASQUESDEARCE.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:VASQUESDEARCE.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69944607",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-06-14 18:35:15",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "VASQUESDEARCE",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ripa/Erripa",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.938341",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.638357",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Inmaculada Concepción, pintada hacia 1704.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-06-14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wikiyub&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wikiyub (page does not exist)\">Wikiyub</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 173896844,
+      "ns": 6,
+      "title": "File:Beasaingo ikastolako udalekua Egozkuen.jpg",
+      "lat": 42.962306,
+      "lon": -1.57675,
+      "dist": 3406.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "173896844": {
+              "pageid": 173896844,
+              "ns": 6,
+              "title": "File:Beasaingo ikastolako udalekua Egozkuen.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beasaingo_ikastolako_udalekua_Egozkuen.jpg/500px-Beasaingo_ikastolako_udalekua_Egozkuen.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 293,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beasaingo_ikastolako_udalekua_Egozkuen.jpg/960px-Beasaingo_ikastolako_udalekua_Egozkuen.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beasaingo_ikastolako_udalekua_Egozkuen.jpg/960px-Beasaingo_ikastolako_udalekua_Egozkuen.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Beasaingo_ikastolako_udalekua_Egozkuen.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beasaingo_ikastolako_udalekua_Egozkuen.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173896844",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-08-29 12:03:25",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Beasaingo ikastolako udalekua Egozkuen",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Beasain|Egozkue|Template Unknown (author)|Files with coordinates missing SDC location of creation|Scanned with Epson ET-8550",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.962306",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.576750",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Beasaingo ikastolako udalekuak Egozkuen 1967an Amaia Arrese anderelñoarekin.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-08-29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Familie´s transfer.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.5",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 173896845,
+      "ns": 6,
+      "title": "File:Beasaingo ikastolako udalekua Egozkuen2.jpg",
+      "lat": 42.962306,
+      "lon": -1.57675,
+      "dist": 3406.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "173896845": {
+              "pageid": 173896845,
+              "ns": 6,
+              "title": "File:Beasaingo ikastolako udalekua Egozkuen2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Beasaingo_ikastolako_udalekua_Egozkuen2.jpg/500px-Beasaingo_ikastolako_udalekua_Egozkuen2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 289,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Beasaingo_ikastolako_udalekua_Egozkuen2.jpg/960px-Beasaingo_ikastolako_udalekua_Egozkuen2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Beasaingo_ikastolako_udalekua_Egozkuen2.jpg/960px-Beasaingo_ikastolako_udalekua_Egozkuen2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Beasaingo_ikastolako_udalekua_Egozkuen2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beasaingo_ikastolako_udalekua_Egozkuen2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173896845",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-08-29 12:03:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Beasaingo ikastolako udalekua Egozkuen2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Template Unknown (author)|Files with coordinates missing SDC location of creation|All media needing categories as of 2025|Media needing categories as of 29 August 2025|Scanned with Epson ET-8550",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.962306",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.576750",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Haurrak Beasaingo ikastolako udalekuan Egozkuen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-08-29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Familie´s transfer.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.5",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 173896848,
+      "ns": 6,
+      "title": "File:Beasaingo ikastolako udalekua Egozkuen3.jpg",
+      "lat": 42.962306,
+      "lon": -1.57675,
+      "dist": 3406.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "173896848": {
+              "pageid": 173896848,
+              "ns": 6,
+              "title": "File:Beasaingo ikastolako udalekua Egozkuen3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Beasaingo_ikastolako_udalekua_Egozkuen3.jpg/500px-Beasaingo_ikastolako_udalekua_Egozkuen3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 631,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beasaingo_ikastolako_udalekua_Egozkuen3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Beasaingo_ikastolako_udalekua_Egozkuen3.jpg/600px-Beasaingo_ikastolako_udalekua_Egozkuen3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Beasaingo_ikastolako_udalekua_Egozkuen3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Beasaingo_ikastolako_udalekua_Egozkuen3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=173896848",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-08-29 12:03:29",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Beasaingo ikastolako udalekua Egozkuen3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Beasain|Egozkue|Template Unknown (author)|Files with coordinates missing SDC location of creation|Scanned with Epson ET-8550",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.962306",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.576750",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Jesus Dorronsoro \"Donje\" Beasaingo Ikastolako Egozkueko udalekuan 1967",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-08-29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Familie´s transfer.",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.5",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.5",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.5",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58164103,
+      "ns": 6,
+      "title": "File:Lanz 02.jpg",
+      "lat": 42.997261,
+      "lon": -1.62062,
+      "dist": 3772.3,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2017-04-19T16:27:00Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "58164103": {
+              "pageid": 58164103,
+              "ns": 6,
+              "title": "File:Lanz 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lanz_02.jpg/500px-Lanz_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 301,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lanz_02.jpg/960px-Lanz_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lanz_02.jpg/960px-Lanz_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lanz_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lanz_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58164103",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-19 16:33:28",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lanz 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Lantz|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Rural houses in Spain|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.997261",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.620620",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Village houses and the church of Lanz. Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-13 13:34:46",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58164100,
+      "ns": 6,
+      "title": "File:Lanz - Casa 01.jpg",
+      "lat": 42.997411,
+      "lon": -1.620918,
+      "dist": 3790.1,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2017-04-19T16:26:57Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "58164100": {
+              "pageid": 58164100,
+              "ns": 6,
+              "title": "File:Lanz - Casa 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lanz_-_Casa_01.jpg/500px-Lanz_-_Casa_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 258,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lanz_-_Casa_01.jpg/960px-Lanz_-_Casa_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lanz_-_Casa_01.jpg/960px-Lanz_-_Casa_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lanz_-_Casa_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lanz_-_Casa_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58164100",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-19 16:40:06",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lanz - Casa 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lantz|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Rural houses in Spain|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.997411",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.620918",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Village house in Lanz. Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-13 13:33:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 160992510,
+      "ns": 6,
+      "title": "File:Gurutze Sainduaren eliza.jpg",
+      "lat": 42.997538195889,
+      "lon": -1.6204811083366,
+      "dist": 3802.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "160992510": {
+              "pageid": 160992510,
+              "ns": 6,
+              "title": "File:Gurutze Sainduaren eliza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gurutze_Sainduaren_eliza.jpg/500px-Gurutze_Sainduaren_eliza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gurutze_Sainduaren_eliza.jpg/960px-Gurutze_Sainduaren_eliza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gurutze_Sainduaren_eliza.jpg/960px-Gurutze_Sainduaren_eliza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Gurutze_Sainduaren_eliza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gurutze_Sainduaren_eliza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160992510",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-03-02 14:43:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gurutze Sainduaren eliza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Lantz|CC-Zero|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.997538",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.620481",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Gurutze Sainduaren eliza (Aro Modernoko kristau eliza, Lantzen kokatua)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 160991728,
+      "ns": 6,
+      "title": "File:Lantz-eko udaletxea.jpg",
+      "lat": 42.997686076598,
+      "lon": -1.6206738889611,
+      "dist": 3819.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "160991728": {
+              "pageid": 160991728,
+              "ns": 6,
+              "title": "File:Lantz-eko udaletxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lantz-eko_udaletxea.jpg/500px-Lantz-eko_udaletxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 310,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lantz-eko_udaletxea.jpg/960px-Lantz-eko_udaletxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lantz-eko_udaletxea.jpg/960px-Lantz-eko_udaletxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Lantz-eko_udaletxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lantz-eko_udaletxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160991728",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-03-02 14:28:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lantz-eko udaletxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Self-published work|Uploaded with Mobile/Android|Town hall|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.997686",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.620674",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lantzeko sarreran dagoen udaltetxea",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58164099,
+      "ns": 6,
+      "title": "File:Lanz 01.jpg",
+      "lat": 42.997833,
+      "lon": -1.620449,
+      "dist": 3835.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58164099": {
+              "pageid": 58164099,
+              "ns": 6,
+              "title": "File:Lanz 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lanz_01.jpg/500px-Lanz_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 410,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lanz_01.jpg/960px-Lanz_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lanz_01.jpg/960px-Lanz_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lanz_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lanz_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58164099",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-19 16:26:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lanz 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lantz|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Rural houses in Spain|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.997833",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.620449",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Streetview in Lanz. Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-13 13:32:09",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 160992652,
+      "ns": 6,
+      "title": "File:Lantz.jpg",
+      "lat": 42.997887321681,
+      "lon": -1.6204432662292,
+      "dist": 3841.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "160992652": {
+              "pageid": 160992652,
+              "ns": 6,
+              "title": "File:Lantz.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lantz.jpg/500px-Lantz.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 532,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lantz.jpg/960px-Lantz.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lantz.jpg/960px-Lantz.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Lantz.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lantz.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160992652",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-03-02 14:46:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lantz",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lantz|CC-Zero|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.997887",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.620443",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lantz",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 46967851,
+      "ns": 6,
+      "title": "File:Lantz 2015 inauteriak 001.jpg",
+      "lat": 42.998089069207,
+      "lon": -1.62024280678,
+      "dist": 3863.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "46967851": {
+              "pageid": 46967851,
+              "ns": 6,
+              "title": "File:Lantz 2015 inauteriak 001.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lantz_2015_inauteriak_001.jpg/500px-Lantz_2015_inauteriak_001.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lantz_2015_inauteriak_001.jpg/960px-Lantz_2015_inauteriak_001.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lantz_2015_inauteriak_001.jpg/960px-Lantz_2015_inauteriak_001.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Lantz_2015_inauteriak_001.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lantz_2015_inauteriak_001.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=46967851",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-02-14 13:57:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lantz 2015 inauteriak 001",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Carnival in Lantz|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.998089",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.620243",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Carnival in Lantz, 2015",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-02-20 14:11:26",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/dantzan/735408723\">https://www.flickr.com/photos/dantzan/735408723</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "dantzan",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58164102,
+      "ns": 6,
+      "title": "File:Lanz - Frontón 01.jpg",
+      "lat": 42.998277,
+      "lon": -1.619539,
+      "dist": 3882.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58164102": {
+              "pageid": 58164102,
+              "ns": 6,
+              "title": "File:Lanz - Frontón 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lanz_-_Front%C3%B3n_01.jpg/500px-Lanz_-_Front%C3%B3n_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 309,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lanz_-_Front%C3%B3n_01.jpg/960px-Lanz_-_Front%C3%B3n_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lanz_-_Front%C3%B3n_01.jpg/960px-Lanz_-_Front%C3%B3n_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lanz_-_Front%C3%B3n_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lanz_-_Front%C3%B3n_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58164102",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-19 16:26:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lanz - Frontón 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lantz|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Pelota courts in Navarre|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.998277",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.619539",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Pelota court of Lanz. Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-13 13:28:58",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

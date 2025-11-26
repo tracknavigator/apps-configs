@@ -1,0 +1,1256 @@
+{
+  "id": 195528076,
+  "town": {
+    "name": {
+      "default": "Mélida",
+      "es": "Mélida",
+      "eu": "Melida"
+    },
+    "coordinates": {
+      "lat": 42.3593649,
+      "lon": -1.5475067
+    }
+  },
+  "files": [
+    {
+      "pageid": 62842149,
+      "ns": 6,
+      "title": "File:Cara - Atrio y desagüe.jpg",
+      "lat": 42.374024,
+      "lon": -1.549432,
+      "dist": 1637.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62842149": {
+              "pageid": 62842149,
+              "ns": 6,
+              "title": "File:Cara - Atrio y desagüe.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cara_-_Atrio_y_desag%C3%BCe.jpg/500px-Cara_-_Atrio_y_desag%C3%BCe.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cara_-_Atrio_y_desag%C3%BCe.jpg/960px-Cara_-_Atrio_y_desag%C3%BCe.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Cara_-_Atrio_y_desag%C3%BCe.jpg/960px-Cara_-_Atrio_y_desag%C3%BCe.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cara_-_Atrio_y_desag%C3%BCe.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cara_-_Atrio_y_desag%C3%BCe.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62842149",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-28 16:24:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cara - Atrio y desagüe",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Xiaomi Mi Max 2|Ciudad romana de Cara|Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Photographs by Jialxv|Spain photographs taken on 2017-09-27|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images uploaded to Wiki Loves Monuments 2017 via the 'es' campaign|Images of monuments of Spain without photograph WLM 2017",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.374024",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.549432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Atrio y desagüe",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-09-27 15:32:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62842155,
+      "ns": 6,
+      "title": "File:Cara - Muralla prerromana.jpg",
+      "lat": 42.374024,
+      "lon": -1.549432,
+      "dist": 1637.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62842155": {
+              "pageid": 62842155,
+              "ns": 6,
+              "title": "File:Cara - Muralla prerromana.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cara_-_Muralla_prerromana.jpg/500px-Cara_-_Muralla_prerromana.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cara_-_Muralla_prerromana.jpg/960px-Cara_-_Muralla_prerromana.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cara_-_Muralla_prerromana.jpg/960px-Cara_-_Muralla_prerromana.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cara_-_Muralla_prerromana.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cara_-_Muralla_prerromana.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62842155",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-28 16:24:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cara - Muralla prerromana",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Xiaomi Mi Max 2|Ciudad romana de Cara|Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Photographs by Jialxv|Spain photographs taken on 2017-09-27|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images uploaded to Wiki Loves Monuments 2017 via the 'es' campaign|Images of monuments of Spain without photograph WLM 2017",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.374024",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.549432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Muralla prerromana",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-09-27 15:28:47",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62842153,
+      "ns": 6,
+      "title": "File:Cara - Muralla tardía.jpg",
+      "lat": 42.374024,
+      "lon": -1.549432,
+      "dist": 1637.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62842153": {
+              "pageid": 62842153,
+              "ns": 6,
+              "title": "File:Cara - Muralla tardía.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cara_-_Muralla_tard%C3%ADa.jpg/500px-Cara_-_Muralla_tard%C3%ADa.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cara_-_Muralla_tard%C3%ADa.jpg/960px-Cara_-_Muralla_tard%C3%ADa.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cara_-_Muralla_tard%C3%ADa.jpg/960px-Cara_-_Muralla_tard%C3%ADa.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cara_-_Muralla_tard%C3%ADa.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cara_-_Muralla_tard%C3%ADa.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62842153",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-28 16:24:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cara - Muralla tardía",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Xiaomi Mi Max 2|Ciudad romana de Cara|Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Photographs by Jialxv|Spain photographs taken on 2017-09-27|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images uploaded to Wiki Loves Monuments 2017 via the 'es' campaign|Images of monuments of Spain without photograph WLM 2017",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.374024",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.549432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Muralla tardía",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-09-27 15:27:47",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62842160,
+      "ns": 6,
+      "title": "File:Cara - Vista del conjunto 01.jpg",
+      "lat": 42.374024,
+      "lon": -1.549432,
+      "dist": 1637.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62842160": {
+              "pageid": 62842160,
+              "ns": 6,
+              "title": "File:Cara - Vista del conjunto 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cara_-_Vista_del_conjunto_01.jpg/500px-Cara_-_Vista_del_conjunto_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cara_-_Vista_del_conjunto_01.jpg/960px-Cara_-_Vista_del_conjunto_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cara_-_Vista_del_conjunto_01.jpg/960px-Cara_-_Vista_del_conjunto_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cara_-_Vista_del_conjunto_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cara_-_Vista_del_conjunto_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62842160",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-28 16:24:44",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cara - Vista del conjunto 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Xiaomi Mi Max 2|Ciudad romana de Cara|Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Photographs by Jialxv|Spain photographs taken on 2017-09-27|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images uploaded to Wiki Loves Monuments 2017 via the 'es' campaign|Images of monuments of Spain without photograph WLM 2017",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.374024",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.549432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista del conjunto",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-09-27 15:28:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62842148,
+      "ns": 6,
+      "title": "File:Cara - Calle.jpg",
+      "lat": 42.374024,
+      "lon": -1.549432,
+      "dist": 1637.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62842148": {
+              "pageid": 62842148,
+              "ns": 6,
+              "title": "File:Cara - Calle.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cara_-_Calle.jpg/500px-Cara_-_Calle.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cara_-_Calle.jpg/960px-Cara_-_Calle.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cara_-_Calle.jpg/960px-Cara_-_Calle.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Cara_-_Calle.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cara_-_Calle.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62842148",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-28 16:24:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cara - Calle",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Xiaomi Mi Max 2|Ciudad romana de Cara|Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Photographs by Jialxv|Spain photographs taken on 2017-09-27|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images uploaded to Wiki Loves Monuments 2017 via the 'es' campaign|Images of monuments of Spain without photograph WLM 2017",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.374024",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.549432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Calle en buen estado de conservación",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-09-27 15:31:51",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62842150,
+      "ns": 6,
+      "title": "File:Cara - Muestra del pavimento.jpg",
+      "lat": 42.374024,
+      "lon": -1.549432,
+      "dist": 1637.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62842150": {
+              "pageid": 62842150,
+              "ns": 6,
+              "title": "File:Cara - Muestra del pavimento.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cara_-_Muestra_del_pavimento.jpg/500px-Cara_-_Muestra_del_pavimento.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cara_-_Muestra_del_pavimento.jpg/960px-Cara_-_Muestra_del_pavimento.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cara_-_Muestra_del_pavimento.jpg/960px-Cara_-_Muestra_del_pavimento.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cara_-_Muestra_del_pavimento.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cara_-_Muestra_del_pavimento.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62842150",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-28 16:24:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cara - Muestra del pavimento",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Xiaomi Mi Max 2|Ciudad romana de Cara|Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Photographs by Jialxv|Spain photographs taken on 2017-09-27|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images uploaded to Wiki Loves Monuments 2017 via the 'es' campaign|Images of monuments of Spain without photograph WLM 2017",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.374024",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.549432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Muestra del pavimento",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-09-27 15:28:35",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62841630,
+      "ns": 6,
+      "title": "File:Civitas Cara.jpg",
+      "lat": 42.374024,
+      "lon": -1.549432,
+      "dist": 1637.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62841630": {
+              "pageid": 62841630,
+              "ns": 6,
+              "title": "File:Civitas Cara.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Civitas_Cara.jpg/500px-Civitas_Cara.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 244,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Civitas_Cara.jpg/960px-Civitas_Cara.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Civitas_Cara.jpg/960px-Civitas_Cara.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Civitas_Cara.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Civitas_Cara.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62841630",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-28 16:13:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Civitas Cara",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Xiaomi Mi Max 2|Ciudad romana de Cara|Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Photographs by Jialxv|Spain photographs taken on 2017-09-27|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images uploaded to Wiki Loves Monuments 2017 via the 'es' campaign|Images of monuments of Spain without photograph WLM 2017",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.374024",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.549432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Indicar a la entrada del yacimiento",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-09-27 15:27:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62842154,
+      "ns": 6,
+      "title": "File:Cara - Vista aerea del conjunto.jpg",
+      "lat": 42.374024,
+      "lon": -1.549432,
+      "dist": 1637.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62842154": {
+              "pageid": 62842154,
+              "ns": 6,
+              "title": "File:Cara - Vista aerea del conjunto.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cara_-_Vista_aerea_del_conjunto.jpg/500px-Cara_-_Vista_aerea_del_conjunto.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cara_-_Vista_aerea_del_conjunto.jpg/960px-Cara_-_Vista_aerea_del_conjunto.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cara_-_Vista_aerea_del_conjunto.jpg/960px-Cara_-_Vista_aerea_del_conjunto.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Cara_-_Vista_aerea_del_conjunto.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cara_-_Vista_aerea_del_conjunto.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62842154",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-28 16:24:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cara - Vista aerea del conjunto",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Xiaomi Mi Max 2|Ciudad romana de Cara|Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Photographs by Jialxv|Spain photographs taken on 2017-09-27|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images uploaded to Wiki Loves Monuments 2017 via the 'es' campaign|Images of monuments of Spain without photograph WLM 2017",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.374024",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.549432",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista aerea del conjunto",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-09-27 15:29:39",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 143461182,
+      "ns": 6,
+      "title": "File:Ophrys speculum 344083082.jpg",
+      "lat": 42.3798489721,
+      "lon": -1.5752609722,
+      "dist": 3222.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "143461182": {
+              "pageid": 143461182,
+              "ns": 6,
+              "title": "File:Ophrys speculum 344083082.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ophrys_speculum_344083082.jpg/500px-Ophrys_speculum_344083082.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ophrys_speculum_344083082.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ophrys_speculum_344083082.jpg/600px-Ophrys_speculum_344083082.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ophrys_speculum_344083082.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ophrys_speculum_344083082.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143461182",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-01-03 08:06:28",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ophrys speculum 344083082",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Ophrys in Spain|Ophrys speculum - flowers|Media from iNaturalist|INaturalist images reviewed by iNaturalistReviewBot|Files with coordinates missing SDC location of creation|Spain photographs taken on 2011-04-28|Uploaded with iNaturalist2Commons",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.379849",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.575261",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mirror orchid (<i>Ophrys speculum</i>)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-04-28",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/344083082\">https://www.inaturalist.org/photos/344083082</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/5061674\">Thierry Arbault</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 143461188,
+      "ns": 6,
+      "title": "File:Ophrys speculum 344083066.jpg",
+      "lat": 42.3798489721,
+      "lon": -1.5752609722,
+      "dist": 3222.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "143461188": {
+              "pageid": 143461188,
+              "ns": 6,
+              "title": "File:Ophrys speculum 344083066.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ophrys_speculum_344083066.jpg/500px-Ophrys_speculum_344083066.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ophrys_speculum_344083066.jpg/960px-Ophrys_speculum_344083066.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ophrys_speculum_344083066.jpg/960px-Ophrys_speculum_344083066.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ophrys_speculum_344083066.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ophrys_speculum_344083066.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143461188",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-01-03 08:06:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ophrys speculum 344083066",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Ophrys in Spain|Ophrys speculum - flowers|Media from iNaturalist|INaturalist images reviewed by iNaturalistReviewBot|Files with coordinates missing SDC location of creation|Spain photographs taken on 2011-04-28|Uploaded with iNaturalist2Commons",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.379849",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.575261",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mirror orchid (<i>Ophrys speculum</i>)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-04-28",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/344083066\">https://www.inaturalist.org/photos/344083066</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/5061674\">Thierry Arbault</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

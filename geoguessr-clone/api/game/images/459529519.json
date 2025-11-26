@@ -1,0 +1,2239 @@
+{
+  "id": 459529519,
+  "town": {
+    "name": {
+      "default": "Murillo el Fruto",
+      "es": "Murillo el Fruto",
+      "eu": "Murillo el Fruto"
+    },
+    "coordinates": {
+      "lat": 42.3909899,
+      "lon": -1.4599999
+    }
+  },
+  "files": [
+    {
+      "pageid": 9547554,
+      "ns": 6,
+      "title": "File:Monasterio de la Oliva. Sala Capitular.jpg",
+      "lat": 42.372177777778,
+      "lon": -1.4662916666667,
+      "dist": 2154.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "9547554": {
+              "pageid": 9547554,
+              "ns": 6,
+              "title": "File:Monasterio de la Oliva. Sala Capitular.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Monasterio_de_la_Oliva._Sala_Capitular.jpg/500px-Monasterio_de_la_Oliva._Sala_Capitular.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Monasterio_de_la_Oliva._Sala_Capitular.jpg/960px-Monasterio_de_la_Oliva._Sala_Capitular.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Monasterio_de_la_Oliva._Sala_Capitular.jpg/960px-Monasterio_de_la_Oliva._Sala_Capitular.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Monasterio_de_la_Oliva._Sala_Capitular.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_la_Oliva._Sala_Capitular.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9547554",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2010-02-23 08:23:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Monasterio de la Oliva. Sala Capitular",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Files with coordinates missing SDC location of creation|Chapter house of the Monastry of La Oliva",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.372178",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466292",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Siglo XIV",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "José Luis Filpo Cabana",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 33157524,
+      "ns": 6,
+      "title": "File:Monasterio de Nuestra Señora de la Oliva (Carcastillo). Claustro.jpg",
+      "lat": 42.372083333333,
+      "lon": -1.4664444444444,
+      "dist": 2167.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "33157524": {
+              "pageid": 33157524,
+              "ns": 6,
+              "title": "File:Monasterio de Nuestra Señora de la Oliva (Carcastillo). Claustro.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Claustro.jpg/500px-Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Claustro.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Claustro.jpg/960px-Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Claustro.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Claustro.jpg/960px-Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Claustro.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Claustro.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_(Carcastillo)._Claustro.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33157524",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-06-02 17:18:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Monasterio de Nuestra Señora de la Oliva (Carcastillo). Claustro",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "GFDL|License migration redundant|Self-published work|Tracery in Spain|Cloister of the Monastery of la Oliva|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.372083",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Claustro ejemplar del gótico cisterciense.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Jose Luis Filpo Cabana",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 9699373,
+      "ns": 6,
+      "title": "File:Monasterio de la Oliva. Claustro gótico.jpg",
+      "lat": 42.372052777778,
+      "lon": -1.4665,
+      "dist": 2172.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "9699373": {
+              "pageid": 9699373,
+              "ns": 6,
+              "title": "File:Monasterio de la Oliva. Claustro gótico.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Monasterio_de_la_Oliva._Claustro_g%C3%B3tico.jpg/500px-Monasterio_de_la_Oliva._Claustro_g%C3%B3tico.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Monasterio_de_la_Oliva._Claustro_g%C3%B3tico.jpg/960px-Monasterio_de_la_Oliva._Claustro_g%C3%B3tico.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Monasterio_de_la_Oliva._Claustro_g%C3%B3tico.jpg/960px-Monasterio_de_la_Oliva._Claustro_g%C3%B3tico.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Monasterio_de_la_Oliva._Claustro_g%C3%B3tico.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_la_Oliva._Claustro_g%C3%B3tico.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9699373",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2010-03-10 13:36:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Monasterio de la Oliva. Claustro gótico",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Cloister of the Monastery of la Oliva|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.372053",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466500",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Claustro del Císter",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "José Luis Filpo Cabana",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 117598177,
+      "ns": 6,
+      "title": "File:NA-128 Km 30.jpg",
+      "lat": 42.3714,
+      "lon": -1.46058,
+      "dist": 2178.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "117598177": {
+              "pageid": 117598177,
+              "ns": 6,
+              "title": "File:NA-128 Km 30.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/NA-128_Km_30.jpg/500px-NA-128_Km_30.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/NA-128_Km_30.jpg/960px-NA-128_Km_30.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/NA-128_Km_30.jpg/960px-NA-128_Km_30.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/NA-128_Km_30.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:NA-128_Km_30.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117598177",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-05-01 22:03:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "NA-128 Km 30",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Monasterio de la Oliva|Carcastillo|Self-published work|Files with coordinates missing SDC location of creation|Red de Carreteras de Navarra",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371400",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.460580",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Pk 30 de la NA-128 en Carcastillo. A la derecha se ve el Monasterio de La Oliva",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-05-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Amaiur22&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Amaiur22 (page does not exist)\">Amaiur22</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 33179048,
+      "ns": 6,
+      "title": "File:Monasterio de Nuestra Señora de la Oliva (Carcastillo). Galería del claustro.jpg",
+      "lat": 42.371916666667,
+      "lon": -1.4663333333334,
+      "dist": 2183.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "33179048": {
+              "pageid": 33179048,
+              "ns": 6,
+              "title": "File:Monasterio de Nuestra Señora de la Oliva (Carcastillo). Galería del claustro.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Galer%C3%ADa_del_claustro.jpg/500px-Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Galer%C3%ADa_del_claustro.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Galer%C3%ADa_del_claustro.jpg/960px-Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Galer%C3%ADa_del_claustro.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Galer%C3%ADa_del_claustro.jpg/960px-Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Galer%C3%ADa_del_claustro.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_%28Carcastillo%29._Galer%C3%ADa_del_claustro.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_Nuestra_Se%C3%B1ora_de_la_Oliva_(Carcastillo)._Galer%C3%ADa_del_claustro.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33179048",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-06-03 17:35:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Monasterio de Nuestra Señora de la Oliva (Carcastillo). Galería del claustro",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "GFDL|License migration redundant|Self-published work|Cloister of the Monastery of la Oliva|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371917",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466333",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Destaca la sobriedad de la escultura decorativa",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Jose Luis Filpo Cabana",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 38554134,
+      "ns": 6,
+      "title": "File:Monasterio de Santa Mª la Real de la Oliva (Carcastillo). Iglesia.jpg",
+      "lat": 42.3718219,
+      "lon": -1.4667499,
+      "dist": 2202.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "38554134": {
+              "pageid": 38554134,
+              "ns": 6,
+              "title": "File:Monasterio de Santa Mª la Real de la Oliva (Carcastillo). Iglesia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Monasterio_de_Santa_M%C2%AA_la_Real_de_la_Oliva_%28Carcastillo%29._Iglesia.jpg/500px-Monasterio_de_Santa_M%C2%AA_la_Real_de_la_Oliva_%28Carcastillo%29._Iglesia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Monasterio_de_Santa_M%C2%AA_la_Real_de_la_Oliva_%28Carcastillo%29._Iglesia.jpg/960px-Monasterio_de_Santa_M%C2%AA_la_Real_de_la_Oliva_%28Carcastillo%29._Iglesia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Monasterio_de_Santa_M%C2%AA_la_Real_de_la_Oliva_%28Carcastillo%29._Iglesia.jpg/960px-Monasterio_de_Santa_M%C2%AA_la_Real_de_la_Oliva_%28Carcastillo%29._Iglesia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Monasterio_de_Santa_M%C2%AA_la_Real_de_la_Oliva_%28Carcastillo%29._Iglesia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_Santa_M%C2%AA_la_Real_de_la_Oliva_(Carcastillo)._Iglesia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38554134",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-02-23 18:33:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Monasterio de Santa Mª la Real de la Oliva (Carcastillo). Iglesia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "GFDL|Pages with maps|License migration redundant|Interior of Monasterio de la Oliva|Self-published work|13th-century church interiors in Spain|Interiors of churches in Navarre|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371822",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466750",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Nave central de la iglesia cisterciense (s. XIII)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "José Luis Filpo Cabana",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82570094,
+      "ns": 6,
+      "title": "File:Nafarroa-OlibaMonasterioa-002.jpg",
+      "lat": 42.371806,
+      "lon": -1.466944,
+      "dist": 2208.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82570094": {
+              "pageid": 82570094,
+              "ns": 6,
+              "title": "File:Nafarroa-OlibaMonasterioa-002.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Nafarroa-OlibaMonasterioa-002.jpg/500px-Nafarroa-OlibaMonasterioa-002.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Nafarroa-OlibaMonasterioa-002.jpg/960px-Nafarroa-OlibaMonasterioa-002.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Nafarroa-OlibaMonasterioa-002.jpg/960px-Nafarroa-OlibaMonasterioa-002.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nafarroa-OlibaMonasterioa-002.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nafarroa-OlibaMonasterioa-002.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82570094",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-26 23:06:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Nafarroa-OlibaMonasterioa-002",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Spain photographs taken on 2019-03-20|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Exterior of Monasterio de la Oliva",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371806",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466944",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Olibako monasterioa",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-20 12:12:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Igerrak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Igerrak (page does not exist)\">Igerrak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82570096,
+      "ns": 6,
+      "title": "File:Nafarroa-OlibaMonasterioa-001.jpg",
+      "lat": 42.371806,
+      "lon": -1.466944,
+      "dist": 2208.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82570096": {
+              "pageid": 82570096,
+              "ns": 6,
+              "title": "File:Nafarroa-OlibaMonasterioa-001.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nafarroa-OlibaMonasterioa-001.jpg/500px-Nafarroa-OlibaMonasterioa-001.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nafarroa-OlibaMonasterioa-001.jpg/960px-Nafarroa-OlibaMonasterioa-001.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nafarroa-OlibaMonasterioa-001.jpg/960px-Nafarroa-OlibaMonasterioa-001.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Nafarroa-OlibaMonasterioa-001.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nafarroa-OlibaMonasterioa-001.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82570096",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-26 23:06:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Nafarroa-OlibaMonasterioa-001",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Spain photographs taken on 2019-03-20|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Exterior of Monasterio de la Oliva",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371806",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466944",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Olibako monasterioa",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-20 12:07:09",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Igerrak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Igerrak (page does not exist)\">Igerrak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 105018332,
+      "ns": 6,
+      "title": "File:Javier Urós Murillo. Abad del Monasterio de Santa María la Real de la Oliva.jpg",
+      "lat": 42.371806,
+      "lon": -1.466944,
+      "dist": 2208.1,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2021-05-07T22:25:37Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "105018332": {
+              "pageid": 105018332,
+              "ns": 6,
+              "title": "File:Javier Urós Murillo. Abad del Monasterio de Santa María la Real de la Oliva.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Javier_Ur%C3%B3s_Murillo._Abad_del_Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_la_Oliva.jpg/500px-Javier_Ur%C3%B3s_Murillo._Abad_del_Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_la_Oliva.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 823,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Javier_Ur%C3%B3s_Murillo._Abad_del_Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_la_Oliva.jpg/960px-Javier_Ur%C3%B3s_Murillo._Abad_del_Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_la_Oliva.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Javier_Ur%C3%B3s_Murillo._Abad_del_Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_la_Oliva.jpg/960px-Javier_Ur%C3%B3s_Murillo._Abad_del_Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_la_Oliva.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Javier_Ur%C3%B3s_Murillo._Abad_del_Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_la_Oliva.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Javier_Ur%C3%B3s_Murillo._Abad_del_Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_la_Oliva.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105018332",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-05-07 22:27:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Javier Urós Murillo. Abad del Monasterio de Santa María la Real de la Oliva",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|Abbots of Monasterio de la Oliva",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371806",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466944",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Javier Uros Murillo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-05-07 17:07:55",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Adsum1369\" title=\"User:Adsum1369\">Adsum1369</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82570095,
+      "ns": 6,
+      "title": "File:Nafarroa-OlibaMonasterioa-003.jpg",
+      "lat": 42.371806,
+      "lon": -1.466944,
+      "dist": 2208.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82570095": {
+              "pageid": 82570095,
+              "ns": 6,
+              "title": "File:Nafarroa-OlibaMonasterioa-003.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nafarroa-OlibaMonasterioa-003.jpg/500px-Nafarroa-OlibaMonasterioa-003.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nafarroa-OlibaMonasterioa-003.jpg/960px-Nafarroa-OlibaMonasterioa-003.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nafarroa-OlibaMonasterioa-003.jpg/960px-Nafarroa-OlibaMonasterioa-003.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nafarroa-OlibaMonasterioa-003.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nafarroa-OlibaMonasterioa-003.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82570095",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-26 23:06:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Nafarroa-OlibaMonasterioa-003",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Interior of Monasterio de la Oliva|Self-published work|Files with coordinates missing SDC location of creation|Uploaded via Campaign:wlm-es-eus|Spain photographs taken on 2019-03-20|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371806",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466944",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Olibako monasterioa",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-20 12:15:14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Igerrak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Igerrak (page does not exist)\">Igerrak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62234529,
+      "ns": 6,
+      "title": "File:Oliba-sarrera.jpg",
+      "lat": 42.371678,
+      "lon": -1.466532,
+      "dist": 2213.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62234529": {
+              "pageid": 62234529,
+              "ns": 6,
+              "title": "File:Oliba-sarrera.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oliba-sarrera.jpg/500px-Oliba-sarrera.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oliba-sarrera.jpg/960px-Oliba-sarrera.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oliba-sarrera.jpg/960px-Oliba-sarrera.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Oliba-sarrera.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oliba-sarrera.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62234529",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-06 17:39:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Oliba-sarrera",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Files with coordinates missing SDC location of creation|Spain photographs taken on 2015-04-03|Images from Wiki Loves Monuments 2017 in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Exterior of Monasterio de la Oliva|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images of monuments of Spain not included in WLM 2017 lists|Images uploaded to Wiki Loves Monuments 2017 via the 'es-eus' campaign",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371678",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466532",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Olibako_monasterioa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olibako monasterioa (page does not exist)\">Olibako monasterioa</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-04-03 09:33:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62234530,
+      "ns": 6,
+      "title": "File:Oliba-klaustroa-2.jpg",
+      "lat": 42.371678,
+      "lon": -1.466532,
+      "dist": 2213.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62234530": {
+              "pageid": 62234530,
+              "ns": 6,
+              "title": "File:Oliba-klaustroa-2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Oliba-klaustroa-2.jpg/500px-Oliba-klaustroa-2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Oliba-klaustroa-2.jpg/960px-Oliba-klaustroa-2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Oliba-klaustroa-2.jpg/960px-Oliba-klaustroa-2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Oliba-klaustroa-2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oliba-klaustroa-2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62234530",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-06 17:39:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Oliba-klaustroa-2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Cloister of the Monastery of la Oliva|Files with coordinates missing SDC location of creation|Spain photographs taken on 2015-04-03|Images from Wiki Loves Monuments 2017 in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images of monuments of Spain not included in WLM 2017 lists|Images uploaded to Wiki Loves Monuments 2017 via the 'es-eus' campaign",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371678",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466532",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Olibako_monasterioa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olibako monasterioa (page does not exist)\">Olibako monasterioa</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-04-03 10:03:34",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62234527,
+      "ns": 6,
+      "title": "File:Oliba-klaustroa.jpg",
+      "lat": 42.371678,
+      "lon": -1.466532,
+      "dist": 2213.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62234527": {
+              "pageid": 62234527,
+              "ns": 6,
+              "title": "File:Oliba-klaustroa.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Oliba-klaustroa.jpg/500px-Oliba-klaustroa.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 273,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Oliba-klaustroa.jpg/960px-Oliba-klaustroa.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Oliba-klaustroa.jpg/960px-Oliba-klaustroa.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Oliba-klaustroa.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oliba-klaustroa.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62234527",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-06 17:39:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Oliba-klaustroa",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Cultural heritage monuments in Spain with known IDs|Images from Wiki Loves Monuments 2017 in Spain|Images from Wiki Loves Monuments 2017|Cloister of the Monastery of la Oliva|Files with coordinates missing SDC location of creation|Spain photographs taken on 2015-04-03|Images from Wiki Loves Monuments 2017 in the Basque Country|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|Images from Wiki Loves Monuments 2017 in Spain, reviewed|Images of monuments of Spain not included in WLM 2017 lists|Images uploaded to Wiki Loves Monuments 2017 via the 'es-eus' campaign",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371678",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466532",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Olibako_monasterioa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olibako monasterioa (page does not exist)\">Olibako monasterioa</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-04-03 09:39:23",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 9547466,
+      "ns": 6,
+      "title": "File:Monasterio de la Oliva. Claustro.jpg",
+      "lat": 42.371244444444,
+      "lon": -1.4661916666666,
+      "dist": 2253.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "9547466": {
+              "pageid": 9547466,
+              "ns": 6,
+              "title": "File:Monasterio de la Oliva. Claustro.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Monasterio_de_la_Oliva._Claustro.jpg/500px-Monasterio_de_la_Oliva._Claustro.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Monasterio_de_la_Oliva._Claustro.jpg/960px-Monasterio_de_la_Oliva._Claustro.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Monasterio_de_la_Oliva._Claustro.jpg/960px-Monasterio_de_la_Oliva._Claustro.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Monasterio_de_la_Oliva._Claustro.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monasterio_de_la_Oliva._Claustro.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9547466",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2010-02-23 07:57:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Monasterio de la Oliva. Claustro",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "GFDL|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Cloister of the Monastery of la Oliva|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371244",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.466192",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Claustro gótico (ss. XIV-XV)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2010-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "José Luis Filpo Cabana",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36262054,
+      "ns": 6,
+      "title": "File:Santa Maria de Oliva 004 (9335642285).jpg",
+      "lat": 42.371481,
+      "lon": -1.467618,
+      "dist": 2257.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36262054": {
+              "pageid": 36262054,
+              "ns": 6,
+              "title": "File:Santa Maria de Oliva 004 (9335642285).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Santa_Maria_de_Oliva_004_%289335642285%29.jpg/500px-Santa_Maria_de_Oliva_004_%289335642285%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 238,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Santa_Maria_de_Oliva_004_%289335642285%29.jpg/960px-Santa_Maria_de_Oliva_004_%289335642285%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Santa_Maria_de_Oliva_004_%289335642285%29.jpg/960px-Santa_Maria_de_Oliva_004_%289335642285%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Santa_Maria_de_Oliva_004_%289335642285%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santa_Maria_de_Oliva_004_(9335642285).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36262054",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-20 00:59:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Santa Maria de Oliva 004 (9335642285)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Flickr images reviewed by FlickreviewR|Tracery in Spain|Cloister of the Monastery of la Oliva|Files with coordinates missing SDC location of creation|Photographs by Miguel Ángel García",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.371481",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.467618",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Santa Maria de Oliva 004",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-07-13 17:00",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/respenda/9335642285/\">Santa Maria de Oliva 004</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23012400@N03\">Miguel Ángel García.</a> from Ólvega., España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 101814290,
+      "ns": 6,
+      "title": "File:ISS044-E-6688 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -1.5,
+      "dist": 3434.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "101814290": {
+              "pageid": 101814290,
+              "ns": 6,
+              "title": "File:ISS044-E-6688 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ISS044-E-6688_-_View_of_Earth.jpg/500px-ISS044-E-6688_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ISS044-E-6688_-_View_of_Earth.jpg/960px-ISS044-E-6688_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ISS044-E-6688_-_View_of_Earth.jpg/960px-ISS044-E-6688_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/ISS044-E-6688_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS044-E-6688_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101814290",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-19 07:43:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS044-E-6688 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|ISS Expedition 44 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2015-07-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 44.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-07-02 09:01:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS044&amp;roll=E&amp;frame=6688\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 101814287,
+      "ns": 6,
+      "title": "File:ISS044-E-6687 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -1.5,
+      "dist": 3434.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "101814287": {
+              "pageid": 101814287,
+              "ns": 6,
+              "title": "File:ISS044-E-6687 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ISS044-E-6687_-_View_of_Earth.jpg/500px-ISS044-E-6687_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ISS044-E-6687_-_View_of_Earth.jpg/960px-ISS044-E-6687_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ISS044-E-6687_-_View_of_Earth.jpg/960px-ISS044-E-6687_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/ISS044-E-6687_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS044-E-6687_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=101814287",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-19 07:43:44",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS044-E-6687 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|ISS Expedition 44 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2015-07-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 44.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-07-02 09:01:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS044&amp;roll=E&amp;frame=6687\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 121572308,
+      "ns": 6,
+      "title": "File:ISS006-E-46389 - View of Spain.jpg",
+      "lat": 42.4,
+      "lon": -1.5,
+      "dist": 3434.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "121572308": {
+              "pageid": 121572308,
+              "ns": 6,
+              "title": "File:ISS006-E-46389 - View of Spain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ISS006-E-46389_-_View_of_Spain.jpg/500px-ISS006-E-46389_-_View_of_Spain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 272,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ISS006-E-46389_-_View_of_Spain.jpg/960px-ISS006-E-46389_-_View_of_Spain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ISS006-E-46389_-_View_of_Spain.jpg/960px-ISS006-E-46389_-_View_of_Spain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/ISS006-E-46389_-_View_of_Spain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS006-E-46389_-_View_of_Spain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121572308",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-08-10 08:03:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS006-E-46389 - View of Spain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Photos taken with Kodak DCS 760|PD NASA|Photos of Spain from ISS|ISS Expedition 6 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2003-04-17",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Spain taken during ISS Expedition 6.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2003-04-17 11:10:35",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS006&amp;roll=E&amp;frame=46389\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

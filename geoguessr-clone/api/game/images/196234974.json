@@ -1,0 +1,140 @@
+{
+  "id": 196234974,
+  "town": {
+    "name": {
+      "default": "Eslava",
+      "es": "Eslava",
+      "eu": "Eslaba"
+    },
+    "coordinates": {
+      "lat": 42.5643609,
+      "lon": -1.4594701
+    }
+  },
+  "files": [
+    {
+      "pageid": 91975578,
+      "ns": 6,
+      "title": "File:Santakriz-harbila1.jpg",
+      "lat": 42.545453,
+      "lon": -1.45093,
+      "dist": 2215.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91975578": {
+              "pageid": 91975578,
+              "ns": 6,
+              "title": "File:Santakriz-harbila1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Santakriz-harbila1.jpg/500px-Santakriz-harbila1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 823,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Santakriz-harbila1.jpg/960px-Santakriz-harbila1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Santakriz-harbila1.jpg/960px-Santakriz-harbila1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Santakriz-harbila1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santakriz-harbila1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91975578",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-06 19:01:24",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Santakriz-harbila1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Santa Criz (archaeological site)|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Eslaba",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.545453",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.450930",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Santakrizeko erromatar garaiko hiria. Elementu arkitektonikoak",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-07-05 11:25:58",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Suna_no_onna\" title=\"User:Suna no onna\">Suna no onna</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

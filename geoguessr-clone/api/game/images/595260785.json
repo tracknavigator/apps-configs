@@ -1,0 +1,2273 @@
+{
+  "id": 595260785,
+  "town": {
+    "name": {
+      "default": "Azuelo",
+      "es": "Azuelo",
+      "eu": "Azuelo"
+    },
+    "coordinates": {
+      "lat": 42.6086595,
+      "lon": -2.3493717
+    }
+  },
+  "files": [
+    {
+      "pageid": 38093467,
+      "ns": 6,
+      "title": "File:Azuelo - panoramio.jpg",
+      "lat": 42.59189,
+      "lon": -2.344723,
+      "dist": 1903.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "38093467": {
+              "pageid": 38093467,
+              "ns": 6,
+              "title": "File:Azuelo - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azuelo_-_panoramio.jpg/500px-Azuelo_-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azuelo_-_panoramio.jpg/960px-Azuelo_-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azuelo_-_panoramio.jpg/960px-Azuelo_-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Azuelo_-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azuelo_-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38093467",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-01-29 08:11:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Azuelo - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Azuelo|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2007-04-17|Photos from Panoramio ID 112166",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.591890",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.344723",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "azuelo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 17 April 2007",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161009231912/http://www.panoramio.com/photo/2080258\">https://web.archive.org/web/20161009231912/http://www.panoramio.com/photo/2080258</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161009231914/http://www.panoramio.com/user/112166?with_photo_id=2080258\">José Ibáñez</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">José Ibáñez</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 29 January 2015 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "José Ibáñez",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 59412455,
+      "ns": 6,
+      "title": "File:Santuario de Codés - Bordas.jpg",
+      "lat": 42.624371,
+      "lon": -2.337929,
+      "dist": 1982.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "59412455": {
+              "pageid": 59412455,
+              "ns": 6,
+              "title": "File:Santuario de Codés - Bordas.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Santuario_de_Cod%C3%A9s_-_Bordas.jpg/500px-Santuario_de_Cod%C3%A9s_-_Bordas.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 282,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Santuario_de_Cod%C3%A9s_-_Bordas.jpg/960px-Santuario_de_Cod%C3%A9s_-_Bordas.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Santuario_de_Cod%C3%A9s_-_Bordas.jpg/960px-Santuario_de_Cod%C3%A9s_-_Bordas.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Santuario_de_Cod%C3%A9s_-_Bordas.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santuario_de_Cod%C3%A9s_-_Bordas.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59412455",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-05-30 16:50:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Santuario de Codés - Bordas",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Barns in Spain|Aguilar de Codés|Self-published work|Spring in Navarre|Wind turbines in Spain|Images by Basotxerri|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.624371",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.337929",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mountain barns near the Codés Sanctuary. Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-05-21 10:40:34",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 163155551,
+      "ns": 6,
+      "title": "File:🇪🇸 🇪🇺 Nuestra Señora de Codés (Torralba del Río, Navarra, España, 29-2-2012) (54385886929).jpg",
+      "lat": 42.623712,
+      "lon": -2.335613,
+      "dist": 2017.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "163155551": {
+              "pageid": 163155551,
+              "ns": 6,
+              "title": "File:🇪🇸 🇪🇺 Nuestra Señora de Codés (Torralba del Río, Navarra, España, 29-2-2012) (54385886929).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Nuestra_Se%C3%B1ora_de_Cod%C3%A9s_%28Torralba_del_R%C3%ADo%2C_Navarra%2C_Espa%C3%B1a%2C_29-2-2012%29_%2854385886929%29.jpg/500px-%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Nuestra_Se%C3%B1ora_de_Cod%C3%A9s_%28Torralba_del_R%C3%ADo%2C_Navarra%2C_Espa%C3%B1a%2C_29-2-2012%29_%2854385886929%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Nuestra_Se%C3%B1ora_de_Cod%C3%A9s_%28Torralba_del_R%C3%ADo%2C_Navarra%2C_Espa%C3%B1a%2C_29-2-2012%29_%2854385886929%29.jpg/960px-%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Nuestra_Se%C3%B1ora_de_Cod%C3%A9s_%28Torralba_del_R%C3%ADo%2C_Navarra%2C_Espa%C3%B1a%2C_29-2-2012%29_%2854385886929%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Nuestra_Se%C3%B1ora_de_Cod%C3%A9s_%28Torralba_del_R%C3%ADo%2C_Navarra%2C_Espa%C3%B1a%2C_29-2-2012%29_%2854385886929%29.jpg/960px-%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Nuestra_Se%C3%B1ora_de_Cod%C3%A9s_%28Torralba_del_R%C3%ADo%2C_Navarra%2C_Espa%C3%B1a%2C_29-2-2012%29_%2854385886929%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Nuestra_Se%C3%B1ora_de_Cod%C3%A9s_%28Torralba_del_R%C3%ADo%2C_Navarra%2C_Espa%C3%B1a%2C_29-2-2012%29_%2854385886929%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:%F0%9F%87%AA%F0%9F%87%B8_%F0%9F%87%AA%F0%9F%87%BA_Nuestra_Se%C3%B1ora_de_Cod%C3%A9s_(Torralba_del_R%C3%ADo,_Navarra,_Espa%C3%B1a,_29-2-2012)_(54385886929).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163155551",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-04-04 00:39:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "🇪🇸 🇪🇺 Nuestra Señora de Codés (Torralba del Río, Navarra, España, 29-2-2012) (54385886929)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Santuario de Codes|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Spain photographs taken on 2012-02-29|Photographs by Juanje Orío",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.623712",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.335613",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p><b>Información en WIKIPEDIA:\n🇪🇸 &lt;a href=\"<a class=\"external free\" href=\"https://es.wikipedia.org/wiki/Santuario_de_Nuestra_Se%c3%b1ora_de_Cod%c3%a9s\">https://es.wikipedia.org/wiki/Santuario_de_Nuestra_Se%c3%b1ora_de_Cod%c3%a9s</a>\" rel=\"noreferrer nofollow\"&gt;Santuario de Nuestra Señora de Codés&lt;/a&gt;\n</b>\n</p>\nTomada a <b>788</b> m.s.n.m.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 29 February 2012, 12:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/juanjeorio/54385886929/\">🇪🇸 🇪🇺 Nuestra Señora de Codés (Torralba del Río, Navarra, España, 29-2-2012)</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26119068@N03\">Juanje Orío</a> from Logroño, España (Europa)",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126633610,
+      "ns": 6,
+      "title": "File:Granero de Aguilar de Codés.jpg",
+      "lat": 42.604866,
+      "lon": -2.319851,
+      "dist": 2452.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126633610": {
+              "pageid": 126633610,
+              "ns": 6,
+              "title": "File:Granero de Aguilar de Codés.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Granero_de_Aguilar_de_Cod%C3%A9s.jpg/500px-Granero_de_Aguilar_de_Cod%C3%A9s.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Granero_de_Aguilar_de_Cod%C3%A9s.jpg/960px-Granero_de_Aguilar_de_Cod%C3%A9s.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Granero_de_Aguilar_de_Cod%C3%A9s.jpg/960px-Granero_de_Aguilar_de_Cod%C3%A9s.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Granero_de_Aguilar_de_Cod%C3%A9s.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Granero_de_Aguilar_de_Cod%C3%A9s.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126633610",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 21:44:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Granero de Aguilar de Codés",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Granero de Aguilar de Codes|Self-published work|Files with coordinates missing SDC location of creation|Taken with Alcatel 1SE",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.604866",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.319851",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Granero de Aguilar de Codés",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-12-14 14:49:50",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 59412453,
+      "ns": 6,
+      "title": "File:Joar - Cruz 01.jpg",
+      "lat": 42.634397,
+      "lon": -2.348379,
+      "dist": 2863,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "59412453": {
+              "pageid": 59412453,
+              "ns": 6,
+              "title": "File:Joar - Cruz 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Joar_-_Cruz_01.jpg/500px-Joar_-_Cruz_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Joar_-_Cruz_01.jpg/960px-Joar_-_Cruz_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Joar_-_Cruz_01.jpg/960px-Joar_-_Cruz_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Joar_-_Cruz_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Joar_-_Cruz_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59412453",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-05-30 16:50:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Joar - Cruz 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Joar|Self-published work|Summit crosses of the Basque Autonomous Community|Images by Basotxerri|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.634397",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.348379",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Summit cross of Joar. Álava, Basque Country, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-05-21 12:22:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 149448508,
+      "ns": 6,
+      "title": "File:La Plana from Yoar.jpg",
+      "lat": 42.63554,
+      "lon": -2.342895,
+      "dist": 3035.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "149448508": {
+              "pageid": 149448508,
+              "ns": 6,
+              "title": "File:La Plana from Yoar.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/La_Plana_from_Yoar.jpg/500px-La_Plana_from_Yoar.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/La_Plana_from_Yoar.jpg/960px-La_Plana_from_Yoar.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/La_Plana_from_Yoar.jpg/960px-La_Plana_from_Yoar.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/La_Plana_from_Yoar.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:La_Plana_from_Yoar.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149448508",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-06-16 17:17:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "La Plana from Yoar",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Range of Kodes|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.635540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.342895",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mountain La Plana in Sierra de Codés seen from a path leading to Yoar",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-04-22 15:49:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Derbeth\" title=\"User:Derbeth\">Derbeth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 52169289,
+      "ns": 6,
+      "title": "File:Prozesioa Aguilar de Codésen. - panoramio.jpg",
+      "lat": 42.61457,
+      "lon": -2.389827,
+      "dist": 3375.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "52169289": {
+              "pageid": 52169289,
+              "ns": 6,
+              "title": "File:Prozesioa Aguilar de Codésen. - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Prozesioa_Aguilar_de_Cod%C3%A9sen._-_panoramio.jpg/500px-Prozesioa_Aguilar_de_Cod%C3%A9sen._-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 564,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Prozesioa_Aguilar_de_Cod%C3%A9sen._-_panoramio.jpg/960px-Prozesioa_Aguilar_de_Cod%C3%A9sen._-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Prozesioa_Aguilar_de_Cod%C3%A9sen._-_panoramio.jpg/960px-Prozesioa_Aguilar_de_Cod%C3%A9sen._-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Prozesioa_Aguilar_de_Cod%C3%A9sen._-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Prozesioa_Aguilar_de_Cod%C3%A9sen._-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52169289",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-10-10 03:20:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Prozesioa Aguilar de Codésen. - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Aguilar de Codés|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.614570",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.389827",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Prozesioa Aguilar de Codésen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "19 January 2009 (original upload date)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161013073300/http://www.panoramio.com/photo/17991111\">https://web.archive.org/web/20161013073300/http://www.panoramio.com/photo/17991111</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161013073301/http://www.panoramio.com/user/2341586?with_photo_id=17991111\">GipuzkoaKultura</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">GipuzkoaKultura</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 10 October 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "GipuzkoaKultura",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 72783253,
+      "ns": 6,
+      "title": "File:The Rock (136597751).jpeg",
+      "lat": 42.633958722673,
+      "lon": -2.373046875,
+      "dist": 3415.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "72783253": {
+              "pageid": 72783253,
+              "ns": 6,
+              "title": "File:The Rock (136597751).jpeg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Rock_%28136597751%29.jpeg/500px-The_Rock_%28136597751%29.jpeg",
+                  "thumbwidth": 400,
+                  "thumbheight": 240,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Rock_%28136597751%29.jpeg/960px-The_Rock_%28136597751%29.jpeg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Rock_%28136597751%29.jpeg/960px-The_Rock_%28136597751%29.jpeg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Rock_%28136597751%29.jpeg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Rock_(136597751).jpeg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72783253",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-09-16 13:32:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "<div class=\"fn\">\nThe Rock</div>",
+                      "source": "commons-desc-page"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Gibraltar|Files with coordinates missing SDC location of creation|Photos imported with import-500px",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.633959",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.373047",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Artist": {
+                      "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/alnaetrick\">Etrick</a></div>",
+                      "source": "commons-desc-page"
+                    },
+                    "ImageDescription": {
+                      "value": "<div class=\"description\">\n500px provided description: La Rioja, Spain [#landscape ,#rock ,#black and white ,#montana ,#spain ,#mountain ,#country ,#blancoynegro ,#espana ,#black \\ and\\ white]</div>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "before 18 January 2016, 12:05:07 (UTC)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "Imported from <a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/photo/136597751/the-rock-by-etrick\">500px</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/201807id_/https://drscdn.500px.org/photo/136597751/m%3D2048/v2?webp=true&amp;sig=66a5c36766ffebe5930792b3cc6c6d3ab8919925797f2275489f07e4c77f9ab9\">archived version</a>) by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.archiveteam.org/index.php?title=500px\">the Archive Team</a>. (<a href=\"https://iw.toolforge.org/import-500px/photo/136597751\" class=\"extiw\" title=\"toolforge:import-500px/photo/136597751\">detail page</a>)",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126633588,
+      "ns": 6,
+      "title": "File:Aguilar de Codes Calle céntrica.jpg",
+      "lat": 42.612845,
+      "lon": -2.391778,
+      "dist": 3501.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126633588": {
+              "pageid": 126633588,
+              "ns": 6,
+              "title": "File:Aguilar de Codes Calle céntrica.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Aguilar_de_Codes_Calle_c%C3%A9ntrica.jpg/500px-Aguilar_de_Codes_Calle_c%C3%A9ntrica.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Aguilar_de_Codes_Calle_c%C3%A9ntrica.jpg/960px-Aguilar_de_Codes_Calle_c%C3%A9ntrica.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Aguilar_de_Codes_Calle_c%C3%A9ntrica.jpg/960px-Aguilar_de_Codes_Calle_c%C3%A9ntrica.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aguilar_de_Codes_Calle_c%C3%A9ntrica.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aguilar_de_Codes_Calle_c%C3%A9ntrica.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126633588",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 21:44:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aguilar de Codes Calle céntrica",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aguilar de Codés|Self-published work|Files with coordinates missing SDC location of creation|Taken with Alcatel 1SE",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612845",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.391778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aguilar de Codes Calle céntrica",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-12-14 15:03:50",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126633583,
+      "ns": 6,
+      "title": "File:Aguilar de Codes Acceso a la localidad.jpg",
+      "lat": 42.612681,
+      "lon": -2.392153,
+      "dist": 3529.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126633583": {
+              "pageid": 126633583,
+              "ns": 6,
+              "title": "File:Aguilar de Codes Acceso a la localidad.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aguilar_de_Codes_Acceso_a_la_localidad.jpg/500px-Aguilar_de_Codes_Acceso_a_la_localidad.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 251,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aguilar_de_Codes_Acceso_a_la_localidad.jpg/960px-Aguilar_de_Codes_Acceso_a_la_localidad.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aguilar_de_Codes_Acceso_a_la_localidad.jpg/960px-Aguilar_de_Codes_Acceso_a_la_localidad.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Aguilar_de_Codes_Acceso_a_la_localidad.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aguilar_de_Codes_Acceso_a_la_localidad.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126633583",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 21:43:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aguilar de Codes Acceso a la localidad",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aguilar de Codés|Self-published work|Files with coordinates missing SDC location of creation|Settlement name signs in Navarre|Taken with Alcatel 1SE",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612681",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.392153",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aguilar de Codes Acceso a la localidad",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-12-14 15:02:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126630091,
+      "ns": 6,
+      "title": "File:Aguilar de Codes (entrada a la localidad).jpg",
+      "lat": 42.612657,
+      "lon": -2.392305,
+      "dist": 3541.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126630091": {
+              "pageid": 126630091,
+              "ns": 6,
+              "title": "File:Aguilar de Codes (entrada a la localidad).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aguilar_de_Codes_%28entrada_a_la_localidad%29.jpg/500px-Aguilar_de_Codes_%28entrada_a_la_localidad%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 189,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aguilar_de_Codes_%28entrada_a_la_localidad%29.jpg/960px-Aguilar_de_Codes_%28entrada_a_la_localidad%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aguilar_de_Codes_%28entrada_a_la_localidad%29.jpg/960px-Aguilar_de_Codes_%28entrada_a_la_localidad%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Aguilar_de_Codes_%28entrada_a_la_localidad%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aguilar_de_Codes_(entrada_a_la_localidad).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126630091",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 19:46:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aguilar de Codes (entrada a la localidad)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aguilar de Codés|Self-published work|Files with coordinates missing SDC location of creation|Settlement name signs in Álava-Araba|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612657",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.392305",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Entrada a Aguilar de Codes",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-12-14 15:03:00",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tagor70\" title=\"User:Tagor70\">Tagor70</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126633582,
+      "ns": 6,
+      "title": "File:Aguilar de Codes - Mapa informativo de la localidad.jpg",
+      "lat": 42.612736,
+      "lon": -2.392677,
+      "dist": 3572.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126633582": {
+              "pageid": 126633582,
+              "ns": 6,
+              "title": "File:Aguilar de Codes - Mapa informativo de la localidad.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aguilar_de_Codes_-_Mapa_informativo_de_la_localidad.jpg/500px-Aguilar_de_Codes_-_Mapa_informativo_de_la_localidad.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aguilar_de_Codes_-_Mapa_informativo_de_la_localidad.jpg/960px-Aguilar_de_Codes_-_Mapa_informativo_de_la_localidad.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aguilar_de_Codes_-_Mapa_informativo_de_la_localidad.jpg/960px-Aguilar_de_Codes_-_Mapa_informativo_de_la_localidad.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Aguilar_de_Codes_-_Mapa_informativo_de_la_localidad.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aguilar_de_Codes_-_Mapa_informativo_de_la_localidad.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126633582",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 21:43:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aguilar de Codes - Mapa informativo de la localidad",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aguilar de Codés|Self-published work|Files with coordinates missing SDC location of creation|Taken with Alcatel 1SE|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612736",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.392677",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aguilar de Codes - Mapa informativo de la localidad",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-12-14 15:06:26",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126633601,
+      "ns": 6,
+      "title": "File:Aguilar de Codes - Salón multiusos El Granero Viejo.jpg",
+      "lat": 42.61274,
+      "lon": -2.392751,
+      "dist": 3578.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126633601": {
+              "pageid": 126633601,
+              "ns": 6,
+              "title": "File:Aguilar de Codes - Salón multiusos El Granero Viejo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aguilar_de_Codes_-_Sal%C3%B3n_multiusos_El_Granero_Viejo.jpg/500px-Aguilar_de_Codes_-_Sal%C3%B3n_multiusos_El_Granero_Viejo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aguilar_de_Codes_-_Sal%C3%B3n_multiusos_El_Granero_Viejo.jpg/960px-Aguilar_de_Codes_-_Sal%C3%B3n_multiusos_El_Granero_Viejo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aguilar_de_Codes_-_Sal%C3%B3n_multiusos_El_Granero_Viejo.jpg/960px-Aguilar_de_Codes_-_Sal%C3%B3n_multiusos_El_Granero_Viejo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Aguilar_de_Codes_-_Sal%C3%B3n_multiusos_El_Granero_Viejo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aguilar_de_Codes_-_Sal%C3%B3n_multiusos_El_Granero_Viejo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126633601",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 21:44:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aguilar de Codes - Salón multiusos El Granero Viejo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aguilar de Codés|Self-published work|Files with coordinates missing SDC location of creation|Taken with Alcatel 1SE|All media supported by Wikimedia España in 2022",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612740",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.392751",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aguilar de Codes - Salón multiusos El Granero Viejo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-12-14 15:06:51",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126630088,
+      "ns": 6,
+      "title": "File:Granero de Aguilar de Codes (1).jpg",
+      "lat": 42.612514,
+      "lon": -2.39405,
+      "dist": 3681.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126630088": {
+              "pageid": 126630088,
+              "ns": 6,
+              "title": "File:Granero de Aguilar de Codes (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Granero_de_Aguilar_de_Codes_%281%29.jpg/500px-Granero_de_Aguilar_de_Codes_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 189,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Granero_de_Aguilar_de_Codes_%281%29.jpg/960px-Granero_de_Aguilar_de_Codes_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Granero_de_Aguilar_de_Codes_%281%29.jpg/960px-Granero_de_Aguilar_de_Codes_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Granero_de_Aguilar_de_Codes_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Granero_de_Aguilar_de_Codes_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126630088",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 19:46:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Granero de Aguilar de Codes (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Granero de Aguilar de Codes|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612514",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.394050",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Granero de Aguilar de Codes",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-12-14 14:50:15",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tagor70\" title=\"User:Tagor70\">Tagor70</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57523980,
+      "ns": 6,
+      "title": "File:Espronceda 01.jpg",
+      "lat": 42.597075,
+      "lon": -2.306151,
+      "dist": 3764.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57523980": {
+              "pageid": 57523980,
+              "ns": 6,
+              "title": "File:Espronceda 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Espronceda_01.jpg/500px-Espronceda_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Espronceda_01.jpg/960px-Espronceda_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Espronceda_01.jpg/960px-Espronceda_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Espronceda_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Espronceda_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57523980",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-03-29 17:24:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Espronceda 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Espronceda|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Abandoned houses in Spain|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Settlement name signs in Navarre|Azulejos of place names|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.597075",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.306151",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Abandoned building in Espronceda. Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-03-26 16:23:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126617649,
+      "ns": 6,
+      "title": "File:Aguilar de Codés GN.jpg",
+      "lat": 42.6125029,
+      "lon": -2.3951537,
+      "dist": 3770.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126617649": {
+              "pageid": 126617649,
+              "ns": 6,
+              "title": "File:Aguilar de Codés GN.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Aguilar_de_Cod%C3%A9s_GN.jpg/500px-Aguilar_de_Cod%C3%A9s_GN.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 847,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Aguilar_de_Cod%C3%A9s_GN.jpg/960px-Aguilar_de_Cod%C3%A9s_GN.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Aguilar_de_Cod%C3%A9s_GN.jpg/960px-Aguilar_de_Cod%C3%A9s_GN.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Aguilar_de_Cod%C3%A9s_GN.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aguilar_de_Cod%C3%A9s_GN.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126617649",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 13:58:44",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aguilar de Codés GN",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Aguilar de Codés|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2022-12-14",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612503",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.395154",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aguilar de Codés GN (estación meteorológica)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "14 December 2022 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tagor70\" title=\"User:Tagor70\">Tagor70</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126630090,
+      "ns": 6,
+      "title": "File:Estación Meteorológica de Aguilar de Codes.jpg",
+      "lat": 42.612503,
+      "lon": -2.395154,
+      "dist": 3771,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126630090": {
+              "pageid": 126630090,
+              "ns": 6,
+              "title": "File:Estación Meteorológica de Aguilar de Codes.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Estaci%C3%B3n_Meteorol%C3%B3gica_de_Aguilar_de_Codes.jpg/500px-Estaci%C3%B3n_Meteorol%C3%B3gica_de_Aguilar_de_Codes.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 847,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Estaci%C3%B3n_Meteorol%C3%B3gica_de_Aguilar_de_Codes.jpg/960px-Estaci%C3%B3n_Meteorol%C3%B3gica_de_Aguilar_de_Codes.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Estaci%C3%B3n_Meteorol%C3%B3gica_de_Aguilar_de_Codes.jpg/960px-Estaci%C3%B3n_Meteorol%C3%B3gica_de_Aguilar_de_Codes.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Estaci%C3%B3n_Meteorol%C3%B3gica_de_Aguilar_de_Codes.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_Meteorol%C3%B3gica_de_Aguilar_de_Codes.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126630090",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-14 19:46:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Estación Meteorológica de Aguilar de Codes",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Weather stations in Spain|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612503",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.395154",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Estación Meteorológica de Aguilar de Codes",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-12-14 14:56:21",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tagor70\" title=\"User:Tagor70\">Tagor70</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57523979,
+      "ns": 6,
+      "title": "File:Espronceda 02.jpg",
+      "lat": 42.597151,
+      "lon": -2.304347,
+      "dist": 3901,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57523979": {
+              "pageid": 57523979,
+              "ns": 6,
+              "title": "File:Espronceda 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Espronceda_02.jpg/500px-Espronceda_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 276,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Espronceda_02.jpg/960px-Espronceda_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Espronceda_02.jpg/960px-Espronceda_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Espronceda_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Espronceda_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57523979",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-03-29 17:24:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Espronceda 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Espronceda|Self-published work|Images of municipalities without photograph until now|Town halls in Navarre|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.597151",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.304347",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Los Fueros Square in Espronceda, Town Hall. Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-03-26 16:28:22",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

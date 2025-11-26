@@ -1,0 +1,264 @@
+{
+  "id": 3060098469,
+  "town": {
+    "name": {
+      "default": "San Adrián",
+      "es": "San Adrián",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.3327818,
+      "lon": -1.9336689
+    }
+  },
+  "files": [
+    {
+      "pageid": 97201193,
+      "ns": 6,
+      "title": "File:DESEMBOCADURA RÍO EGA EN EL TÉRMINO MUNICIPAL DE AZAGRA, MAPA DEL SITNA.png",
+      "lat": 42.328219,
+      "lon": -1.919462,
+      "dist": 1273.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "97201193": {
+              "pageid": 97201193,
+              "ns": 6,
+              "title": "File:DESEMBOCADURA RÍO EGA EN EL TÉRMINO MUNICIPAL DE AZAGRA, MAPA DEL SITNA.png",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DESEMBOCADURA_R%C3%8DO_EGA_EN_EL_T%C3%89RMINO_MUNICIPAL_DE_AZAGRA%2C_MAPA_DEL_SITNA.png/500px-DESEMBOCADURA_R%C3%8DO_EGA_EN_EL_T%C3%89RMINO_MUNICIPAL_DE_AZAGRA%2C_MAPA_DEL_SITNA.png",
+                  "thumbwidth": 400,
+                  "thumbheight": 186,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DESEMBOCADURA_R%C3%8DO_EGA_EN_EL_T%C3%89RMINO_MUNICIPAL_DE_AZAGRA%2C_MAPA_DEL_SITNA.png/960px-DESEMBOCADURA_R%C3%8DO_EGA_EN_EL_T%C3%89RMINO_MUNICIPAL_DE_AZAGRA%2C_MAPA_DEL_SITNA.png",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DESEMBOCADURA_R%C3%8DO_EGA_EN_EL_T%C3%89RMINO_MUNICIPAL_DE_AZAGRA%2C_MAPA_DEL_SITNA.png/960px-DESEMBOCADURA_R%C3%8DO_EGA_EN_EL_T%C3%89RMINO_MUNICIPAL_DE_AZAGRA%2C_MAPA_DEL_SITNA.png"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/DESEMBOCADURA_R%C3%8DO_EGA_EN_EL_T%C3%89RMINO_MUNICIPAL_DE_AZAGRA%2C_MAPA_DEL_SITNA.png",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:DESEMBOCADURA_R%C3%8DO_EGA_EN_EL_T%C3%89RMINO_MUNICIPAL_DE_AZAGRA,_MAPA_DEL_SITNA.png",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97201193",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-12-02 07:46:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "DESEMBOCADURA RÍO EGA EN EL TÉRMINO MUNICIPAL DE AZAGRA, MAPA DEL SITNA",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Maps of Navarre|Pages with maps|Azagra|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.328219",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.919462",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "DESEMBOCADURA RÍO EGA EN EL TÉRMINO MUNICIPAL DE AZAGRA, MAPA DEL SITNA",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-12-02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bambeldin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bambeldin (page does not exist)\">Bambeldin</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 67842736,
+      "ns": 6,
+      "title": "File:Monumento a Bebricio en Calahorra.jpg",
+      "lat": 42.304722222222,
+      "lon": -1.9633333333333,
+      "dist": 3960.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "67842736": {
+              "pageid": 67842736,
+              "ns": 6,
+              "title": "File:Monumento a Bebricio en Calahorra.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Monumento_a_Bebricio_en_Calahorra.jpg/500px-Monumento_a_Bebricio_en_Calahorra.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 711,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Monumento_a_Bebricio_en_Calahorra.jpg/960px-Monumento_a_Bebricio_en_Calahorra.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Monumento_a_Bebricio_en_Calahorra.jpg/960px-Monumento_a_Bebricio_en_Calahorra.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Monumento_a_Bebricio_en_Calahorra.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Monumento_a_Bebricio_en_Calahorra.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67842736",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-03-30 13:58:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Monumento a Bebricio en Calahorra",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Busts in La Rioja (Spain)|1976 bronzes in Spain|Uploaded with Mobile/Android|Uploaded with Mobile/Android (Nov 2017-Aug 2019)|Files with coordinates missing SDC location of creation|Photographs taken on 2018-03-30|1976 bronze busts|Paseo del Mercadal|Sculptures in Calahorra|Monuments and memorials to people of Roman Hispania",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.304722",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.963333",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Foto de monumento a Bebricio en Calahorra, La Rioja, España",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 March 2018 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Masabak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Masabak (page does not exist)\">Masabak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

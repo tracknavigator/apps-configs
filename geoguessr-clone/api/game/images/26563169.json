@@ -1,0 +1,515 @@
+{
+  "id": 26563169,
+  "town": {
+    "name": {
+      "default": "Mendigorria",
+      "es": "Mendigorría",
+      "eu": "Mendigorria"
+    },
+    "coordinates": {
+      "lat": 42.6262078,
+      "lon": -1.8340213
+    }
+  },
+  "files": [
+    {
+      "pageid": 133735772,
+      "ns": 6,
+      "title": "File:Mendigorria 2.jpg",
+      "lat": 42.628492953699,
+      "lon": -1.8353629806429,
+      "dist": 276.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "133735772": {
+              "pageid": 133735772,
+              "ns": 6,
+              "title": "File:Mendigorria 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mendigorria_2.jpg/500px-Mendigorria_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mendigorria_2.jpg/960px-Mendigorria_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mendigorria_2.jpg/960px-Mendigorria_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mendigorria_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mendigorria_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133735772",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-29 09:43:48",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Mendigorria 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Mendigorría|Self-published work|Spain photographs taken on 2023-06-29|Town halls in Navarre|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.628493",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.835363",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mendigorria (Navarre)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "29 June 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 133734641,
+      "ns": 6,
+      "title": "File:Biblioteca Pública de Mendigorría.jpg",
+      "lat": 42.628338540111,
+      "lon": -1.8361601513247,
+      "dist": 294.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "133734641": {
+              "pageid": 133734641,
+              "ns": 6,
+              "title": "File:Biblioteca Pública de Mendigorría.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Biblioteca_P%C3%BAblica_de_Mendigorr%C3%ADa.jpg/500px-Biblioteca_P%C3%BAblica_de_Mendigorr%C3%ADa.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Biblioteca_P%C3%BAblica_de_Mendigorr%C3%ADa.jpg/960px-Biblioteca_P%C3%BAblica_de_Mendigorr%C3%ADa.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Biblioteca_P%C3%BAblica_de_Mendigorr%C3%ADa.jpg/960px-Biblioteca_P%C3%BAblica_de_Mendigorr%C3%ADa.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Biblioteca_P%C3%BAblica_de_Mendigorr%C3%ADa.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Biblioteca_P%C3%BAblica_de_Mendigorr%C3%ADa.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133734641",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-29 09:21:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Biblioteca Pública de Mendigorría",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Mendigorría|Self-published work|Spain photographs taken on 2023-06-29|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.628339",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.836160",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Biblioteca Pública de Mendigorría (library)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "29 June 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 133707493,
+      "ns": 6,
+      "title": "File:Salado 2.jpg",
+      "lat": 42.627223723887,
+      "lon": -1.842434559361,
+      "dist": 697.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "133707493": {
+              "pageid": 133707493,
+              "ns": 6,
+              "title": "File:Salado 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Salado_2.jpg/500px-Salado_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Salado_2.jpg/960px-Salado_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Salado_2.jpg/960px-Salado_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Salado_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Salado_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=133707493",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-06-28 17:45:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Salado 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|All media needing categories as of 2023|Media needing categories as of 28 June 2023|Spain photographs taken on 2023-06-28|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.627224",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.842435",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Salado (Euskal Herriko ibaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "28 June 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 31850582,
+      "ns": 6,
+      "title": "File:Festival romano de Andelos.JPG",
+      "lat": 42.6333,
+      "lon": -1.8333,
+      "dist": 790.8,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2014-03-28T19:13:59Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "31850582": {
+              "pageid": 31850582,
+              "ns": 6,
+              "title": "File:Festival romano de Andelos.JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Festival_romano_de_Andelos.JPG/500px-Festival_romano_de_Andelos.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Festival_romano_de_Andelos.JPG/960px-Festival_romano_de_Andelos.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Festival_romano_de_Andelos.JPG/960px-Festival_romano_de_Andelos.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Festival_romano_de_Andelos.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Festival_romano_de_Andelos.JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31850582",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-03-28 20:10:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Festival romano de Andelos",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Roman reenactments in Spain|Andelos",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.633300",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.833300",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Amplio programa de actividades consagrado a recrear la vida en Andelos hace 2000 años y a divulgar la riqueza histórica de la localidad.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-03-28 20:04:39",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Charo_Jim%C3%A9nez_Garc%C3%ADa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Charo Jiménez García (page does not exist)\">Charo Jiménez García</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

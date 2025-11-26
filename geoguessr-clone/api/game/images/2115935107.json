@@ -1,0 +1,2375 @@
+{
+  "id": 2115935107,
+  "town": {
+    "name": {
+      "default": "Castillonuevo / Gazteluberri",
+      "es": "Castillonuevo",
+      "eu": "Gazteluberri"
+    },
+    "coordinates": {
+      "lat": 42.6784626,
+      "lon": -1.0447115
+    }
+  },
+  "files": [
+    {
+      "pageid": 77675207,
+      "ns": 6,
+      "title": "File:Castillonuevo 011.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675207": {
+              "pageid": 77675207,
+              "ns": 6,
+              "title": "File:Castillonuevo 011.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Castillonuevo_011.jpg/500px-Castillonuevo_011.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Castillonuevo_011.jpg/960px-Castillonuevo_011.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Castillonuevo_011.jpg/960px-Castillonuevo_011.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Castillonuevo_011.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_011.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675207",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:12:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 011",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:27:31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675167,
+      "ns": 6,
+      "title": "File:Castillonuevo 000.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2019-03-30T20:11:23Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "77675167": {
+              "pageid": 77675167,
+              "ns": 6,
+              "title": "File:Castillonuevo 000.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Castillonuevo_000.jpg/500px-Castillonuevo_000.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 197,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Castillonuevo_000.jpg/960px-Castillonuevo_000.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Castillonuevo_000.jpg/960px-Castillonuevo_000.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Castillonuevo_000.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_000.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675167",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-04-29 21:51:24",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 000",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 21:07:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675185,
+      "ns": 6,
+      "title": "File:Castillonuevo 006.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675185": {
+              "pageid": 77675185,
+              "ns": 6,
+              "title": "File:Castillonuevo 006.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Castillonuevo_006.jpg/500px-Castillonuevo_006.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Castillonuevo_006.jpg/960px-Castillonuevo_006.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Castillonuevo_006.jpg/960px-Castillonuevo_006.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Castillonuevo_006.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_006.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675185",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 006",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:10:11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675192,
+      "ns": 6,
+      "title": "File:Castillonuevo 008.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675192": {
+              "pageid": 77675192,
+              "ns": 6,
+              "title": "File:Castillonuevo 008.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Castillonuevo_008.jpg/500px-Castillonuevo_008.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Castillonuevo_008.jpg/960px-Castillonuevo_008.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Castillonuevo_008.jpg/960px-Castillonuevo_008.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Castillonuevo_008.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_008.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675192",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 008",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:14:16",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675203,
+      "ns": 6,
+      "title": "File:Castillonuevo 010.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675203": {
+              "pageid": 77675203,
+              "ns": 6,
+              "title": "File:Castillonuevo 010.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Castillonuevo_010.jpg/500px-Castillonuevo_010.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Castillonuevo_010.jpg/960px-Castillonuevo_010.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Castillonuevo_010.jpg/960px-Castillonuevo_010.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Castillonuevo_010.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_010.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675203",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:12:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 010",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:27:27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675169,
+      "ns": 6,
+      "title": "File:Castillonuevo 002.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675169": {
+              "pageid": 77675169,
+              "ns": 6,
+              "title": "File:Castillonuevo 002.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Castillonuevo_002.jpg/500px-Castillonuevo_002.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Castillonuevo_002.jpg/960px-Castillonuevo_002.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Castillonuevo_002.jpg/960px-Castillonuevo_002.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Castillonuevo_002.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_002.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675169",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 002",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:05:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675177,
+      "ns": 6,
+      "title": "File:Castillonuevo 005.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675177": {
+              "pageid": 77675177,
+              "ns": 6,
+              "title": "File:Castillonuevo 005.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Castillonuevo_005.jpg/500px-Castillonuevo_005.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Castillonuevo_005.jpg/960px-Castillonuevo_005.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Castillonuevo_005.jpg/960px-Castillonuevo_005.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Castillonuevo_005.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_005.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675177",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 005",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:09:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675175,
+      "ns": 6,
+      "title": "File:Castillonuevo 004.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675175": {
+              "pageid": 77675175,
+              "ns": 6,
+              "title": "File:Castillonuevo 004.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Castillonuevo_004.jpg/500px-Castillonuevo_004.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Castillonuevo_004.jpg/960px-Castillonuevo_004.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Castillonuevo_004.jpg/960px-Castillonuevo_004.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Castillonuevo_004.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_004.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675175",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 004",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:06:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675202,
+      "ns": 6,
+      "title": "File:Castillonuevo 009.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675202": {
+              "pageid": 77675202,
+              "ns": 6,
+              "title": "File:Castillonuevo 009.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Castillonuevo_009.jpg/500px-Castillonuevo_009.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Castillonuevo_009.jpg/960px-Castillonuevo_009.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Castillonuevo_009.jpg/960px-Castillonuevo_009.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Castillonuevo_009.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_009.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675202",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 009",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:23:22",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675168,
+      "ns": 6,
+      "title": "File:Castillonuevo 001.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675168": {
+              "pageid": 77675168,
+              "ns": 6,
+              "title": "File:Castillonuevo 001.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Castillonuevo_001.jpg/500px-Castillonuevo_001.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Castillonuevo_001.jpg/960px-Castillonuevo_001.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Castillonuevo_001.jpg/960px-Castillonuevo_001.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Castillonuevo_001.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_001.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675168",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 001",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:05:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675190,
+      "ns": 6,
+      "title": "File:Castillonuevo 007.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675190": {
+              "pageid": 77675190,
+              "ns": 6,
+              "title": "File:Castillonuevo 007.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Castillonuevo_007.jpg/500px-Castillonuevo_007.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Castillonuevo_007.jpg/960px-Castillonuevo_007.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Castillonuevo_007.jpg/960px-Castillonuevo_007.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Castillonuevo_007.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_007.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675190",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 007",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:11:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675231,
+      "ns": 6,
+      "title": "File:Castillonuevo 012.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675231": {
+              "pageid": 77675231,
+              "ns": 6,
+              "title": "File:Castillonuevo 012.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Castillonuevo_012.jpg/500px-Castillonuevo_012.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Castillonuevo_012.jpg/960px-Castillonuevo_012.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Castillonuevo_012.jpg/960px-Castillonuevo_012.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Castillonuevo_012.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_012.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675231",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:12:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 012",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:27:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675176,
+      "ns": 6,
+      "title": "File:Castillonuevo 003.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675176": {
+              "pageid": 77675176,
+              "ns": 6,
+              "title": "File:Castillonuevo 003.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Castillonuevo_003.jpg/500px-Castillonuevo_003.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Castillonuevo_003.jpg/960px-Castillonuevo_003.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Castillonuevo_003.jpg/960px-Castillonuevo_003.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Castillonuevo_003.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_003.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675176",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:11:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 003",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:05:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77675232,
+      "ns": 6,
+      "title": "File:Castillonuevo 013.jpg",
+      "lat": 42.677778,
+      "lon": -1.044167,
+      "dist": 88.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77675232": {
+              "pageid": 77675232,
+              "ns": 6,
+              "title": "File:Castillonuevo 013.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Castillonuevo_013.jpg/500px-Castillonuevo_013.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Castillonuevo_013.jpg/960px-Castillonuevo_013.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Castillonuevo_013.jpg/960px-Castillonuevo_013.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Castillonuevo_013.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castillonuevo_013.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77675232",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-03-30 20:12:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castillonuevo 013",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Castillonuevo|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.044167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castillonuevo (Navarra)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-30 16:41:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 165975984,
+      "ns": 6,
+      "title": "File:Ermita Virgen de la Peña 1.jpg",
+      "lat": 42.695226,
+      "lon": -1.003491,
+      "dist": 3850.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "165975984": {
+              "pageid": 165975984,
+              "ns": 6,
+              "title": "File:Ermita Virgen de la Peña 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ermita_Virgen_de_la_Pe%C3%B1a_1.jpg/500px-Ermita_Virgen_de_la_Pe%C3%B1a_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 395,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ermita_Virgen_de_la_Pe%C3%B1a_1.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ermita_Virgen_de_la_Pe%C3%B1a_1.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ermita_Virgen_de_la_Pe%C3%B1a_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_Virgen_de_la_Pe%C3%B1a_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165975984",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-05-25 09:06:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita Virgen de la Peña 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ermita de la Virgen de la Peña (Salvatierra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.695226",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.003491",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Crucero junto a la la ermita de la Virgen de la Peña (Salvatierra de Esca)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-05-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 165975980,
+      "ns": 6,
+      "title": "File:Ermita Virgen de la Peña 3.jpg",
+      "lat": 42.695992,
+      "lon": -1.003013,
+      "dist": 3926.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "165975980": {
+              "pageid": 165975980,
+              "ns": 6,
+              "title": "File:Ermita Virgen de la Peña 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ermita_Virgen_de_la_Pe%C3%B1a_3.jpg/500px-Ermita_Virgen_de_la_Pe%C3%B1a_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 327,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ermita_Virgen_de_la_Pe%C3%B1a_3.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ermita_Virgen_de_la_Pe%C3%B1a_3.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ermita_Virgen_de_la_Pe%C3%B1a_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_Virgen_de_la_Pe%C3%B1a_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165975980",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-05-25 09:06:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita Virgen de la Peña 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ermita de la Virgen de la Peña (Salvatierra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.695992",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.003013",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Retablo principal de la ermita de la Virgen de la Peña (Salvatierra de Esca)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-05-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 165975979,
+      "ns": 6,
+      "title": "File:Ermita Virgen de la Peña 4.jpg",
+      "lat": 42.695992,
+      "lon": -1.003013,
+      "dist": 3926.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "165975979": {
+              "pageid": 165975979,
+              "ns": 6,
+              "title": "File:Ermita Virgen de la Peña 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ermita_Virgen_de_la_Pe%C3%B1a_4.jpg/500px-Ermita_Virgen_de_la_Pe%C3%B1a_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 509,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ermita_Virgen_de_la_Pe%C3%B1a_4.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ermita_Virgen_de_la_Pe%C3%B1a_4.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Ermita_Virgen_de_la_Pe%C3%B1a_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_Virgen_de_la_Pe%C3%B1a_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165975979",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-05-25 09:06:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita Virgen de la Peña 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ermita de la Virgen de la Peña (Salvatierra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.695992",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.003013",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Imagen de San Miguel Arcangel en un lateral de la ermita de la Virgen de la Peña (Salvatierra de Esca)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-05-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 165975978,
+      "ns": 6,
+      "title": "File:Ermita Virgen de la Peña 5.jpg",
+      "lat": 42.695992,
+      "lon": -1.003013,
+      "dist": 3926.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "165975978": {
+              "pageid": 165975978,
+              "ns": 6,
+              "title": "File:Ermita Virgen de la Peña 5.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ermita_Virgen_de_la_Pe%C3%B1a_5.jpg/500px-Ermita_Virgen_de_la_Pe%C3%B1a_5.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ermita_Virgen_de_la_Pe%C3%B1a_5.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_5.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ermita_Virgen_de_la_Pe%C3%B1a_5.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_5.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Ermita_Virgen_de_la_Pe%C3%B1a_5.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_Virgen_de_la_Pe%C3%B1a_5.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165975978",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-05-25 09:06:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita Virgen de la Peña 5",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ermita de la Virgen de la Peña (Salvatierra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.695992",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.003013",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Imagen de San Antonio de Padua con el Niño Jesús en un lateral de la ermita de la Virgen de la Peña (Salvatierra de Esca)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-05-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 165975983,
+      "ns": 6,
+      "title": "File:Ermita Virgen de la Peña 2.jpg",
+      "lat": 42.695992,
+      "lon": -1.003013,
+      "dist": 3926.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "165975983": {
+              "pageid": 165975983,
+              "ns": 6,
+              "title": "File:Ermita Virgen de la Peña 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ermita_Virgen_de_la_Pe%C3%B1a_2.jpg/500px-Ermita_Virgen_de_la_Pe%C3%B1a_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 366,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ermita_Virgen_de_la_Pe%C3%B1a_2.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ermita_Virgen_de_la_Pe%C3%B1a_2.jpg/960px-Ermita_Virgen_de_la_Pe%C3%B1a_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ermita_Virgen_de_la_Pe%C3%B1a_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_Virgen_de_la_Pe%C3%B1a_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165975983",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-05-25 09:06:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita Virgen de la Peña 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ermita de la Virgen de la Peña (Salvatierra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.695992",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.003013",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ermita de la Virgen de la Peña (Salvatierra de Esca)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-05-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

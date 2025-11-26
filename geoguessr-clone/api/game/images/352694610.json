@@ -1,0 +1,3990 @@
+{
+  "id": 352694610,
+  "town": {
+    "name": {
+      "default": "Unciti",
+      "es": "Unciti",
+      "eu": "Untziti"
+    },
+    "coordinates": {
+      "lat": 42.7475379,
+      "lon": -1.5019366
+    }
+  },
+  "files": [
+    {
+      "pageid": 77703349,
+      "ns": 6,
+      "title": "File:San Martín de Artaiz (33082212858).jpg",
+      "lat": 42.748613,
+      "lon": -1.469562,
+      "dist": 2646.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77703349": {
+              "pageid": 77703349,
+              "ns": 6,
+              "title": "File:San Martín de Artaiz (33082212858).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/San_Mart%C3%ADn_de_Artaiz_%2833082212858%29.jpg/500px-San_Mart%C3%ADn_de_Artaiz_%2833082212858%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 66,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/San_Mart%C3%ADn_de_Artaiz_%2833082212858%29.jpg/960px-San_Mart%C3%ADn_de_Artaiz_%2833082212858%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/San_Mart%C3%ADn_de_Artaiz_%2833082212858%29.jpg/960px-San_Mart%C3%ADn_de_Artaiz_%2833082212858%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/San_Mart%C3%ADn_de_Artaiz_%2833082212858%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Mart%C3%ADn_de_Artaiz_(33082212858).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77703349",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-04-01 04:34:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Martín de Artaiz (33082212858)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Martín, Artaiz|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.748613",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.469562",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia representativa del románico rural de Nvarra. Se comenzó a construir en el siglo XII.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-18 20:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/33082212858/\">San Martín de Artaiz</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77703354,
+      "ns": 6,
+      "title": "File:San Martín de Artaiz (33082214688).jpg",
+      "lat": 42.748613,
+      "lon": -1.469562,
+      "dist": 2646.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77703354": {
+              "pageid": 77703354,
+              "ns": 6,
+              "title": "File:San Martín de Artaiz (33082214688).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/San_Mart%C3%ADn_de_Artaiz_%2833082214688%29.jpg/500px-San_Mart%C3%ADn_de_Artaiz_%2833082214688%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 283,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/San_Mart%C3%ADn_de_Artaiz_%2833082214688%29.jpg/960px-San_Mart%C3%ADn_de_Artaiz_%2833082214688%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/San_Mart%C3%ADn_de_Artaiz_%2833082214688%29.jpg/960px-San_Mart%C3%ADn_de_Artaiz_%2833082214688%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/San_Mart%C3%ADn_de_Artaiz_%2833082214688%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Mart%C3%ADn_de_Artaiz_(33082214688).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77703354",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-04-01 04:34:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Martín de Artaiz (33082214688)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Martín, Artaiz|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.748613",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.469562",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia representativa del románico rural de Nvarra. Se comenzó a construir en el siglo XII.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-18 20:04",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/33082214688/\">San Martín de Artaiz</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77703347,
+      "ns": 6,
+      "title": "File:San Martín de Artaiz (33082213928).jpg",
+      "lat": 42.748613,
+      "lon": -1.469562,
+      "dist": 2646.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77703347": {
+              "pageid": 77703347,
+              "ns": 6,
+              "title": "File:San Martín de Artaiz (33082213928).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/San_Mart%C3%ADn_de_Artaiz_%2833082213928%29.jpg/500px-San_Mart%C3%ADn_de_Artaiz_%2833082213928%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 288,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/San_Mart%C3%ADn_de_Artaiz_%2833082213928%29.jpg/960px-San_Mart%C3%ADn_de_Artaiz_%2833082213928%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/San_Mart%C3%ADn_de_Artaiz_%2833082213928%29.jpg/960px-San_Mart%C3%ADn_de_Artaiz_%2833082213928%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/San_Mart%C3%ADn_de_Artaiz_%2833082213928%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Mart%C3%ADn_de_Artaiz_(33082213928).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77703347",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-04-01 04:34:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Martín de Artaiz (33082213928)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Church of San Martín, Artaiz|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.748613",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.469562",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia representativa del románico rural de Nvarra. Se comenzó a construir en el siglo XII.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-18 20:04",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/33082213928/\">San Martín de Artaiz</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 77703358,
+      "ns": 6,
+      "title": "File:San Martín de Artaiz (46905619352).jpg",
+      "lat": 42.748613,
+      "lon": -1.469562,
+      "dist": 2646.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "77703358": {
+              "pageid": 77703358,
+              "ns": 6,
+              "title": "File:San Martín de Artaiz (46905619352).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/San_Mart%C3%ADn_de_Artaiz_%2846905619352%29.jpg/500px-San_Mart%C3%ADn_de_Artaiz_%2846905619352%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 161,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/San_Mart%C3%ADn_de_Artaiz_%2846905619352%29.jpg/960px-San_Mart%C3%ADn_de_Artaiz_%2846905619352%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/San_Mart%C3%ADn_de_Artaiz_%2846905619352%29.jpg/960px-San_Mart%C3%ADn_de_Artaiz_%2846905619352%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/San_Mart%C3%ADn_de_Artaiz_%2846905619352%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Mart%C3%ADn_de_Artaiz_(46905619352).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77703358",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-04-01 04:34:20",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Martín de Artaiz (46905619352)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Martín, Artaiz|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.748613",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.469562",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia representativa del románico rural de Nvarra. Se comenzó a construir en el siglo XII.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-18 20:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/46905619352/\">San Martín de Artaiz</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 104978184,
+      "ns": 6,
+      "title": "File:Nematopogon swammerdamella 123373105.jpg",
+      "lat": 42.7733251381,
+      "lon": -1.5213189286,
+      "dist": 3275,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "104978184": {
+              "pageid": 104978184,
+              "ns": 6,
+              "title": "File:Nematopogon swammerdamella 123373105.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nematopogon_swammerdamella_123373105.jpg/500px-Nematopogon_swammerdamella_123373105.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nematopogon_swammerdamella_123373105.jpg/960px-Nematopogon_swammerdamella_123373105.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nematopogon_swammerdamella_123373105.jpg/960px-Nematopogon_swammerdamella_123373105.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nematopogon_swammerdamella_123373105.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nematopogon_swammerdamella_123373105.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104978184",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-05-06 19:31:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Nematopogon swammerdamella 123373105",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Nematopogon swammerdamella|Media from iNaturalist|INaturalist images reviewed by iNaturalistReviewBot|Files with coordinates missing SDC location of creation|Adelidae of Spain|Uploaded with iNaturalist2Commons|Spain photographs taken on 2021-04-24",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773325",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521319",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Large Longhorn (<i>Nematopogon swammerdamella</i>)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-04-24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/123373105\">https://www.inaturalist.org/photos/123373105</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/459652\">kike Vergara</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 138694486,
+      "ns": 6,
+      "title": "File:Ennomos quercaria.jpg",
+      "lat": 42.773521,
+      "lon": -1.521376,
+      "dist": 3296.4,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2023-10-10T21:40:34Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "138694486": {
+              "pageid": 138694486,
+              "ns": 6,
+              "title": "File:Ennomos quercaria.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ennomos_quercaria.jpg/500px-Ennomos_quercaria.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ennomos_quercaria.jpg/960px-Ennomos_quercaria.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ennomos_quercaria.jpg/960px-Ennomos_quercaria.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ennomos_quercaria.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ennomos_quercaria.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138694486",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-10-10 21:45:53",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ennomos quercaria",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Ennomos quercaria|Media from iNaturalist|INaturalist images reviewed by iNaturalistReviewBot|Geometridae of Spain|Files with coordinates missing SDC location of creation|Spain photographs taken on 2022-09-17|Media from GBIF",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773521",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Clouded August Thorn (Ennomos quercaria). Species of insect.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/231629856\">https://www.inaturalist.org/photos/231629856</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "kike Vergara",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 138694866,
+      "ns": 6,
+      "title": "File:Crocallis dardoinaria.jpg",
+      "lat": 42.773521,
+      "lon": -1.521376,
+      "dist": 3296.4,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2023-10-10T22:00:34Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "138694866": {
+              "pageid": 138694866,
+              "ns": 6,
+              "title": "File:Crocallis dardoinaria.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Crocallis_dardoinaria.jpg/500px-Crocallis_dardoinaria.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Crocallis_dardoinaria.jpg/960px-Crocallis_dardoinaria.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Crocallis_dardoinaria.jpg/960px-Crocallis_dardoinaria.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Crocallis_dardoinaria.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crocallis_dardoinaria.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138694866",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-10-10 22:02:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Crocallis dardoinaria",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Crocallis|Media from iNaturalist|Spain photographs taken on 2022-09-18|INaturalist images reviewed by iNaturalistReviewBot|Geometridae of Spain|Files with coordinates missing SDC location of creation|Media from GBIF",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773521",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Dusky Scalloped Oak (Crocallis dardoinaria). Species of insect.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/231668543\">https://www.inaturalist.org/photos/231668543</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Kike Vergara",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 115303475,
+      "ns": 6,
+      "title": "File:Agriopis leucophaearia 179521126.jpg",
+      "lat": 42.7735211454,
+      "lon": -1.5213764459,
+      "dist": 3296.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "115303475": {
+              "pageid": 115303475,
+              "ns": 6,
+              "title": "File:Agriopis leucophaearia 179521126.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Agriopis_leucophaearia_179521126.jpg/500px-Agriopis_leucophaearia_179521126.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Agriopis_leucophaearia_179521126.jpg/960px-Agriopis_leucophaearia_179521126.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Agriopis_leucophaearia_179521126.jpg/960px-Agriopis_leucophaearia_179521126.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Agriopis_leucophaearia_179521126.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Agriopis_leucophaearia_179521126.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115303475",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-02-16 16:32:28",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Agriopis leucophaearia 179521126",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Agriopis leucophaearia|Lepidoptera of Spain|Media from iNaturalist|INaturalist images reviewed by iNaturalistReviewBot|Files with coordinates missing SDC location of creation|Uploaded with iNaturalist2Commons|Spain photographs taken on 2022-02-15",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773521",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Spring Usher Moth (<i>Agriopis leucophaearia</i>)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-02-15",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/179521126\">https://www.inaturalist.org/photos/179521126</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/459652\">kike Vergara</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 159362247,
+      "ns": 6,
+      "title": "File:Arctornis l-nigrum 208697269.jpg",
+      "lat": 42.7735211454,
+      "lon": -1.5213764459,
+      "dist": 3296.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "159362247": {
+              "pageid": 159362247,
+              "ns": 6,
+              "title": "File:Arctornis l-nigrum 208697269.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Arctornis_l-nigrum_208697269.jpg/500px-Arctornis_l-nigrum_208697269.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Arctornis_l-nigrum_208697269.jpg/960px-Arctornis_l-nigrum_208697269.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Arctornis_l-nigrum_208697269.jpg/960px-Arctornis_l-nigrum_208697269.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Arctornis_l-nigrum_208697269.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arctornis_l-nigrum_208697269.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159362247",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-02-08 16:30:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arctornis l-nigrum 208697269",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Arctornis l-nigrum|Media from iNaturalist|INaturalist images reviewed by iNaturalistReviewBot|Erebidae of Spain|Files with coordinates missing SDC location of creation|Uploaded with iNaturalist2Commons|Media from GBIF",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773521",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Black V Moth (<i>Arctornis l-nigrum</i>) in Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-06-23",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/208697269\">https://www.inaturalist.org/photos/208697269</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/459652\">kike Vergara</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 119085773,
+      "ns": 6,
+      "title": "File:Peridea anceps 200757520.jpg",
+      "lat": 42.7735211454,
+      "lon": -1.5213764459,
+      "dist": 3296.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "119085773": {
+              "pageid": 119085773,
+              "ns": 6,
+              "title": "File:Peridea anceps 200757520.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Peridea_anceps_200757520.jpg/500px-Peridea_anceps_200757520.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Peridea_anceps_200757520.jpg/960px-Peridea_anceps_200757520.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Peridea_anceps_200757520.jpg/960px-Peridea_anceps_200757520.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Peridea_anceps_200757520.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Peridea_anceps_200757520.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119085773",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-06-08 21:10:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Peridea anceps 200757520",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Peridea anceps|Media from iNaturalist|Lepidoptera of Navarre|INaturalist images reviewed by iNaturalistReviewBot|Notodontidae of Spain|Files with coordinates missing SDC location of creation|Uploaded with iNaturalist2Commons|Spain photographs taken on 2022-05-25",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773521",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Great Prominent (<i>Peridea anceps</i>)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-05-25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/200757520\">https://www.inaturalist.org/photos/200757520</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/459652\">kike Vergara</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 119085781,
+      "ns": 6,
+      "title": "File:Peridea anceps 186739834.jpg",
+      "lat": 42.7735211454,
+      "lon": -1.5213764459,
+      "dist": 3296.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "119085781": {
+              "pageid": 119085781,
+              "ns": 6,
+              "title": "File:Peridea anceps 186739834.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Peridea_anceps_186739834.jpg/500px-Peridea_anceps_186739834.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Peridea_anceps_186739834.jpg/960px-Peridea_anceps_186739834.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Peridea_anceps_186739834.jpg/960px-Peridea_anceps_186739834.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Peridea_anceps_186739834.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Peridea_anceps_186739834.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119085781",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-06-08 21:10:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Peridea anceps 186739834",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Peridea anceps|Media from iNaturalist|Spain photographs taken on 2022-04-07|Lepidoptera of Navarre|INaturalist images reviewed by iNaturalistReviewBot|Notodontidae of Spain|Files with coordinates missing SDC location of creation|Uploaded with iNaturalist2Commons",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773521",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Great Prominent (<i>Peridea anceps</i>)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-04-07",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/186739834\">https://www.inaturalist.org/photos/186739834</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/459652\">kike Vergara</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 126192712,
+      "ns": 6,
+      "title": "File:Evergestis politalis 231669108.jpg",
+      "lat": 42.7735211454,
+      "lon": -1.5213764459,
+      "dist": 3296.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "126192712": {
+              "pageid": 126192712,
+              "ns": 6,
+              "title": "File:Evergestis politalis 231669108.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Evergestis_politalis_231669108.jpg/500px-Evergestis_politalis_231669108.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Evergestis_politalis_231669108.jpg/960px-Evergestis_politalis_231669108.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Evergestis_politalis_231669108.jpg/960px-Evergestis_politalis_231669108.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Evergestis_politalis_231669108.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Evergestis_politalis_231669108.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=126192712",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-12-01 21:21:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Evergestis politalis 231669108",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Evergestis politalis|Media from iNaturalist|Lepidoptera of Navarre|INaturalist images reviewed by iNaturalistReviewBot|Crambidae of Spain|Files with coordinates missing SDC location of creation|Photographs taken on 2022-09-18|Uploaded with iNaturalist2Commons",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773521",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521376",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<i>Evergestis politalis</i>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-18",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/231669108\">https://www.inaturalist.org/photos/231669108</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/459652\">kike Vergara</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 106802560,
+      "ns": 6,
+      "title": "File:Cydalima perspectalis 135757985.jpg",
+      "lat": 42.773571265,
+      "lon": -1.5214331862,
+      "dist": 3303.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "106802560": {
+              "pageid": 106802560,
+              "ns": 6,
+              "title": "File:Cydalima perspectalis 135757985.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cydalima_perspectalis_135757985.jpg/500px-Cydalima_perspectalis_135757985.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cydalima_perspectalis_135757985.jpg/960px-Cydalima_perspectalis_135757985.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cydalima_perspectalis_135757985.jpg/960px-Cydalima_perspectalis_135757985.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cydalima_perspectalis_135757985.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cydalima_perspectalis_135757985.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106802560",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-06-20 17:48:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cydalima perspectalis 135757985",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Media from iNaturalist|INaturalist images reviewed by iNaturalistReviewBot|Files with coordinates missing SDC location of creation|Spain photographs taken on 2021-06-09|Uploaded with iNaturalist2Commons|Cydalima perspectalis in Spain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773571",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.521433",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Box Tree Moth (<i>Cydalima perspectalis</i>)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-09",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.inaturalist.org/photos/135757985\">https://www.inaturalist.org/photos/135757985</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.inaturalist.org/users/459652\">kike Vergara</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151816998,
+      "ns": 6,
+      "title": "File:20240825 irulegiko herrixkaren ikuspegia.jpg",
+      "lat": 42.778259,
+      "lon": -1.514507,
+      "dist": 3566.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151816998": {
+              "pageid": 151816998,
+              "ns": 6,
+              "title": "File:20240825 irulegiko herrixkaren ikuspegia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20240825_irulegiko_herrixkaren_ikuspegia.jpg/500px-20240825_irulegiko_herrixkaren_ikuspegia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20240825_irulegiko_herrixkaren_ikuspegia.jpg/960px-20240825_irulegiko_herrixkaren_ikuspegia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20240825_irulegiko_herrixkaren_ikuspegia.jpg/960px-20240825_irulegiko_herrixkaren_ikuspegia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/20240825_irulegiko_herrixkaren_ikuspegia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:20240825_irulegiko_herrixkaren_ikuspegia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151816998",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-25 21:54:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "20240825 irulegiko herrixkaren ikuspegia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aranzadi Zientzia Elkartea|Castle of Irulegi|Self-published work|Irulegi Iron Age village|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.778259",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.514507",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko herrixka eta gazteluaren bista orokorra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-08-25 11:08:31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Garaolaza&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Garaolaza (page does not exist)\">Garaolaza</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125435886,
+      "ns": 6,
+      "title": "File:Irulegiko eskua - Nafarroako Gobernuaren irudi galeria 14.jpg",
+      "lat": 42.778215,
+      "lon": -1.51481,
+      "dist": 3569.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125435886": {
+              "pageid": 125435886,
+              "ns": 6,
+              "title": "File:Irulegiko eskua - Nafarroako Gobernuaren irudi galeria 14.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_14.jpg/500px-Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_14.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 562,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_14.jpg/960px-Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_14.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_14.jpg/960px-Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_14.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_14.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_14.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125435886",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-14 14:03:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko eskua - Nafarroako Gobernuaren irudi galeria 14",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Irulegi Iron Age village|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.778215",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.514810",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko eskua - Nafarroako Gobernuaren irudi galeria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-07-15 18:51:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.navarra.es/eu/-/irulegi-mendian-k.a.-i.-mendeko-brontzezko-esku-bat-aurkitu-dute-eta-orain-arte-ezagutzen-den-euskarazko-inskripziorik-zaharrena-du?pageBackId=363032&amp;back=true\">https://www.navarra.es/eu/-/irulegi-mendian-k.a.-i.-mendeko-brontzezko-esku-bat-aurkitu-dute-eta-orain-arte-ezagutzen-den-euskarazko-inskripziorik-zaharrena-du?pageBackId=363032&amp;back=true</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Nafarroako Gobernua | Gobierno de Navarra",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151816999,
+      "ns": 6,
+      "title": "File:Irulegiko aztarnategira bisita gidatua Aranzadirekin 2024-08.jpg",
+      "lat": 42.77858,
+      "lon": -1.51442,
+      "dist": 3599,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151816999": {
+              "pageid": 151816999,
+              "ns": 6,
+              "title": "File:Irulegiko aztarnategira bisita gidatua Aranzadirekin 2024-08.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Irulegiko_aztarnategira_bisita_gidatua_Aranzadirekin_2024-08.jpg/500px-Irulegiko_aztarnategira_bisita_gidatua_Aranzadirekin_2024-08.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Irulegiko_aztarnategira_bisita_gidatua_Aranzadirekin_2024-08.jpg/960px-Irulegiko_aztarnategira_bisita_gidatua_Aranzadirekin_2024-08.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Irulegiko_aztarnategira_bisita_gidatua_Aranzadirekin_2024-08.jpg/960px-Irulegiko_aztarnategira_bisita_gidatua_Aranzadirekin_2024-08.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Irulegiko_aztarnategira_bisita_gidatua_Aranzadirekin_2024-08.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_aztarnategira_bisita_gidatua_Aranzadirekin_2024-08.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151816999",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-25 21:54:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko aztarnategira bisita gidatua Aranzadirekin 2024-08",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aranzadi Zientzia Elkartea|Castle of Irulegi|Self-published work|Irulegi Iron Age village|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.778580",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.514420",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Hiru bisitarik Aranzadiko teknikariaren azalpenak entzuten dituzte Irulegiko herrixkaren aztarnategi aurrean.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-08-25 12:18:27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Garaolaza&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Garaolaza (page does not exist)\">Garaolaza</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151817000,
+      "ns": 6,
+      "title": "File:20240825 irulegiko herrixka eskuaren etxea.jpg",
+      "lat": 42.778584,
+      "lon": -1.514493,
+      "dist": 3601.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151817000": {
+              "pageid": 151817000,
+              "ns": 6,
+              "title": "File:20240825 irulegiko herrixka eskuaren etxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20240825_irulegiko_herrixka_eskuaren_etxea.jpg/500px-20240825_irulegiko_herrixka_eskuaren_etxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 261,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20240825_irulegiko_herrixka_eskuaren_etxea.jpg/960px-20240825_irulegiko_herrixka_eskuaren_etxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20240825_irulegiko_herrixka_eskuaren_etxea.jpg/960px-20240825_irulegiko_herrixka_eskuaren_etxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/20240825_irulegiko_herrixka_eskuaren_etxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:20240825_irulegiko_herrixka_eskuaren_etxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151817000",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-25 21:54:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "20240825 irulegiko herrixka eskuaren etxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aranzadi Zientzia Elkartea|Castle of Irulegi|Self-published work|Irulegi Iron Age village|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.778584",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.514493",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lehen planoan Irulegiko herrixkako etxe baten aztarnak, non Irulegiko eskua aurkitu zen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-08-25 12:03:57",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Garaolaza&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Garaolaza (page does not exist)\">Garaolaza</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125432153,
+      "ns": 6,
+      "title": "File:Irulegiko gaztelua 02.jpg",
+      "lat": 42.7796,
+      "lon": -1.51354,
+      "dist": 3688.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125432153": {
+              "pageid": 125432153,
+              "ns": 6,
+              "title": "File:Irulegiko gaztelua 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Irulegiko_gaztelua_02.jpg/500px-Irulegiko_gaztelua_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Irulegiko_gaztelua_02.jpg/960px-Irulegiko_gaztelua_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Irulegiko_gaztelua_02.jpg/960px-Irulegiko_gaztelua_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Irulegiko_gaztelua_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_gaztelua_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125432153",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-14 12:48:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko gaztelua 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.779600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.513540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko gazteluaren aztarnak, Aranguren",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-05 11:43:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125432174,
+      "ns": 6,
+      "title": "File:Irulegiko gaztelua 05.jpg",
+      "lat": 42.7796,
+      "lon": -1.51354,
+      "dist": 3688.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125432174": {
+              "pageid": 125432174,
+              "ns": 6,
+              "title": "File:Irulegiko gaztelua 05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Irulegiko_gaztelua_05.jpg/500px-Irulegiko_gaztelua_05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Irulegiko_gaztelua_05.jpg/960px-Irulegiko_gaztelua_05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Irulegiko_gaztelua_05.jpg/960px-Irulegiko_gaztelua_05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Irulegiko_gaztelua_05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_gaztelua_05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125432174",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-14 12:49:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko gaztelua 05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.779600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.513540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko gazteluaren aztarnak, Aranguren",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-05 11:44:49",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125432154,
+      "ns": 6,
+      "title": "File:Irulegiko gaztelua 03.jpg",
+      "lat": 42.7796,
+      "lon": -1.51354,
+      "dist": 3688.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125432154": {
+              "pageid": 125432154,
+              "ns": 6,
+              "title": "File:Irulegiko gaztelua 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Irulegiko_gaztelua_03.jpg/500px-Irulegiko_gaztelua_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Irulegiko_gaztelua_03.jpg/960px-Irulegiko_gaztelua_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Irulegiko_gaztelua_03.jpg/960px-Irulegiko_gaztelua_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Irulegiko_gaztelua_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_gaztelua_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125432154",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-14 12:48:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko gaztelua 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.779600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.513540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko gazteluaren aztarnak, Aranguren",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-05 11:43:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125432151,
+      "ns": 6,
+      "title": "File:Irulegiko gaztelua 01.jpg",
+      "lat": 42.7796,
+      "lon": -1.51354,
+      "dist": 3688.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125432151": {
+              "pageid": 125432151,
+              "ns": 6,
+              "title": "File:Irulegiko gaztelua 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Irulegiko_gaztelua_01.jpg/500px-Irulegiko_gaztelua_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Irulegiko_gaztelua_01.jpg/960px-Irulegiko_gaztelua_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Irulegiko_gaztelua_01.jpg/960px-Irulegiko_gaztelua_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Irulegiko_gaztelua_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_gaztelua_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125432151",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-14 12:48:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko gaztelua 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.779600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.513540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko gazteluaren aztarnak, Aranguren",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-05 11:42:32",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125432170,
+      "ns": 6,
+      "title": "File:Irulegiko gaztelua 04.jpg",
+      "lat": 42.7796,
+      "lon": -1.51354,
+      "dist": 3688.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125432170": {
+              "pageid": 125432170,
+              "ns": 6,
+              "title": "File:Irulegiko gaztelua 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Irulegiko_gaztelua_04.jpg/500px-Irulegiko_gaztelua_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Irulegiko_gaztelua_04.jpg/960px-Irulegiko_gaztelua_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Irulegiko_gaztelua_04.jpg/960px-Irulegiko_gaztelua_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Irulegiko_gaztelua_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_gaztelua_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125432170",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-14 12:49:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko gaztelua 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation|Gaztelua (text)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.779600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.513540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko gazteluaren aztarnak, Aranguren",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-05 11:44:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125432172,
+      "ns": 6,
+      "title": "File:Irulegiko gaztelua 06.jpg",
+      "lat": 42.7796,
+      "lon": -1.51354,
+      "dist": 3688.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125432172": {
+              "pageid": 125432172,
+              "ns": 6,
+              "title": "File:Irulegiko gaztelua 06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Irulegiko_gaztelua_06.jpg/500px-Irulegiko_gaztelua_06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Irulegiko_gaztelua_06.jpg/960px-Irulegiko_gaztelua_06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Irulegiko_gaztelua_06.jpg/960px-Irulegiko_gaztelua_06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Irulegiko_gaztelua_06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_gaztelua_06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125432172",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-14 12:49:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko gaztelua 06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.779600",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.513540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko gazteluaren aztarnak, Aranguren",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-06-05 11:45:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Theklan\" title=\"User:Theklan\">Theklan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 97254816,
+      "ns": 6,
+      "title": "File:Irulegi (49970726273).jpg",
+      "lat": 42.779747,
+      "lon": -1.51342,
+      "dist": 3702.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "97254816": {
+              "pageid": 97254816,
+              "ns": 6,
+              "title": "File:Irulegi (49970726273).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Irulegi_%2849970726273%29.jpg/500px-Irulegi_%2849970726273%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Irulegi_%2849970726273%29.jpg/960px-Irulegi_%2849970726273%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Irulegi_%2849970726273%29.jpg/960px-Irulegi_%2849970726273%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Irulegi_%2849970726273%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegi_(49970726273).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97254816",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-12-04 12:30:15",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegi (49970726273)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Navarre|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.779747",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.513420",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<p><b><i>Irulegiko gaztelua</i> (Lakidain Aranguren)</b>\n</p><p>&lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.aranzadi.eus/arqueologia/publicado-un-nuevo-articulo-sobre-el-castillo-de-irulegi?lang=eu\">http://www.aranzadi.eus/arqueologia/publicado-un-nuevo-articulo-sobre-el-castillo-de-irulegi?lang=eu</a>\" rel=\"noreferrer nofollow\"&gt;Gaztelua&lt;/a&gt;\n</p><p><br>\n</p>\n2020-05-30_MG_1903-1",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-05-30 10:26",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/kixmi/49970726273/\">Irulegi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26958624@N07\">kixmi71</a> from Iruñea, Euskal Herria",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 125435887,
+      "ns": 6,
+      "title": "File:Irulegiko eskua - Nafarroako Gobernuaren irudi galeria 15.jpg",
+      "lat": 42.77993,
+      "lon": -1.512596,
+      "dist": 3705.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "125435887": {
+              "pageid": 125435887,
+              "ns": 6,
+              "title": "File:Irulegiko eskua - Nafarroako Gobernuaren irudi galeria 15.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_15.jpg/500px-Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_15.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_15.jpg/960px-Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_15.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_15.jpg/960px-Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_15.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_15.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko_eskua_-_Nafarroako_Gobernuaren_irudi_galeria_15.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125435887",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-11-14 14:03:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko eskua - Nafarroako Gobernuaren irudi galeria 15",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Irulegi Iron Age village|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.779930",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.512596",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Irulegiko eskua - Nafarroako Gobernuaren irudi galeria",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-07-01 17:42:54",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.navarra.es/eu/-/irulegi-mendian-k.a.-i.-mendeko-brontzezko-esku-bat-aurkitu-dute-eta-orain-arte-ezagutzen-den-euskarazko-inskripziorik-zaharrena-du?pageBackId=363032&amp;back=true\">https://www.navarra.es/eu/-/irulegi-mendian-k.a.-i.-mendeko-brontzezko-esku-bat-aurkitu-dute-eta-orain-arte-ezagutzen-den-euskarazko-inskripziorik-zaharrena-du?pageBackId=363032&amp;back=true</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Nafarroako Gobernua | Gobierno de Navarra",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 92062634,
+      "ns": 6,
+      "title": "File:Irulegiko-gaztelua-goitik-Berria.jpg",
+      "lat": 42.780228,
+      "lon": -1.511731,
+      "dist": 3721.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "92062634": {
+              "pageid": 92062634,
+              "ns": 6,
+              "title": "File:Irulegiko-gaztelua-goitik-Berria.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Irulegiko-gaztelua-goitik-Berria.jpg/500px-Irulegiko-gaztelua-goitik-Berria.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Irulegiko-gaztelua-goitik-Berria.jpg/960px-Irulegiko-gaztelua-goitik-Berria.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Irulegiko-gaztelua-goitik-Berria.jpg/960px-Irulegiko-gaztelua-goitik-Berria.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Irulegiko-gaztelua-goitik-Berria.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegiko-gaztelua-goitik-Berria.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92062634",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-09 20:39:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegiko-gaztelua-goitik-Berria",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.780228",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.511731",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castle of Irulegi, Navarre",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-10 12:54:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.berria.eus/albisteak/184060/burdin-aroko-umetxo-baskoi-baten-gorpuzkiak-aurkitu-ditu-aranzadik-nafarroan.htm?utm_source=Twitter&amp;utm_medium=Sare_sozialak_CM\">https://www.berria.eus/albisteak/184060/burdin-aroko-umetxo-baskoi-baten-gorpuzkiak-aurkitu-ditu-aranzadik-nafarroan.htm?utm_source=Twitter&amp;utm_medium=Sare_sozialak_CM</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "[www.berria.eus Berria]",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62900109,
+      "ns": 6,
+      "title": "File:Irulegui - Panel informativo.jpg",
+      "lat": 42.78056,
+      "lon": -1.512165,
+      "dist": 3765.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62900109": {
+              "pageid": 62900109,
+              "ns": 6,
+              "title": "File:Irulegui - Panel informativo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Irulegui_-_Panel_informativo.jpg/500px-Irulegui_-_Panel_informativo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Irulegui_-_Panel_informativo.jpg/960px-Irulegui_-_Panel_informativo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Irulegui_-_Panel_informativo.jpg/960px-Irulegui_-_Panel_informativo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Irulegui_-_Panel_informativo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegui_-_Panel_informativo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62900109",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-29 18:05:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegui - Panel informativo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.780560",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.512165",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Panel informativo sobre el enclave",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-11-16 10:37:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62900115,
+      "ns": 6,
+      "title": "File:Irulegui - Vista general ascenso.jpg",
+      "lat": 42.78056,
+      "lon": -1.512165,
+      "dist": 3765.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62900115": {
+              "pageid": 62900115,
+              "ns": 6,
+              "title": "File:Irulegui - Vista general ascenso.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Irulegui_-_Vista_general_ascenso.jpg/500px-Irulegui_-_Vista_general_ascenso.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Irulegui_-_Vista_general_ascenso.jpg/960px-Irulegui_-_Vista_general_ascenso.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Irulegui_-_Vista_general_ascenso.jpg/960px-Irulegui_-_Vista_general_ascenso.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Irulegui_-_Vista_general_ascenso.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegui_-_Vista_general_ascenso.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62900115",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-29 18:05:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegui - Vista general ascenso",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation|Ruins of castles in Navarre|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.780560",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.512165",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista general ascenso",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-11-19 11:59:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62900116,
+      "ns": 6,
+      "title": "File:Irulegui - Vista de Izagaondoa.jpg",
+      "lat": 42.78056,
+      "lon": -1.512165,
+      "dist": 3765.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62900116": {
+              "pageid": 62900116,
+              "ns": 6,
+              "title": "File:Irulegui - Vista de Izagaondoa.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Irulegui_-_Vista_de_Izagaondoa.jpg/500px-Irulegui_-_Vista_de_Izagaondoa.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Irulegui_-_Vista_de_Izagaondoa.jpg/960px-Irulegui_-_Vista_de_Izagaondoa.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Irulegui_-_Vista_de_Izagaondoa.jpg/960px-Irulegui_-_Vista_de_Izagaondoa.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Irulegui_-_Vista_de_Izagaondoa.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegui_-_Vista_de_Izagaondoa.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62900116",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-29 18:05:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegui - Vista de Izagaondoa",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.780560",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.512165",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista de <a href=\"//commons.wikimedia.org/w/index.php?title=Izagaondoa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Izagaondoa (page does not exist)\">Izagaondoa</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-11-19 12:01:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62900107,
+      "ns": 6,
+      "title": "File:Irulegui - Vista general descenso.jpg",
+      "lat": 42.78056,
+      "lon": -1.512165,
+      "dist": 3765.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62900107": {
+              "pageid": 62900107,
+              "ns": 6,
+              "title": "File:Irulegui - Vista general descenso.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Irulegui_-_Vista_general_descenso.jpg/500px-Irulegui_-_Vista_general_descenso.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Irulegui_-_Vista_general_descenso.jpg/960px-Irulegui_-_Vista_general_descenso.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Irulegui_-_Vista_general_descenso.jpg/960px-Irulegui_-_Vista_general_descenso.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Irulegui_-_Vista_general_descenso.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegui_-_Vista_general_descenso.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62900107",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-29 18:05:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegui - Vista general descenso",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.780560",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.512165",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista general descenso",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-11-16 10:37:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 62900110,
+      "ns": 6,
+      "title": "File:Irulegui - Vista de Cuenca de Pamplona.jpg",
+      "lat": 42.78056,
+      "lon": -1.512165,
+      "dist": 3765.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "62900110": {
+              "pageid": 62900110,
+              "ns": 6,
+              "title": "File:Irulegui - Vista de Cuenca de Pamplona.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Irulegui_-_Vista_de_Cuenca_de_Pamplona.jpg/500px-Irulegui_-_Vista_de_Cuenca_de_Pamplona.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Irulegui_-_Vista_de_Cuenca_de_Pamplona.jpg/960px-Irulegui_-_Vista_de_Cuenca_de_Pamplona.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Irulegui_-_Vista_de_Cuenca_de_Pamplona.jpg/960px-Irulegui_-_Vista_de_Cuenca_de_Pamplona.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Irulegui_-_Vista_de_Cuenca_de_Pamplona.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Irulegui_-_Vista_de_Cuenca_de_Pamplona.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62900110",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-09-29 18:05:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Irulegui - Vista de Cuenca de Pamplona",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Castle of Irulegi|Self-published work|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Images by User:Jialxv",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.780560",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.512165",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista de la <a href=\"//commons.wikimedia.org/w/index.php?title=Cuenca_de_Pamplona&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cuenca de Pamplona (page does not exist)\">Cuenca de Pamplona</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-11-19 12:02:10",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 58609648,
+      "ns": 6,
+      "title": "File:Labiano (4).jpg",
+      "lat": 42.758055,
+      "lon": -1.547947,
+      "dist": 3934.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58609648": {
+              "pageid": 58609648,
+              "ns": 6,
+              "title": "File:Labiano (4).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Labiano_%284%29.jpg/500px-Labiano_%284%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Labiano_%284%29.jpg/960px-Labiano_%284%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Labiano_%284%29.jpg/960px-Labiano_%284%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Labiano_%284%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Labiano_(4).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58609648",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-05-08 12:47:06",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Labiano (4)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Church facades in Navarre|Files with coordinates missing SDC location of creation|Iglesia de la Purificación (Labiano)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.758055",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.547947",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia parroquial de la Purificación",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-10-26 14:45:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jvinolase\" title=\"User:Jvinolase\">Josep Maria Viñolas Esteva</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

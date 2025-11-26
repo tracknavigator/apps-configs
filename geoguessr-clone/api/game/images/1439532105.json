@@ -1,0 +1,2477 @@
+{
+  "id": 1439532105,
+  "town": {
+    "name": {
+      "default": "Arellano",
+      "es": "Arellano",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.6052502,
+      "lon": -2.047318
+    }
+  },
+  "files": [
+    {
+      "pageid": 81652971,
+      "ns": 6,
+      "title": "File:Iglesia de San Román - Arellano.jpg",
+      "lat": 42.607391,
+      "lon": -2.04567,
+      "dist": 273.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81652971": {
+              "pageid": 81652971,
+              "ns": 6,
+              "title": "File:Iglesia de San Román - Arellano.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Iglesia_de_San_Rom%C3%A1n_-_Arellano.jpg/500px-Iglesia_de_San_Rom%C3%A1n_-_Arellano.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Iglesia_de_San_Rom%C3%A1n_-_Arellano.jpg/960px-Iglesia_de_San_Rom%C3%A1n_-_Arellano.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Iglesia_de_San_Rom%C3%A1n_-_Arellano.jpg/960px-Iglesia_de_San_Rom%C3%A1n_-_Arellano.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Iglesia_de_San_Rom%C3%A1n_-_Arellano.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Rom%C3%A1n_-_Arellano.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81652971",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-27 12:31:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de San Román - Arellano",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Pages with maps|Arellano|Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Pompilos",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.607391",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.045670",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista del cabecero y la torre de la Iglesia de San Román, de Arellano (Navarra), desde el este; con un campo y vegetación en primer plano",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-08-26 18:52:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">José M. Ciordia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81652972,
+      "ns": 6,
+      "title": "File:Torre de la Iglesia de San Emeterio y San Celedonio - Dicastillo.jpg",
+      "lat": 42.595816,
+      "lon": -2.027581,
+      "dist": 1926.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81652972": {
+              "pageid": 81652972,
+              "ns": 6,
+              "title": "File:Torre de la Iglesia de San Emeterio y San Celedonio - Dicastillo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Torre_de_la_Iglesia_de_San_Emeterio_y_San_Celedonio_-_Dicastillo.jpg/500px-Torre_de_la_Iglesia_de_San_Emeterio_y_San_Celedonio_-_Dicastillo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Torre_de_la_Iglesia_de_San_Emeterio_y_San_Celedonio_-_Dicastillo.jpg/960px-Torre_de_la_Iglesia_de_San_Emeterio_y_San_Celedonio_-_Dicastillo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Torre_de_la_Iglesia_de_San_Emeterio_y_San_Celedonio_-_Dicastillo.jpg/960px-Torre_de_la_Iglesia_de_San_Emeterio_y_San_Celedonio_-_Dicastillo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Torre_de_la_Iglesia_de_San_Emeterio_y_San_Celedonio_-_Dicastillo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Torre_de_la_Iglesia_de_San_Emeterio_y_San_Celedonio_-_Dicastillo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81652972",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-27 12:31:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Torre de la Iglesia de San Emeterio y San Celedonio - Dicastillo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Dicastillo|Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Pompilos",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.595816",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.027581",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista de la torre de la Iglesia de San Cemeterio y San Celedonio, entre dos casas del pueblo con una ventana y balcón",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-08-26 18:12:44",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">José M. Ciordia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122449240,
+      "ns": 6,
+      "title": "File:Ermita de Nuestra Señora de Leorin (01).jpg",
+      "lat": 42.6062,
+      "lon": -2.01941,
+      "dist": 2286.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122449240": {
+              "pageid": 122449240,
+              "ns": 6,
+              "title": "File:Ermita de Nuestra Señora de Leorin (01).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ermita_de_Nuestra_Se%C3%B1ora_de_Leorin_%2801%29.jpg/500px-Ermita_de_Nuestra_Se%C3%B1ora_de_Leorin_%2801%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ermita_de_Nuestra_Se%C3%B1ora_de_Leorin_%2801%29.jpg/960px-Ermita_de_Nuestra_Se%C3%B1ora_de_Leorin_%2801%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ermita_de_Nuestra_Se%C3%B1ora_de_Leorin_%2801%29.jpg/960px-Ermita_de_Nuestra_Se%C3%B1ora_de_Leorin_%2801%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ermita_de_Nuestra_Se%C3%B1ora_de_Leorin_%2801%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_de_Nuestra_Se%C3%B1ora_de_Leorin_(01).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122449240",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-08-29 14:30:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita de Nuestra Señora de Leorin (01)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Morentin|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.606200",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.019410",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lado sur, exterior, de ermita, con el ábside a la derecha y el pórtico a la izquierda, con una pequeña espadaña en lo alto",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-08-29 12:57:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36228059,
+      "ns": 6,
+      "title": "File:Montejurra summits.JPG",
+      "lat": 42.629608333333,
+      "lon": -2.0456277777778,
+      "dist": 2712,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "36228059": {
+              "pageid": 36228059,
+              "ns": 6,
+              "title": "File:Montejurra summits.JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Montejurra_summits.JPG/500px-Montejurra_summits.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Montejurra_summits.JPG/960px-Montejurra_summits.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Montejurra_summits.JPG/960px-Montejurra_summits.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Montejurra_summits.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Montejurra_summits.JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36228059",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-10-18 12:19:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Montejurra summits",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Self-published work|Trig points in Navarre|Files with coordinates missing SDC location of creation|Montejurra",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.629608",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.045628",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Montejurra. View from the westernmost to the central summit. The easternmost summit not visible",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-10-10 14:27:07",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dd1495&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dd1495 (page does not exist)\">Dd1495</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 160944197,
+      "ns": 6,
+      "title": "File:Morentineko azulejo ikurra.jpg",
+      "lat": 42.612066330616,
+      "lon": -2.0140733198608,
+      "dist": 2824.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "160944197": {
+              "pageid": 160944197,
+              "ns": 6,
+              "title": "File:Morentineko azulejo ikurra.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Morentineko_azulejo_ikurra.jpg/500px-Morentineko_azulejo_ikurra.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 189,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Morentineko_azulejo_ikurra.jpg/960px-Morentineko_azulejo_ikurra.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Morentineko_azulejo_ikurra.jpg/960px-Morentineko_azulejo_ikurra.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Morentineko_azulejo_ikurra.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Morentineko_azulejo_ikurra.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=160944197",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-03-01 19:34:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Morentineko azulejo ikurra",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Morentin|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2025-03-01|Azulejo place name road signs in Navarre",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.612066",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.014073",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Morentineko azulejo ikurra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "1 March 2025 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Xabier_Ca%C3%B1as\" title=\"User:Xabier Cañas\">Xabier Cañas</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 106127649,
+      "ns": 6,
+      "title": "File:Montejurra - Jurramendi irudiak (2021) (02).jpg",
+      "lat": 42.63137,
+      "lon": -2.043886,
+      "dist": 2917.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "106127649": {
+              "pageid": 106127649,
+              "ns": 6,
+              "title": "File:Montejurra - Jurramendi irudiak (2021) (02).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Montejurra_-_Jurramendi_irudiak_%282021%29_%2802%29.jpg/500px-Montejurra_-_Jurramendi_irudiak_%282021%29_%2802%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Montejurra_-_Jurramendi_irudiak_%282021%29_%2802%29.jpg/960px-Montejurra_-_Jurramendi_irudiak_%282021%29_%2802%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Montejurra_-_Jurramendi_irudiak_%282021%29_%2802%29.jpg/960px-Montejurra_-_Jurramendi_irudiak_%282021%29_%2802%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Montejurra_-_Jurramendi_irudiak_%282021%29_%2802%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Montejurra_-_Jurramendi_irudiak_(2021)_(02).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106127649",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-05-30 21:23:28",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Montejurra - Jurramendi irudiak (2021) (02)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Uploaded with VicuñaUploader|Files with coordinates missing SDC location of creation|Montejurra",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.631370",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.043886",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Jurramendiko irudiak, Estellerria, Nafarroa Garaia.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-05-25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:I%C3%B1aki_LL\" title=\"User:Iñaki LL\">Iñaki LL</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 137782907,
+      "ns": 6,
+      "title": "File:Ramon Masso Tarruella.jpg",
+      "lat": 42.631322222222,
+      "lon": -2.0430416666667,
+      "dist": 2920.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "137782907": {
+              "pageid": 137782907,
+              "ns": 6,
+              "title": "File:Ramon Masso Tarruella.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ramon_Masso_Tarruella.jpg/500px-Ramon_Masso_Tarruella.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ramon_Masso_Tarruella.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ramon_Masso_Tarruella.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ramon_Masso_Tarruella.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ramon_Masso_Tarruella.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137782907",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-09-18 13:47:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ramon Masso Tarruella",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Carlists|PD-1996|Files with coordinates missing SDC location of creation|PD-Spain-photo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.631322",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.043042",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ramon Masso Tarruella speaking at Montejurra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "unclear, probably between 1955 and 1960",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://espaciocarlista.files.wordpress.com/2017/11/img-20171125-wa0020.jpg\">https://espaciocarlista.files.wordpress.com/2017/11/img-20171125-wa0020.jpg</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "photo unsigned",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36216413,
+      "ns": 6,
+      "title": "File:Montejurra San Cipriano.jpg",
+      "lat": 42.631427777778,
+      "lon": -2.0427583333333,
+      "dist": 2934.6,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2014-10-17T19:24:04Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "36216413": {
+              "pageid": 36216413,
+              "ns": 6,
+              "title": "File:Montejurra San Cipriano.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Montejurra_San_Cipriano.jpg/500px-Montejurra_San_Cipriano.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Montejurra_San_Cipriano.jpg/960px-Montejurra_San_Cipriano.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Montejurra_San_Cipriano.jpg/960px-Montejurra_San_Cipriano.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Montejurra_San_Cipriano.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Montejurra_San_Cipriano.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36216413",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-05-06 10:43:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Montejurra San Cipriano",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Acts of Montejurra|Self-published work|Files with coordinates missing SDC location of creation|Montejurra",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.631428",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.042758",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "easternmost summit of Montejurra from the San Cipriano hermitage, site of the annual Carlist gatherings",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-10-15 09:59:07",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dd1495&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dd1495 (page does not exist)\">Dd1495</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 36241994,
+      "ns": 6,
+      "title": "File:Montejurra via crucis stone.JPG",
+      "lat": 42.63475,
+      "lon": -2.0377777777778,
+      "dist": 3371.8,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2014-10-19T07:37:31Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "36241994": {
+              "pageid": 36241994,
+              "ns": 6,
+              "title": "File:Montejurra via crucis stone.JPG",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Montejurra_via_crucis_stone.JPG/500px-Montejurra_via_crucis_stone.JPG",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Montejurra_via_crucis_stone.JPG/960px-Montejurra_via_crucis_stone.JPG",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Montejurra_via_crucis_stone.JPG/960px-Montejurra_via_crucis_stone.JPG"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Montejurra_via_crucis_stone.JPG",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Montejurra_via_crucis_stone.JPG",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36241994",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-03-14 14:07:24",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Montejurra via crucis stone",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Aberin|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.634750",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.037778",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "stone marking the beginning of Via Crucis from Iratxe to Montejurra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-10-15 10:49:21",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dd1495&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dd1495 (page does not exist)\">Dd1495</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81054781,
+      "ns": 6,
+      "title": "File:Iglesia de San Juan Bautista - Aberin (Navarra) 1.jpg",
+      "lat": 42.619767,
+      "lon": -2.006687,
+      "dist": 3696.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81054781": {
+              "pageid": 81054781,
+              "ns": 6,
+              "title": "File:Iglesia de San Juan Bautista - Aberin (Navarra) 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Iglesia_de_San_Juan_Bautista_-_Aberin_%28Navarra%29_1.jpg/500px-Iglesia_de_San_Juan_Bautista_-_Aberin_%28Navarra%29_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Iglesia_de_San_Juan_Bautista_-_Aberin_%28Navarra%29_1.jpg/960px-Iglesia_de_San_Juan_Bautista_-_Aberin_%28Navarra%29_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Iglesia_de_San_Juan_Bautista_-_Aberin_%28Navarra%29_1.jpg/960px-Iglesia_de_San_Juan_Bautista_-_Aberin_%28Navarra%29_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Iglesia_de_San_Juan_Bautista_-_Aberin_%28Navarra%29_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Juan_Bautista_-_Aberin_(Navarra)_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81054781",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-05 13:04:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de San Juan Bautista - Aberin (Navarra) 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Church of San Juan Bautista, Aberin|Self-published work|Files with coordinates missing SDC location of creation|Files uploaded by Pompilos",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.619767",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.006687",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Entrada sur de la iglesia de San Juan Bautista de Aberin",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-30 12:50:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">José M. Ciordia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111007210,
+      "ns": 6,
+      "title": "File:ISS014-E-11910 - View of France.jpg",
+      "lat": 42.6,
+      "lon": -2,
+      "dist": 3916.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111007210": {
+              "pageid": 111007210,
+              "ns": 6,
+              "title": "File:ISS014-E-11910 - View of France.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ISS014-E-11910_-_View_of_France.jpg/500px-ISS014-E-11910_-_View_of_France.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 272,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ISS014-E-11910_-_View_of_France.jpg/960px-ISS014-E-11910_-_View_of_France.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ISS014-E-11910_-_View_of_France.jpg/960px-ISS014-E-11910_-_View_of_France.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/ISS014-E-11910_-_View_of_France.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS014-E-11910_-_View_of_France.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111007210",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-15 08:51:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS014-E-11910 - View of France",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Photos taken with Kodak DCS 760|PD NASA|ISS Expedition 14 Crew Earth Observations (dump)|Photos of France by ISS Expedition 14 Crew Earth Observations|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|Photos of the Pyrenees from ISS|ISS photographs taken on 2007-01-12",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-0.500000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of France taken during ISS Expedition 14.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2007-01-12 08:24:07",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS014&amp;roll=E&amp;frame=11910\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 121594906,
+      "ns": 6,
+      "title": "File:ISS007-E-6918 - View of Spain.jpg",
+      "lat": 42.6,
+      "lon": -2,
+      "dist": 3916.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "121594906": {
+              "pageid": 121594906,
+              "ns": 6,
+              "title": "File:ISS007-E-6918 - View of Spain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ISS007-E-6918_-_View_of_Spain.jpg/500px-ISS007-E-6918_-_View_of_Spain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 272,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ISS007-E-6918_-_View_of_Spain.jpg/960px-ISS007-E-6918_-_View_of_Spain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ISS007-E-6918_-_View_of_Spain.jpg/960px-ISS007-E-6918_-_View_of_Spain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/ISS007-E-6918_-_View_of_Spain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS007-E-6918_-_View_of_Spain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121594906",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-08-10 21:43:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS007-E-6918 - View of Spain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Photos taken with Kodak DCS 760|PD NASA|Photos of Spain from ISS|ISS Expedition 7 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2003-06-10",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Spain taken during ISS Expedition 7.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2003-06-10 13:33:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS007&amp;roll=E&amp;frame=6918\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102838921,
+      "ns": 6,
+      "title": "File:ISS053-E-86610 - View of Earth.jpg",
+      "lat": 42.6,
+      "lon": -2,
+      "dist": 3916.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102838921": {
+              "pageid": 102838921,
+              "ns": 6,
+              "title": "File:ISS053-E-86610 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ISS053-E-86610_-_View_of_Earth.jpg/500px-ISS053-E-86610_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ISS053-E-86610_-_View_of_Earth.jpg/960px-ISS053-E-86610_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ISS053-E-86610_-_View_of_Earth.jpg/960px-ISS053-E-86610_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/ISS053-E-86610_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS053-E-86610_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102838921",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-01 22:02:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS053-E-86610 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Pages with maps|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 53 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-10-07",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 53.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-07 15:18:50",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS053&amp;roll=E&amp;frame=86610\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102839887,
+      "ns": 6,
+      "title": "File:ISS053-E-89098 - View of Earth.jpg",
+      "lat": 42.6,
+      "lon": -2,
+      "dist": 3916.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102839887": {
+              "pageid": 102839887,
+              "ns": 6,
+              "title": "File:ISS053-E-89098 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/ISS053-E-89098_-_View_of_Earth.jpg/500px-ISS053-E-89098_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/ISS053-E-89098_-_View_of_Earth.jpg/960px-ISS053-E-89098_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/ISS053-E-89098_-_View_of_Earth.jpg/960px-ISS053-E-89098_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/ISS053-E-89098_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS053-E-89098_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102839887",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-01 22:15:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS053-E-89098 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Pages with maps|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 53 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-10-07",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 53.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-07 15:18:50",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS053&amp;roll=E&amp;frame=89098\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 121594902,
+      "ns": 6,
+      "title": "File:ISS007-E-6916 - View of Spain.jpg",
+      "lat": 42.6,
+      "lon": -2,
+      "dist": 3916.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "121594902": {
+              "pageid": 121594902,
+              "ns": 6,
+              "title": "File:ISS007-E-6916 - View of Spain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ISS007-E-6916_-_View_of_Spain.jpg/500px-ISS007-E-6916_-_View_of_Spain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 272,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ISS007-E-6916_-_View_of_Spain.jpg/960px-ISS007-E-6916_-_View_of_Spain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ISS007-E-6916_-_View_of_Spain.jpg/960px-ISS007-E-6916_-_View_of_Spain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ISS007-E-6916_-_View_of_Spain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS007-E-6916_-_View_of_Spain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121594902",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-08-10 21:43:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS007-E-6916 - View of Spain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Photos taken with Kodak DCS 760|PD NASA|Photos of Spain from ISS|ISS Expedition 7 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2003-06-10",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Spain taken during ISS Expedition 7.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2003-06-10 13:33:42",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS007&amp;roll=E&amp;frame=6916\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 121594903,
+      "ns": 6,
+      "title": "File:ISS007-E-6917 - View of Spain.jpg",
+      "lat": 42.6,
+      "lon": -2,
+      "dist": 3916.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "121594903": {
+              "pageid": 121594903,
+              "ns": 6,
+              "title": "File:ISS007-E-6917 - View of Spain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ISS007-E-6917_-_View_of_Spain.jpg/500px-ISS007-E-6917_-_View_of_Spain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 272,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ISS007-E-6917_-_View_of_Spain.jpg/960px-ISS007-E-6917_-_View_of_Spain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ISS007-E-6917_-_View_of_Spain.jpg/960px-ISS007-E-6917_-_View_of_Spain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/ISS007-E-6917_-_View_of_Spain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS007-E-6917_-_View_of_Spain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121594903",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-08-10 21:43:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS007-E-6917 - View of Spain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Photos taken with Kodak DCS 760|PD NASA|Photos of Spain from ISS|ISS Expedition 7 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2003-06-10",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Spain taken during ISS Expedition 7.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2003-06-10 13:33:42",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS007&amp;roll=E&amp;frame=6917\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57589150,
+      "ns": 6,
+      "title": "File:Arróniz 01.jpg",
+      "lat": 42.587456,
+      "lon": -2.088867,
+      "dist": 3934.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57589150": {
+              "pageid": 57589150,
+              "ns": 6,
+              "title": "File:Arróniz 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Arr%C3%B3niz_01.jpg/500px-Arr%C3%B3niz_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 250,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Arr%C3%B3niz_01.jpg/960px-Arr%C3%B3niz_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Arr%C3%B3niz_01.jpg/960px-Arr%C3%B3niz_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Arr%C3%B3niz_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arr%C3%B3niz_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57589150",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-03-31 18:18:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arróniz 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Arróniz|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.587456",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.088867",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Arróniz, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-03-26 17:15:12",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57589155,
+      "ns": 6,
+      "title": "File:Arróniz 02.jpg",
+      "lat": 42.59056,
+      "lon": -2.091066,
+      "dist": 3935.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57589155": {
+              "pageid": 57589155,
+              "ns": 6,
+              "title": "File:Arróniz 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arr%C3%B3niz_02.jpg/500px-Arr%C3%B3niz_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arr%C3%B3niz_02.jpg/960px-Arr%C3%B3niz_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arr%C3%B3niz_02.jpg/960px-Arr%C3%B3niz_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Arr%C3%B3niz_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arr%C3%B3niz_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57589155",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-03-31 18:18:09",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arróniz 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Arróniz|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.590560",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.091066",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Arróniz, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-03-26 17:30:34",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57589154,
+      "ns": 6,
+      "title": "File:Arróniz - Mendía 01.jpg",
+      "lat": 42.590571,
+      "lon": -2.091203,
+      "dist": 3945.6,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2017-04-02T08:29:21Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "57589154": {
+              "pageid": 57589154,
+              "ns": 6,
+              "title": "File:Arróniz - Mendía 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arr%C3%B3niz_-_Mend%C3%ADa_01.jpg/500px-Arr%C3%B3niz_-_Mend%C3%ADa_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arr%C3%B3niz_-_Mend%C3%ADa_01.jpg/960px-Arr%C3%B3niz_-_Mend%C3%ADa_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arr%C3%B3niz_-_Mend%C3%ADa_01.jpg/960px-Arr%C3%B3niz_-_Mend%C3%ADa_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Arr%C3%B3niz_-_Mend%C3%ADa_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arr%C3%B3niz_-_Mend%C3%ADa_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57589154",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-02 18:45:21",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arróniz - Mendía 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Arróniz|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Stairways in Spain|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.590571",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.091203",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Stairway and cross below Mendía Basilica in Arróniz, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-03-26 17:32:14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57589153,
+      "ns": 6,
+      "title": "File:Arróniz - Basílica de Mendía 01.jpg",
+      "lat": 42.590298,
+      "lon": -2.091294,
+      "dist": 3965,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57589153": {
+              "pageid": 57589153,
+              "ns": 6,
+              "title": "File:Arróniz - Basílica de Mendía 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arr%C3%B3niz_-_Bas%C3%ADlica_de_Mend%C3%ADa_01.jpg/500px-Arr%C3%B3niz_-_Bas%C3%ADlica_de_Mend%C3%ADa_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arr%C3%B3niz_-_Bas%C3%ADlica_de_Mend%C3%ADa_01.jpg/960px-Arr%C3%B3niz_-_Bas%C3%ADlica_de_Mend%C3%ADa_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arr%C3%B3niz_-_Bas%C3%ADlica_de_Mend%C3%ADa_01.jpg/960px-Arr%C3%B3niz_-_Bas%C3%ADlica_de_Mend%C3%ADa_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Arr%C3%B3niz_-_Bas%C3%ADlica_de_Mend%C3%ADa_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arr%C3%B3niz_-_Bas%C3%ADlica_de_Mend%C3%ADa_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57589153",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-03-31 18:18:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arróniz - Basílica de Mendía 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Arróniz|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.590298",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.091294",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mendía Basilica in Arróniz, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-03-26 17:29:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "id": 1439532104,
+  "town": {
+    "name": {
+      "default": "Ardanaz de Izagaondoa",
+      "es": "Ardanaz de Izagaondoa",
+      "eu": "Ardatz"
+    },
+    "coordinates": {
+      "lat": 42.7359058,
+      "lon": -1.4217498
+    }
+  },
+  "files": [
+    {
+      "pageid": 81845764,
+      "ns": 6,
+      "title": "File:Torre de Ayanz - 05.jpg",
+      "lat": 42.752768,
+      "lon": -1.379946,
+      "dist": 3894.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81845764": {
+              "pageid": 81845764,
+              "ns": 6,
+              "title": "File:Torre de Ayanz - 05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Torre_de_Ayanz_-_05.jpg/500px-Torre_de_Ayanz_-_05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Torre_de_Ayanz_-_05.jpg/960px-Torre_de_Ayanz_-_05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Torre_de_Ayanz_-_05.jpg/960px-Torre_de_Ayanz_-_05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Torre_de_Ayanz_-_05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Torre_de_Ayanz_-_05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81845764",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-03 15:41:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Torre de Ayanz - 05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Navarre|Towers in Navarre|Images from Wiki Loves Monuments 2019|Torre de Ayanz|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Spain photographs taken on 2019-07-05|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.752768",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.379946",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Torre de Ayanz - Vista lateral",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-05 13:24:46",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81845769,
+      "ns": 6,
+      "title": "File:Torre de Ayanz - 07.jpg",
+      "lat": 42.752768,
+      "lon": -1.379946,
+      "dist": 3894.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81845769": {
+              "pageid": 81845769,
+              "ns": 6,
+              "title": "File:Torre de Ayanz - 07.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Torre_de_Ayanz_-_07.jpg/500px-Torre_de_Ayanz_-_07.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Torre_de_Ayanz_-_07.jpg/960px-Torre_de_Ayanz_-_07.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Torre_de_Ayanz_-_07.jpg/960px-Torre_de_Ayanz_-_07.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Torre_de_Ayanz_-_07.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Torre_de_Ayanz_-_07.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81845769",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-03 15:41:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Torre de Ayanz - 07",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Navarre|Towers in Navarre|Images from Wiki Loves Monuments 2019|Torre de Ayanz|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Spain photographs taken on 2019-07-05|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.752768",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.379946",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Torre de Ayanz",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-05 13:25:57",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81845763,
+      "ns": 6,
+      "title": "File:Torre de Ayanz - 04.jpg",
+      "lat": 42.752768,
+      "lon": -1.379946,
+      "dist": 3894.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81845763": {
+              "pageid": 81845763,
+              "ns": 6,
+              "title": "File:Torre de Ayanz - 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Torre_de_Ayanz_-_04.jpg/500px-Torre_de_Ayanz_-_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Torre_de_Ayanz_-_04.jpg/960px-Torre_de_Ayanz_-_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Torre_de_Ayanz_-_04.jpg/960px-Torre_de_Ayanz_-_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Torre_de_Ayanz_-_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Torre_de_Ayanz_-_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81845763",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-03 15:41:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Torre de Ayanz - 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Navarre|Towers in Navarre|Images from Wiki Loves Monuments 2019|Torre de Ayanz|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Spain photographs taken on 2019-07-05|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.752768",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.379946",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Torre de Ayanz - Palacio y torreón",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-05 13:23:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81845762,
+      "ns": 6,
+      "title": "File:Torre de Ayanz - 06.jpg",
+      "lat": 42.752768,
+      "lon": -1.379946,
+      "dist": 3894.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81845762": {
+              "pageid": 81845762,
+              "ns": 6,
+              "title": "File:Torre de Ayanz - 06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Torre_de_Ayanz_-_06.jpg/500px-Torre_de_Ayanz_-_06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Torre_de_Ayanz_-_06.jpg/960px-Torre_de_Ayanz_-_06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Torre_de_Ayanz_-_06.jpg/960px-Torre_de_Ayanz_-_06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Torre_de_Ayanz_-_06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Torre_de_Ayanz_-_06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81845762",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-03 15:41:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Torre de Ayanz - 06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Navarre|Towers in Navarre|Images from Wiki Loves Monuments 2019|Torre de Ayanz|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Spain photographs taken on 2019-07-05|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.752768",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.379946",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Torre de Ayanz",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-05 13:25:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81845759,
+      "ns": 6,
+      "title": "File:Torre de Ayanz - 01.jpg",
+      "lat": 42.752768,
+      "lon": -1.379946,
+      "dist": 3894.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81845759": {
+              "pageid": 81845759,
+              "ns": 6,
+              "title": "File:Torre de Ayanz - 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Torre_de_Ayanz_-_01.jpg/500px-Torre_de_Ayanz_-_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Torre_de_Ayanz_-_01.jpg/960px-Torre_de_Ayanz_-_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Torre_de_Ayanz_-_01.jpg/960px-Torre_de_Ayanz_-_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Torre_de_Ayanz_-_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Torre_de_Ayanz_-_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81845759",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-03 15:41:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Torre de Ayanz - 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Navarre|Towers in Navarre|Images from Wiki Loves Monuments 2019|Torre de Ayanz|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Spain photographs taken on 2019-07-05|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.752768",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.379946",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Torre de Ayanz - Panorámica",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-05 13:18:02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81845758,
+      "ns": 6,
+      "title": "File:Torre de Ayanz - 02.jpg",
+      "lat": 42.752768,
+      "lon": -1.379946,
+      "dist": 3894.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81845758": {
+              "pageid": 81845758,
+              "ns": 6,
+              "title": "File:Torre de Ayanz - 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Torre_de_Ayanz_-_02.jpg/500px-Torre_de_Ayanz_-_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 598,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Torre_de_Ayanz_-_02.jpg/960px-Torre_de_Ayanz_-_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Torre_de_Ayanz_-_02.jpg/960px-Torre_de_Ayanz_-_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Torre_de_Ayanz_-_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Torre_de_Ayanz_-_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81845758",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-03 15:41:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Torre de Ayanz - 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Navarre|Towers in Navarre|Images from Wiki Loves Monuments 2019|Torre de Ayanz|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Photographs by Jialxv|Spain photographs taken on 2019-07-05|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.752768",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.379946",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Torre de Ayanz",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-05 13:20:57",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 81845757,
+      "ns": 6,
+      "title": "File:Torre de Ayanz - 03.jpg",
+      "lat": 42.752768,
+      "lon": -1.379946,
+      "dist": 3894.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81845757": {
+              "pageid": 81845757,
+              "ns": 6,
+              "title": "File:Torre de Ayanz - 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Torre_de_Ayanz_-_03.jpg/500px-Torre_de_Ayanz_-_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Torre_de_Ayanz_-_03.jpg/960px-Torre_de_Ayanz_-_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Torre_de_Ayanz_-_03.jpg/960px-Torre_de_Ayanz_-_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Torre_de_Ayanz_-_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Torre_de_Ayanz_-_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81845757",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-03 15:41:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Torre de Ayanz - 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Navarre|Towers in Navarre|Images from Wiki Loves Monuments 2019|Torre de Ayanz|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Spain photographs taken on 2019-07-05|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images by User:Jialxv|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts|All media supported by Wikimedia España in 2019",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.752768",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.379946",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Torre de Ayanz - Iglesia de la Inmaculada",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-07-05 13:22:53",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jialxv\" title=\"User:Jialxv\">Jialxv</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

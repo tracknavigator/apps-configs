@@ -1,0 +1,512 @@
+{
+  "id": 1467716125,
+  "town": {
+    "name": {
+      "default": "Eritzegoiti / Erice",
+      "es": "Erice",
+      "eu": "Eritzegoiti"
+    },
+    "coordinates": {
+      "lat": 42.9390758,
+      "lon": -1.7092207
+    }
+  },
+  "files": [
+    {
+      "pageid": 175205114,
+      "ns": 6,
+      "title": "File:Atetzeko Udala 1.jpg",
+      "lat": 42.939745,
+      "lon": -1.709047,
+      "dist": 75.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175205114": {
+              "pageid": 175205114,
+              "ns": 6,
+              "title": "File:Atetzeko Udala 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Atetzeko_Udala_1.jpg/500px-Atetzeko_Udala_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Atetzeko_Udala_1.jpg/960px-Atetzeko_Udala_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Atetzeko_Udala_1.jpg/960px-Atetzeko_Udala_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Atetzeko_Udala_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atetzeko_Udala_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175205114",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-18 06:37:34",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Atetzeko Udala 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Spain|Self-published work|Uploaded via Campaign:wlm-es|Eritze|Images from Wiki Loves Monuments 2025|Images from Wiki Loves Monuments 2025 in Spain|All media supported by Wikimedia España in 2025|Town hall of Atez-Atetz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.939745",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.709047",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Casa consistorial del Valle de Atez ubicada en el concejo de Erice/Eritzegoiti",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-09-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lector_d_Wiki\" title=\"User:Lector d Wiki\">Lector d Wiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175205115,
+      "ns": 6,
+      "title": "File:Atetzeko Udala 2.jpg",
+      "lat": 42.939745,
+      "lon": -1.709047,
+      "dist": 75.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175205115": {
+              "pageid": 175205115,
+              "ns": 6,
+              "title": "File:Atetzeko Udala 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Atetzeko_Udala_2.jpg/500px-Atetzeko_Udala_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Atetzeko_Udala_2.jpg/960px-Atetzeko_Udala_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Atetzeko_Udala_2.jpg/960px-Atetzeko_Udala_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Atetzeko_Udala_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atetzeko_Udala_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175205115",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-18 06:37:34",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Atetzeko Udala 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Spain|Self-published work|Uploaded via Campaign:wlm-es|Eritze|Images from Wiki Loves Monuments 2025|Images from Wiki Loves Monuments 2025 in Spain|All media supported by Wikimedia España in 2025|Town hall of Atez-Atetz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.939745",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.709047",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Casa consistorial del Valle de Atez ubicada en el concejo de Erice/Eritzegoitie",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-09-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lector_d_Wiki\" title=\"User:Lector d Wiki\">Lector d Wiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175205122,
+      "ns": 6,
+      "title": "File:Atetzeko Udala 3.jpg",
+      "lat": 42.939745,
+      "lon": -1.709047,
+      "dist": 75.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175205122": {
+              "pageid": 175205122,
+              "ns": 6,
+              "title": "File:Atetzeko Udala 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Atetzeko_Udala_3.jpg/500px-Atetzeko_Udala_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Atetzeko_Udala_3.jpg/960px-Atetzeko_Udala_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Atetzeko_Udala_3.jpg/960px-Atetzeko_Udala_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Atetzeko_Udala_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atetzeko_Udala_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175205122",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-18 06:37:44",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Atetzeko Udala 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Spain|Self-published work|Uploaded via Campaign:wlm-es|Eritze|Images from Wiki Loves Monuments 2025|Images from Wiki Loves Monuments 2025 in Spain|All media supported by Wikimedia España in 2025|Town hall of Atez-Atetz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.939745",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.709047",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Casa consistorial del Valle de Atez ubicada en el concejo de Erice/Eritzegoitie",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-09-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lector_d_Wiki\" title=\"User:Lector d Wiki\">Lector d Wiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 175205117,
+      "ns": 6,
+      "title": "File:Atetzeko Udala 4.jpg",
+      "lat": 42.939745,
+      "lon": -1.709047,
+      "dist": 75.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "175205117": {
+              "pageid": 175205117,
+              "ns": 6,
+              "title": "File:Atetzeko Udala 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Atetzeko_Udala_4.jpg/500px-Atetzeko_Udala_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Atetzeko_Udala_4.jpg/960px-Atetzeko_Udala_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Atetzeko_Udala_4.jpg/960px-Atetzeko_Udala_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Atetzeko_Udala_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atetzeko_Udala_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=175205117",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-09-18 06:37:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Atetzeko Udala 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Cultural heritage monuments in Spain|Self-published work|Uploaded via Campaign:wlm-es|Eritze|Images from Wiki Loves Monuments 2025|Images from Wiki Loves Monuments 2025 in Spain|All media supported by Wikimedia España in 2025|Town hall of Atez-Atetz",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.939745",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.709047",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Casa consistorial del Valle de Atez ubicada en el concejo de Erice/Eritzegoitie",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2025-09-17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lector_d_Wiki\" title=\"User:Lector d Wiki\">Lector d Wiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

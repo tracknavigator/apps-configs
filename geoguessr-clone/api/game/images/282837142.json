@@ -1,0 +1,140 @@
+{
+  "id": 282837142,
+  "town": {
+    "name": {
+      "default": "Peralta / Azkoien",
+      "es": "Peralta",
+      "eu": "Azkoien"
+    },
+    "coordinates": {
+      "lat": 42.3385459,
+      "lon": -1.7970061
+    }
+  },
+  "files": [
+    {
+      "pageid": 84983032,
+      "ns": 6,
+      "title": "File:Instalaciones FALCON ELECTRONICA.jpg",
+      "lat": 42.33354,
+      "lon": -1.821035,
+      "dist": 2052,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "84983032": {
+              "pageid": 84983032,
+              "ns": 6,
+              "title": "File:Instalaciones FALCON ELECTRONICA.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Instalaciones_FALCON_ELECTRONICA.jpg/500px-Instalaciones_FALCON_ELECTRONICA.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Instalaciones_FALCON_ELECTRONICA.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Instalaciones_FALCON_ELECTRONICA.jpg/600px-Instalaciones_FALCON_ELECTRONICA.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Instalaciones_FALCON_ELECTRONICA.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Instalaciones_FALCON_ELECTRONICA.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84983032",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-12-17 11:17:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Instalaciones FALCON ELECTRONICA",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Factories in Navarre|Files with coordinates missing SDC location of creation|Buildings in Peralta",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.333540",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.821035",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Instalaciones de FALCON ELECTRONICA en Peralta, Navarra, España.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-12-04 11:03:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Abanosfalconelectronica&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Abanosfalconelectronica (page does not exist)\">Abanosfalconelectronica</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

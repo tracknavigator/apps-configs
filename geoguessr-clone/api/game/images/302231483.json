@@ -1,0 +1,2236 @@
+{
+  "id": 302231483,
+  "town": {
+    "name": {
+      "default": "Sodupe",
+      "es": null,
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 43.198001,
+      "lon": -3.0488021
+    }
+  },
+  "files": [
+    {
+      "pageid": 156355563,
+      "ns": 6,
+      "title": "File:San Bizente Eliza.jpg",
+      "lat": 43.201615121715,
+      "lon": -3.0484141389695,
+      "dist": 403.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "156355563": {
+              "pageid": 156355563,
+              "ns": 6,
+              "title": "File:San Bizente Eliza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/San_Bizente_Eliza.jpg/500px-San_Bizente_Eliza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/San_Bizente_Eliza.jpg/960px-San_Bizente_Eliza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/San_Bizente_Eliza.jpg/960px-San_Bizente_Eliza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/San_Bizente_Eliza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Bizente_Eliza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156355563",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-12-06 15:07:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Bizente Eliza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Church of San Vicente, Sodupe|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-12-06",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.201615",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.048414",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Bizente Eliza (eraikitako euskal ondare nabaria Gueñesen)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "6 December 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Utolotu\" title=\"User:Utolotu\">Utolotu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91787909,
+      "ns": 6,
+      "title": "File:Sodupe - Romarate jauregia 002.jpg",
+      "lat": 43.201954,
+      "lon": -3.049041,
+      "dist": 440,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91787909": {
+              "pageid": 91787909,
+              "ns": 6,
+              "title": "File:Sodupe - Romarate jauregia 002.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sodupe_-_Romarate_jauregia_002.jpg/500px-Sodupe_-_Romarate_jauregia_002.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sodupe_-_Romarate_jauregia_002.jpg/960px-Sodupe_-_Romarate_jauregia_002.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sodupe_-_Romarate_jauregia_002.jpg/960px-Sodupe_-_Romarate_jauregia_002.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sodupe_-_Romarate_jauregia_002.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sodupe_-_Romarate_jauregia_002.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787909",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:24:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sodupe - Romarate jauregia 002",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Buildings in Sodupe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.201954",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.049041",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Romarate jauregia ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 18:31:09",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91787910,
+      "ns": 6,
+      "title": "File:Sodupe - Romarate jauregia 001.jpg",
+      "lat": 43.201954,
+      "lon": -3.049041,
+      "dist": 440,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91787910": {
+              "pageid": 91787910,
+              "ns": 6,
+              "title": "File:Sodupe - Romarate jauregia 001.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sodupe_-_Romarate_jauregia_001.jpg/500px-Sodupe_-_Romarate_jauregia_001.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sodupe_-_Romarate_jauregia_001.jpg/960px-Sodupe_-_Romarate_jauregia_001.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sodupe_-_Romarate_jauregia_001.jpg/960px-Sodupe_-_Romarate_jauregia_001.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Sodupe_-_Romarate_jauregia_001.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sodupe_-_Romarate_jauregia_001.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787910",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:24:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sodupe - Romarate jauregia 001",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Buildings in Sodupe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.201954",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.049041",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Romarate jauregia ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 13:02:48",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91792730,
+      "ns": 6,
+      "title": "File:060 Sodupe - Romarateko dorretxea.jpg",
+      "lat": 43.20203,
+      "lon": -3.048977,
+      "dist": 448.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91792730": {
+              "pageid": 91792730,
+              "ns": 6,
+              "title": "File:060 Sodupe - Romarateko dorretxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/060_Sodupe_-_Romarateko_dorretxea.jpg/500px-060_Sodupe_-_Romarateko_dorretxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/060_Sodupe_-_Romarateko_dorretxea.jpg/960px-060_Sodupe_-_Romarateko_dorretxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/060_Sodupe_-_Romarateko_dorretxea.jpg/960px-060_Sodupe_-_Romarateko_dorretxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/060_Sodupe_-_Romarateko_dorretxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:060_Sodupe_-_Romarateko_dorretxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91792730",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 20:43:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "060 Sodupe - Romarateko dorretxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Torre de La Puente, Sodupe|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.202030",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.048977",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Romarateko dorretxea ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 18:37:23",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91792725,
+      "ns": 6,
+      "title": "File:058 Sodupe - Romarateko dorretxea.jpg",
+      "lat": 43.20203,
+      "lon": -3.048977,
+      "dist": 448.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91792725": {
+              "pageid": 91792725,
+              "ns": 6,
+              "title": "File:058 Sodupe - Romarateko dorretxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/058_Sodupe_-_Romarateko_dorretxea.jpg/500px-058_Sodupe_-_Romarateko_dorretxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/058_Sodupe_-_Romarateko_dorretxea.jpg/960px-058_Sodupe_-_Romarateko_dorretxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/058_Sodupe_-_Romarateko_dorretxea.jpg/960px-058_Sodupe_-_Romarateko_dorretxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/058_Sodupe_-_Romarateko_dorretxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:058_Sodupe_-_Romarateko_dorretxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91792725",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 20:43:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "058 Sodupe - Romarateko dorretxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Torre de La Puente, Sodupe|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.202030",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.048977",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Romarateko dorretxea ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 18:34:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91792771,
+      "ns": 6,
+      "title": "File:061 Sodupe - Gallarraga 2 etxea.jpg",
+      "lat": 43.202084,
+      "lon": -3.049357,
+      "dist": 456.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91792771": {
+              "pageid": 91792771,
+              "ns": 6,
+              "title": "File:061 Sodupe - Gallarraga 2 etxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/061_Sodupe_-_Gallarraga_2_etxea.jpg/500px-061_Sodupe_-_Gallarraga_2_etxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/061_Sodupe_-_Gallarraga_2_etxea.jpg/960px-061_Sodupe_-_Gallarraga_2_etxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/061_Sodupe_-_Gallarraga_2_etxea.jpg/960px-061_Sodupe_-_Gallarraga_2_etxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/061_Sodupe_-_Gallarraga_2_etxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:061_Sodupe_-_Gallarraga_2_etxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91792771",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 20:47:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "061 Sodupe - Gallarraga 2 etxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Buildings in Sodupe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.202084",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.049357",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Gallarraga 2 etxea ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 18:37:51",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91792772,
+      "ns": 6,
+      "title": "File:062 Sodupe - Gallarraga 2 etxea.jpg",
+      "lat": 43.202084,
+      "lon": -3.049357,
+      "dist": 456.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91792772": {
+              "pageid": 91792772,
+              "ns": 6,
+              "title": "File:062 Sodupe - Gallarraga 2 etxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/062_Sodupe_-_Gallarraga_2_etxea.jpg/500px-062_Sodupe_-_Gallarraga_2_etxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 402,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/062_Sodupe_-_Gallarraga_2_etxea.jpg/960px-062_Sodupe_-_Gallarraga_2_etxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/062_Sodupe_-_Gallarraga_2_etxea.jpg/960px-062_Sodupe_-_Gallarraga_2_etxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/062_Sodupe_-_Gallarraga_2_etxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:062_Sodupe_-_Gallarraga_2_etxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91792772",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 20:47:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "062 Sodupe - Gallarraga 2 etxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Buildings in Sodupe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.202084",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.049357",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Gallarraga 2 etxea ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-07-01 22:37:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91787772,
+      "ns": 6,
+      "title": "File:Sodupe - La Conchita Kooperatiba 001.jpg",
+      "lat": 43.203905,
+      "lon": -3.048485,
+      "dist": 657,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91787772": {
+              "pageid": 91787772,
+              "ns": 6,
+              "title": "File:Sodupe - La Conchita Kooperatiba 001.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sodupe_-_La_Conchita_Kooperatiba_001.jpg/500px-Sodupe_-_La_Conchita_Kooperatiba_001.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sodupe_-_La_Conchita_Kooperatiba_001.jpg/960px-Sodupe_-_La_Conchita_Kooperatiba_001.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sodupe_-_La_Conchita_Kooperatiba_001.jpg/960px-Sodupe_-_La_Conchita_Kooperatiba_001.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sodupe_-_La_Conchita_Kooperatiba_001.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sodupe_-_La_Conchita_Kooperatiba_001.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787772",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:19:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sodupe - La Conchita Kooperatiba 001",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Buildings in Sodupe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.203905",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.048485",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "La Conchita Kooperatiba ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 17:09:59",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91787771,
+      "ns": 6,
+      "title": "File:Sodupe - La Conchita Kooperatiba 002.jpg",
+      "lat": 43.203905,
+      "lon": -3.048485,
+      "dist": 657,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91787771": {
+              "pageid": 91787771,
+              "ns": 6,
+              "title": "File:Sodupe - La Conchita Kooperatiba 002.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sodupe_-_La_Conchita_Kooperatiba_002.jpg/500px-Sodupe_-_La_Conchita_Kooperatiba_002.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sodupe_-_La_Conchita_Kooperatiba_002.jpg/960px-Sodupe_-_La_Conchita_Kooperatiba_002.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sodupe_-_La_Conchita_Kooperatiba_002.jpg/960px-Sodupe_-_La_Conchita_Kooperatiba_002.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sodupe_-_La_Conchita_Kooperatiba_002.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sodupe_-_La_Conchita_Kooperatiba_002.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787771",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:19:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sodupe - La Conchita Kooperatiba 002",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Buildings in Sodupe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.203905",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.048485",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "La Conchita Kooperatiba ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 18:56:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91787561,
+      "ns": 6,
+      "title": "File:006 Sodupe - PALACIO DE ARENAZA.jpg",
+      "lat": 43.206526,
+      "lon": -3.045224,
+      "dist": 991.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91787561": {
+              "pageid": 91787561,
+              "ns": 6,
+              "title": "File:006 Sodupe - PALACIO DE ARENAZA.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/006_Sodupe_-_PALACIO_DE_ARENAZA.jpg/500px-006_Sodupe_-_PALACIO_DE_ARENAZA.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/006_Sodupe_-_PALACIO_DE_ARENAZA.jpg/960px-006_Sodupe_-_PALACIO_DE_ARENAZA.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/006_Sodupe_-_PALACIO_DE_ARENAZA.jpg/960px-006_Sodupe_-_PALACIO_DE_ARENAZA.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/006_Sodupe_-_PALACIO_DE_ARENAZA.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:006_Sodupe_-_PALACIO_DE_ARENAZA.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787561",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:15:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "006 Sodupe - PALACIO DE ARENAZA",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Palaces in Biscay|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Buildings in Sodupe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.206526",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.045224",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arenaza jauregia ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 10:38:32",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91787563,
+      "ns": 6,
+      "title": "File:007 Sodupe - PALACIO DE ARENAZA.jpg",
+      "lat": 43.206526,
+      "lon": -3.045224,
+      "dist": 991.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91787563": {
+              "pageid": 91787563,
+              "ns": 6,
+              "title": "File:007 Sodupe - PALACIO DE ARENAZA.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/007_Sodupe_-_PALACIO_DE_ARENAZA.jpg/500px-007_Sodupe_-_PALACIO_DE_ARENAZA.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/007_Sodupe_-_PALACIO_DE_ARENAZA.jpg/960px-007_Sodupe_-_PALACIO_DE_ARENAZA.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/007_Sodupe_-_PALACIO_DE_ARENAZA.jpg/960px-007_Sodupe_-_PALACIO_DE_ARENAZA.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/007_Sodupe_-_PALACIO_DE_ARENAZA.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:007_Sodupe_-_PALACIO_DE_ARENAZA.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91787563",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:15:06",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "007 Sodupe - PALACIO DE ARENAZA",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi|Buildings in Sodupe",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.206526",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.045224",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Arenaza jauregia ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-10-26 10:38:48",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 68329201,
+      "ns": 6,
+      "title": "File:Quadra dorretxea.jpg",
+      "lat": 43.221861,
+      "lon": -3.020667,
+      "dist": 3498.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "68329201": {
+              "pageid": 68329201,
+              "ns": 6,
+              "title": "File:Quadra dorretxea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quadra_dorretxea.jpg/500px-Quadra_dorretxea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 290,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quadra_dorretxea.jpg/960px-Quadra_dorretxea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quadra_dorretxea.jpg/960px-Quadra_dorretxea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Quadra_dorretxea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Quadra_dorretxea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68329201",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-04-14 16:55:15",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Quadra dorretxea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Panasonic Lumix DC-TZ90 / TZ91 / ZS70|La Cuadra dorretxea|Self-published work|Tower houses in Biscay|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.221861",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.020667",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Dorretxe osoa eta bere inguruko eraikinak hego-ekialdetik begiraturik (La Quadra auzoa, Gueñes, Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-04-05 15:57:10",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Errotaburu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Errotaburu (page does not exist)\">Errotaburu</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91788056,
+      "ns": 6,
+      "title": "File:011 Gueñes - Casa Baratas La Unión.jpg",
+      "lat": 43.211803,
+      "lon": -3.093775,
+      "dist": 3955,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91788056": {
+              "pageid": 91788056,
+              "ns": 6,
+              "title": "File:011 Gueñes - Casa Baratas La Unión.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/500px-011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 205,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:011_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91788056",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:29:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "011 Gueñes - Casa Baratas La Unión",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Güeñes|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.211803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.093775",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "La Unión ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2020-06-29 23:19:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91788060,
+      "ns": 6,
+      "title": "File:010 Gueñes - Casa Baratas La Unión.jpg",
+      "lat": 43.211803,
+      "lon": -3.093775,
+      "dist": 3955,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91788060": {
+              "pageid": 91788060,
+              "ns": 6,
+              "title": "File:010 Gueñes - Casa Baratas La Unión.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/500px-010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:010_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91788060",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:29:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "010 Gueñes - Casa Baratas La Unión",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Güeñes|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.211803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.093775",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "La Unión ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-03-10 13:06:22",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91788058,
+      "ns": 6,
+      "title": "File:012 Gueñes - Casa Baratas La Unión.jpg",
+      "lat": 43.211803,
+      "lon": -3.093775,
+      "dist": 3955,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91788058": {
+              "pageid": 91788058,
+              "ns": 6,
+              "title": "File:012 Gueñes - Casa Baratas La Unión.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/500px-012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg/960px-012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:012_Gue%C3%B1es_-_Casa_Baratas_La_Uni%C3%B3n.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91788058",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 17:29:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "012 Gueñes - Casa Baratas La Unión",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Güeñes|Self-published work|Files with coordinates missing SDC location of creation|WikiBizi Ondarea|Uploaded via Campaign:wikibizi",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.211803",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.093775",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "La Unión ()",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-03-10 13:23:27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ondare_Lagunak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ondare Lagunak (page does not exist)\">Ondare Lagunak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102888235,
+      "ns": 6,
+      "title": "File:ISS053-E-132494 - View of Earth.jpg",
+      "lat": 43.2,
+      "lon": -3,
+      "dist": 3962.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102888235": {
+              "pageid": 102888235,
+              "ns": 6,
+              "title": "File:ISS053-E-132494 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ISS053-E-132494_-_View_of_Earth.jpg/500px-ISS053-E-132494_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ISS053-E-132494_-_View_of_Earth.jpg/960px-ISS053-E-132494_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ISS053-E-132494_-_View_of_Earth.jpg/960px-ISS053-E-132494_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/ISS053-E-132494_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS053-E-132494_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102888235",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-02 10:45:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS053-E-132494 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Pages with maps|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 53 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-10-22",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 53.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-22 15:08:14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS053&amp;roll=E&amp;frame=132494\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102889167,
+      "ns": 6,
+      "title": "File:ISS053-E-133260 - View of Earth.jpg",
+      "lat": 43.2,
+      "lon": -3,
+      "dist": 3962.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102889167": {
+              "pageid": 102889167,
+              "ns": 6,
+              "title": "File:ISS053-E-133260 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ISS053-E-133260_-_View_of_Earth.jpg/500px-ISS053-E-133260_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ISS053-E-133260_-_View_of_Earth.jpg/960px-ISS053-E-133260_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ISS053-E-133260_-_View_of_Earth.jpg/960px-ISS053-E-133260_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/ISS053-E-133260_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS053-E-133260_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102889167",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-02 10:57:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS053-E-133260 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Pages with maps|Files with coordinates missing SDC location of creation|Pages with camera coordinates from SDC|ISS Expedition 53 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2017-10-22",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 53.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-10-22 15:08:14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS053&amp;roll=E&amp;frame=133260\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102217327,
+      "ns": 6,
+      "title": "File:ISS047-E-82179 - View of Earth.jpg",
+      "lat": 43.2,
+      "lon": -3,
+      "dist": 3962.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102217327": {
+              "pageid": 102217327,
+              "ns": 6,
+              "title": "File:ISS047-E-82179 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ISS047-E-82179_-_View_of_Earth.jpg/500px-ISS047-E-82179_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ISS047-E-82179_-_View_of_Earth.jpg/960px-ISS047-E-82179_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ISS047-E-82179_-_View_of_Earth.jpg/960px-ISS047-E-82179_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/ISS047-E-82179_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS047-E-82179_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102217327",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-24 05:49:28",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS047-E-82179 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 47 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2016-04-25",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.200000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.000000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 47.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-04-25 10:31:15",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS047&amp;roll=E&amp;frame=82179\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

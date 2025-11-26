@@ -1,0 +1,2840 @@
+{
+  "id": 520176648,
+  "town": {
+    "name": {
+      "default": "Bakaiku",
+      "es": "Bacáicoa",
+      "eu": "Bakaiku"
+    },
+    "coordinates": {
+      "lat": 42.8906052,
+      "lon": -2.1021121
+    }
+  },
+  "files": [
+    {
+      "pageid": 124002270,
+      "ns": 6,
+      "title": "File:ISS067-E-30356 - View of Earth.jpg",
+      "lat": 42.9,
+      "lon": -2.1,
+      "dist": 1058.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124002270": {
+              "pageid": 124002270,
+              "ns": 6,
+              "title": "File:ISS067-E-30356 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ISS067-E-30356_-_View_of_Earth.jpg/500px-ISS067-E-30356_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ISS067-E-30356_-_View_of_Earth.jpg/960px-ISS067-E-30356_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ISS067-E-30356_-_View_of_Earth.jpg/960px-ISS067-E-30356_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/ISS067-E-30356_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS067-E-30356_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124002270",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-10 11:16:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS067-E-30356 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Pages with camera coordinates from SDC|ISS Expedition 67 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2022-04-26",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.900000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 67.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-04-26 10:14:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS067&amp;roll=E&amp;frame=30356\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111694967,
+      "ns": 6,
+      "title": "File:ISS030-E-47937 - View of Earth.jpg",
+      "lat": 42.9,
+      "lon": -2.1,
+      "dist": 1058.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111694967": {
+              "pageid": 111694967,
+              "ns": 6,
+              "title": "File:ISS030-E-47937 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ISS030-E-47937_-_View_of_Earth.jpg/500px-ISS030-E-47937_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ISS030-E-47937_-_View_of_Earth.jpg/960px-ISS030-E-47937_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ISS030-E-47937_-_View_of_Earth.jpg/960px-ISS030-E-47937_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/ISS030-E-47937_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS030-E-47937_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111694967",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-25 11:10:16",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS030-E-47937 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D3s|PD NASA|ISS Expedition 30 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2012-01-22",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.900000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 30.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-01-22 04:30:44",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS030&amp;roll=E&amp;frame=47937\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124002274,
+      "ns": 6,
+      "title": "File:ISS067-E-30357 - View of Earth.jpg",
+      "lat": 42.9,
+      "lon": -2.1,
+      "dist": 1058.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124002274": {
+              "pageid": 124002274,
+              "ns": 6,
+              "title": "File:ISS067-E-30357 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ISS067-E-30357_-_View_of_Earth.jpg/500px-ISS067-E-30357_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ISS067-E-30357_-_View_of_Earth.jpg/960px-ISS067-E-30357_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ISS067-E-30357_-_View_of_Earth.jpg/960px-ISS067-E-30357_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/ISS067-E-30357_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS067-E-30357_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124002274",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-10 11:16:23",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS067-E-30357 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Pages with camera coordinates from SDC|ISS Expedition 67 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2022-04-26",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.900000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 67.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-04-26 10:14:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS067&amp;roll=E&amp;frame=30357\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124002266,
+      "ns": 6,
+      "title": "File:ISS067-E-30354 - View of Earth.jpg",
+      "lat": 42.9,
+      "lon": -2.1,
+      "dist": 1058.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124002266": {
+              "pageid": 124002266,
+              "ns": 6,
+              "title": "File:ISS067-E-30354 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ISS067-E-30354_-_View_of_Earth.jpg/500px-ISS067-E-30354_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ISS067-E-30354_-_View_of_Earth.jpg/960px-ISS067-E-30354_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ISS067-E-30354_-_View_of_Earth.jpg/960px-ISS067-E-30354_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/ISS067-E-30354_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS067-E-30354_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124002266",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-10 11:16:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS067-E-30354 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|ISS Expedition 67 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2022-04-26",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.900000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 67.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-04-26 10:14:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS067&amp;roll=E&amp;frame=30354\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124002260,
+      "ns": 6,
+      "title": "File:ISS067-E-30352 - View of Earth.jpg",
+      "lat": 42.9,
+      "lon": -2.1,
+      "dist": 1058.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124002260": {
+              "pageid": 124002260,
+              "ns": 6,
+              "title": "File:ISS067-E-30352 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ISS067-E-30352_-_View_of_Earth.jpg/500px-ISS067-E-30352_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ISS067-E-30352_-_View_of_Earth.jpg/960px-ISS067-E-30352_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ISS067-E-30352_-_View_of_Earth.jpg/960px-ISS067-E-30352_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/ISS067-E-30352_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS067-E-30352_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124002260",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-10 11:15:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS067-E-30352 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Pages with camera coordinates from SDC|ISS Expedition 67 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2022-04-26",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.900000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 67.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-04-26 10:14:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS067&amp;roll=E&amp;frame=30352\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124002268,
+      "ns": 6,
+      "title": "File:ISS067-E-30355 - View of Earth.jpg",
+      "lat": 42.9,
+      "lon": -2.1,
+      "dist": 1058.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124002268": {
+              "pageid": 124002268,
+              "ns": 6,
+              "title": "File:ISS067-E-30355 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ISS067-E-30355_-_View_of_Earth.jpg/500px-ISS067-E-30355_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ISS067-E-30355_-_View_of_Earth.jpg/960px-ISS067-E-30355_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ISS067-E-30355_-_View_of_Earth.jpg/960px-ISS067-E-30355_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/ISS067-E-30355_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS067-E-30355_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124002268",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-10 11:16:13",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS067-E-30355 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Pages with camera coordinates from SDC|ISS Expedition 67 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2022-04-26",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.900000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 67.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-04-26 10:14:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS067&amp;roll=E&amp;frame=30355\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124002264,
+      "ns": 6,
+      "title": "File:ISS067-E-30353 - View of Earth.jpg",
+      "lat": 42.9,
+      "lon": -2.1,
+      "dist": 1058.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124002264": {
+              "pageid": 124002264,
+              "ns": 6,
+              "title": "File:ISS067-E-30353 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ISS067-E-30353_-_View_of_Earth.jpg/500px-ISS067-E-30353_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ISS067-E-30353_-_View_of_Earth.jpg/960px-ISS067-E-30353_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ISS067-E-30353_-_View_of_Earth.jpg/960px-ISS067-E-30353_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/ISS067-E-30353_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS067-E-30353_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124002264",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-10 11:16:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS067-E-30353 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Pages with camera coordinates from SDC|ISS Expedition 67 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2022-04-26",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.900000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 67.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-04-26 10:14:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS067&amp;roll=E&amp;frame=30353\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63887590,
+      "ns": 6,
+      "title": "File:Iturmendiko Maiatza jaia 05.jpg",
+      "lat": 42.88952,
+      "lon": -2.12024,
+      "dist": 1481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63887590": {
+              "pageid": 63887590,
+              "ns": 6,
+              "title": "File:Iturmendiko Maiatza jaia 05.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Iturmendiko_Maiatza_jaia_05.jpg/500px-Iturmendiko_Maiatza_jaia_05.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Iturmendiko_Maiatza_jaia_05.jpg/960px-Iturmendiko_Maiatza_jaia_05.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Iturmendiko_Maiatza_jaia_05.jpg/960px-Iturmendiko_Maiatza_jaia_05.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Iturmendiko_Maiatza_jaia_05.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturmendiko_Maiatza_jaia_05.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63887590",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-11-05 22:09:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturmendiko Maiatza jaia 05",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Festivals|May|Self-published work|Files with coordinates missing SDC location of creation|Maypole setting up in Spain|Streets in Iturmendi|Maypoles in the Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.889520",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.120240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://eu.wikipedia.org/wiki/Iturmendi\" class=\"extiw\" title=\"eu:Iturmendi\">eu:Iturmendi</a> herriko plazan \"maiatza\" pago-enborra jasotzen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2004-05-02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://guaixe.eus/iturmendi/1462172756232-iturmendiko-maiatza-jasotzeko-lanak\">[1]</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63887586,
+      "ns": 6,
+      "title": "File:Iturmendiko Maiatza jaia 02.jpg",
+      "lat": 42.88952,
+      "lon": -2.12024,
+      "dist": 1481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63887586": {
+              "pageid": 63887586,
+              "ns": 6,
+              "title": "File:Iturmendiko Maiatza jaia 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Iturmendiko_Maiatza_jaia_02.jpg/500px-Iturmendiko_Maiatza_jaia_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Iturmendiko_Maiatza_jaia_02.jpg/960px-Iturmendiko_Maiatza_jaia_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Iturmendiko_Maiatza_jaia_02.jpg/960px-Iturmendiko_Maiatza_jaia_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Iturmendiko_Maiatza_jaia_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturmendiko_Maiatza_jaia_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63887586",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-11-05 22:08:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturmendiko Maiatza jaia 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Festivals|May|Self-published work|Maypole setting up|Files with coordinates missing SDC location of creation|Streets in Iturmendi|Maypoles in the Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.889520",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.120240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://eu.wikipedia.org/wiki/Iturmendi\" class=\"extiw\" title=\"eu:Iturmendi\">eu:Iturmendi</a> herriko plazan \"maiatza\" pago-enborra jasotzen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2004-05-02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63887591,
+      "ns": 6,
+      "title": "File:Iturmendiko Maiatza jaia 06.jpg",
+      "lat": 42.88952,
+      "lon": -2.12024,
+      "dist": 1481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63887591": {
+              "pageid": 63887591,
+              "ns": 6,
+              "title": "File:Iturmendiko Maiatza jaia 06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Iturmendiko_Maiatza_jaia_06.jpg/500px-Iturmendiko_Maiatza_jaia_06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Iturmendiko_Maiatza_jaia_06.jpg/960px-Iturmendiko_Maiatza_jaia_06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Iturmendiko_Maiatza_jaia_06.jpg/960px-Iturmendiko_Maiatza_jaia_06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Iturmendiko_Maiatza_jaia_06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturmendiko_Maiatza_jaia_06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63887591",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-11-05 22:09:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturmendiko Maiatza jaia 06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Festivals|May|Self-published work|Files with coordinates missing SDC location of creation|Maypole setting up in Spain|Streets in Iturmendi|Maypoles in the Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.889520",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.120240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Iturmendi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Iturmendi (page does not exist)\">Iturmendi</a> herriko plazan \"maiatza\" pago-enborra jasotzen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2004-05-02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63887588,
+      "ns": 6,
+      "title": "File:Iturmendiko Maiatza jaia 04.jpg",
+      "lat": 42.88952,
+      "lon": -2.12024,
+      "dist": 1481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63887588": {
+              "pageid": 63887588,
+              "ns": 6,
+              "title": "File:Iturmendiko Maiatza jaia 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Iturmendiko_Maiatza_jaia_04.jpg/500px-Iturmendiko_Maiatza_jaia_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Iturmendiko_Maiatza_jaia_04.jpg/960px-Iturmendiko_Maiatza_jaia_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Iturmendiko_Maiatza_jaia_04.jpg/960px-Iturmendiko_Maiatza_jaia_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Iturmendiko_Maiatza_jaia_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturmendiko_Maiatza_jaia_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63887588",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-11-05 22:09:02",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturmendiko Maiatza jaia 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Festivals|May|Self-published work|Files with coordinates missing SDC location of creation|Maypole setting up in Spain|Streets in Iturmendi|Maypoles in the Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.889520",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.120240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://eu.wikipedia.org/wiki/Iturmendi\" class=\"extiw\" title=\"eu:Iturmendi\">eu:Iturmendi</a> herriko plazan \"maiatza\" pago-enborra jasotzen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2004-05-02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63887584,
+      "ns": 6,
+      "title": "File:Iturmendiko Maiatza jaia 01.jpg",
+      "lat": 42.88952,
+      "lon": -2.12024,
+      "dist": 1481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63887584": {
+              "pageid": 63887584,
+              "ns": 6,
+              "title": "File:Iturmendiko Maiatza jaia 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Iturmendiko_Maiatza_jaia_01.jpg/500px-Iturmendiko_Maiatza_jaia_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Iturmendiko_Maiatza_jaia_01.jpg/960px-Iturmendiko_Maiatza_jaia_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Iturmendiko_Maiatza_jaia_01.jpg/960px-Iturmendiko_Maiatza_jaia_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Iturmendiko_Maiatza_jaia_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturmendiko_Maiatza_jaia_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63887584",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-11-05 22:08:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturmendiko Maiatza jaia 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Festivals|May|Self-published work|Maypole setting up|Files with coordinates missing SDC location of creation|Streets in Iturmendi|Maypoles in the Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.889520",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.120240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://eu.wikipedia.org/wiki/Iturmendi\" class=\"extiw\" title=\"eu:Iturmendi\">eu:Iturmendi</a> herriko plazan \"maiatza\" pago-enborra jasotzen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2004-05-02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63887585,
+      "ns": 6,
+      "title": "File:Iturmendiko Maiatza jaia 03.jpg",
+      "lat": 42.88952,
+      "lon": -2.12024,
+      "dist": 1481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63887585": {
+              "pageid": 63887585,
+              "ns": 6,
+              "title": "File:Iturmendiko Maiatza jaia 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Iturmendiko_Maiatza_jaia_03.jpg/500px-Iturmendiko_Maiatza_jaia_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Iturmendiko_Maiatza_jaia_03.jpg/960px-Iturmendiko_Maiatza_jaia_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Iturmendiko_Maiatza_jaia_03.jpg/960px-Iturmendiko_Maiatza_jaia_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Iturmendiko_Maiatza_jaia_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturmendiko_Maiatza_jaia_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63887585",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-11-05 22:08:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturmendiko Maiatza jaia 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Festivals|May|Self-published work|Files with coordinates missing SDC location of creation|Maypole setting up in Spain|Streets in Iturmendi|Maypoles in the Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.889520",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.120240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://eu.wikipedia.org/wiki/Iturmendi\" class=\"extiw\" title=\"eu:Iturmendi\">eu:Iturmendi</a> herriko plazan \"maiatza\" pago-enborra jasotzen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2004-05-02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63887592,
+      "ns": 6,
+      "title": "File:Iturmendiko Maiatza jaia 07.jpg",
+      "lat": 42.88952,
+      "lon": -2.12024,
+      "dist": 1481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63887592": {
+              "pageid": 63887592,
+              "ns": 6,
+              "title": "File:Iturmendiko Maiatza jaia 07.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Iturmendiko_Maiatza_jaia_07.jpg/500px-Iturmendiko_Maiatza_jaia_07.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Iturmendiko_Maiatza_jaia_07.jpg/960px-Iturmendiko_Maiatza_jaia_07.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Iturmendiko_Maiatza_jaia_07.jpg/960px-Iturmendiko_Maiatza_jaia_07.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Iturmendiko_Maiatza_jaia_07.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iturmendiko_Maiatza_jaia_07.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63887592",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-11-05 22:09:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iturmendiko Maiatza jaia 07",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Festivals|May|Self-published work|Files with coordinates missing SDC location of creation|Streets in Iturmendi|Maypoles in the Basque Country",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.889520",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.120240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"https://eu.wikipedia.org/wiki/Iturmendi\" class=\"extiw\" title=\"eu:Iturmendi\">eu:Iturmendi</a> herriko plazan \"maiatza\" pago-enborra jasotzen.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2004-05-02",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63719000,
+      "ns": 6,
+      "title": "File:Arakil ibaia Iturmendin.jpg",
+      "lat": 42.89569,
+      "lon": -2.12199,
+      "dist": 1715.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63719000": {
+              "pageid": 63719000,
+              "ns": 6,
+              "title": "File:Arakil ibaia Iturmendin.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Arakil_ibaia_Iturmendin.jpg/500px-Arakil_ibaia_Iturmendin.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Arakil_ibaia_Iturmendin.jpg/960px-Arakil_ibaia_Iturmendin.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Arakil_ibaia_Iturmendin.jpg/960px-Arakil_ibaia_Iturmendin.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Arakil_ibaia_Iturmendin.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arakil_ibaia_Iturmendin.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63719000",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-10-29 16:55:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arakil ibaia Iturmendin",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Iturmendi|Rivers of the Basque Country|Arakil River|Self-published work|Files with coordinates missing SDC location of creation|Images from Ibaien Paisaia contest|Uploaded via Campaign:ibaien paisaia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.895690",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.121990",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Arakil_(ibaia)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Arakil (ibaia) (page does not exist)\">Arakil</a> ibaia Iturmendiko zubitik",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2005-08-16",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 80976774,
+      "ns": 6,
+      "title": "File:Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 03.jpg",
+      "lat": 42.883056,
+      "lon": -2.133056,
+      "dist": 2657.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "80976774": {
+              "pageid": 80976774,
+              "ns": 6,
+              "title": "File:Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_03.jpg/500px-Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_03.jpg/600px-Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80976774",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-02 23:22:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Carnival 2019 in Spain|Culture of Urdiain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.883056",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.133056",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Urdiaingo ihoteak (ihauteriak)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p>Guaixe aldizkaria  cc-BY-SA\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://guaixe.eus/urdiain/1551867172525-urdiaingo-ihoteak-momoxarro-handiak-2019\">https://guaixe.eus/urdiain/1551867172525-urdiaingo-ihoteak-momoxarro-handiak-2019</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Guaixe aldizkaria",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 80976775,
+      "ns": 6,
+      "title": "File:Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 02.jpg",
+      "lat": 42.883056,
+      "lon": -2.133056,
+      "dist": 2657.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "80976775": {
+              "pageid": 80976775,
+              "ns": 6,
+              "title": "File:Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_02.jpg/500px-Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_02.jpg/600px-Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80976775",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-02 23:22:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Carnival 2019 in Spain|Culture of Urdiain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.883056",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.133056",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Urdiaingo ihoteak (ihauteriak)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p>Guaixe aldizkaria  cc-BY-SA\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://guaixe.eus/urdiain/1551867172525-urdiaingo-ihoteak-momoxarro-handiak-2019\">https://guaixe.eus/urdiain/1551867172525-urdiaingo-ihoteak-momoxarro-handiak-2019</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Guaixe aldizkaria",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 80976776,
+      "ns": 6,
+      "title": "File:Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 01.jpg",
+      "lat": 42.883056,
+      "lon": -2.133056,
+      "dist": 2657.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "80976776": {
+              "pageid": 80976776,
+              "ns": 6,
+              "title": "File:Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_01.jpg/500px-Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_01.jpg/600px-Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ihoteak_20190305_Urdiain_asteartea_momoxarr_Guaixe_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80976776",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-02 23:22:34",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ihoteak 20190305 Urdiain asteartea momoxarr Guaixe 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Files with coordinates missing SDC location of creation|Carnival 2019 in Spain|Culture of Urdiain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.883056",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.133056",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Urdiaingo ihoteak (ihauteriak)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-03-05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p>Guaixe aldizkaria  cc-BY-SA\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://guaixe.eus/urdiain/1551867172525-urdiaingo-ihoteak-momoxarro-handiak-2019\">https://guaixe.eus/urdiain/1551867172525-urdiaingo-ihoteak-momoxarro-handiak-2019</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Guaixe aldizkaria",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 39982173,
+      "ns": 6,
+      "title": "File:Ihurbain mendia eta Unanu herria Urbasatik ikusita.jpg",
+      "lat": 42.87190697,
+      "lon": -2.07230868,
+      "dist": 3196.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "39982173": {
+              "pageid": 39982173,
+              "ns": 6,
+              "title": "File:Ihurbain mendia eta Unanu herria Urbasatik ikusita.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ihurbain_mendia_eta_Unanu_herria_Urbasatik_ikusita.jpg/500px-Ihurbain_mendia_eta_Unanu_herria_Urbasatik_ikusita.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ihurbain_mendia_eta_Unanu_herria_Urbasatik_ikusita.jpg/960px-Ihurbain_mendia_eta_Unanu_herria_Urbasatik_ikusita.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ihurbain_mendia_eta_Unanu_herria_Urbasatik_ikusita.jpg/960px-Ihurbain_mendia_eta_Unanu_herria_Urbasatik_ikusita.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ihurbain_mendia_eta_Unanu_herria_Urbasatik_ikusita.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ihurbain_mendia_eta_Unanu_herria_Urbasatik_ikusita.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39982173",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2015-05-04 23:28:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ihurbain mendia eta Unanu herria Urbasatik ikusita",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Images from Wiki Loves Earth 2015 in Spain|Images from Wiki Loves Earth 2015|Uploaded via Campaign:wle-es|Images from Wiki Loves Earth 2015 in Spain (5 May)|Images from Wiki Loves Earth 2015 in Spain by Yoseph Walker|Images of a site of community importance with code ES2200021 from Wiki Loves Earth 2015 in Spain|Spain photographs taken on 2015-04-23|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2015|Images of a site of community importance with code ES2200021 from Wiki Loves Earth in Spain|Special Areas of Conservation in Spain with known IDs|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Featured pictures on Wikipedia, Basque|Ihurbain|Uploaded via Campaign:wle-es in 2015|Evaluation of images from Wiki Loves Earth 2015 in Spain and Portugal - Round 1|Images of a site of community importance in Navarre from Wiki Loves Earth 2015 in Spain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.871907",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.072309",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sierra de Urbasa Navarra",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2015-04-23 12:35:39",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Yoseph_Walker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Yoseph Walker (page does not exist)\">Yoseph Walker</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0 es",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0 es",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0-es",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 52616292,
+      "ns": 6,
+      "title": "File:Etxarri - Beriain 02.jpg",
+      "lat": 42.901712,
+      "lon": -2.064252,
+      "dist": 3322.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "52616292": {
+              "pageid": 52616292,
+              "ns": 6,
+              "title": "File:Etxarri - Beriain 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Etxarri_-_Beriain_02.jpg/500px-Etxarri_-_Beriain_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Etxarri_-_Beriain_02.jpg/960px-Etxarri_-_Beriain_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Etxarri_-_Beriain_02.jpg/960px-Etxarri_-_Beriain_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Etxarri_-_Beriain_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Etxarri_-_Beriain_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52616292",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-10-29 19:20:49",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Etxarri - Beriain 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Beriain (mountain)|Self-published work|Images by Basotxerri|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.901712",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.064252",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mountain Beriain, viewed from Etxarri-Aranatz. Garden of the restaurant \"Borda\" Navarra, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-10-29 18:46:40",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 52616296,
+      "ns": 6,
+      "title": "File:Etxarri - Beriain 01.jpg",
+      "lat": 42.901418,
+      "lon": -2.063976,
+      "dist": 3331.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "52616296": {
+              "pageid": 52616296,
+              "ns": 6,
+              "title": "File:Etxarri - Beriain 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Etxarri_-_Beriain_01.jpg/500px-Etxarri_-_Beriain_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 258,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Etxarri_-_Beriain_01.jpg/960px-Etxarri_-_Beriain_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Etxarri_-_Beriain_01.jpg/960px-Etxarri_-_Beriain_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Etxarri_-_Beriain_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Etxarri_-_Beriain_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52616296",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-10-29 19:20:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Etxarri - Beriain 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Beriain (mountain)|Self-published work|Landscapes of Navarre|Autumn in Navarre|Images by Basotxerri|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.901418",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.063976",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mountain Beriain, viewed from Etxarri-Aranatz. Navarra, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-10-29 18:06:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 78775837,
+      "ns": 6,
+      "title": "File:Pistinetako bidea.jpg",
+      "lat": 42.9109525,
+      "lon": -2.0689373888889,
+      "dist": 3524.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "78775837": {
+              "pageid": 78775837,
+              "ns": 6,
+              "title": "File:Pistinetako bidea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pistinetako_bidea.jpg/500px-Pistinetako_bidea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pistinetako_bidea.jpg/960px-Pistinetako_bidea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pistinetako_bidea.jpg/960px-Pistinetako_bidea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pistinetako_bidea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pistinetako_bidea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=78775837",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-05-07 15:39:24",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Pistinetako bidea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Etxarri-Aranatz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.910953",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.068937",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lehenengo argazki honetan, egurrezko langa bat heltzen duten posteetako bat ikusi daiteke. Poste hau zilindro bat dela deritzogu, goian eta behean itxita daude zirkunferentzia bi dituelako, eta hauen artean zilindroa osatzeko beharrezkoa den atala.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-04-30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Zilindroak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Zilindroak (page does not exist)\">Zilindroak</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151703688,
+      "ns": 6,
+      "title": "File:Seta en tronco.jpg",
+      "lat": 42.916399,
+      "lon": -2.074202,
+      "dist": 3659.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151703688": {
+              "pageid": 151703688,
+              "ns": 6,
+              "title": "File:Seta en tronco.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Seta_en_tronco.jpg/500px-Seta_en_tronco.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 187,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Seta_en_tronco.jpg/960px-Seta_en_tronco.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Seta_en_tronco.jpg/960px-Seta_en_tronco.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Seta_en_tronco.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Seta_en_tronco.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151703688",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-22 11:51:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Seta en tronco",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Fungi|CC-Zero|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.916399",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.074202",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sin valor culinario",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-08-13 13:00:42",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Makoki20&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Makoki20 (page does not exist)\">Makoki20</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

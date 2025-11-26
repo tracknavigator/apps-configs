@@ -1,0 +1,2734 @@
+{
+  "id": 667349563,
+  "town": {
+    "name": {
+      "default": "Aulesti",
+      "es": null,
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 43.296423,
+      "lon": -2.5628139
+    }
+  },
+  "files": [
+    {
+      "pageid": 81119609,
+      "ns": 6,
+      "title": "File:Lekeitio-Aulesti Bidegorria mapa.png",
+      "lat": 43.296423,
+      "lon": -2.562814,
+      "dist": 0,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "81119609": {
+              "pageid": 81119609,
+              "ns": 6,
+              "title": "File:Lekeitio-Aulesti Bidegorria mapa.png",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lekeitio-Aulesti_Bidegorria_mapa.png/500px-Lekeitio-Aulesti_Bidegorria_mapa.png",
+                  "thumbwidth": 400,
+                  "thumbheight": 455,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lekeitio-Aulesti_Bidegorria_mapa.png/800px-Lekeitio-Aulesti_Bidegorria_mapa.png",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lekeitio-Aulesti_Bidegorria_mapa.png/600px-Lekeitio-Aulesti_Bidegorria_mapa.png"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lekeitio-Aulesti_Bidegorria_mapa.png",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lekeitio-Aulesti_Bidegorria_mapa.png",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81119609",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-08-08 08:29:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lekeitio-Aulesti Bidegorria mapa",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Biscay|Screenshots|Maps of Lekeitio|Bike paths|Rail trails in the Basque Autonomous Community|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.296423",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.562814",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lekeitio-Aulesti bidegorriaren mapa",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-08-08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<p>Bizkaiko Foru Aldundia CC-BY-SA\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"http://apli.bizkaia.net/apps/danok/g2rc/index.html#\">http://apli.bizkaia.net/apps/danok/g2rc/index.html#</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Bizkaiko Foru Aldundia",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 135008463,
+      "ns": 6,
+      "title": "File:Aulestiko udal liburutegia.jpg",
+      "lat": 43.2971554,
+      "lon": -2.5626552,
+      "dist": 82.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "135008463": {
+              "pageid": 135008463,
+              "ns": 6,
+              "title": "File:Aulestiko udal liburutegia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aulestiko_udal_liburutegia.jpg/500px-Aulestiko_udal_liburutegia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aulestiko_udal_liburutegia.jpg/960px-Aulestiko_udal_liburutegia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aulestiko_udal_liburutegia.jpg/960px-Aulestiko_udal_liburutegia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Aulestiko_udal_liburutegia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aulestiko_udal_liburutegia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135008463",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-07-26 11:08:25",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aulestiko udal liburutegia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Pages with maps|Self-published work|Libraries in Biscay|Municipal libraries in Spain|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2023-07-26",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.297155",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.562655",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Aulestiko udal liburutegia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "26 July 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:EuskarAbentura_Espedizioa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:EuskarAbentura Espedizioa (page does not exist)\">EuskarAbentura Espedizioa</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999768,
+      "ns": 6,
+      "title": "File:Hilerria, Aulesti (Bizkaia).jpg",
+      "lat": 43.298739265294,
+      "lon": -2.5606441497803,
+      "dist": 311.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999768": {
+              "pageid": 151999768,
+              "ns": 6,
+              "title": "File:Hilerria, Aulesti (Bizkaia).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hilerria%2C_Aulesti_%28Bizkaia%29.jpg/500px-Hilerria%2C_Aulesti_%28Bizkaia%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hilerria%2C_Aulesti_%28Bizkaia%29.jpg/960px-Hilerria%2C_Aulesti_%28Bizkaia%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hilerria%2C_Aulesti_%28Bizkaia%29.jpg/960px-Hilerria%2C_Aulesti_%28Bizkaia%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hilerria%2C_Aulesti_%28Bizkaia%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hilerria,_Aulesti_(Bizkaia).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999768",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:25:06",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Hilerria, Aulesti (Bizkaia)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.298739",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.560644",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Hilerria, Aulesti (Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999787,
+      "ns": 6,
+      "title": "File:Hilerria, Aulesti (Bizkaia) 2.jpg",
+      "lat": 43.298735438735,
+      "lon": -2.5606159829698,
+      "dist": 312.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999787": {
+              "pageid": 151999787,
+              "ns": 6,
+              "title": "File:Hilerria, Aulesti (Bizkaia) 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hilerria%2C_Aulesti_%28Bizkaia%29_2.jpg/500px-Hilerria%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hilerria%2C_Aulesti_%28Bizkaia%29_2.jpg/960px-Hilerria%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hilerria%2C_Aulesti_%28Bizkaia%29_2.jpg/960px-Hilerria%2C_Aulesti_%28Bizkaia%29_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Hilerria%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hilerria,_Aulesti_(Bizkaia)_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999787",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:25:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Hilerria, Aulesti (Bizkaia) 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.298735",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.560616",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Hilerria, Aulesti (Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999663,
+      "ns": 6,
+      "title": "File:Zubia Lea ibaiaren gainean, Aulesti (Bizkaia).jpg",
+      "lat": 43.293358575416,
+      "lon": -2.5645298115752,
+      "dist": 368,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999663": {
+              "pageid": 151999663,
+              "ns": 6,
+              "title": "File:Zubia Lea ibaiaren gainean, Aulesti (Bizkaia).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zubia_Lea_ibaiaren_gainean%2C_Aulesti_%28Bizkaia%29.jpg/500px-Zubia_Lea_ibaiaren_gainean%2C_Aulesti_%28Bizkaia%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zubia_Lea_ibaiaren_gainean%2C_Aulesti_%28Bizkaia%29.jpg/960px-Zubia_Lea_ibaiaren_gainean%2C_Aulesti_%28Bizkaia%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zubia_Lea_ibaiaren_gainean%2C_Aulesti_%28Bizkaia%29.jpg/960px-Zubia_Lea_ibaiaren_gainean%2C_Aulesti_%28Bizkaia%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Zubia_Lea_ibaiaren_gainean%2C_Aulesti_%28Bizkaia%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zubia_Lea_ibaiaren_gainean,_Aulesti_(Bizkaia).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999663",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:22:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zubia Lea ibaiaren gainean, Aulesti (Bizkaia)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.293359",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.564530",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Zubia Lea ibaiaren gainean, Aulesti (Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999418,
+      "ns": 6,
+      "title": "File:San Lorentzo ermita, Zubero auzoa, Aulesti (Bizkaia).jpg",
+      "lat": 43.288389762497,
+      "lon": -2.5558376312256,
+      "dist": 1056.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999418": {
+              "pageid": 151999418,
+              "ns": 6,
+              "title": "File:San Lorentzo ermita, Zubero auzoa, Aulesti (Bizkaia).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29.jpg/500px-San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 709,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29.jpg/960px-San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29.jpg/960px-San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Lorentzo_ermita,_Zubero_auzoa,_Aulesti_(Bizkaia).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999418",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:14:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Lorentzo ermita, Zubero auzoa, Aulesti (Bizkaia)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.288390",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.555838",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Lorentzo ermita, Zubero auzoa, Aulesti (Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999444,
+      "ns": 6,
+      "title": "File:San Lorentzo ermita, Zubero auzoa, Aulesti (Bizkaia) 2.jpg",
+      "lat": 43.288380038729,
+      "lon": -2.5558103255731,
+      "dist": 1058.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999444": {
+              "pageid": 151999444,
+              "ns": 6,
+              "title": "File:San Lorentzo ermita, Zubero auzoa, Aulesti (Bizkaia) 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg/500px-San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg/960px-San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg/960px-San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/San_Lorentzo_ermita%2C_Zubero_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Lorentzo_ermita,_Zubero_auzoa,_Aulesti_(Bizkaia)_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999444",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:15:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Lorentzo ermita, Zubero auzoa, Aulesti (Bizkaia) 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.288380",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.555810",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Lorentzo ermita, Zubero auzoa, Aulesti (Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999325,
+      "ns": 6,
+      "title": "File:San Martin ermita, Malats auzoa, Aulesti (Bizkaia).jpg",
+      "lat": 43.283370556615,
+      "lon": -2.545223236084,
+      "dist": 2033.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999325": {
+              "pageid": 151999325,
+              "ns": 6,
+              "title": "File:San Martin ermita, Malats auzoa, Aulesti (Bizkaia).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29.jpg/500px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 709,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29.jpg/960px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29.jpg/960px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Martin_ermita,_Malats_auzoa,_Aulesti_(Bizkaia).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999325",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:10:22",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Martin ermita, Malats auzoa, Aulesti (Bizkaia)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.283371",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.545223",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martin ermita, Malats auzoa, Aulesti (Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999334,
+      "ns": 6,
+      "title": "File:San Martin ermita, Malats auzoa, Aulesti (Bizkaia) 2.jpg",
+      "lat": 43.283370556615,
+      "lon": -2.545223236084,
+      "dist": 2033.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999334": {
+              "pageid": 151999334,
+              "ns": 6,
+              "title": "File:San Martin ermita, Malats auzoa, Aulesti (Bizkaia) 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg/500px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 709,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg/960px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg/960px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Martin_ermita,_Malats_auzoa,_Aulesti_(Bizkaia)_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999334",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:10:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Martin ermita, Malats auzoa, Aulesti (Bizkaia) 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.283371",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.545223",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martin ermita, Malats auzoa, Aulesti (Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999341,
+      "ns": 6,
+      "title": "File:San Martin ermita, Malats auzoa, Aulesti (Bizkaia) 3.jpg",
+      "lat": 43.283367854458,
+      "lon": -2.5452200838475,
+      "dist": 2033.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999341": {
+              "pageid": 151999341,
+              "ns": 6,
+              "title": "File:San Martin ermita, Malats auzoa, Aulesti (Bizkaia) 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_3.jpg/500px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_3.jpg/960px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_3.jpg/960px-San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/San_Martin_ermita%2C_Malats_auzoa%2C_Aulesti_%28Bizkaia%29_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Martin_ermita,_Malats_auzoa,_Aulesti_(Bizkaia)_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999341",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:11:26",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Martin ermita, Malats auzoa, Aulesti (Bizkaia) 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.283368",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.545220",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "San Martin ermita, Malats auzoa, Aulesti (Bizkaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151998959,
+      "ns": 6,
+      "title": "File:Bedartzaundi mendia, Aulesti, Bizkaia.jpg",
+      "lat": 43.286988267384,
+      "lon": -2.5352324803527,
+      "dist": 2466.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151998959": {
+              "pageid": 151998959,
+              "ns": 6,
+              "title": "File:Bedartzaundi mendia, Aulesti, Bizkaia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bedartzaundi_mendia%2C_Aulesti%2C_Bizkaia.jpg/500px-Bedartzaundi_mendia%2C_Aulesti%2C_Bizkaia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bedartzaundi_mendia%2C_Aulesti%2C_Bizkaia.jpg/960px-Bedartzaundi_mendia%2C_Aulesti%2C_Bizkaia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bedartzaundi_mendia%2C_Aulesti%2C_Bizkaia.jpg/960px-Bedartzaundi_mendia%2C_Aulesti%2C_Bizkaia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bedartzaundi_mendia%2C_Aulesti%2C_Bizkaia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bedartzaundi_mendia,_Aulesti,_Bizkaia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151998959",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 15:59:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Bedartzaundi mendia, Aulesti, Bizkaia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.286988",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.535232",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Bedartzaundi mendia, Aulesti, Bizkaia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999281,
+      "ns": 6,
+      "title": "File:Atxagarai aterpetxea, Aulesti, Bizkaia.jpg",
+      "lat": 43.281475230086,
+      "lon": -2.5321197509766,
+      "dist": 2989.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999281": {
+              "pageid": 151999281,
+              "ns": 6,
+              "title": "File:Atxagarai aterpetxea, Aulesti, Bizkaia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Atxagarai_aterpetxea%2C_Aulesti%2C_Bizkaia.jpg/500px-Atxagarai_aterpetxea%2C_Aulesti%2C_Bizkaia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Atxagarai_aterpetxea%2C_Aulesti%2C_Bizkaia.jpg/960px-Atxagarai_aterpetxea%2C_Aulesti%2C_Bizkaia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Atxagarai_aterpetxea%2C_Aulesti%2C_Bizkaia.jpg/960px-Atxagarai_aterpetxea%2C_Aulesti%2C_Bizkaia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Atxagarai_aterpetxea%2C_Aulesti%2C_Bizkaia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atxagarai_aterpetxea,_Aulesti,_Bizkaia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999281",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:07:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Atxagarai aterpetxea, Aulesti, Bizkaia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.281475",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.532120",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Atxagarai aterpetxea, Aulesti, Bizkaia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151999250,
+      "ns": 6,
+      "title": "File:Santa Eufemiko bolatokia, Aulesti, Bizkaia.jpg",
+      "lat": 43.281472961005,
+      "lon": -2.532108192979,
+      "dist": 2990,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151999250": {
+              "pageid": 151999250,
+              "ns": 6,
+              "title": "File:Santa Eufemiko bolatokia, Aulesti, Bizkaia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Santa_Eufemiko_bolatokia%2C_Aulesti%2C_Bizkaia.jpg/500px-Santa_Eufemiko_bolatokia%2C_Aulesti%2C_Bizkaia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 226,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Santa_Eufemiko_bolatokia%2C_Aulesti%2C_Bizkaia.jpg/960px-Santa_Eufemiko_bolatokia%2C_Aulesti%2C_Bizkaia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Santa_Eufemiko_bolatokia%2C_Aulesti%2C_Bizkaia.jpg/960px-Santa_Eufemiko_bolatokia%2C_Aulesti%2C_Bizkaia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Santa_Eufemiko_bolatokia%2C_Aulesti%2C_Bizkaia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Santa_Eufemiko_bolatokia,_Aulesti,_Bizkaia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151999250",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-30 16:06:44",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Santa Eufemiko bolatokia, Aulesti, Bizkaia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aulesti|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-08-30",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.281473",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.532108",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Santa Eufemiko bolatokia, Aulesti, Bizkaia",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 August 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ibai1984&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ibai1984 (page does not exist)\">Ibai1984</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 104127469,
+      "ns": 6,
+      "title": "File:ISS059-E-99090 - View of Earth.jpg",
+      "lat": 43.3,
+      "lon": -2.6,
+      "dist": 3035.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "104127469": {
+              "pageid": 104127469,
+              "ns": 6,
+              "title": "File:ISS059-E-99090 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ISS059-E-99090_-_View_of_Earth.jpg/500px-ISS059-E-99090_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 600,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ISS059-E-99090_-_View_of_Earth.jpg/960px-ISS059-E-99090_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ISS059-E-99090_-_View_of_Earth.jpg/960px-ISS059-E-99090_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/ISS059-E-99090_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS059-E-99090_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104127469",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-04-22 13:25:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS059-E-99090 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Files with coordinates missing SDC location of creation|Photographs taken on 2019-06-10|ISS Expedition 59 Crew Earth Observations (dump)|Files from NASA with known IDs",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.300000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 59.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-06-10 17:57:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS059&amp;roll=E&amp;frame=99090\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/NASA\" title=\"NASA\">Earth Science and Remote Sensing Unit, NASA Johnson Space Center</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108422196,
+      "ns": 6,
+      "title": "File:ISS041-E-66307 - View of Earth.jpg",
+      "lat": 43.3,
+      "lon": -2.6,
+      "dist": 3035.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108422196": {
+              "pageid": 108422196,
+              "ns": 6,
+              "title": "File:ISS041-E-66307 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ISS041-E-66307_-_View_of_Earth.jpg/500px-ISS041-E-66307_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ISS041-E-66307_-_View_of_Earth.jpg/960px-ISS041-E-66307_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ISS041-E-66307_-_View_of_Earth.jpg/960px-ISS041-E-66307_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/ISS041-E-66307_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS041-E-66307_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108422196",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-12 20:31:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS041-E-66307 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D3s|PD NASA|Earth at night seen from space|ISS Expedition 41 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2014-10-04",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.300000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 41.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-10-04 20:51:57",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS041&amp;roll=E&amp;frame=66307\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 111634018,
+      "ns": 6,
+      "title": "File:ISS030-E-9686 - View of Earth.jpg",
+      "lat": 43.3,
+      "lon": -2.6,
+      "dist": 3035.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "111634018": {
+              "pageid": 111634018,
+              "ns": 6,
+              "title": "File:ISS030-E-9686 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ISS030-E-9686_-_View_of_Earth.jpg/500px-ISS030-E-9686_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ISS030-E-9686_-_View_of_Earth.jpg/960px-ISS030-E-9686_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ISS030-E-9686_-_View_of_Earth.jpg/960px-ISS030-E-9686_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ISS030-E-9686_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS030-E-9686_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=111634018",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-10-24 15:59:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS030-E-9686 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D3s|PD NASA|ISS Expedition 30 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2011-12-04",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.300000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 30.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2011-12-04 00:16:39",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS030&amp;roll=E&amp;frame=9686\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 123534120,
+      "ns": 6,
+      "title": "File:ISS014-E-7586 - View of Spain.jpg",
+      "lat": 43.3,
+      "lon": -2.6,
+      "dist": 3035.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "123534120": {
+              "pageid": 123534120,
+              "ns": 6,
+              "title": "File:ISS014-E-7586 - View of Spain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ISS014-E-7586_-_View_of_Spain.jpg/500px-ISS014-E-7586_-_View_of_Spain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 272,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ISS014-E-7586_-_View_of_Spain.jpg/960px-ISS014-E-7586_-_View_of_Spain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ISS014-E-7586_-_View_of_Spain.jpg/960px-ISS014-E-7586_-_View_of_Spain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/ISS014-E-7586_-_View_of_Spain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS014-E-7586_-_View_of_Spain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123534120",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-29 12:02:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS014-E-7586 - View of Spain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Photos taken with Kodak DCS 760|PD NASA|Photos of Spain from ISS|ISS Expedition 14 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2006-11-08",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.300000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Spain taken during ISS Expedition 14.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-11-08 11:07:46",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS014&amp;roll=E&amp;frame=7586\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102217337,
+      "ns": 6,
+      "title": "File:ISS047-E-82180 - View of Earth.jpg",
+      "lat": 43.3,
+      "lon": -2.6,
+      "dist": 3035.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102217337": {
+              "pageid": 102217337,
+              "ns": 6,
+              "title": "File:ISS047-E-82180 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ISS047-E-82180_-_View_of_Earth.jpg/500px-ISS047-E-82180_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ISS047-E-82180_-_View_of_Earth.jpg/960px-ISS047-E-82180_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ISS047-E-82180_-_View_of_Earth.jpg/960px-ISS047-E-82180_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/ISS047-E-82180_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS047-E-82180_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102217337",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-24 05:49:32",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS047-E-82180 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 47 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2016-04-25",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.300000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.600000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 47.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-04-25 10:31:20",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS047&amp;roll=E&amp;frame=82180\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 34669755,
+      "ns": 6,
+      "title": "File:Nabarniz, iglesia de Santa María de Gorritiz 1.jpg",
+      "lat": 43.318475,
+      "lon": -2.5860694444444,
+      "dist": 3090.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "34669755": {
+              "pageid": 34669755,
+              "ns": 6,
+              "title": "File:Nabarniz, iglesia de Santa María de Gorritiz 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nabarniz%2C_iglesia_de_Santa_Mar%C3%ADa_de_Gorritiz_1.jpg/500px-Nabarniz%2C_iglesia_de_Santa_Mar%C3%ADa_de_Gorritiz_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nabarniz%2C_iglesia_de_Santa_Mar%C3%ADa_de_Gorritiz_1.jpg/960px-Nabarniz%2C_iglesia_de_Santa_Mar%C3%ADa_de_Gorritiz_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nabarniz%2C_iglesia_de_Santa_Mar%C3%ADa_de_Gorritiz_1.jpg/960px-Nabarniz%2C_iglesia_de_Santa_Mar%C3%ADa_de_Gorritiz_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Nabarniz%2C_iglesia_de_Santa_Mar%C3%ADa_de_Gorritiz_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nabarniz,_iglesia_de_Santa_Mar%C3%ADa_de_Gorritiz_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34669755",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-08-11 14:29:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Nabarniz, iglesia de Santa María de Gorritiz 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Nabarniz|Urdaibai estuary|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.318475",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.586069",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Nabarniz, iglesia de Santa María de Gorritiz. Bizkaia, País Vasco (España)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-08-11 12:26:58",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Txo\" title=\"User:Txo\">Txo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 34670209,
+      "ns": 6,
+      "title": "File:Castro de Arrola 1.jpg",
+      "lat": 43.310016666667,
+      "lon": -2.6055277777778,
+      "dist": 3772.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "34670209": {
+              "pageid": 34670209,
+              "ns": 6,
+              "title": "File:Castro de Arrola 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Castro_de_Arrola_1.jpg/500px-Castro_de_Arrola_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Castro_de_Arrola_1.jpg/960px-Castro_de_Arrola_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Castro_de_Arrola_1.jpg/960px-Castro_de_Arrola_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Castro_de_Arrola_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Castro_de_Arrola_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34670209",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2014-08-11 14:58:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Castro de Arrola 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Urdaibai estuary|Arrola|Self-published work",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.310017",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.605528",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Castro de Arrola u oppidum de Marueleza  en Bizkaia, País vasco (España). Extremo sur.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2014-08-11 11:51:55",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Txo\" title=\"User:Txo\">Txo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 49513895,
+      "ns": 6,
+      "title": "File:Gerrika. - panoramio.jpg",
+      "lat": 43.260966667,
+      "lon": -2.568166667,
+      "dist": 3966.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "49513895": {
+              "pageid": 49513895,
+              "ns": 6,
+              "title": "File:Gerrika. - panoramio.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gerrika._-_panoramio.jpg/500px-Gerrika._-_panoramio.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 258,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gerrika._-_panoramio.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gerrika._-_panoramio.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gerrika._-_panoramio.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gerrika._-_panoramio.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49513895",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-06-17 02:53:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Gerrika. - panoramio",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Munitibar-Arbatzegi-Gerrikaitz|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Farmhouses in Biscay|Photos from Panoramio|Files with coordinates missing SDC location of creation|Spain photographs taken on 2008-08-16",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.260967",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.568167",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Gerrika.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 16 August 2008",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161012071357/http://www.panoramio.com/photo/13221122\">https://web.archive.org/web/20161012071357/http://www.panoramio.com/photo/13221122</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161012071359/http://www.panoramio.com/user/10326?with_photo_id=13221122\">kurtsik</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Permission": {
+                      "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png\" decoding=\"async\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png 1.5x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png\" decoding=\"async\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">kurtsik</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png\" decoding=\"async\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png 1.5x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 17 June 2016 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td></tr></tbody></table>",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Attribution": {
+                      "value": "kurtsik",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63397754,
+      "ns": 6,
+      "title": "File:Bengolea Dorrea Lea Gizaburuaga.jpg",
+      "lat": 43.32904,
+      "lon": -2.54249,
+      "dist": 3982.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63397754": {
+              "pageid": 63397754,
+              "ns": 6,
+              "title": "File:Bengolea Dorrea Lea Gizaburuaga.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bengolea_Dorrea_Lea_Gizaburuaga.jpg/500px-Bengolea_Dorrea_Lea_Gizaburuaga.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bengolea_Dorrea_Lea_Gizaburuaga.jpg/960px-Bengolea_Dorrea_Lea_Gizaburuaga.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bengolea_Dorrea_Lea_Gizaburuaga.jpg/960px-Bengolea_Dorrea_Lea_Gizaburuaga.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bengolea_Dorrea_Lea_Gizaburuaga.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bengolea_Dorrea_Lea_Gizaburuaga.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63397754",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-10-15 23:14:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Bengolea Dorrea Lea Gizaburuaga",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Biscay|Rivers of the Basque Country|Bengolea dorrea|Self-published work|Buildings in Biscay|Tower houses in Biscay|Files with coordinates missing SDC location of creation|Images from Ibaien Paisaia contest|Uploaded via Campaign:ibaien paisaia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.329040",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.542490",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Lea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Lea (page does not exist)\">Lea</a> ibaiko Bengolea Dorrea <a href=\"//commons.wikimedia.org/w/index.php?title=Gizaburuaga&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gizaburuaga (page does not exist)\">Gizaburuagan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-08-06 18:53:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3488 @@
+{
+  "id": 281441134,
+  "town": {
+    "name": {
+      "default": "Larrión",
+      "es": "Larrión",
+      "eu": "Larrion"
+    },
+    "coordinates": {
+      "lat": 42.7085901,
+      "lon": -2.0754236
+    }
+  },
+  "files": [
+    {
+      "pageid": 57740783,
+      "ns": 6,
+      "title": "File:Allín - Larrión 01.jpg",
+      "lat": 42.708903,
+      "lon": -2.07552,
+      "dist": 35.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57740783": {
+              "pageid": 57740783,
+              "ns": 6,
+              "title": "File:Allín - Larrión 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/All%C3%ADn_-_Larri%C3%B3n_01.jpg/500px-All%C3%ADn_-_Larri%C3%B3n_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 242,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/All%C3%ADn_-_Larri%C3%B3n_01.jpg/960px-All%C3%ADn_-_Larri%C3%B3n_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/All%C3%ADn_-_Larri%C3%B3n_01.jpg/960px-All%C3%ADn_-_Larri%C3%B3n_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/All%C3%ADn_-_Larri%C3%B3n_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:All%C3%ADn_-_Larri%C3%B3n_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57740783",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-05 18:37:44",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Allín - Larrión 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Larrión|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.708903",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.075520",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Larrión, municipality of Allín, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-02 14:15:27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57738271,
+      "ns": 6,
+      "title": "File:Allín - Centro de Salud 01.jpg",
+      "lat": 42.714875,
+      "lon": -2.073079,
+      "dist": 724.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57738271": {
+              "pageid": 57738271,
+              "ns": 6,
+              "title": "File:Allín - Centro de Salud 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/All%C3%ADn_-_Centro_de_Salud_01.jpg/500px-All%C3%ADn_-_Centro_de_Salud_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 309,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/All%C3%ADn_-_Centro_de_Salud_01.jpg/960px-All%C3%ADn_-_Centro_de_Salud_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/All%C3%ADn_-_Centro_de_Salud_01.jpg/960px-All%C3%ADn_-_Centro_de_Salud_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/All%C3%ADn_-_Centro_de_Salud_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:All%C3%ADn_-_Centro_de_Salud_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57738271",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-05 16:42:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Allín - Centro de Salud 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Allín|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Health centres in Navarre|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.714875",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.073079",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Medical centre of Allín, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-02 16:29:52",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57738272,
+      "ns": 6,
+      "title": "File:Allín - Ayuntamiento 01.jpg",
+      "lat": 42.715104,
+      "lon": -2.072977,
+      "dist": 751.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57738272": {
+              "pageid": 57738272,
+              "ns": 6,
+              "title": "File:Allín - Ayuntamiento 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/All%C3%ADn_-_Ayuntamiento_01.jpg/500px-All%C3%ADn_-_Ayuntamiento_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/All%C3%ADn_-_Ayuntamiento_01.jpg/960px-All%C3%ADn_-_Ayuntamiento_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/All%C3%ADn_-_Ayuntamiento_01.jpg/960px-All%C3%ADn_-_Ayuntamiento_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/All%C3%ADn_-_Ayuntamiento_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:All%C3%ADn_-_Ayuntamiento_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57738272",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-05 16:42:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Allín - Ayuntamiento 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Allín|Self-published work|Images of municipalities without photograph until now|Town halls in Navarre|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.715104",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.072977",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Town hall of Allín, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-02 16:29:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 57738270,
+      "ns": 6,
+      "title": "File:Allín - Amillano 01.jpg",
+      "lat": 42.7154,
+      "lon": -2.073058,
+      "dist": 781.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "57738270": {
+              "pageid": 57738270,
+              "ns": 6,
+              "title": "File:Allín - Amillano 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/All%C3%ADn_-_Amillano_01.jpg/500px-All%C3%ADn_-_Amillano_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 257,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/All%C3%ADn_-_Amillano_01.jpg/960px-All%C3%ADn_-_Amillano_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/All%C3%ADn_-_Amillano_01.jpg/960px-All%C3%ADn_-_Amillano_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/All%C3%ADn_-_Amillano_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:All%C3%ADn_-_Amillano_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57738270",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-04-05 16:42:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Allín - Amillano 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Amillano|Self-published work|Images of municipalities without photograph until now|Images from Spanish municipalities with no previous picture uploaded in 2017|Images by Basotxerri|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2017|Uploaded via Campaign:nmsf",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "quality",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.715400",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.073058",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Amillano, municipality of Allín, Navarre, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-02 16:30:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basotxerri\" title=\"User:Basotxerri\">Basotxerri</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 119206394,
+      "ns": 6,
+      "title": "File:Lazkuako behatokia kartela.jpg",
+      "lat": 42.7112,
+      "lon": -2.0648,
+      "dist": 915.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "119206394": {
+              "pageid": 119206394,
+              "ns": 6,
+              "title": "File:Lazkuako behatokia kartela.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lazkuako_behatokia_kartela.jpg/500px-Lazkuako_behatokia_kartela.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lazkuako_behatokia_kartela.jpg/960px-Lazkuako_behatokia_kartela.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lazkuako_behatokia_kartela.jpg/960px-Lazkuako_behatokia_kartela.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lazkuako_behatokia_kartela.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lazkuako_behatokia_kartela.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119206394",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-06-12 13:36:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lazkuako behatokia kartela",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lazkuako behatokia|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.711200",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.064800",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lazkuako behatokia kartela (Eraul, Deierri, Nafarroa Garaia)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-05-12",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 130187460,
+      "ns": 6,
+      "title": "File:Iglesia de San Román (Amillano) (2).jpg",
+      "lat": 42.718211,
+      "lon": -2.073485,
+      "dist": 1081.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "130187460": {
+              "pageid": 130187460,
+              "ns": 6,
+              "title": "File:Iglesia de San Román (Amillano) (2).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%282%29.jpg/500px-Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%282%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%282%29.jpg/960px-Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%282%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%282%29.jpg/960px-Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%282%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%282%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Rom%C3%A1n_(Amillano)_(2).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130187460",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-03-30 15:34:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de San Román (Amillano) (2)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2023|Church of San Román, Amillano",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.718211",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.073485",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lado oeste y torre de la Iglesia de San Román de Amillano (Navarra, España)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-07-29 13:52:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 130187458,
+      "ns": 6,
+      "title": "File:Iglesia de San Román (Amillano) (1).jpg",
+      "lat": 42.718211,
+      "lon": -2.073485,
+      "dist": 1081.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "130187458": {
+              "pageid": 130187458,
+              "ns": 6,
+              "title": "File:Iglesia de San Román (Amillano) (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%281%29.jpg/500px-Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%281%29.jpg/960px-Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%281%29.jpg/960px-Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Iglesia_de_San_Rom%C3%A1n_%28Amillano%29_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Rom%C3%A1n_(Amillano)_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130187458",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-03-30 15:34:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de San Román (Amillano) (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Self-published work|Files with coordinates missing SDC location of creation|Spain photographs taken on 2021-07-29|All media supported by Wikimedia España in 2023|Church of San Román, Amillano",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.718211",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.073485",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lado este y pórtico de acceso a la Iglesia de San Román de Amillano (Navarra, España)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "Taken on 29 July 2021, 13:52:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 118218458,
+      "ns": 6,
+      "title": "File:Iglesia de Eulz (1).jpg",
+      "lat": 42.695473,
+      "lon": -2.07424,
+      "dist": 1461.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "118218458": {
+              "pageid": 118218458,
+              "ns": 6,
+              "title": "File:Iglesia de Eulz (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Iglesia_de_Eulz_%281%29.jpg/500px-Iglesia_de_Eulz_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Iglesia_de_Eulz_%281%29.jpg/960px-Iglesia_de_Eulz_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Iglesia_de_Eulz_%281%29.jpg/960px-Iglesia_de_Eulz_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Iglesia_de_Eulz_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Eulz_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118218458",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-05-21 16:08:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de Eulz (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Pages with maps|Eulz|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.695473",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.074240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Eulz, con árbol delante y cielo nublado",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-07-29 12:38:21",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">José M. Ciordia</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 152820099,
+      "ns": 6,
+      "title": "File:NA-7136 with Sierra de Lokiz - Artavia, Spain - July 27, 2024.jpg",
+      "lat": 42.724978,
+      "lon": -2.077644,
+      "dist": 1831.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "152820099": {
+              "pageid": 152820099,
+              "ns": 6,
+              "title": "File:NA-7136 with Sierra de Lokiz - Artavia, Spain - July 27, 2024.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NA-7136_with_Sierra_de_Lokiz_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg/500px-NA-7136_with_Sierra_de_Lokiz_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 400,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NA-7136_with_Sierra_de_Lokiz_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg/960px-NA-7136_with_Sierra_de_Lokiz_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NA-7136_with_Sierra_de_Lokiz_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg/960px-NA-7136_with_Sierra_de_Lokiz_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/NA-7136_with_Sierra_de_Lokiz_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:NA-7136_with_Sierra_de_Lokiz_-_Artavia,_Spain_-_July_27,_2024.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152820099",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-09-18 15:25:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "NA-7136 with Sierra de Lokiz - Artavia, Spain - July 27, 2024",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Artavia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.724978",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.077644",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "NA-7136 with Sierra de Lokiz - Artavia, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-07-27 08:45:25",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:GiorgioGaleotti\" title=\"User:GiorgioGaleotti\">Giorgio Galeotti</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 152814570,
+      "ns": 6,
+      "title": "File:NA-7136 - Artavia, Spain - July 27, 2024.jpg",
+      "lat": 42.724979,
+      "lon": -2.077647,
+      "dist": 1831.4,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "152814570": {
+              "pageid": 152814570,
+              "ns": 6,
+              "title": "File:NA-7136 - Artavia, Spain - July 27, 2024.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/NA-7136_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg/500px-NA-7136_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/NA-7136_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg/960px-NA-7136_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/NA-7136_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg/960px-NA-7136_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/NA-7136_-_Artavia%2C_Spain_-_July_27%2C_2024.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:NA-7136_-_Artavia,_Spain_-_July_27,_2024.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152814570",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-09-18 13:12:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "NA-7136 - Artavia, Spain - July 27, 2024",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Artavia",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.724979",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.077647",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "NA-7136 with Sierra de Lokiz - Artavia, Spain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-07-27 08:43:58",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:GiorgioGaleotti\" title=\"User:GiorgioGaleotti\">Giorgio Galeotti</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 134064181,
+      "ns": 6,
+      "title": "File:San Vicente (Muneta) (1).jpg",
+      "lat": 42.71358,
+      "lon": -2.0987,
+      "dist": 1981.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "134064181": {
+              "pageid": 134064181,
+              "ns": 6,
+              "title": "File:San Vicente (Muneta) (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/San_Vicente_%28Muneta%29_%281%29.jpg/500px-San_Vicente_%28Muneta%29_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/San_Vicente_%28Muneta%29_%281%29.jpg/960px-San_Vicente_%28Muneta%29_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/San_Vicente_%28Muneta%29_%281%29.jpg/960px-San_Vicente_%28Muneta%29_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/San_Vicente_%28Muneta%29_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Vicente_(Muneta)_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=134064181",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-07-07 16:14:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Vicente (Muneta) (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Self-published work|Files with coordinates missing SDC location of creation|Ollogoyen",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.713580",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.098700",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Parroquia, desde el lado sur, con pórtico de entrada, ábside cuadrado a la derecha y torre con campanas.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2023-07-06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 119206395,
+      "ns": 6,
+      "title": "File:Allin herria Nafarroan Lazkuako behatokitik.jpg",
+      "lat": 42.692188,
+      "lon": -2.087459,
+      "dist": 2072.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "119206395": {
+              "pageid": 119206395,
+              "ns": 6,
+              "title": "File:Allin herria Nafarroan Lazkuako behatokitik.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Allin_herria_Nafarroan_Lazkuako_behatokitik.jpg/500px-Allin_herria_Nafarroan_Lazkuako_behatokitik.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Allin_herria_Nafarroan_Lazkuako_behatokitik.jpg/960px-Allin_herria_Nafarroan_Lazkuako_behatokitik.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Allin_herria_Nafarroan_Lazkuako_behatokitik.jpg/960px-Allin_herria_Nafarroan_Lazkuako_behatokitik.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Allin_herria_Nafarroan_Lazkuako_behatokitik.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Allin_herria_Nafarroan_Lazkuako_behatokitik.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119206395",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-06-12 13:36:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Allin herria Nafarroan Lazkuako behatokitik",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lazkuako behatokia|Allín|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.692188",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.087459",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Allin (Nafarroa Garaia) Lazkuako behatokitik ikusita",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-05-12",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 119206400,
+      "ns": 6,
+      "title": "File:Larrion Allin Nafarroa Lazkuako behatokitik 01.jpg",
+      "lat": 42.692188,
+      "lon": -2.087459,
+      "dist": 2072.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "119206400": {
+              "pageid": 119206400,
+              "ns": 6,
+              "title": "File:Larrion Allin Nafarroa Lazkuako behatokitik 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Larrion_Allin_Nafarroa_Lazkuako_behatokitik_01.jpg/500px-Larrion_Allin_Nafarroa_Lazkuako_behatokitik_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Larrion_Allin_Nafarroa_Lazkuako_behatokitik_01.jpg/960px-Larrion_Allin_Nafarroa_Lazkuako_behatokitik_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Larrion_Allin_Nafarroa_Lazkuako_behatokitik_01.jpg/960px-Larrion_Allin_Nafarroa_Lazkuako_behatokitik_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Larrion_Allin_Nafarroa_Lazkuako_behatokitik_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Larrion_Allin_Nafarroa_Lazkuako_behatokitik_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119206400",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-06-12 13:36:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Larrion Allin Nafarroa Lazkuako behatokitik 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Lazkuako behatokia|Self-published work|Files with coordinates missing SDC location of creation|Larrión",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.692188",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.087459",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Allin udalerriko Larrion kontzejua (Nafarroa Garaia) Lazkuako behatokitik ikusita",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-05-12",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 120496138,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción - Echávarri (1).jpg",
+      "lat": 42.7267,
+      "lon": -2.06688,
+      "dist": 2131.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "120496138": {
+              "pageid": 120496138,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción - Echávarri (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Iglesia_de_la_Asunci%C3%B3n_-_Ech%C3%A1varri_%281%29.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_-_Ech%C3%A1varri_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Iglesia_de_la_Asunci%C3%B3n_-_Ech%C3%A1varri_%281%29.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_-_Ech%C3%A1varri_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Iglesia_de_la_Asunci%C3%B3n_-_Ech%C3%A1varri_%281%29.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_-_Ech%C3%A1varri_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Iglesia_de_la_Asunci%C3%B3n_-_Ech%C3%A1varri_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_-_Ech%C3%A1varri_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120496138",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-07-15 15:56:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción - Echávarri (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Echávarri",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.726700",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.066880",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de la Asunción vista desde el suroeste, con la torre a la izquierda y el pórtico de entrada en el centro",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-07-29 14:00:31",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 113385761,
+      "ns": 6,
+      "title": "File:Eraul azulejozko seinalea.jpg",
+      "lat": 42.716843,
+      "lon": -2.050315,
+      "dist": 2247.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "113385761": {
+              "pageid": 113385761,
+              "ns": 6,
+              "title": "File:Eraul azulejozko seinalea.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eraul_azulejozko_seinalea.jpg/500px-Eraul_azulejozko_seinalea.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eraul_azulejozko_seinalea.jpg/960px-Eraul_azulejozko_seinalea.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eraul_azulejozko_seinalea.jpg/960px-Eraul_azulejozko_seinalea.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Eraul_azulejozko_seinalea.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eraul_azulejozko_seinalea.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113385761",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-12-15 16:48:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Eraul azulejozko seinalea",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Azulejo place name road signs in Navarre",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.716843",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.050315",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Eraul azulejozko seinalea",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-12-05 16:18:11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Galtzaurdin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Galtzaurdin (page does not exist)\">Galtzaurdin</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 79017556,
+      "ns": 6,
+      "title": "File:Eraul eta artea3.jpg",
+      "lat": 42.716667,
+      "lon": -2.05,
+      "dist": 2263,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "79017556": {
+              "pageid": 79017556,
+              "ns": 6,
+              "title": "File:Eraul eta artea3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eraul_eta_artea3.jpg/500px-Eraul_eta_artea3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 268,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eraul_eta_artea3.jpg/960px-Eraul_eta_artea3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eraul_eta_artea3.jpg/960px-Eraul_eta_artea3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Eraul_eta_artea3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eraul_eta_artea3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79017556",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-05-17 19:07:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Eraul eta artea3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Eraulgo artea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.716667",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.050000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "500 urte baino gehiago dituen artea Eraul herrian. Lizarrerian, Nafarroan",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2019-05-12",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ksarasola\" title=\"User:Ksarasola\">Ksarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91783345,
+      "ns": 6,
+      "title": "File:Crucero de Aramendía, Ermita del Santo Cristo.jpg",
+      "lat": 42.709985638889,
+      "lon": -2.1070253333334,
+      "dist": 2586.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91783345": {
+              "pageid": 91783345,
+              "ns": 6,
+              "title": "File:Crucero de Aramendía, Ermita del Santo Cristo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Crucero_de_Aramend%C3%ADa%2C_Ermita_del_Santo_Cristo.jpg/500px-Crucero_de_Aramend%C3%ADa%2C_Ermita_del_Santo_Cristo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Crucero_de_Aramend%C3%ADa%2C_Ermita_del_Santo_Cristo.jpg/960px-Crucero_de_Aramend%C3%ADa%2C_Ermita_del_Santo_Cristo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Crucero_de_Aramend%C3%ADa%2C_Ermita_del_Santo_Cristo.jpg/960px-Crucero_de_Aramend%C3%ADa%2C_Ermita_del_Santo_Cristo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Crucero_de_Aramend%C3%ADa%2C_Ermita_del_Santo_Cristo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crucero_de_Aramend%C3%ADa,_Ermita_del_Santo_Cristo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91783345",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 14:53:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Crucero de Aramendía, Ermita del Santo Cristo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Aramendiako Guruztokia|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2020-06-28|WikiBizi Ondarea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.709986",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.107025",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "monumento",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "28 June 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Luistxo\" title=\"User:Luistxo\">Luistxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91783826,
+      "ns": 6,
+      "title": "File:Aramendiako guruztokia.jpg",
+      "lat": 42.709873777778,
+      "lon": -2.1070552777778,
+      "dist": 2588.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91783826": {
+              "pageid": 91783826,
+              "ns": 6,
+              "title": "File:Aramendiako guruztokia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aramendiako_guruztokia.jpg/500px-Aramendiako_guruztokia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aramendiako_guruztokia.jpg/960px-Aramendiako_guruztokia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aramendiako_guruztokia.jpg/960px-Aramendiako_guruztokia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Aramendiako_guruztokia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aramendiako_guruztokia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91783826",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 15:10:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aramendiako guruztokia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Aramendiako Guruztokia|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2020-06-28|WikiBizi Ondarea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.709874",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.107055",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "monumentu platereskoa",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "28 June 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Luistxo\" title=\"User:Luistxo\">Luistxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91807682,
+      "ns": 6,
+      "title": "File:Aramendiako guruztokia 2 (ama birjina).jpg",
+      "lat": 42.709790222222,
+      "lon": -2.1071013333333,
+      "dist": 2591.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91807682": {
+              "pageid": 91807682,
+              "ns": 6,
+              "title": "File:Aramendiako guruztokia 2 (ama birjina).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aramendiako_guruztokia_2_%28ama_birjina%29.jpg/500px-Aramendiako_guruztokia_2_%28ama_birjina%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aramendiako_guruztokia_2_%28ama_birjina%29.jpg/960px-Aramendiako_guruztokia_2_%28ama_birjina%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aramendiako_guruztokia_2_%28ama_birjina%29.jpg/960px-Aramendiako_guruztokia_2_%28ama_birjina%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Aramendiako_guruztokia_2_%28ama_birjina%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aramendiako_guruztokia_2_(ama_birjina).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91807682",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-02 09:35:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aramendiako guruztokia 2 (ama birjina)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Aramendiako Guruztokia|Self-published work|Extracted images|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2020-06-28|WikiBizi Ondarea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.709790",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.107101",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "monumentu platereskoa",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "28 June 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Luistxo\" title=\"User:Luistxo\">Luistxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 91783827,
+      "ns": 6,
+      "title": "File:Aramendiako guruztokia 2.jpg",
+      "lat": 42.709790222222,
+      "lon": -2.1071013333333,
+      "dist": 2591.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "91783827": {
+              "pageid": 91783827,
+              "ns": 6,
+              "title": "File:Aramendiako guruztokia 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aramendiako_guruztokia_2.jpg/500px-Aramendiako_guruztokia_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aramendiako_guruztokia_2.jpg/960px-Aramendiako_guruztokia_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aramendiako_guruztokia_2.jpg/960px-Aramendiako_guruztokia_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Aramendiako_guruztokia_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aramendiako_guruztokia_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91783827",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-07-01 15:10:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aramendiako guruztokia 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Aramendiako Guruztokia|Self-published work|Images with extracted images|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2020-06-28|WikiBizi Ondarea",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.709790",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.107101",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "monumentu platereskoa",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "28 June 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Luistxo\" title=\"User:Luistxo\">Luistxo</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108113369,
+      "ns": 6,
+      "title": "File:Iglesia de la Asunción de Santa María - Zubielqui (1).jpg",
+      "lat": 42.678772,
+      "lon": -2.068275,
+      "dist": 3366.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108113369": {
+              "pageid": 108113369,
+              "ns": 6,
+              "title": "File:Iglesia de la Asunción de Santa María - Zubielqui (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Iglesia_de_la_Asunci%C3%B3n_de_Santa_Mar%C3%ADa_-_Zubielqui_%281%29.jpg/500px-Iglesia_de_la_Asunci%C3%B3n_de_Santa_Mar%C3%ADa_-_Zubielqui_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Iglesia_de_la_Asunci%C3%B3n_de_Santa_Mar%C3%ADa_-_Zubielqui_%281%29.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Santa_Mar%C3%ADa_-_Zubielqui_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Iglesia_de_la_Asunci%C3%B3n_de_Santa_Mar%C3%ADa_-_Zubielqui_%281%29.jpg/960px-Iglesia_de_la_Asunci%C3%B3n_de_Santa_Mar%C3%ADa_-_Zubielqui_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Iglesia_de_la_Asunci%C3%B3n_de_Santa_Mar%C3%ADa_-_Zubielqui_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_la_Asunci%C3%B3n_de_Santa_Mar%C3%ADa_-_Zubielqui_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108113369",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-03 12:45:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de la Asunción de Santa María - Zubielqui (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zubielqui|Self-published work|Religious buildings in Navarre|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.678772",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.068275",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lado sur de la iglesia, con la torre a la izquierda y la entrada en el centro",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-07-26 20:04:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146625271,
+      "ns": 6,
+      "title": "File:Zubielki Allin kartela bertako etxe batean (cropped).jpg",
+      "lat": 42.677961,
+      "lon": -2.066571,
+      "dist": 3481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146625271": {
+              "pageid": 146625271,
+              "ns": 6,
+              "title": "File:Zubielki Allin kartela bertako etxe batean (cropped).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Zubielki_Allin_kartela_bertako_etxe_batean_%28cropped%29.jpg/500px-Zubielki_Allin_kartela_bertako_etxe_batean_%28cropped%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 150,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zubielki_Allin_kartela_bertako_etxe_batean_%28cropped%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zubielki_Allin_kartela_bertako_etxe_batean_%28cropped%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zubielki_Allin_kartela_bertako_etxe_batean_%28cropped%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zubielki_Allin_kartela_bertako_etxe_batean_(cropped).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146625271",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-21 14:07:06",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zubielki Allin kartela bertako etxe batean (cropped)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Zubielqui|Self-published work|Extracted images|Files with coordinates missing SDC location of creation|Azulejo place name road signs in Navarre",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677961",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.066571",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "A house from Zubielki with a sign with the name of the council and the town.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-14 18:33:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Asier_Iturralde_Sarasola&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Asier Iturralde Sarasola (page does not exist)\">Asier Iturralde Sarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 71668237,
+      "ns": 6,
+      "title": "File:Zubielki Allin kartela bertako etxe batean.jpg",
+      "lat": 42.677961,
+      "lon": -2.066571,
+      "dist": 3481.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "71668237": {
+              "pageid": 71668237,
+              "ns": 6,
+              "title": "File:Zubielki Allin kartela bertako etxe batean.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zubielki_Allin_kartela_bertako_etxe_batean.jpg/500px-Zubielki_Allin_kartela_bertako_etxe_batean.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zubielki_Allin_kartela_bertako_etxe_batean.jpg/960px-Zubielki_Allin_kartela_bertako_etxe_batean.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zubielki_Allin_kartela_bertako_etxe_batean.jpg/960px-Zubielki_Allin_kartela_bertako_etxe_batean.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zubielki_Allin_kartela_bertako_etxe_batean.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zubielki_Allin_kartela_bertako_etxe_batean.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71668237",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-16 14:45:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zubielki Allin kartela bertako etxe batean",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zubielqui|Self-published work|Images with extracted images|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677961",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.066571",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "A house from Zubielki with a sign with the name of the council and the town.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-14 18:33:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Asier_Iturralde_Sarasola&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Asier Iturralde Sarasola (page does not exist)\">Asier Iturralde Sarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 71667857,
+      "ns": 6,
+      "title": "File:Zubielki Vasco-Navarro bide berdetik.jpg",
+      "lat": 42.677144,
+      "lon": -2.071643,
+      "dist": 3510.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "71667857": {
+              "pageid": 71667857,
+              "ns": 6,
+              "title": "File:Zubielki Vasco-Navarro bide berdetik.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zubielki_Vasco-Navarro_bide_berdetik.jpg/500px-Zubielki_Vasco-Navarro_bide_berdetik.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zubielki_Vasco-Navarro_bide_berdetik.jpg/960px-Zubielki_Vasco-Navarro_bide_berdetik.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zubielki_Vasco-Navarro_bide_berdetik.jpg/960px-Zubielki_Vasco-Navarro_bide_berdetik.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Zubielki_Vasco-Navarro_bide_berdetik.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zubielki_Vasco-Navarro_bide_berdetik.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71667857",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2018-08-16 14:18:20",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Zubielki Vasco-Navarro bide berdetik",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zubielqui|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.677144",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.071643",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Zubielki seen from the Vasco-Navarro greenway",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-14 18:30:24",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Asier_Iturralde_Sarasola&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Asier Iturralde Sarasola (page does not exist)\">Asier Iturralde Sarasola</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108245696,
+      "ns": 6,
+      "title": "File:Iglesia de San Martín Obispo, de Arbeiza (1).jpg",
+      "lat": 42.67558,
+      "lon": -2.064226,
+      "dist": 3782.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108245696": {
+              "pageid": 108245696,
+              "ns": 6,
+              "title": "File:Iglesia de San Martín Obispo, de Arbeiza (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Iglesia_de_San_Mart%C3%ADn_Obispo%2C_de_Arbeiza_%281%29.jpg/500px-Iglesia_de_San_Mart%C3%ADn_Obispo%2C_de_Arbeiza_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Iglesia_de_San_Mart%C3%ADn_Obispo%2C_de_Arbeiza_%281%29.jpg/960px-Iglesia_de_San_Mart%C3%ADn_Obispo%2C_de_Arbeiza_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Iglesia_de_San_Mart%C3%ADn_Obispo%2C_de_Arbeiza_%281%29.jpg/960px-Iglesia_de_San_Mart%C3%ADn_Obispo%2C_de_Arbeiza_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Iglesia_de_San_Mart%C3%ADn_Obispo%2C_de_Arbeiza_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Mart%C3%ADn_Obispo,_de_Arbeiza_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108245696",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-07 22:42:51",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de San Martín Obispo, de Arbeiza (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|Arbeiza",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.675580",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.064226",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Entrada sur y torre de la Iglesia de Arbeiza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-08-07 21:07:14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 135888410,
+      "ns": 6,
+      "title": "File:Nuestra Señora del Rosario, de Arbeiza (1).jpg",
+      "lat": 42.67534,
+      "lon": -2.06412,
+      "dist": 3810.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "135888410": {
+              "pageid": 135888410,
+              "ns": 6,
+              "title": "File:Nuestra Señora del Rosario, de Arbeiza (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nuestra_Se%C3%B1ora_del_Rosario%2C_de_Arbeiza_%281%29.jpg/500px-Nuestra_Se%C3%B1ora_del_Rosario%2C_de_Arbeiza_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 710,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nuestra_Se%C3%B1ora_del_Rosario%2C_de_Arbeiza_%281%29.jpg/960px-Nuestra_Se%C3%B1ora_del_Rosario%2C_de_Arbeiza_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nuestra_Se%C3%B1ora_del_Rosario%2C_de_Arbeiza_%281%29.jpg/960px-Nuestra_Se%C3%B1ora_del_Rosario%2C_de_Arbeiza_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Nuestra_Se%C3%B1ora_del_Rosario%2C_de_Arbeiza_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nuestra_Se%C3%B1ora_del_Rosario,_de_Arbeiza_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135888410",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-08-13 16:28:24",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Nuestra Señora del Rosario, de Arbeiza (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Arbeiza|Nuestra Señora del Rosario",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.675340",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.064120",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Retablo con la imagen de la Virgen y dos santos, uno a cada lado",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2023-08-13",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 108203353,
+      "ns": 6,
+      "title": "File:Iglesia de San Nicolás en Arteaga (Navarra) (1).jpg",
+      "lat": 42.686553,
+      "lon": -2.112355,
+      "dist": 3887.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "108203353": {
+              "pageid": 108203353,
+              "ns": 6,
+              "title": "File:Iglesia de San Nicolás en Arteaga (Navarra) (1).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Iglesia_de_San_Nicol%C3%A1s_en_Arteaga_%28Navarra%29_%281%29.jpg/500px-Iglesia_de_San_Nicol%C3%A1s_en_Arteaga_%28Navarra%29_%281%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Iglesia_de_San_Nicol%C3%A1s_en_Arteaga_%28Navarra%29_%281%29.jpg/960px-Iglesia_de_San_Nicol%C3%A1s_en_Arteaga_%28Navarra%29_%281%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Iglesia_de_San_Nicol%C3%A1s_en_Arteaga_%28Navarra%29_%281%29.jpg/960px-Iglesia_de_San_Nicol%C3%A1s_en_Arteaga_%28Navarra%29_%281%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Iglesia_de_San_Nicol%C3%A1s_en_Arteaga_%28Navarra%29_%281%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Nicol%C3%A1s_en_Arteaga_(Navarra)_(1).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108203353",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-08-06 14:55:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de San Nicolás en Arteaga (Navarra) (1)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Self-published work|Files with coordinates missing SDC location of creation|Arteaga (Navarra)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.686553",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.112355",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lados oeste y sur de la Iglesia de Arteaga",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-08-06 12:38:01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 50909242,
+      "ns": 6,
+      "title": "File:San Esteban (Bearin) - 1.jpg",
+      "lat": 42.692968,
+      "lon": -2.031345,
+      "dist": 3999,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "50909242": {
+              "pageid": 50909242,
+              "ns": 6,
+              "title": "File:San Esteban (Bearin) - 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_Esteban_%28Bearin%29_-_1.jpg/500px-San_Esteban_%28Bearin%29_-_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_Esteban_%28Bearin%29_-_1.jpg/960px-San_Esteban_%28Bearin%29_-_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_Esteban_%28Bearin%29_-_1.jpg/960px-San_Esteban_%28Bearin%29_-_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/San_Esteban_%28Bearin%29_-_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Esteban_(Bearin)_-_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50909242",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2016-08-26 20:57:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Esteban (Bearin) - 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Bearin|Self-published work|Romanesque churches in Navarre|Files with coordinates missing SDC location of creation|Files uploaded by Pompilos",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.692968",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.031345",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de San Esteban, en Bearin (Navarra, España). En la pared de la torre una inscripción reza: \"LA CAMPANA DE ESTA TORRE / Y LA TORRE DE ESTA ERMITA / A SAN ESTEBAN DONÓ / CRISTOBAL AREOPAGITA / MCMXLIX\" (1949).",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-08-21 20:04:21",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pompilos\" title=\"User:Pompilos\">Pompilos</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

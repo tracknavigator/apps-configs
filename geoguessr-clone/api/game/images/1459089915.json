@@ -1,0 +1,2744 @@
+{
+  "id": 1459089915,
+  "town": {
+    "name": {
+      "default": "Okondo",
+      "es": "Oquendo",
+      "eu": "Okondo"
+    },
+    "coordinates": {
+      "lat": 43.1563569,
+      "lon": -3.0267954
+    }
+  },
+  "files": [
+    {
+      "pageid": 153790375,
+      "ns": 6,
+      "title": "File:Oquendo, rótulo de localidad.jpg",
+      "lat": 43.160619444444,
+      "lon": -3.0259444444445,
+      "dist": 479,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153790375": {
+              "pageid": 153790375,
+              "ns": 6,
+              "title": "File:Oquendo, rótulo de localidad.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oquendo%2C_r%C3%B3tulo_de_localidad.jpg/500px-Oquendo%2C_r%C3%B3tulo_de_localidad.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oquendo%2C_r%C3%B3tulo_de_localidad.jpg/960px-Oquendo%2C_r%C3%B3tulo_de_localidad.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Oquendo%2C_r%C3%B3tulo_de_localidad.jpg/960px-Oquendo%2C_r%C3%B3tulo_de_localidad.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Oquendo%2C_r%C3%B3tulo_de_localidad.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oquendo,_r%C3%B3tulo_de_localidad.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153790375",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-11 10:37:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Oquendo, rótulo de localidad",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Okondo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.160619",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.025944",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Oquendo, rótulo de localidad",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153790384,
+      "ns": 6,
+      "title": "File:Bolera antigua, Okondo.jpg",
+      "lat": 43.160627777778,
+      "lon": -3.025975,
+      "dist": 479.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153790384": {
+              "pageid": 153790384,
+              "ns": 6,
+              "title": "File:Bolera antigua, Okondo.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bolera_antigua%2C_Okondo.jpg/500px-Bolera_antigua%2C_Okondo.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bolera_antigua%2C_Okondo.jpg/960px-Bolera_antigua%2C_Okondo.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bolera_antigua%2C_Okondo.jpg/960px-Bolera_antigua%2C_Okondo.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bolera_antigua%2C_Okondo.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bolera_antigua,_Okondo.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153790384",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-11 10:37:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Bolera antigua, Okondo",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Okondo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.160628",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.025975",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Bolera antigua, Okondo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153790352,
+      "ns": 6,
+      "title": "File:Okondo, rótulo de salida de la localidad.jpg",
+      "lat": 43.161086111111,
+      "lon": -3.0202416666667,
+      "dist": 747.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153790352": {
+              "pageid": 153790352,
+              "ns": 6,
+              "title": "File:Okondo, rótulo de salida de la localidad.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Okondo%2C_r%C3%B3tulo_de_salida_de_la_localidad.jpg/500px-Okondo%2C_r%C3%B3tulo_de_salida_de_la_localidad.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Okondo%2C_r%C3%B3tulo_de_salida_de_la_localidad.jpg/960px-Okondo%2C_r%C3%B3tulo_de_salida_de_la_localidad.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Okondo%2C_r%C3%B3tulo_de_salida_de_la_localidad.jpg/960px-Okondo%2C_r%C3%B3tulo_de_salida_de_la_localidad.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Okondo%2C_r%C3%B3tulo_de_salida_de_la_localidad.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Okondo,_r%C3%B3tulo_de_salida_de_la_localidad.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153790352",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-11 10:35:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Okondo, rótulo de salida de la localidad",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Okondo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Exiting settlement signs in Spain|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.161086",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.020242",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Okondo, rótulo de salida de la localidad",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764241,
+      "ns": 6,
+      "title": "File:Ayuntamiento de Okondo y mesa de Eskauriatza.jpg",
+      "lat": 43.161088888889,
+      "lon": -3.0202388888889,
+      "dist": 748.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764241": {
+              "pageid": 153764241,
+              "ns": 6,
+              "title": "File:Ayuntamiento de Okondo y mesa de Eskauriatza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ayuntamiento_de_Okondo_y_mesa_de_Eskauriatza.jpg/500px-Ayuntamiento_de_Okondo_y_mesa_de_Eskauriatza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 532,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ayuntamiento_de_Okondo_y_mesa_de_Eskauriatza.jpg/960px-Ayuntamiento_de_Okondo_y_mesa_de_Eskauriatza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ayuntamiento_de_Okondo_y_mesa_de_Eskauriatza.jpg/960px-Ayuntamiento_de_Okondo_y_mesa_de_Eskauriatza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ayuntamiento_de_Okondo_y_mesa_de_Eskauriatza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Okondo_y_mesa_de_Eskauriatza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764241",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:12:25",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ayuntamiento de Okondo y mesa de Eskauriatza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|Okondo town hall",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.161089",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.020239",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ayuntamiento de Okondo, Álava",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764559,
+      "ns": 6,
+      "title": "File:Mesa de Eskauriatza 2.jpg",
+      "lat": 43.161088888889,
+      "lon": -3.0202388888889,
+      "dist": 748.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764559": {
+              "pageid": 153764559,
+              "ns": 6,
+              "title": "File:Mesa de Eskauriatza 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mesa_de_Eskauriatza_2.jpg/500px-Mesa_de_Eskauriatza_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 532,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mesa_de_Eskauriatza_2.jpg/960px-Mesa_de_Eskauriatza_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mesa_de_Eskauriatza_2.jpg/960px-Mesa_de_Eskauriatza_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mesa_de_Eskauriatza_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mesa_de_Eskauriatza_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764559",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:27:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Mesa de Eskauriatza 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Okondo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.161089",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.020239",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mesa de Eskauriatza",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764233,
+      "ns": 6,
+      "title": "File:Ayuntamiento de Okondo, Álava.jpg",
+      "lat": 43.161088888889,
+      "lon": -3.0202388888889,
+      "dist": 748.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764233": {
+              "pageid": 153764233,
+              "ns": 6,
+              "title": "File:Ayuntamiento de Okondo, Álava.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ayuntamiento_de_Okondo%2C_%C3%81lava.jpg/500px-Ayuntamiento_de_Okondo%2C_%C3%81lava.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ayuntamiento_de_Okondo%2C_%C3%81lava.jpg/960px-Ayuntamiento_de_Okondo%2C_%C3%81lava.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ayuntamiento_de_Okondo%2C_%C3%81lava.jpg/960px-Ayuntamiento_de_Okondo%2C_%C3%81lava.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ayuntamiento_de_Okondo%2C_%C3%81lava.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Okondo,_%C3%81lava.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764233",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:11:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ayuntamiento de Okondo, Álava",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|Okondo town hall",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.161089",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.020239",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ayuntamiento de Okondo, Álava",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764270,
+      "ns": 6,
+      "title": "File:Ayuntamiento de Okondo, Álava 2.jpg",
+      "lat": 43.161088888889,
+      "lon": -3.0202388888889,
+      "dist": 748.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764270": {
+              "pageid": 153764270,
+              "ns": 6,
+              "title": "File:Ayuntamiento de Okondo, Álava 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ayuntamiento_de_Okondo%2C_%C3%81lava_2.jpg/500px-Ayuntamiento_de_Okondo%2C_%C3%81lava_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ayuntamiento_de_Okondo%2C_%C3%81lava_2.jpg/960px-Ayuntamiento_de_Okondo%2C_%C3%81lava_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ayuntamiento_de_Okondo%2C_%C3%81lava_2.jpg/960px-Ayuntamiento_de_Okondo%2C_%C3%81lava_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ayuntamiento_de_Okondo%2C_%C3%81lava_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Okondo,_%C3%81lava_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764270",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:13:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ayuntamiento de Okondo, Álava 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|Okondo town hall",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.161089",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.020239",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ayuntamiento de Okondo, Álava",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764544,
+      "ns": 6,
+      "title": "File:Mesa de Eskauriatza.jpg",
+      "lat": 43.161088888889,
+      "lon": -3.0202361111111,
+      "dist": 748.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764544": {
+              "pageid": 153764544,
+              "ns": 6,
+              "title": "File:Mesa de Eskauriatza.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mesa_de_Eskauriatza.jpg/500px-Mesa_de_Eskauriatza.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mesa_de_Eskauriatza.jpg/960px-Mesa_de_Eskauriatza.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mesa_de_Eskauriatza.jpg/960px-Mesa_de_Eskauriatza.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mesa_de_Eskauriatza.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mesa_de_Eskauriatza.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764544",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:26:52",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Mesa de Eskauriatza",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Okondo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.161089",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.020236",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mesa de Eskauriatza, rótulo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764282,
+      "ns": 6,
+      "title": "File:Ayuntamiento de Okondo, Álava 3.jpg",
+      "lat": 43.161088888889,
+      "lon": -3.0202361111111,
+      "dist": 748.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764282": {
+              "pageid": 153764282,
+              "ns": 6,
+              "title": "File:Ayuntamiento de Okondo, Álava 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ayuntamiento_de_Okondo%2C_%C3%81lava_3.jpg/500px-Ayuntamiento_de_Okondo%2C_%C3%81lava_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ayuntamiento_de_Okondo%2C_%C3%81lava_3.jpg/960px-Ayuntamiento_de_Okondo%2C_%C3%81lava_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ayuntamiento_de_Okondo%2C_%C3%81lava_3.jpg/960px-Ayuntamiento_de_Okondo%2C_%C3%81lava_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ayuntamiento_de_Okondo%2C_%C3%81lava_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Okondo,_%C3%81lava_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764282",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:13:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ayuntamiento de Okondo, Álava 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|Okondo town hall",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.161089",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.020236",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ayuntamiento de Okondo, Álava",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153790361,
+      "ns": 6,
+      "title": "File:Okondo, rótulo de entrada a la localidad.jpg",
+      "lat": 43.161213888889,
+      "lon": -3.0181361111111,
+      "dist": 886,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153790361": {
+              "pageid": 153790361,
+              "ns": 6,
+              "title": "File:Okondo, rótulo de entrada a la localidad.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Okondo%2C_r%C3%B3tulo_de_entrada_a_la_localidad.jpg/500px-Okondo%2C_r%C3%B3tulo_de_entrada_a_la_localidad.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Okondo%2C_r%C3%B3tulo_de_entrada_a_la_localidad.jpg/960px-Okondo%2C_r%C3%B3tulo_de_entrada_a_la_localidad.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Okondo%2C_r%C3%B3tulo_de_entrada_a_la_localidad.jpg/960px-Okondo%2C_r%C3%B3tulo_de_entrada_a_la_localidad.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Okondo%2C_r%C3%B3tulo_de_entrada_a_la_localidad.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Okondo,_r%C3%B3tulo_de_entrada_a_la_localidad.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153790361",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-11 10:36:28",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Okondo, rótulo de entrada a la localidad",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Okondo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Entering settlement signs in Spain|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.161214",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.018136",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Okondo, rótulo de entrada a la localidad",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 148382181,
+      "ns": 6,
+      "title": "File:Ermita de la Inmaculada Concepción.jpg",
+      "lat": 43.13565,
+      "lon": -3.0349305555555,
+      "dist": 2395.2,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "148382181": {
+              "pageid": 148382181,
+              "ns": 6,
+              "title": "File:Ermita de la Inmaculada Concepción.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ermita_de_la_Inmaculada_Concepci%C3%B3n.jpg/500px-Ermita_de_la_Inmaculada_Concepci%C3%B3n.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ermita_de_la_Inmaculada_Concepci%C3%B3n.jpg/960px-Ermita_de_la_Inmaculada_Concepci%C3%B3n.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ermita_de_la_Inmaculada_Concepci%C3%B3n.jpg/960px-Ermita_de_la_Inmaculada_Concepci%C3%B3n.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ermita_de_la_Inmaculada_Concepci%C3%B3n.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_de_la_Inmaculada_Concepci%C3%B3n.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148382181",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-05-15 15:50:25",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita de la Inmaculada Concepción",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zuhatza, Ayala-Aiara|Self-published work|Spain photographs taken on 2024-05-15|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|All media supported by Wikimedia España in 2024|ConMiWiki 2024",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.135650",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.034931",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ermita de la Inmaculada Concepción",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "15 May 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Pezukera&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Pezukera (page does not exist)\">Pezukera</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764661,
+      "ns": 6,
+      "title": "File:Interior de la Ermita de San Prudencio de Okondo 2.jpg",
+      "lat": 43.164727777778,
+      "lon": -2.9992777777778,
+      "dist": 2418.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764661": {
+              "pageid": 153764661,
+              "ns": 6,
+              "title": "File:Interior de la Ermita de San Prudencio de Okondo 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_2.jpg/500px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 532,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_2.jpg/960px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_2.jpg/960px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764661",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:32:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Interior de la Ermita de San Prudencio de Okondo 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024|Ermita de San Prudencio, Okondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.999278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Interior de la Ermita de San Prudencio de Okondo, Álava",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764666,
+      "ns": 6,
+      "title": "File:Interior de la Ermita de San Prudencio de Okondo 4.jpg",
+      "lat": 43.164727777778,
+      "lon": -2.9992777777778,
+      "dist": 2418.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764666": {
+              "pageid": 153764666,
+              "ns": 6,
+              "title": "File:Interior de la Ermita de San Prudencio de Okondo 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_4.jpg/500px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_4.jpg/960px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_4.jpg/960px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764666",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:32:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Interior de la Ermita de San Prudencio de Okondo 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024|Ermita de San Prudencio, Okondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.999278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Interior de la Ermita de San Prudencio de Okondo, Álava",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764512,
+      "ns": 6,
+      "title": "File:Ermita de San Prudencio, Okondo 4.jpg",
+      "lat": 43.164727777778,
+      "lon": -2.9992777777778,
+      "dist": 2418.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764512": {
+              "pageid": 153764512,
+              "ns": 6,
+              "title": "File:Ermita de San Prudencio, Okondo 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ermita_de_San_Prudencio%2C_Okondo_4.jpg/500px-Ermita_de_San_Prudencio%2C_Okondo_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ermita_de_San_Prudencio%2C_Okondo_4.jpg/960px-Ermita_de_San_Prudencio%2C_Okondo_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ermita_de_San_Prudencio%2C_Okondo_4.jpg/960px-Ermita_de_San_Prudencio%2C_Okondo_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ermita_de_San_Prudencio%2C_Okondo_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_de_San_Prudencio,_Okondo_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764512",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:25:17",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita de San Prudencio, Okondo 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024|Ermita de San Prudencio, Okondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.999278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ermita de San Prudencio, Okondo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764533,
+      "ns": 6,
+      "title": "File:Ermita de San Prudencio, Okondo 2.jpg",
+      "lat": 43.164727777778,
+      "lon": -2.9992777777778,
+      "dist": 2418.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764533": {
+              "pageid": 153764533,
+              "ns": 6,
+              "title": "File:Ermita de San Prudencio, Okondo 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ermita_de_San_Prudencio%2C_Okondo_2.jpg/500px-Ermita_de_San_Prudencio%2C_Okondo_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 532,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ermita_de_San_Prudencio%2C_Okondo_2.jpg/960px-Ermita_de_San_Prudencio%2C_Okondo_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ermita_de_San_Prudencio%2C_Okondo_2.jpg/960px-Ermita_de_San_Prudencio%2C_Okondo_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ermita_de_San_Prudencio%2C_Okondo_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_de_San_Prudencio,_Okondo_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764533",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:26:24",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita de San Prudencio, Okondo 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024|Ermita de San Prudencio, Okondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.999278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ermita de San Prudencio, Okondo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764502,
+      "ns": 6,
+      "title": "File:Ermita de San Prudencio, Okondo 1.jpg",
+      "lat": 43.164727777778,
+      "lon": -2.9992777777778,
+      "dist": 2418.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764502": {
+              "pageid": 153764502,
+              "ns": 6,
+              "title": "File:Ermita de San Prudencio, Okondo 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ermita_de_San_Prudencio%2C_Okondo_1.jpg/500px-Ermita_de_San_Prudencio%2C_Okondo_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ermita_de_San_Prudencio%2C_Okondo_1.jpg/960px-Ermita_de_San_Prudencio%2C_Okondo_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ermita_de_San_Prudencio%2C_Okondo_1.jpg/960px-Ermita_de_San_Prudencio%2C_Okondo_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ermita_de_San_Prudencio%2C_Okondo_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_de_San_Prudencio,_Okondo_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764502",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:24:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita de San Prudencio, Okondo 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Okondo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024|Ermita de San Prudencio, Okondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.999278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ermita de San Prudencio, Okondo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764655,
+      "ns": 6,
+      "title": "File:Interior de la Ermita de San Prudencio de Okondo 1.jpg",
+      "lat": 43.164727777778,
+      "lon": -2.9992777777778,
+      "dist": 2418.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764655": {
+              "pageid": 153764655,
+              "ns": 6,
+              "title": "File:Interior de la Ermita de San Prudencio de Okondo 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_1.jpg/500px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 532,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_1.jpg/960px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_1.jpg/960px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764655",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:32:27",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Interior de la Ermita de San Prudencio de Okondo 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024|Ermita de San Prudencio, Okondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.999278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Interior de la Ermita de San Prudencio de Okondo, Álava",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764650,
+      "ns": 6,
+      "title": "File:Interior de la Ermita de San Prudencio de Okondo 3.jpg",
+      "lat": 43.164727777778,
+      "lon": -2.9992777777778,
+      "dist": 2418.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764650": {
+              "pageid": 153764650,
+              "ns": 6,
+              "title": "File:Interior de la Ermita de San Prudencio de Okondo 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_3.jpg/500px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_3.jpg/960px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_3.jpg/960px-Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Interior_de_la_Ermita_de_San_Prudencio_de_Okondo_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764650",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:32:06",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Interior de la Ermita de San Prudencio de Okondo 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024|Ermita de San Prudencio, Okondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.999278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Interior de la Ermita de San Prudencio de Okondo, Álava",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 153764525,
+      "ns": 6,
+      "title": "File:Ermita de San Prudencio, Okondo 3.jpg",
+      "lat": 43.164727777778,
+      "lon": -2.9992777777778,
+      "dist": 2418.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "153764525": {
+              "pageid": 153764525,
+              "ns": 6,
+              "title": "File:Ermita de San Prudencio, Okondo 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ermita_de_San_Prudencio%2C_Okondo_3.jpg/500px-Ermita_de_San_Prudencio%2C_Okondo_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ermita_de_San_Prudencio%2C_Okondo_3.jpg/960px-Ermita_de_San_Prudencio%2C_Okondo_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ermita_de_San_Prudencio%2C_Okondo_3.jpg/960px-Ermita_de_San_Prudencio%2C_Okondo_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ermita_de_San_Prudencio%2C_Okondo_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ermita_de_San_Prudencio,_Okondo_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153764525",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-10-10 21:25:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Ermita de San Prudencio, Okondo 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2024-10-10|All media supported by Wikimedia España in 2024|ConMiWiki 2024|Ermita de San Prudencio, Okondo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164728",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.999278",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Ermita de San Prudencio, Okondo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "10 October 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mentxuwiki\" title=\"User:Mentxuwiki\">Mentxuwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 4637886,
+      "ns": 6,
+      "title": "File:Okondoko paisaia.jpg",
+      "lat": 43.164694444444,
+      "lon": -2.9911388888889,
+      "dist": 3037.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "4637886": {
+              "pageid": 4637886,
+              "ns": 6,
+              "title": "File:Okondoko paisaia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Okondoko_paisaia.jpg/500px-Okondoko_paisaia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 120,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Okondoko_paisaia.jpg/960px-Okondoko_paisaia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Okondoko_paisaia.jpg/960px-Okondoko_paisaia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Okondoko_paisaia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Okondoko_paisaia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4637886",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2008-08-26 20:49:19",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Okondoko paisaia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Okondo|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.164694",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.991139",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Landscape of Okondo (Araba, Basque Country, Spain)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-08-26",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Asier Sarasua Garmendia",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82307169,
+      "ns": 6,
+      "title": "File:Aiara, Negorta jauregia 019.jpg",
+      "lat": 43.124203,
+      "lon": -3.038195,
+      "dist": 3693.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82307169": {
+              "pageid": 82307169,
+              "ns": 6,
+              "title": "File:Aiara, Negorta jauregia 019.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aiara%2C_Negorta_jauregia_019.jpg/500px-Aiara%2C_Negorta_jauregia_019.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aiara%2C_Negorta_jauregia_019.jpg/960px-Aiara%2C_Negorta_jauregia_019.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aiara%2C_Negorta_jauregia_019.jpg/960px-Aiara%2C_Negorta_jauregia_019.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Aiara%2C_Negorta_jauregia_019.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aiara,_Negorta_jauregia_019.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82307169",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-18 20:12:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aiara, Negorta jauregia 019",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Negorta Tower|Self-published work|Files with coordinates missing SDC location of creation|Spain photographs taken on 2013-11-09|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.124203",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.038195",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Negorta dorretxea",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-11-09 12:50:45",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 82307168,
+      "ns": 6,
+      "title": "File:Aiara, Negorta jauregia 021.jpg",
+      "lat": 43.124203,
+      "lon": -3.038195,
+      "dist": 3693.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "82307168": {
+              "pageid": 82307168,
+              "ns": 6,
+              "title": "File:Aiara, Negorta jauregia 021.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aiara%2C_Negorta_jauregia_021.jpg/500px-Aiara%2C_Negorta_jauregia_021.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aiara%2C_Negorta_jauregia_021.jpg/960px-Aiara%2C_Negorta_jauregia_021.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aiara%2C_Negorta_jauregia_021.jpg/960px-Aiara%2C_Negorta_jauregia_021.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Aiara%2C_Negorta_jauregia_021.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aiara,_Negorta_jauregia_021.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82307168",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2019-09-18 20:12:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Aiara, Negorta jauregia 021",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Images from Wiki Loves Monuments 2019|Negorta Tower|Self-published work|Files with coordinates missing SDC location of creation|Spain photographs taken on 2013-11-09|Uploaded via Campaign:wlm-es-eus|Images from Wiki Loves Monuments 2019 in Spain|Images from Wiki Loves Monuments 2019 in the Basque Country|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "43.124203",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-3.038195",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Negorta dorretxea",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2013-11-09 12:51:34",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ebaki\" title=\"User:Ebaki\">Ebaki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "id": 352703602,
+  "town": {
+    "name": {
+      "default": "Zulueta",
+      "es": null,
+      "eu": "Zulueta"
+    },
+    "coordinates": {
+      "lat": 42.7453593,
+      "lon": -1.5800028
+    }
+  },
+  "files": [
+    {
+      "pageid": 58609648,
+      "ns": 6,
+      "title": "File:Labiano (4).jpg",
+      "lat": 42.758055,
+      "lon": -1.547947,
+      "dist": 2973.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "58609648": {
+              "pageid": 58609648,
+              "ns": 6,
+              "title": "File:Labiano (4).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Labiano_%284%29.jpg/500px-Labiano_%284%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Labiano_%284%29.jpg/960px-Labiano_%284%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Labiano_%284%29.jpg/960px-Labiano_%284%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Labiano_%284%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Labiano_(4).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58609648",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-05-08 12:47:06",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Labiano (4)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Church facades in Navarre|Files with coordinates missing SDC location of creation|Iglesia de la Purificación (Labiano)",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.758055",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.547947",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia parroquial de la Purificación",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-10-26 14:45:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jvinolase\" title=\"User:Jvinolase\">Josep Maria Viñolas Esteva</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 19180643,
+      "ns": 6,
+      "title": "File:Embalse de Zolina (Aranguren).jpg",
+      "lat": 42.773668,
+      "lon": -1.577216,
+      "dist": 3156,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "19180643": {
+              "pageid": 19180643,
+              "ns": 6,
+              "title": "File:Embalse de Zolina (Aranguren).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Embalse_de_Zolina_%28Aranguren%29.jpg/500px-Embalse_de_Zolina_%28Aranguren%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Embalse_de_Zolina_%28Aranguren%29.jpg/960px-Embalse_de_Zolina_%28Aranguren%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Embalse_de_Zolina_%28Aranguren%29.jpg/960px-Embalse_de_Zolina_%28Aranguren%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Embalse_de_Zolina_%28Aranguren%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Embalse_de_Zolina_(Aranguren).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19180643",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2012-04-22 19:53:18",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Embalse de Zolina (Aranguren)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Zolina|Reservoirs in Navarre|Self-published work|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.773668",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.577216",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Dique del embalse de Zolina, en el municipio navarro de Aranguren.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2012-04-22",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sannicolasdeugarte&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sannicolasdeugarte (page does not exist)\">Sannicolasdeugarte</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 3.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-3.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 116080496,
+      "ns": 6,
+      "title": "File:Lexus LS-600h. (Hybrid) (51936953232).jpg",
+      "lat": 42.730945,
+      "lon": -1.614882,
+      "dist": 3268.5,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "116080496": {
+              "pageid": 116080496,
+              "ns": 6,
+              "title": "File:Lexus LS-600h. (Hybrid) (51936953232).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lexus_LS-600h._%28Hybrid%29_%2851936953232%29.jpg/500px-Lexus_LS-600h._%28Hybrid%29_%2851936953232%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 188,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lexus_LS-600h._%28Hybrid%29_%2851936953232%29.jpg/960px-Lexus_LS-600h._%28Hybrid%29_%2851936953232%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lexus_LS-600h._%28Hybrid%29_%2851936953232%29.jpg/960px-Lexus_LS-600h._%28Hybrid%29_%2851936953232%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lexus_LS-600h._%28Hybrid%29_%2851936953232%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lexus_LS-600h._(Hybrid)_(51936953232).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116080496",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-03-15 04:36:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Lexus LS-600h. (Hybrid) (51936953232)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "CC-Zero|Lexus LS 600h (UVF45)|Blue Lexus sedans|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Txemai Argazki",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.730945",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.614882",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "www.km77.com/coches/lexus/ls/2013/estandar/estandar/ls-60...",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2021-09-09 17:29:00",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/serrvill/51936953232/\">https://www.flickr.com/photos/serrvill/51936953232/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "Txemari (Argazki).",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Zero, Public Domain Dedication",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 117598180,
+      "ns": 6,
+      "title": "File:NA-234 km 5.jpg",
+      "lat": 42.71428,
+      "lon": -1.58159,
+      "dist": 3458.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "117598180": {
+              "pageid": 117598180,
+              "ns": 6,
+              "title": "File:NA-234 km 5.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/NA-234_km_5.jpg/500px-NA-234_km_5.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/NA-234_km_5.jpg/960px-NA-234_km_5.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/NA-234_km_5.jpg/960px-NA-234_km_5.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/NA-234_km_5.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:NA-234_km_5.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117598180",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-05-01 22:03:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "NA-234 km 5",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Noáin|Self-published work|Road transport in Navarre|Kilometer signs in Spain|Files with coordinates missing SDC location of creation",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.714280",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.581590",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Kilómetro 5 de la NA-234 entre Otano y Ezperun (Valle de Elorz)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-05-01",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Amaiur22&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Amaiur22 (page does not exist)\">Amaiur22</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 127464482,
+      "ns": 6,
+      "title": "File:Acueducto de Noáin - 52531010316.jpg",
+      "lat": 42.750801,
+      "lon": -1.62824,
+      "dist": 3985,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "127464482": {
+              "pageid": 127464482,
+              "ns": 6,
+              "title": "File:Acueducto de Noáin - 52531010316.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Acueducto_de_No%C3%A1in_-_52531010316.jpg/500px-Acueducto_de_No%C3%A1in_-_52531010316.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 265,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Acueducto_de_No%C3%A1in_-_52531010316.jpg/960px-Acueducto_de_No%C3%A1in_-_52531010316.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Acueducto_de_No%C3%A1in_-_52531010316.jpg/960px-Acueducto_de_No%C3%A1in_-_52531010316.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Acueducto_de_No%C3%A1in_-_52531010316.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Acueducto_de_No%C3%A1in_-_52531010316.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127464482",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2023-01-06 19:33:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Acueducto de Noáin - 52531010316",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Rail transport in Navarre|Renfe class 470|Aqueduct of Noáin|Flickr images missing SDC creator|Flickr images missing SDC source of file|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|2022 in Navarre",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.750801",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.628240",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Una veterana 470 muy cuidada atraviesa el Acueducto de Noáin a pocos minutos de llegar a Pamplona con el regional matinal.\n<p>A spotless Renfe Class 470 has just crossed under the Noain Aqueduct on its way to Pamplona.\n</p>\nlinktr.ee/andremarques432",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-10-31 09:29:11",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/gransaco/52531010316/\">https://www.flickr.com/photos/gransaco/52531010316/</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "André  Marques 432",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

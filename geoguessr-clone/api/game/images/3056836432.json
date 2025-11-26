@@ -1,0 +1,4483 @@
+{
+  "id": 3056836432,
+  "town": {
+    "name": {
+      "default": "Pueyo / Puiu",
+      "es": "Pueyo",
+      "eu": "Puiu"
+    },
+    "coordinates": {
+      "lat": 42.565559,
+      "lon": -1.6483398
+    }
+  },
+  "files": [
+    {
+      "pageid": 146825998,
+      "ns": 6,
+      "title": "File:Sansomáin exterior 1.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825998": {
+              "pageid": 146825998,
+              "ns": 6,
+              "title": "File:Sansomáin exterior 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sansom%C3%A1in_exterior_1.jpg/500px-Sansom%C3%A1in_exterior_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sansom%C3%A1in_exterior_1.jpg/960px-Sansom%C3%A1in_exterior_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sansom%C3%A1in_exterior_1.jpg/960px-Sansom%C3%A1in_exterior_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sansom%C3%A1in_exterior_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_exterior_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825998",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin exterior 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Sansomain|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista exterior de la iglesia de San Pedro en Sansomain, en primer plano una construcción del caserio,",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825985,
+      "ns": 6,
+      "title": "File:Sansomáin lápidas 3.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825985": {
+              "pageid": 146825985,
+              "ns": 6,
+              "title": "File:Sansomáin lápidas 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sansom%C3%A1in_l%C3%A1pidas_3.jpg/500px-Sansom%C3%A1in_l%C3%A1pidas_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sansom%C3%A1in_l%C3%A1pidas_3.jpg/960px-Sansom%C3%A1in_l%C3%A1pidas_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sansom%C3%A1in_l%C3%A1pidas_3.jpg/960px-Sansom%C3%A1in_l%C3%A1pidas_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Sansom%C3%A1in_l%C3%A1pidas_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_l%C3%A1pidas_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825985",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin lápidas 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Gravestones in Navarre|16th-century gravestones in Spain|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lauda sepulcral en la iglesia de San Pedro, en Sansomain, situda en el lado de la epistola, en simetría con la situada en el lado del evangelio, pero solo tiene grabado un escudo en la parte superior, dejando el resto libre. En \"orla\" se puede lleer: \"...EZIENTES DE LA CASA DE LEACHE DE SANSOMAIN Y SUS DEZEN...\"",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146826009,
+      "ns": 6,
+      "title": "File:Sansomáin exterior 5.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146826009": {
+              "pageid": 146826009,
+              "ns": 6,
+              "title": "File:Sansomáin exterior 5.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sansom%C3%A1in_exterior_5.jpg/500px-Sansom%C3%A1in_exterior_5.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sansom%C3%A1in_exterior_5.jpg/960px-Sansom%C3%A1in_exterior_5.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sansom%C3%A1in_exterior_5.jpg/960px-Sansom%C3%A1in_exterior_5.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sansom%C3%A1in_exterior_5.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_exterior_5.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146826009",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:11",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin exterior 5",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Crismón en el tímpano de la puerta del templo de San Pedro en Sansoamain, como peculiariddad se observa que la omega está invertida, y que en el punto en que se cruzan los dos trazos de la X, se graba una cruz",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825997,
+      "ns": 6,
+      "title": "File:Sansomáin nave 5.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825997": {
+              "pageid": 146825997,
+              "ns": 6,
+              "title": "File:Sansomáin nave 5.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sansom%C3%A1in_nave_5.jpg/500px-Sansom%C3%A1in_nave_5.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sansom%C3%A1in_nave_5.jpg/960px-Sansom%C3%A1in_nave_5.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sansom%C3%A1in_nave_5.jpg/960px-Sansom%C3%A1in_nave_5.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sansom%C3%A1in_nave_5.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_nave_5.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825997",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:07",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin nave 5",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "äbside de la iglesia de San Pedro en Sansomain, cubierto por una bóveda de horno apuntado; el arco triunfal, también apuntado, se apoya sobre mensulas de rollo; en el eje del ábside se abre un hueco abocinado con arco de medio punto. A la altura de los capiteles recorre los dos lados de la nave una imposta con una senilla moldura en bocel",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825994,
+      "ns": 6,
+      "title": "File:Sansomáin nave 4.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825994": {
+              "pageid": 146825994,
+              "ns": 6,
+              "title": "File:Sansomáin nave 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sansom%C3%A1in_nave_4.jpg/500px-Sansom%C3%A1in_nave_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sansom%C3%A1in_nave_4.jpg/960px-Sansom%C3%A1in_nave_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sansom%C3%A1in_nave_4.jpg/960px-Sansom%C3%A1in_nave_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sansom%C3%A1in_nave_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_nave_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825994",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:05",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin nave 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "äbside de la iglesia de San Pedro en Sansomain, cubierto por una bóveda de horno apuntado; el arco triunfal, también apuntado, se apoya sobre mensulas de rollo; en el eje del ábside se abre un hueco abocinado con arco de medio punto.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825979,
+      "ns": 6,
+      "title": "File:Sansomáin interior 2.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825979": {
+              "pageid": 146825979,
+              "ns": 6,
+              "title": "File:Sansomáin interior 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sansom%C3%A1in_interior_2.jpg/500px-Sansom%C3%A1in_interior_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sansom%C3%A1in_interior_2.jpg/960px-Sansom%C3%A1in_interior_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sansom%C3%A1in_interior_2.jpg/960px-Sansom%C3%A1in_interior_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sansom%C3%A1in_interior_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_interior_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825979",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:36:57",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin interior 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Pila bautismal de la antigua parroquia de San Pedro, en Sansoman",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825999,
+      "ns": 6,
+      "title": "File:Sansomáin exterior 2.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825999": {
+              "pageid": 146825999,
+              "ns": 6,
+              "title": "File:Sansomáin exterior 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sansom%C3%A1in_exterior_2.jpg/500px-Sansom%C3%A1in_exterior_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 316,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sansom%C3%A1in_exterior_2.jpg/960px-Sansom%C3%A1in_exterior_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sansom%C3%A1in_exterior_2.jpg/960px-Sansom%C3%A1in_exterior_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sansom%C3%A1in_exterior_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_exterior_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825999",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:08",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin exterior 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista exterior de la iglesia de San Pedro en Sansomain, en primer plano, a la izquierda la sacritía construida en el siglo XVI, detrás el ábside de la iglesia y al fondo la torre-campanario",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825993,
+      "ns": 6,
+      "title": "File:Sansomáin nave 2.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825993": {
+              "pageid": 146825993,
+              "ns": 6,
+              "title": "File:Sansomáin nave 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sansom%C3%A1in_nave_2.jpg/500px-Sansom%C3%A1in_nave_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sansom%C3%A1in_nave_2.jpg/960px-Sansom%C3%A1in_nave_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sansom%C3%A1in_nave_2.jpg/960px-Sansom%C3%A1in_nave_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sansom%C3%A1in_nave_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_nave_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825993",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin nave 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "iglesia de San Pedro en Sansomain. Bóveda de cañón apuntado, con arcos fajones que se apoyan en mensulas de rollo.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146826014,
+      "ns": 6,
+      "title": "File:Sansomáin exterior 6.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146826014": {
+              "pageid": 146826014,
+              "ns": 6,
+              "title": "File:Sansomáin exterior 6.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sansom%C3%A1in_exterior_6.jpg/500px-Sansom%C3%A1in_exterior_6.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sansom%C3%A1in_exterior_6.jpg/960px-Sansom%C3%A1in_exterior_6.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sansom%C3%A1in_exterior_6.jpg/960px-Sansom%C3%A1in_exterior_6.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sansom%C3%A1in_exterior_6.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_exterior_6.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146826014",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin exterior 6",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Torre de la iglesia de San Pedro en Sansomain, su características formales remiten a una torre defensiva",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825972,
+      "ns": 6,
+      "title": "File:Sansomáin imágenes 2.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825972": {
+              "pageid": 146825972,
+              "ns": 6,
+              "title": "File:Sansomáin imágenes 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sansom%C3%A1in_im%C3%A1genes_2.jpg/500px-Sansom%C3%A1in_im%C3%A1genes_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sansom%C3%A1in_im%C3%A1genes_2.jpg/960px-Sansom%C3%A1in_im%C3%A1genes_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sansom%C3%A1in_im%C3%A1genes_2.jpg/960px-Sansom%C3%A1in_im%C3%A1genes_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sansom%C3%A1in_im%C3%A1genes_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_im%C3%A1genes_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825972",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:36:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin imágenes 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Statues of Saint Peter in Spain|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Imagen de San Pedro, titular de la iglesia de Sansomain, estuvo allí hasta que esa iglesia dejó de ser parroquia. Se recuperó en la segunda mitad del siglo XX, estaba en una iglesia de Tafalla",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825980,
+      "ns": 6,
+      "title": "File:Sansomáin lápidas 2.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825980": {
+              "pageid": 146825980,
+              "ns": 6,
+              "title": "File:Sansomáin lápidas 2.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sansom%C3%A1in_l%C3%A1pidas_2.jpg/500px-Sansom%C3%A1in_l%C3%A1pidas_2.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sansom%C3%A1in_l%C3%A1pidas_2.jpg/960px-Sansom%C3%A1in_l%C3%A1pidas_2.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sansom%C3%A1in_l%C3%A1pidas_2.jpg/960px-Sansom%C3%A1in_l%C3%A1pidas_2.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sansom%C3%A1in_l%C3%A1pidas_2.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_l%C3%A1pidas_2.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825980",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:36:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin lápidas 2",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Gravestones in Navarre|16th-century gravestones in Spain|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lauda sepulcral en en el lado del evangelio de la nave de la iglesia de San Pedro, en Sansomain, tiene grabados dos escudos",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825986,
+      "ns": 6,
+      "title": "File:Sansomáin lápidas 4.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825986": {
+              "pageid": 146825986,
+              "ns": 6,
+              "title": "File:Sansomáin lápidas 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sansom%C3%A1in_l%C3%A1pidas_4.jpg/500px-Sansom%C3%A1in_l%C3%A1pidas_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sansom%C3%A1in_l%C3%A1pidas_4.jpg/960px-Sansom%C3%A1in_l%C3%A1pidas_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sansom%C3%A1in_l%C3%A1pidas_4.jpg/960px-Sansom%C3%A1in_l%C3%A1pidas_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sansom%C3%A1in_l%C3%A1pidas_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_l%C3%A1pidas_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825986",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin lápidas 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Gravestones in Navarre|16th-century gravestones in Spain|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Escudo en la parte superior de una lauda sepulcral en el lado de la epístola de la iglesia de San Pedro, en Sansomain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825992,
+      "ns": 6,
+      "title": "File:Sansomáin nave 3.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825992": {
+              "pageid": 146825992,
+              "ns": 6,
+              "title": "File:Sansomáin nave 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sansom%C3%A1in_nave_3.jpg/500px-Sansom%C3%A1in_nave_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sansom%C3%A1in_nave_3.jpg/960px-Sansom%C3%A1in_nave_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sansom%C3%A1in_nave_3.jpg/960px-Sansom%C3%A1in_nave_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Sansom%C3%A1in_nave_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_nave_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825992",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:04",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin nave 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista de la nave de la iglesia de San Pedro en Sansomáin. La nave se cubre con boveda de cañón apuntado; el coro se apota en un arco rebajado, el plano en que se abre se prolonga en un parapeto que deja un hueco en el lugar en que había una escalera pegada al muro, En al plano que limta el coro. El arco fajón del coro es doble, el externo se apota en pilastras enbebidas en el paremento arco fajón, con arcos fajones; el que precede al coro se apoya en pilastras; el que da entrada al coro se doble, el primero se apoya en pilastras enbebidas en el paramento en que se abre el arco, el interior se apoya sobre mensulas de rollo.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825970,
+      "ns": 6,
+      "title": "File:Sansomáin imágenes 1.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825970": {
+              "pageid": 146825970,
+              "ns": 6,
+              "title": "File:Sansomáin imágenes 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sansom%C3%A1in_im%C3%A1genes_1.jpg/500px-Sansom%C3%A1in_im%C3%A1genes_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 601,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sansom%C3%A1in_im%C3%A1genes_1.jpg/960px-Sansom%C3%A1in_im%C3%A1genes_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sansom%C3%A1in_im%C3%A1genes_1.jpg/960px-Sansom%C3%A1in_im%C3%A1genes_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sansom%C3%A1in_im%C3%A1genes_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_im%C3%A1genes_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825970",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:36:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin imágenes 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Statues of Madonna and Child in Navarre|Files with coordinates missing SDC location of creation|Gothic statues of Virgin Mary|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Talla gótica de la Virgen, procedente de Tafalla, que en la segunda mitad del siglo XX se llevó an la iglesia de Sansomáin",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825982,
+      "ns": 6,
+      "title": "File:Sansomáin lápidas 1.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825982": {
+              "pageid": 146825982,
+              "ns": 6,
+              "title": "File:Sansomáin lápidas 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sansom%C3%A1in_l%C3%A1pidas_1.jpg/500px-Sansom%C3%A1in_l%C3%A1pidas_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sansom%C3%A1in_l%C3%A1pidas_1.jpg/960px-Sansom%C3%A1in_l%C3%A1pidas_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sansom%C3%A1in_l%C3%A1pidas_1.jpg/960px-Sansom%C3%A1in_l%C3%A1pidas_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sansom%C3%A1in_l%C3%A1pidas_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_l%C3%A1pidas_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825982",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:36:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin lápidas 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Gravestones in Navarre|16th-century gravestones in Spain|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Escudo en la parte superior de una lauda sepulcral en el lado del evangelio de la iglesia de San Pedro, en Sansomain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146826005,
+      "ns": 6,
+      "title": "File:Sansomáin exterior 4.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146826005": {
+              "pageid": 146826005,
+              "ns": 6,
+              "title": "File:Sansomáin exterior 4.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sansom%C3%A1in_exterior_4.jpg/500px-Sansom%C3%A1in_exterior_4.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sansom%C3%A1in_exterior_4.jpg/960px-Sansom%C3%A1in_exterior_4.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sansom%C3%A1in_exterior_4.jpg/960px-Sansom%C3%A1in_exterior_4.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sansom%C3%A1in_exterior_4.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_exterior_4.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146826005",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin exterior 4",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista desde el suroeste de la iglesia de San Pedro en Sansomain, muestra la fachada en la que se abre la portada del templo",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146826004,
+      "ns": 6,
+      "title": "File:Sansomáin exterior 3.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146826004": {
+              "pageid": 146826004,
+              "ns": 6,
+              "title": "File:Sansomáin exterior 3.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sansom%C3%A1in_exterior_3.jpg/500px-Sansom%C3%A1in_exterior_3.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sansom%C3%A1in_exterior_3.jpg/960px-Sansom%C3%A1in_exterior_3.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sansom%C3%A1in_exterior_3.jpg/960px-Sansom%C3%A1in_exterior_3.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sansom%C3%A1in_exterior_3.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_exterior_3.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146826004",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:10",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin exterior 3",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Portada de la iglesia de San Pedro de Sansomain, se abre en pórtico adelantado con un tejaroz; un primer arco apuntado con molduras en el intradós y en el extradós, dejan en un segundo plano la portada propiamente dicha condos arquivoltas baquetondas sobre delgadas columnas con capiteles con hojas muy simples. En el tímpano del arco un crismón",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825971,
+      "ns": 6,
+      "title": "File:Sansomáin interior 1.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825971": {
+              "pageid": 146825971,
+              "ns": 6,
+              "title": "File:Sansomáin interior 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sansom%C3%A1in_interior_1.jpg/500px-Sansom%C3%A1in_interior_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sansom%C3%A1in_interior_1.jpg/960px-Sansom%C3%A1in_interior_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sansom%C3%A1in_interior_1.jpg/960px-Sansom%C3%A1in_interior_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sansom%C3%A1in_interior_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_interior_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825971",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:36:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin interior 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Lavabo en la sacristía de la iglesia de San Pedro, en Sansomain, es contemporánea de la construcción de la sacristía, realizó en 1570.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146825990,
+      "ns": 6,
+      "title": "File:Sansomáin nave 1.jpg",
+      "lat": 42.583444,
+      "lon": -1.645559,
+      "dist": 2001.7,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146825990": {
+              "pageid": 146825990,
+              "ns": 6,
+              "title": "File:Sansomáin nave 1.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sansom%C3%A1in_nave_1.jpg/500px-Sansom%C3%A1in_nave_1.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sansom%C3%A1in_nave_1.jpg/960px-Sansom%C3%A1in_nave_1.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sansom%C3%A1in_nave_1.jpg/960px-Sansom%C3%A1in_nave_1.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sansom%C3%A1in_nave_1.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_nave_1.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146825990",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-27 17:37:01",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin nave 1",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.583444",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.645559",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "äbside de la iglesia de San Pedro en Sansomain, cubierto por una bóveda de horno apuntado; el arco triunfal, también apuntado, se apoya sobre mensulas de rollo; en el eje del ábside se abre un hueco abocinado con arco de medio punto.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 17:10:30",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487107,
+      "ns": 6,
+      "title": "File:Cataláin 21.jpg",
+      "lat": 42.586824,
+      "lon": -1.644649,
+      "dist": 2383.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487107": {
+              "pageid": 146487107,
+              "ns": 6,
+              "title": "File:Cataláin 21.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Catal%C3%A1in_21.jpg/500px-Catal%C3%A1in_21.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Catal%C3%A1in_21.jpg/960px-Catal%C3%A1in_21.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Catal%C3%A1in_21.jpg/960px-Catal%C3%A1in_21.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Catal%C3%A1in_21.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catal%C3%A1in_21.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487107",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cataláin 21",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.586824",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644649",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Capitel del arco de triunfo que da acceso al presbiterio de la ermita de Cataláin, del lado del evangelio",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:05:23",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487110,
+      "ns": 6,
+      "title": "File:Cataláin 24.jpg",
+      "lat": 42.586824,
+      "lon": -1.644649,
+      "dist": 2383.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487110": {
+              "pageid": 146487110,
+              "ns": 6,
+              "title": "File:Cataláin 24.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Catal%C3%A1in_24.jpg/500px-Catal%C3%A1in_24.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Catal%C3%A1in_24.jpg/960px-Catal%C3%A1in_24.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Catal%C3%A1in_24.jpg/960px-Catal%C3%A1in_24.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Catal%C3%A1in_24.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catal%C3%A1in_24.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487110",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cataláin 24",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.586824",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644649",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Nave de la ermita del Santo Cristo de Cataláin. A través del arco de triunfo se ve, al fondo, delante el cruceo, bien iluminado por la linterna situada sobre el cimborrio",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:06:59",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487106,
+      "ns": 6,
+      "title": "File:Cataláin 20.jpg",
+      "lat": 42.586824,
+      "lon": -1.644649,
+      "dist": 2383.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487106": {
+              "pageid": 146487106,
+              "ns": 6,
+              "title": "File:Cataláin 20.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Catal%C3%A1in_20.jpg/500px-Catal%C3%A1in_20.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Catal%C3%A1in_20.jpg/960px-Catal%C3%A1in_20.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Catal%C3%A1in_20.jpg/960px-Catal%C3%A1in_20.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Catal%C3%A1in_20.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catal%C3%A1in_20.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487106",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:30",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cataláin 20",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.586824",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644649",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Capitel del arco de triunfo que da acceso al presbiterio de la ermita de Cataláin, del lado de la epístola",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:04:44",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487112,
+      "ns": 6,
+      "title": "File:Cataláin 25.jpg",
+      "lat": 42.586824,
+      "lon": -1.644649,
+      "dist": 2383.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487112": {
+              "pageid": 146487112,
+              "ns": 6,
+              "title": "File:Cataláin 25.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Catal%C3%A1in_25.jpg/500px-Catal%C3%A1in_25.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Catal%C3%A1in_25.jpg/960px-Catal%C3%A1in_25.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Catal%C3%A1in_25.jpg/960px-Catal%C3%A1in_25.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Catal%C3%A1in_25.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catal%C3%A1in_25.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487112",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:34",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cataláin 25",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.586824",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644649",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Imegen gótica del Cristo de Cataláin. Talla del siglo XIV; está situado en el lado del evangelio del falso crucero",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:07:59",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487109,
+      "ns": 6,
+      "title": "File:Cataláin 22.jpg",
+      "lat": 42.586824,
+      "lon": -1.644649,
+      "dist": 2383.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487109": {
+              "pageid": 146487109,
+              "ns": 6,
+              "title": "File:Cataláin 22.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Catal%C3%A1in_22.jpg/500px-Catal%C3%A1in_22.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 617,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Catal%C3%A1in_22.jpg/960px-Catal%C3%A1in_22.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Catal%C3%A1in_22.jpg/960px-Catal%C3%A1in_22.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Catal%C3%A1in_22.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catal%C3%A1in_22.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487109",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:31",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cataláin 22",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.586824",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644649",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Imegen gótica del Cristo de Cataláin. Talla del siglo XIV",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:05:32",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487111,
+      "ns": 6,
+      "title": "File:Cataláin 23.jpg",
+      "lat": 42.586824,
+      "lon": -1.644649,
+      "dist": 2383.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487111": {
+              "pageid": 146487111,
+              "ns": 6,
+              "title": "File:Cataláin 23.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Catal%C3%A1in_23.jpg/500px-Catal%C3%A1in_23.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 352,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Catal%C3%A1in_23.jpg/960px-Catal%C3%A1in_23.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Catal%C3%A1in_23.jpg/960px-Catal%C3%A1in_23.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Catal%C3%A1in_23.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catal%C3%A1in_23.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487111",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:33",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cataláin 23",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.586824",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644649",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Pila bautismal de piedrá gótica del siglo X, se sitúa en el lado de la epístola del crucero.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:05:50",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487114,
+      "ns": 6,
+      "title": "File:Imegen gótica del Cristo de Cataláin. Talla del siglo XIV.jpg",
+      "lat": 42.586824,
+      "lon": -1.644649,
+      "dist": 2383.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487114": {
+              "pageid": 146487114,
+              "ns": 6,
+              "title": "File:Imegen gótica del Cristo de Cataláin. Talla del siglo XIV.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Imegen_g%C3%B3tica_del_Cristo_de_Catal%C3%A1in._Talla_del_siglo_XIV.jpg/500px-Imegen_g%C3%B3tica_del_Cristo_de_Catal%C3%A1in._Talla_del_siglo_XIV.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Imegen_g%C3%B3tica_del_Cristo_de_Catal%C3%A1in._Talla_del_siglo_XIV.jpg/960px-Imegen_g%C3%B3tica_del_Cristo_de_Catal%C3%A1in._Talla_del_siglo_XIV.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Imegen_g%C3%B3tica_del_Cristo_de_Catal%C3%A1in._Talla_del_siglo_XIV.jpg/960px-Imegen_g%C3%B3tica_del_Cristo_de_Catal%C3%A1in._Talla_del_siglo_XIV.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Imegen_g%C3%B3tica_del_Cristo_de_Catal%C3%A1in._Talla_del_siglo_XIV.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Imegen_g%C3%B3tica_del_Cristo_de_Catal%C3%A1in._Talla_del_siglo_XIV.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487114",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:36",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Imegen gótica del Cristo de Cataláin. Talla del siglo XIV",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.586824",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644649",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Imegen gótica del Cristo de Cataláin. Talla del siglo XIV; está situado en el lado del evangelio del falso cruceron",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:08:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487115,
+      "ns": 6,
+      "title": "File:Cataláin 27.jpg",
+      "lat": 42.586824,
+      "lon": -1.644649,
+      "dist": 2383.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487115": {
+              "pageid": 146487115,
+              "ns": 6,
+              "title": "File:Cataláin 27.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Catal%C3%A1in_27.jpg/500px-Catal%C3%A1in_27.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Catal%C3%A1in_27.jpg/960px-Catal%C3%A1in_27.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Catal%C3%A1in_27.jpg/960px-Catal%C3%A1in_27.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Catal%C3%A1in_27.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catal%C3%A1in_27.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487115",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cataláin 27",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.586824",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644649",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Nave de la ermita del Santo Cristo de Cataláin. En primer plano uno de los arcos diafragma; después el último tramo de la nave, el arco de triunfo el crucero y, al fondo, el presbiterio",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:09:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151476883,
+      "ns": 6,
+      "title": "File:Sansomáin Palacio Cabo de Armería 06.jpg",
+      "lat": 42.587583,
+      "lon": -1.633195,
+      "dist": 2745,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151476883": {
+              "pageid": 151476883,
+              "ns": 6,
+              "title": "File:Sansomáin Palacio Cabo de Armería 06.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_06.jpg/500px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_06.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 207,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_06.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_06.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_06.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_06.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_06.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_06.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151476883",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-14 15:04:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin Palacio Cabo de Armería 06",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Sansomain|Iglesia de San Pedro en Sansomain",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.587583",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.633195",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Vista general del lugar, a la derecha la iglesia de San Pedro, a la izquierda construccioens antiguas, entre ellas el Placio cabo de Armería",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 16:54:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151476884,
+      "ns": 6,
+      "title": "File:Sansomáin Palacio Cabo de Armería 07.jpg",
+      "lat": 42.587654,
+      "lon": -1.633145,
+      "dist": 2753.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151476884": {
+              "pageid": 151476884,
+              "ns": 6,
+              "title": "File:Sansomáin Palacio Cabo de Armería 07.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_07.jpg/500px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_07.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_07.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_07.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_07.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_07.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_07.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_07.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151476884",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-14 15:04:56",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin Palacio Cabo de Armería 07",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Palacio cabo de armería de Sasomáin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.587654",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.633145",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Palaco Cabo de Armería de Sansomain",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 16:54:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151476882,
+      "ns": 6,
+      "title": "File:Sansomáin Palacio Cabo de Armería 08.jpg",
+      "lat": 42.58769,
+      "lon": -1.633135,
+      "dist": 2757.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151476882": {
+              "pageid": 151476882,
+              "ns": 6,
+              "title": "File:Sansomáin Palacio Cabo de Armería 08.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_08.jpg/500px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_08.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_08.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_08.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_08.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_08.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_08.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_08.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151476882",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-14 15:04:55",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin Palacio Cabo de Armería 08",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Palacio cabo de armería de Sasomáin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.587690",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.633135",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Doble ventana en el Palacio de Cabo de Armería",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 16:55:05",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151476885,
+      "ns": 6,
+      "title": "File:Sansomáin Palacio Cabo de Armería 09.jpg",
+      "lat": 42.588172,
+      "lon": -1.633127,
+      "dist": 2806.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151476885": {
+              "pageid": 151476885,
+              "ns": 6,
+              "title": "File:Sansomáin Palacio Cabo de Armería 09.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_09.jpg/500px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_09.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_09.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_09.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_09.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_09.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_09.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_09.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151476885",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-14 15:04:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin Palacio Cabo de Armería 09",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Palacio cabo de armería de Sasomáin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.588172",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.633127",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Doble ventana conopial en el Palacio de Cabo de Armería",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 16:58:04",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151476891,
+      "ns": 6,
+      "title": "File:Sansomáin Palacio Cabo de Armería 03.jpg",
+      "lat": 42.588478,
+      "lon": -1.632818,
+      "dist": 2847.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151476891": {
+              "pageid": 151476891,
+              "ns": 6,
+              "title": "File:Sansomáin Palacio Cabo de Armería 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_03.jpg/500px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_03.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_03.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151476891",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-14 15:05:03",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin Palacio Cabo de Armería 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Palacio cabo de armería de Sasomáin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.588478",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.632818",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Palacio de Cabo de Armería",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 16:23:28",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151476888,
+      "ns": 6,
+      "title": "File:Sansomáin Palacio Cabo de Armería 02.jpg",
+      "lat": 42.58859,
+      "lon": -1.633098,
+      "dist": 2848.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151476888": {
+              "pageid": 151476888,
+              "ns": 6,
+              "title": "File:Sansomáin Palacio Cabo de Armería 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_02.jpg/500px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_02.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_02.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151476888",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-14 15:05:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin Palacio Cabo de Armería 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Palacio cabo de armería de Sasomáin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.588590",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.633098",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Palacio de Cabo de Armería",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 16:22:42",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 151476887,
+      "ns": 6,
+      "title": "File:Sansomáin Palacio Cabo de Armería 01.jpg",
+      "lat": 42.588592,
+      "lon": -1.633097,
+      "dist": 2849.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "151476887": {
+              "pageid": 151476887,
+              "ns": 6,
+              "title": "File:Sansomáin Palacio Cabo de Armería 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_01.jpg/500px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 549,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_01.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_01.jpg/960px-Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sansom%C3%A1in_Palacio_Cabo_de_Armer%C3%ADa_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151476887",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-08-14 15:04:59",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sansomáin Palacio Cabo de Armería 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Palacio cabo de armería de Sasomáin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.588592",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.633097",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "A la derecha el Palacio Cabo de Armería",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 16:22:21",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 146487116,
+      "ns": 6,
+      "title": "File:Cataláin 28.jpg",
+      "lat": 42.596318,
+      "lon": -1.644346,
+      "dist": 3435.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "146487116": {
+              "pageid": 146487116,
+              "ns": 6,
+              "title": "File:Cataláin 28.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Catal%C3%A1in_28.jpg/500px-Catal%C3%A1in_28.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Catal%C3%A1in_28.jpg/960px-Catal%C3%A1in_28.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Catal%C3%A1in_28.jpg/960px-Catal%C3%A1in_28.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Catal%C3%A1in_28.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catal%C3%A1in_28.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146487116",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-03-17 11:22:37",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Cataláin 28",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Interior del templo de Cataláin",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.596318",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.644346",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Detalle de la cabeza del Cristo de Cataláin. Talla gótica del siglo XIV",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2024-03-09 10:56:36",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 176303470,
+      "ns": 6,
+      "title": "File:Alvia Madrid-Pamplona pasando por la estación de Garínoain.jpg",
+      "lat": 42.60038,
+      "lon": -1.650974,
+      "dist": 3877.9,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2025-10-07T23:34:34Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "176303470": {
+              "pageid": 176303470,
+              "ns": 6,
+              "title": "File:Alvia Madrid-Pamplona pasando por la estación de Garínoain.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alvia_Madrid-Pamplona_pasando_por_la_estaci%C3%B3n_de_Gar%C3%ADnoain.jpg/500px-Alvia_Madrid-Pamplona_pasando_por_la_estaci%C3%B3n_de_Gar%C3%ADnoain.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 263,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alvia_Madrid-Pamplona_pasando_por_la_estaci%C3%B3n_de_Gar%C3%ADnoain.jpg/960px-Alvia_Madrid-Pamplona_pasando_por_la_estaci%C3%B3n_de_Gar%C3%ADnoain.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alvia_Madrid-Pamplona_pasando_por_la_estaci%C3%B3n_de_Gar%C3%ADnoain.jpg/960px-Alvia_Madrid-Pamplona_pasando_por_la_estaci%C3%B3n_de_Gar%C3%ADnoain.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Alvia_Madrid-Pamplona_pasando_por_la_estaci%C3%B3n_de_Gar%C3%ADnoain.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alvia_Madrid-Pamplona_pasando_por_la_estaci%C3%B3n_de_Gar%C3%ADnoain.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176303470",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-10-15 15:05:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Alvia Madrid-Pamplona pasando por la estación de Garínoain",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Level crossings in Spain|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Garínoain train station",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.600380",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.650974",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Un Alvia S-120 pasando puntual por la estación de Garínoain, en Navarra. Es llamativo el hecho de que casi todas las vías de cruce entre Alsasua y Castejón están brillantes, de lo que se deduce que hay un buen tráfico ferroviario y muchos cruces.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2008-07-22 17:50:45",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jiesnarr/2698788403/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "José Ignacio Esnarriaga San José",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

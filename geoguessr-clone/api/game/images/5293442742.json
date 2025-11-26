@@ -1,0 +1,143 @@
+{
+  "id": 5293442742,
+  "town": {
+    "name": {
+      "default": "Villafranca",
+      "es": "Villafranca",
+      "eu": "Alesbes"
+    },
+    "coordinates": {
+      "lat": 42.2774311,
+      "lon": -1.7471458
+    }
+  },
+  "files": [
+    {
+      "pageid": 176235295,
+      "ns": 6,
+      "title": "File:Altaria Madrid-Pamplona en Villafranca de Navarra.jpg",
+      "lat": 42.287405,
+      "lon": -1.744594,
+      "dist": 1128.7,
+      "primary": "",
+      "imageinfo": {
+        "continue": {
+          "iistart": "2025-10-07T00:51:17Z",
+          "continue": "||"
+        },
+        "query": {
+          "pages": {
+            "176235295": {
+              "pageid": 176235295,
+              "ns": 6,
+              "title": "File:Altaria Madrid-Pamplona en Villafranca de Navarra.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altaria_Madrid-Pamplona_en_Villafranca_de_Navarra.jpg/500px-Altaria_Madrid-Pamplona_en_Villafranca_de_Navarra.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 225,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altaria_Madrid-Pamplona_en_Villafranca_de_Navarra.jpg/960px-Altaria_Madrid-Pamplona_en_Villafranca_de_Navarra.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altaria_Madrid-Pamplona_en_Villafranca_de_Navarra.jpg/960px-Altaria_Madrid-Pamplona_en_Villafranca_de_Navarra.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Altaria_Madrid-Pamplona_en_Villafranca_de_Navarra.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Altaria_Madrid-Pamplona_en_Villafranca_de_Navarra.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176235295",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-10-15 23:32:40",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Altaria Madrid-Pamplona en Villafranca de Navarra",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Villafranca de Navarra train station|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.287405",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.744594",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Hubo una época, no hace demasiado tiempo, en la que era muy divertido ir a \"cazar\" trenes, porque uno no sabía ni el color de la locomotora, ni el color de los coches que iban a venir con los Altarias...Además estaban los Talgo III para añadir más nota de color! En este caso, un Altaria Madrid-Pamplona con locomotora \"taxi\" y coches \"pantone\" atraviesa la bonita estación de Villafranca de Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2006-06-15 16:04:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jiesnarr/4248839910/\">Flickr</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "José Ignacio Esnarriaga San José",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

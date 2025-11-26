@@ -1,0 +1,2352 @@
+{
+  "id": 256301475,
+  "town": {
+    "name": {
+      "default": "Sartaguda",
+      "es": "Sartaguda",
+      "eu": "Sartaguda"
+    },
+    "coordinates": {
+      "lat": 42.3829263,
+      "lon": -2.0577832
+    }
+  },
+  "files": [
+    {
+      "pageid": 122937900,
+      "ns": 6,
+      "title": "File:Sartaguda - Plaza de la libertad.jpg",
+      "lat": 42.381696,
+      "lon": -2.058354,
+      "dist": 144.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122937900": {
+              "pageid": 122937900,
+              "ns": 6,
+              "title": "File:Sartaguda - Plaza de la libertad.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sartaguda_-_Plaza_de_la_libertad.jpg/500px-Sartaguda_-_Plaza_de_la_libertad.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sartaguda_-_Plaza_de_la_libertad.jpg/960px-Sartaguda_-_Plaza_de_la_libertad.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sartaguda_-_Plaza_de_la_libertad.jpg/960px-Sartaguda_-_Plaza_de_la_libertad.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sartaguda_-_Plaza_de_la_libertad.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Plaza_de_la_libertad.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122937900",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:40:58",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Plaza de la libertad",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Sartaguda|Self-published work|Pelota courts in Navarre|Playgrounds in Navarre|Files with coordinates missing SDC location of creation|Freedom squares|Urban squares in Navarre|Images of Spain by user:ecelan",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381696",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058354",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - Plaza de la libertad",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:28:54",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122937340,
+      "ns": 6,
+      "title": "File:Sartaguda - Parroquia nueva del Rosario 04.jpg",
+      "lat": 42.381504,
+      "lon": -2.058429,
+      "dist": 166.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122937340": {
+              "pageid": 122937340,
+              "ns": 6,
+              "title": "File:Sartaguda - Parroquia nueva del Rosario 04.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sartaguda_-_Parroquia_nueva_del_Rosario_04.jpg/500px-Sartaguda_-_Parroquia_nueva_del_Rosario_04.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sartaguda_-_Parroquia_nueva_del_Rosario_04.jpg/960px-Sartaguda_-_Parroquia_nueva_del_Rosario_04.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sartaguda_-_Parroquia_nueva_del_Rosario_04.jpg/960px-Sartaguda_-_Parroquia_nueva_del_Rosario_04.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Sartaguda_-_Parroquia_nueva_del_Rosario_04.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Parroquia_nueva_del_Rosario_04.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122937340",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:23:42",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Parroquia nueva del Rosario 04",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Pages with maps|Self-published work|Spanish inscriptions in Spain|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Parroquia nueva del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381504",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058429",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - Parroquia nueva del Rosario (1969) - Leyenda: \"Amaos los unos a los otros / como yo os he amado / Jesucristo\"",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:32:17",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122937335,
+      "ns": 6,
+      "title": "File:Sartaguda - Parroquia nueva del Rosario 03.jpg",
+      "lat": 42.381504,
+      "lon": -2.058429,
+      "dist": 166.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122937335": {
+              "pageid": 122937335,
+              "ns": 6,
+              "title": "File:Sartaguda - Parroquia nueva del Rosario 03.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sartaguda_-_Parroquia_nueva_del_Rosario_03.jpg/500px-Sartaguda_-_Parroquia_nueva_del_Rosario_03.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sartaguda_-_Parroquia_nueva_del_Rosario_03.jpg/960px-Sartaguda_-_Parroquia_nueva_del_Rosario_03.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sartaguda_-_Parroquia_nueva_del_Rosario_03.jpg/960px-Sartaguda_-_Parroquia_nueva_del_Rosario_03.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sartaguda_-_Parroquia_nueva_del_Rosario_03.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Parroquia_nueva_del_Rosario_03.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122937335",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:23:38",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Parroquia nueva del Rosario 03",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Parroquia nueva del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381504",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058429",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - Parroquia nueva del Rosario (1969)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:29:43",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122937337,
+      "ns": 6,
+      "title": "File:Sartaguda - Parroquia nueva del Rosario 02.jpg",
+      "lat": 42.381504,
+      "lon": -2.058429,
+      "dist": 166.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122937337": {
+              "pageid": 122937337,
+              "ns": 6,
+              "title": "File:Sartaguda - Parroquia nueva del Rosario 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sartaguda_-_Parroquia_nueva_del_Rosario_02.jpg/500px-Sartaguda_-_Parroquia_nueva_del_Rosario_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sartaguda_-_Parroquia_nueva_del_Rosario_02.jpg/960px-Sartaguda_-_Parroquia_nueva_del_Rosario_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sartaguda_-_Parroquia_nueva_del_Rosario_02.jpg/960px-Sartaguda_-_Parroquia_nueva_del_Rosario_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Sartaguda_-_Parroquia_nueva_del_Rosario_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Parroquia_nueva_del_Rosario_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122937337",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:23:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Parroquia nueva del Rosario 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Parroquia nueva del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381504",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058429",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - Parroquia nueva del Rosario (1969)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:29:29",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122937336,
+      "ns": 6,
+      "title": "File:Sartaguda - Parroquia nueva del Rosario 01.jpg",
+      "lat": 42.381504,
+      "lon": -2.058429,
+      "dist": 166.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122937336": {
+              "pageid": 122937336,
+              "ns": 6,
+              "title": "File:Sartaguda - Parroquia nueva del Rosario 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sartaguda_-_Parroquia_nueva_del_Rosario_01.jpg/500px-Sartaguda_-_Parroquia_nueva_del_Rosario_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sartaguda_-_Parroquia_nueva_del_Rosario_01.jpg/960px-Sartaguda_-_Parroquia_nueva_del_Rosario_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sartaguda_-_Parroquia_nueva_del_Rosario_01.jpg/960px-Sartaguda_-_Parroquia_nueva_del_Rosario_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sartaguda_-_Parroquia_nueva_del_Rosario_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Parroquia_nueva_del_Rosario_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122937336",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:23:39",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Parroquia nueva del Rosario 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Parroquia nueva del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381504",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058429",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - Parroquia nueva del Rosario (1969)",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:29:14",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122936437,
+      "ns": 6,
+      "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Fachada - Hornacina - Virgen regina.jpg",
+      "lat": 42.380257,
+      "lon": -2.058438,
+      "dist": 301.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122936437": {
+              "pageid": 122936437,
+              "ns": 6,
+              "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Fachada - Hornacina - Virgen regina.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_-_Hornacina_-_Virgen_regina.jpg/500px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_-_Hornacina_-_Virgen_regina.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_-_Hornacina_-_Virgen_regina.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_-_Hornacina_-_Virgen_regina.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_-_Hornacina_-_Virgen_regina.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_-_Hornacina_-_Virgen_regina.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_-_Hornacina_-_Virgen_regina.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_-_Hornacina_-_Virgen_regina.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122936437",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:00:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Iglesia de la Virgen del Rosario - Fachada - Hornacina - Virgen regina",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Iglesia de la Virgen del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.380257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - antigua Iglesia de la Virgen del Rosario; edificio barroco del siglo XVIII",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:41:07",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122936439,
+      "ns": 6,
+      "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Calle Osario.jpg",
+      "lat": 42.380257,
+      "lon": -2.058438,
+      "dist": 301.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122936439": {
+              "pageid": 122936439,
+              "ns": 6,
+              "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Calle Osario.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Calle_Osario.jpg/500px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Calle_Osario.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Calle_Osario.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Calle_Osario.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Calle_Osario.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Calle_Osario.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Calle_Osario.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Calle_Osario.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122936439",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:00:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Iglesia de la Virgen del Rosario - Calle Osario",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Iglesia de la Virgen del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.380257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - antigua Iglesia de la Virgen del Rosario; edificio barroco del siglo XVIII",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:37:41",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122936452,
+      "ns": 6,
+      "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Vista 02.jpg",
+      "lat": 42.380257,
+      "lon": -2.058438,
+      "dist": 301.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122936452": {
+              "pageid": 122936452,
+              "ns": 6,
+              "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Vista 02.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_02.jpg/500px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_02.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_02.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_02.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_02.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_02.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_02.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_02.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122936452",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:00:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Iglesia de la Virgen del Rosario - Vista 02",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Iglesia de la Virgen del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.380257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - antigua Iglesia de la Virgen del Rosario; edificio barroco del siglo XVIII",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:40:28",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122936438,
+      "ns": 6,
+      "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Lateral izq.jpg",
+      "lat": 42.380257,
+      "lon": -2.058438,
+      "dist": 301.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122936438": {
+              "pageid": 122936438,
+              "ns": 6,
+              "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Lateral izq.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_izq.jpg/500px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_izq.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_izq.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_izq.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_izq.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_izq.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_izq.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_izq.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122936438",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:00:35",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Iglesia de la Virgen del Rosario - Lateral izq",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Iglesia de la Virgen del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.380257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - antigua Iglesia de la Virgen del Rosario; edificio barroco del siglo XVIII",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:38:51",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122936457,
+      "ns": 6,
+      "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Fachada.jpg",
+      "lat": 42.380257,
+      "lon": -2.058438,
+      "dist": 301.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122936457": {
+              "pageid": 122936457,
+              "ns": 6,
+              "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Fachada.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada.jpg/500px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122936457",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:00:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Iglesia de la Virgen del Rosario - Fachada",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Iglesia de la Virgen del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.380257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - antigua Iglesia de la Virgen del Rosario; edificio barroco del siglo XVIII",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:40:56",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122936456,
+      "ns": 6,
+      "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Lateral dcho.jpg",
+      "lat": 42.380257,
+      "lon": -2.058438,
+      "dist": 301.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122936456": {
+              "pageid": 122936456,
+              "ns": 6,
+              "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Lateral dcho.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_dcho.jpg/500px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_dcho.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_dcho.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_dcho.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_dcho.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_dcho.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_dcho.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Lateral_dcho.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122936456",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:00:54",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Iglesia de la Virgen del Rosario - Lateral dcho",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Iglesia de la Virgen del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.380257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - antigua Iglesia de la Virgen del Rosario; edificio barroco del siglo XVIII",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:45:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122936451,
+      "ns": 6,
+      "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Vista 01.jpg",
+      "lat": 42.380257,
+      "lon": -2.058438,
+      "dist": 301.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122936451": {
+              "pageid": 122936451,
+              "ns": 6,
+              "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Vista 01.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_01.jpg/500px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_01.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_01.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_01.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_01.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_01.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_01.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Vista_01.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122936451",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:00:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Iglesia de la Virgen del Rosario - Vista 01",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Iglesia de la Virgen del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.380257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - antigua Iglesia de la Virgen del Rosario; edificio barroco del siglo XVIII",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:39:58",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 122936453,
+      "ns": 6,
+      "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Fachada y torre.jpg",
+      "lat": 42.380257,
+      "lon": -2.058438,
+      "dist": 301.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "122936453": {
+              "pageid": 122936453,
+              "ns": 6,
+              "title": "File:Sartaguda - Iglesia de la Virgen del Rosario - Fachada y torre.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_y_torre.jpg/500px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_y_torre.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_y_torre.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_y_torre.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_y_torre.jpg/960px-Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_y_torre.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_y_torre.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sartaguda_-_Iglesia_de_la_Virgen_del_Rosario_-_Fachada_y_torre.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122936453",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-09-12 17:00:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Sartaguda - Iglesia de la Virgen del Rosario - Fachada y torre",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Images of Spain by user:ecelan|Iglesia de la Virgen del Rosario, Sartaguda",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.380257",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.058438",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Sartaguda - antigua Iglesia de la Virgen del Rosario; edificio barroco del siglo XVIII",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-09-12 12:40:42",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ecelan\" title=\"User:Ecelan\">Ecelan</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 63510558,
+      "ns": 6,
+      "title": "File:La Torre. Lodosa.jpg",
+      "lat": 42.381755,
+      "lon": -2.0733,
+      "dist": 1281.1,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "63510558": {
+              "pageid": 63510558,
+              "ns": 6,
+              "title": "File:La Torre. Lodosa.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/La_Torre._Lodosa.jpg/500px-La_Torre._Lodosa.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/La_Torre._Lodosa.jpg/960px-La_Torre._Lodosa.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/La_Torre._Lodosa.jpg/960px-La_Torre._Lodosa.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/La_Torre._Lodosa.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:La_Torre._Lodosa.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63510558",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2017-10-21 20:20:32",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "La Torre. Lodosa",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Tower of Sartaguda|Self-published work|Cultural heritage monuments in Spain with known IDs|Uploaded via Campaign:wlm-es|Files with coordinates missing SDC location of creation|Cultural heritage monuments in Spain missing SDC location of creation|Cultural heritage monuments in Spain missing SDC depicts",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.381755",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.073300",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=Torre_de_Sartaguda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Torre de Sartaguda (page does not exist)\">Torre de Sartaguda</a> o <a href=\"//commons.wikimedia.org/w/index.php?title=Torre_de_Rada&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Torre de Rada (page does not exist)\">de Rada</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2017-04-22 19:40:33",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:El_Cronista&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:El Cronista (page does not exist)\">El Cronista</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102233076,
+      "ns": 6,
+      "title": "File:ISS047-E-93440 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -2.1,
+      "dist": 3952.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102233076": {
+              "pageid": 102233076,
+              "ns": 6,
+              "title": "File:ISS047-E-93440 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ISS047-E-93440_-_View_of_Earth.jpg/500px-ISS047-E-93440_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ISS047-E-93440_-_View_of_Earth.jpg/960px-ISS047-E-93440_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ISS047-E-93440_-_View_of_Earth.jpg/960px-ISS047-E-93440_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/ISS047-E-93440_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS047-E-93440_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102233076",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-24 08:11:46",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS047-E-93440 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 47 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2016-05-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 47.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-05-02 07:37:07",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS047&amp;roll=E&amp;frame=93440\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102233079,
+      "ns": 6,
+      "title": "File:ISS047-E-93442 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -2.1,
+      "dist": 3952.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102233079": {
+              "pageid": 102233079,
+              "ns": 6,
+              "title": "File:ISS047-E-93442 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ISS047-E-93442_-_View_of_Earth.jpg/500px-ISS047-E-93442_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ISS047-E-93442_-_View_of_Earth.jpg/960px-ISS047-E-93442_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ISS047-E-93442_-_View_of_Earth.jpg/960px-ISS047-E-93442_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/ISS047-E-93442_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS047-E-93442_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102233079",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-24 08:11:47",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS047-E-93442 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 47 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2016-05-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 47.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-05-02 07:37:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS047&amp;roll=E&amp;frame=93442\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102233071,
+      "ns": 6,
+      "title": "File:ISS047-E-93441 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -2.1,
+      "dist": 3952.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102233071": {
+              "pageid": 102233071,
+              "ns": 6,
+              "title": "File:ISS047-E-93441 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ISS047-E-93441_-_View_of_Earth.jpg/500px-ISS047-E-93441_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ISS047-E-93441_-_View_of_Earth.jpg/960px-ISS047-E-93441_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ISS047-E-93441_-_View_of_Earth.jpg/960px-ISS047-E-93441_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/ISS047-E-93441_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS047-E-93441_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102233071",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-24 08:11:43",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS047-E-93441 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 47 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2016-05-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 47.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-05-02 07:37:07",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS047&amp;roll=E&amp;frame=93441\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 102233075,
+      "ns": 6,
+      "title": "File:ISS047-E-93443 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -2.1,
+      "dist": 3952.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "102233075": {
+              "pageid": 102233075,
+              "ns": 6,
+              "title": "File:ISS047-E-93443 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ISS047-E-93443_-_View_of_Earth.jpg/500px-ISS047-E-93443_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 266,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ISS047-E-93443_-_View_of_Earth.jpg/960px-ISS047-E-93443_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ISS047-E-93443_-_View_of_Earth.jpg/960px-ISS047-E-93443_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/ISS047-E-93443_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS047-E-93443_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102233075",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2021-03-24 08:11:45",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS047-E-93443 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D4|PD NASA|Files with coordinates missing SDC location of creation|ISS Expedition 47 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2016-05-02",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 47.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2016-05-02 07:37:08",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS047&amp;roll=E&amp;frame=93443\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 124055135,
+      "ns": 6,
+      "title": "File:ISS067-E-119619 - View of Earth.jpg",
+      "lat": 42.4,
+      "lon": -2.1,
+      "dist": 3952.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "124055135": {
+              "pageid": 124055135,
+              "ns": 6,
+              "title": "File:ISS067-E-119619 - View of Earth.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ISS067-E-119619_-_View_of_Earth.jpg/500px-ISS067-E-119619_-_View_of_Earth.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 267,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ISS067-E-119619_-_View_of_Earth.jpg/960px-ISS067-E-119619_-_View_of_Earth.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/ISS067-E-119619_-_View_of_Earth.jpg/960px-ISS067-E-119619_-_View_of_Earth.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/ISS067-E-119619_-_View_of_Earth.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:ISS067-E-119619_-_View_of_Earth.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=124055135",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2022-10-11 20:45:12",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "ISS067-E-119619 - View of Earth",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Nikon D5|PD NASA|Pages with maps|Pages with camera coordinates from SDC|ISS Expedition 67 Crew Earth Observations (dump)|Files from NASA with known IDs|Images from the Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center|ISS photographs taken on 2022-06-05",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.400000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-2.100000",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "View of Earth taken during ISS Expedition 67.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2022-06-05 12:34:06",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS067&amp;roll=E&amp;frame=119619\">JSC Gateway to Astronaut Photography of Earth</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"https://en.wikipedia.org/wiki/en:Earth_Science_and_Remote_Sensing_Unit\" class=\"extiw\" title=\"w:en:Earth Science and Remote Sensing Unit\">Earth Science and Remote Sensing Unit</a>, <a href=\"https://en.wikipedia.org/wiki/en:Johnson_Space_Center\" class=\"extiw\" title=\"w:en:Johnson Space Center\"><span title=\"NASA field center in Houston, Texas, United States\">Lyndon B. Johnson Space Center</span></a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Public domain",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "false",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Copyrighted": {
+                      "value": "False",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "pd",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

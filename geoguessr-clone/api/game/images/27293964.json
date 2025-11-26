@@ -1,0 +1,264 @@
+{
+  "id": 27293964,
+  "town": {
+    "name": {
+      "default": "Caparroso",
+      "es": "Caparroso",
+      "eu": null
+    },
+    "coordinates": {
+      "lat": 42.3395614,
+      "lon": -1.6543719
+    }
+  },
+  "files": [
+    {
+      "pageid": 162829050,
+      "ns": 6,
+      "title": "File:Planta ermita de la Virgen del Soto.svg",
+      "lat": 42.355068,
+      "lon": -1.649849,
+      "dist": 1763.9,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "162829050": {
+              "pageid": 162829050,
+              "ns": 6,
+              "title": "File:Planta ermita de la Virgen del Soto.svg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Planta_ermita_de_la_Virgen_del_Soto.svg/400px-Planta_ermita_de_la_Virgen_del_Soto.svg.png",
+                  "thumbwidth": 400,
+                  "thumbheight": 232,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Planta_ermita_de_la_Virgen_del_Soto.svg/800px-Planta_ermita_de_la_Virgen_del_Soto.svg.png",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Planta_ermita_de_la_Virgen_del_Soto.svg/600px-Planta_ermita_de_la_Virgen_del_Soto.svg.png"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Planta_ermita_de_la_Virgen_del_Soto.svg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Planta_ermita_de_la_Virgen_del_Soto.svg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162829050",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2025-03-26 16:09:00",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Planta ermita de la Virgen del Soto",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Self-published work|Files with coordinates missing SDC location of creation|Ermita de la Virgen del Soto",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.355068",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.649849",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Planta de la ermita de la Virgen del Soto",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "16/03/2025",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:JLVwiki\" title=\"User:JLVwiki\">JLVwiki</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 144764299,
+      "ns": 6,
+      "title": "File:Traibuenaseko jauregia.jpg",
+      "lat": 42.36691,
+      "lon": -1.6289416666666,
+      "dist": 3689.8,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "144764299": {
+              "pageid": 144764299,
+              "ns": 6,
+              "title": "File:Traibuenaseko jauregia.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Traibuenaseko_jauregia.jpg/500px-Traibuenaseko_jauregia.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 533,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Traibuenaseko_jauregia.jpg/960px-Traibuenaseko_jauregia.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Traibuenaseko_jauregia.jpg/960px-Traibuenaseko_jauregia.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Traibuenaseko_jauregia.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Traibuenaseko_jauregia.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144764299",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2024-01-30 09:41:50",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Traibuenaseko jauregia",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Traibuenas|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Spain photographs taken on 2024-01-30|Nafarroako kultura ondasunak",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.366910",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.628942",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Mirandako Dukeen jauregi gotortua",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "30 January 2024 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a href=\"//commons.wikimedia.org/wiki/User:Smatxi\" title=\"User:Smatxi\">Smatxi</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY-SA 4.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution-Share Alike 4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-sa-4.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

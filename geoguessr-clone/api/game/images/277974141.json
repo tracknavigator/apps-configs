@@ -1,0 +1,388 @@
+{
+  "id": 277974141,
+  "town": {
+    "name": {
+      "default": "Añorbe",
+      "es": "Añorbe",
+      "eu": "Añorbe"
+    },
+    "coordinates": {
+      "lat": 42.6585023,
+      "lon": -1.7138474
+    }
+  },
+  "files": [
+    {
+      "pageid": 86245665,
+      "ns": 6,
+      "title": "File:San Miguel en Olcoz (46690487185).jpg",
+      "lat": 42.664266,
+      "lon": -1.68077,
+      "dist": 2779.6,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "86245665": {
+              "pageid": 86245665,
+              "ns": 6,
+              "title": "File:San Miguel en Olcoz (46690487185).jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Miguel_en_Olcoz_%2846690487185%29.jpg/500px-San_Miguel_en_Olcoz_%2846690487185%29.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 430,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Miguel_en_Olcoz_%2846690487185%29.jpg/960px-San_Miguel_en_Olcoz_%2846690487185%29.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/San_Miguel_en_Olcoz_%2846690487185%29.jpg/960px-San_Miguel_en_Olcoz_%2846690487185%29.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/San_Miguel_en_Olcoz_%2846690487185%29.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:San_Miguel_en_Olcoz_(46690487185).jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86245665",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2020-01-23 21:52:41",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "San Miguel en Olcoz (46690487185)",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Churches in Navarre|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Ángel M. Felicísimo",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.664266",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.680770",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Cabeza humana en un capitel de la portada de San Miguel, en Olcoz, Navarra.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2018-08-19 10:37",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/46690487185/\">San Miguel en Olcoz</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 4717415,
+      "ns": 6,
+      "title": "File:Arqueria de Santa Maria de Eunate.jpg",
+      "lat": 42.671392,
+      "lon": -1.758842,
+      "dist": 3948.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "4717415": {
+              "pageid": 4717415,
+              "ns": 6,
+              "title": "File:Arqueria de Santa Maria de Eunate.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Arqueria_de_Santa_Maria_de_Eunate.jpg/500px-Arqueria_de_Santa_Maria_de_Eunate.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 304,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Arqueria_de_Santa_Maria_de_Eunate.jpg/960px-Arqueria_de_Santa_Maria_de_Eunate.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Arqueria_de_Santa_Maria_de_Eunate.jpg/960px-Arqueria_de_Santa_Maria_de_Eunate.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Arqueria_de_Santa_Maria_de_Eunate.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arqueria_de_Santa_Maria_de_Eunate.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4717415",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2008-09-04 20:57:14",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Arqueria de Santa Maria de Eunate",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Yakumo Mega-Image 410|Flickr images reviewed by File Upload Bot (Magnus Manske)|2005 in Navarre|Photographs taken on 2005-07-30|Files with coordinates missing SDC location of creation|Cloister of the Church of Santa María de Eunate",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.671392",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.758842",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Claustro de la iglesia de Santa María de Eunate.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2005-07-30 08:27",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/17384453@N00/839292961/\">Eunate</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/17384453@N00\">Jule_Berlin</a> from Berlin, Germany",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "pageid": 4671186,
+      "ns": 6,
+      "title": "File:Iglesia de Santa Maria de Eunate.jpg",
+      "lat": 42.671392,
+      "lon": -1.758842,
+      "dist": 3948.3,
+      "primary": "",
+      "imageinfo": {
+        "batchcomplete": "",
+        "query": {
+          "pages": {
+            "4671186": {
+              "pageid": 4671186,
+              "ns": 6,
+              "title": "File:Iglesia de Santa Maria de Eunate.jpg",
+              "imagerepository": "local",
+              "imageinfo": [
+                {
+                  "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Iglesia_de_Santa_Maria_de_Eunate.jpg/500px-Iglesia_de_Santa_Maria_de_Eunate.jpg",
+                  "thumbwidth": 400,
+                  "thumbheight": 300,
+                  "responsiveUrls": {
+                    "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Iglesia_de_Santa_Maria_de_Eunate.jpg/960px-Iglesia_de_Santa_Maria_de_Eunate.jpg",
+                    "1.5": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Iglesia_de_Santa_Maria_de_Eunate.jpg/960px-Iglesia_de_Santa_Maria_de_Eunate.jpg"
+                  },
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Iglesia_de_Santa_Maria_de_Eunate.jpg",
+                  "descriptionurl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Santa_Maria_de_Eunate.jpg",
+                  "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4671186",
+                  "extmetadata": {
+                    "DateTime": {
+                      "value": "2008-08-31 21:56:29",
+                      "source": "mediawiki-metadata",
+                      "hidden": ""
+                    },
+                    "ObjectName": {
+                      "value": "Iglesia de Santa Maria de Eunate",
+                      "source": "mediawiki-metadata"
+                    },
+                    "CommonsMetadataExtension": {
+                      "value": 1.2,
+                      "source": "extension",
+                      "hidden": ""
+                    },
+                    "Categories": {
+                      "value": "Taken with Yakumo Mega-Image 410|Flickr images reviewed by File Upload Bot (Magnus Manske)|Files with coordinates missing SDC location of creation|Cloister of the Church of Santa María de Eunate|Exterior of the Church of Santa María de Eunate",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "Assessments": {
+                      "value": "",
+                      "source": "commons-categories",
+                      "hidden": ""
+                    },
+                    "GPSLatitude": {
+                      "value": "42.671392",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSLongitude": {
+                      "value": "-1.758842",
+                      "source": "commons-desc-page"
+                    },
+                    "GPSMapDatum": {
+                      "value": "WGS-84",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "ImageDescription": {
+                      "value": "Iglesia de Santa María de Eunate.",
+                      "source": "commons-desc-page"
+                    },
+                    "DateTimeOriginal": {
+                      "value": "2005-07-30 08:19",
+                      "source": "commons-desc-page"
+                    },
+                    "Credit": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/17384453@N00/840153210/\">Eunate</a>",
+                      "source": "commons-desc-page"
+                    },
+                    "Artist": {
+                      "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/17384453@N00\">Jule_Berlin</a> from Berlin, Germany",
+                      "source": "commons-desc-page"
+                    },
+                    "LicenseShortName": {
+                      "value": "CC BY 2.0",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "UsageTerms": {
+                      "value": "Creative Commons Attribution 2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "AttributionRequired": {
+                      "value": "true",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "LicenseUrl": {
+                      "value": "https://creativecommons.org/licenses/by/2.0",
+                      "source": "commons-desc-page"
+                    },
+                    "Copyrighted": {
+                      "value": "True",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "Restrictions": {
+                      "value": "",
+                      "source": "commons-desc-page",
+                      "hidden": ""
+                    },
+                    "License": {
+                      "value": "cc-by-2.0",
+                      "source": "commons-templates",
+                      "hidden": ""
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}
