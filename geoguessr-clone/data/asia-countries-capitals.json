@@ -1,0 +1,338 @@
+[
+  {
+    "city": "Kabul",
+    "country": "Afganistán",
+    "latitude": 34.5553,
+    "longitude": 69.2075,
+    "population": 4200000,
+    "official_language": "Dari / Pastún"
+  },
+  {
+    "city": "Riad",
+    "country": "Arabia Saudita",
+    "latitude": 24.7136,
+    "longitude": 46.6753,
+    "population": 6506700,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Ereván",
+    "country": "Armenia",
+    "latitude": 40.1792,
+    "longitude": 44.4991,
+    "population": 1075000,
+    "official_language": "Armenio"
+  },
+  {
+    "city": "Bakú",
+    "country": "Azerbaiyán",
+    "latitude": 40.4093,
+    "longitude": 49.8671,
+    "population": 2200000,
+    "official_language": "Azerí"
+  },
+  {
+    "city": "Dhaka",
+    "country": "Bangladés",
+    "latitude": 23.8103,
+    "longitude": 90.4125,
+    "population": 21005000,
+    "official_language": "Bengalí"
+  },
+  {
+    "city": "Manama",
+    "country": "Baréin",
+    "latitude": 26.2235,
+    "longitude": 50.5876,
+    "population": 157000,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Thimphu",
+    "country": "Bután",
+    "latitude": 27.4728,
+    "longitude": 89.6390,
+    "population": 114551,
+    "official_language": "Dzongkha"
+  },
+  {
+    "city": "Nom Pen",
+    "country": "Camboya",
+    "latitude": 11.5564,
+    "longitude": 104.9282,
+    "population": 2000000,
+    "official_language": "Jemer"
+  },
+  {
+    "city": "Doha",
+    "country": "Catar",
+    "latitude": 25.2854,
+    "longitude": 51.5310,
+    "population": 1903000,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Pekín",
+    "country": "China",
+    "latitude": 39.9042,
+    "longitude": 116.4074,
+    "population": 21890000,
+    "official_language": "Mandarín"
+  },
+  {
+    "city": "Seúl",
+    "country": "Corea del Sur",
+    "latitude": 37.5665,
+    "longitude": 126.9780,
+    "population": 9610000,
+    "official_language": "Coreano"
+  },
+  {
+    "city": "Pyongyang",
+    "country": "Corea del Norte",
+    "latitude": 39.0392,
+    "longitude": 125.7625,
+    "population": 3200000,
+    "official_language": "Coreano"
+  },
+  {
+    "city": "Abu Dabi",
+    "country": "Emiratos Árabes Unidos",
+    "latitude": 24.4539,
+    "longitude": 54.3773,
+    "population": 1010000,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Manila",
+    "country": "Filipinas",
+    "latitude": 14.5995,
+    "longitude": 120.9842,
+    "population": 1780000,
+    "official_language": "Filipino / Inglés"
+  },
+  {
+    "city": "Nueva Delhi",
+    "country": "India",
+    "latitude": 28.6139,
+    "longitude": 77.2090,
+    "population": 6430752,
+    "official_language": "Hindi / Inglés"
+  },
+  {
+    "city": "Yakarta",
+    "country": "Indonesia",
+    "latitude": -6.2088,
+    "longitude": 106.8456,
+    "population": 10042000,
+    "official_language": "Indonesio"
+  },
+  {
+    "city": "Bagdad",
+    "country": "Irak",
+    "latitude": 33.3152,
+    "longitude": 44.3661,
+    "population": 8765000,
+    "official_language": "Árabe / Kurdo"
+  },
+  {
+    "city": "Teherán",
+    "country": "Irán",
+    "latitude": 35.6892,
+    "longitude": 51.3890,
+    "population": 14100000,
+    "official_language": "Persa (Farsi)"
+  },
+  {
+    "city": "Jerusalén",
+    "country": "Israel / Palestina",
+    "latitude": 31.7683,
+    "longitude": 35.2137,
+    "population": 936000,
+    "official_language": "Hebreo / Árabe"
+  },
+  {
+    "city": "Tokio",
+    "country": "Japón",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "population": 40000000,
+    "official_language": "Japonés"
+  },
+  {
+    "city": "Amán",
+    "country": "Jordania",
+    "latitude": 31.9454,
+    "longitude": 35.9284,
+    "population": 4007000,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Astana",
+    "country": "Kazajistán",
+    "latitude": 51.1605,
+    "longitude": 71.4704,
+    "population": 1200000,
+    "official_language": "Kazajo / Ruso"
+  },
+  {
+    "city": "Bishkek",
+    "country": "Kirguistán",
+    "latitude": 42.8746,
+    "longitude": 74.5698,
+    "population": 1074075,
+    "official_language": "Kirguís / Ruso"
+  },
+  {
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "latitude": 29.3759,
+    "longitude": 47.9774,
+    "population": 2779000,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Vientián",
+    "country": "Laos",
+    "latitude": 17.9757,
+    "longitude": 102.6331,
+    "population": 948000,
+    "official_language": "Lao"
+  },
+  {
+    "city": "Beirut",
+    "country": "Líbano",
+    "latitude": 33.8938,
+    "longitude": 35.5018,
+    "population": 2424000,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malasia",
+    "latitude": 3.1390,
+    "longitude": 101.6869,
+    "population": 1790000,
+    "official_language": "Malayo"
+  },
+  {
+    "city": "Malé",
+    "country": "Maldivas",
+    "latitude": 4.1755,
+    "longitude": 73.5093,
+    "population": 103693,
+    "official_language": "Dhivehi"
+  },
+  {
+    "city": "Ulan Bator",
+    "country": "Mongolia",
+    "latitude": 47.8864,
+    "longitude": 106.9057,
+    "population": 1516000,
+    "official_language": "Mongol"
+  },
+  {
+    "city": "Katmandú",
+    "country": "Nepal",
+    "latitude": 27.7172,
+    "longitude": 85.3240,
+    "population": 1400000,
+    "official_language": "Nepalí"
+  },
+  {
+    "city": "Mascate",
+    "country": "Omán",
+    "latitude": 23.5880,
+    "longitude": 58.3829,
+    "population": 1622620,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Islamabad",
+    "country": "Pakistán",
+    "latitude": 33.6844,
+    "longitude": 73.0479,
+    "population": 1198000,
+    "official_language": "Urdu / Inglés"
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "latitude": 25.2854,
+    "longitude": 51.5310,
+    "population": 1903000,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Riad",
+    "country": "Arabia Saudita",
+    "latitude": 24.7136,
+    "longitude": 46.6753,
+    "population": 6506700,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Sri Jayawardenapura Kotte",
+    "country": "Sri Lanka",
+    "latitude": 6.8864,
+    "longitude": 79.8612,
+    "population": 115826,
+    "official_language": "Cingalés / Tamil"
+  },
+  {
+    "city": "Damasco",
+    "country": "Siria",
+    "latitude": 33.5138,
+    "longitude": 36.2765,
+    "population": 1711000,
+    "official_language": "Árabe"
+  },
+  {
+    "city": "Tashkent",
+    "country": "Uzbekistán",
+    "latitude": 41.2995,
+    "longitude": 69.2401,
+    "population": 2999500,
+    "official_language": "Uzbeco / Ruso"
+  },
+  {
+    "city": "Dusambé",
+    "country": "Tayikistán",
+    "latitude": 38.5598,
+    "longitude": 68.7870,
+    "population": 863400,
+    "official_language": "Tayiko / Ruso"
+  },
+  {
+    "city": "Ashgabat",
+    "country": "Turkmenistán",
+    "latitude": 37.9601,
+    "longitude": 58.3261,
+    "population": 909000,
+    "official_language": "Turcomano / Ruso"
+  },
+  {
+    "city": "Ankara",
+    "country": "Turquía",
+    "latitude": 39.9334,
+    "longitude": 32.8597,
+    "population": 5445026,
+    "official_language": "Turco"
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "latitude": 21.0278,
+    "longitude": 105.8342,
+    "population": 8246000,
+    "official_language": "Vietnamita"
+  },
+  {
+    "city": "Sanaá",
+    "country": "Yemen",
+    "latitude": 15.3694,
+    "longitude": 44.1910,
+    "population": 1990000,
+    "official_language": "Árabe"
+  }
+]

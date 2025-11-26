@@ -1,0 +1,346 @@
+[
+  {
+    "city": "Ámsterdam",
+    "country": "Países Bajos",
+    "latitude": 52.3676,
+    "longitude": 4.9041,
+    "population": 1700000,
+    "official_language": "Neerlandés"
+  },
+  {
+    "city": "Andorra la Vella",
+    "country": "Andorra",
+    "latitude": 42.5078,
+    "longitude": 1.5211,
+    "population": 22000,
+    "official_language": "Catalán"
+  },
+  {
+    "city": "Atenas",
+    "country": "Grecia",
+    "latitude": 37.9838,
+    "longitude": 23.7275,
+    "population": 3300000,
+    "official_language": "Griego"
+  },
+  {
+    "city": "Belgrado",
+    "country": "Serbia",
+    "latitude": 44.8176,
+    "longitude": 20.4569,
+    "population": 1350000,
+    "official_language": "Serbio"
+  },
+  {
+    "city": "Berlín",
+    "country": "Alemania",
+    "latitude": 52.5200,
+    "longitude": 13.4050,
+    "population": 4270000,
+    "official_language": "Alemán"
+  },
+  {
+    "city": "Berna",
+    "country": "Suiza",
+    "latitude": 46.9481,
+    "longitude": 7.4474,
+    "population": 133000,
+    "official_language": "Alemán / Francés / Italiano / Romanche"
+  },
+  {
+    "city": "Bratislava",
+    "country": "Eslovaquia",
+    "latitude": 48.1486,
+    "longitude": 17.1077,
+    "population": 430000,
+    "official_language": "Eslovaco"
+  },
+  {
+    "city": "Bruselas",
+    "country": "Bélgica",
+    "latitude": 50.8503,
+    "longitude": 4.3517,
+    "population": 2230000,
+    "official_language": "Francés / Neerlandés / Alemán"
+  },
+  {
+    "city": "Bucarest",
+    "country": "Rumanía",
+    "latitude": 44.4268,
+    "longitude": 26.1025,
+    "population": 2090000,
+    "official_language": "Rumano"
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungría",
+    "latitude": 47.4979,
+    "longitude": 19.0402,
+    "population": 1685209,
+    "official_language": "Húngaro"
+  },
+  {
+    "city": "Chisináu",
+    "country": "Moldavia",
+    "latitude": 47.0105,
+    "longitude": 28.8638,
+    "population": 503000,
+    "official_language": "Rumano"
+  },
+  {
+    "city": "Copenhague",
+    "country": "Dinamarca",
+    "latitude": 55.6761,
+    "longitude": 12.5683,
+    "population": 667099,
+    "official_language": "Danés"
+  },
+  {
+    "city": "Dublín",
+    "country": "Irlanda",
+    "latitude": 53.3331,
+    "longitude": -6.2489,
+    "population": 1380000,
+    "official_language": "Irlandés / Inglés"
+  },
+  {
+    "city": "Ereván",
+    "country": "Armenia",
+    "latitude": 40.1792,
+    "longitude": 44.4991,
+    "population": 1075000,
+    "official_language": "Armenio"
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finlandia",
+    "latitude": 60.1695,
+    "longitude": 24.9355,
+    "population": 656555,
+    "official_language": "Finlandés / Sueco"
+  },
+  {
+    "city": "Kiev",
+    "country": "Ucrania",
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "population": 2847000,
+    "official_language": "Ucraniano"
+  },
+  {
+    "city": "Lisboa",
+    "country": "Portugal",
+    "latitude": 38.7169,
+    "longitude": -9.1392,
+    "population": 575739,
+    "official_language": "Portugués"
+  },
+  {
+    "city": "Ljubljana",
+    "country": "Eslovenia",
+    "latitude": 46.0569,
+    "longitude": 14.5058,
+    "population": 295504,
+    "official_language": "Esloveno"
+  },
+  {
+    "city": "Londres",
+    "country": "Reino Unido",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "population": 9840740,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Luxemburgo",
+    "country": "Luxemburgo",
+    "latitude": 49.6117,
+    "longitude": 6.1319,
+    "population": 125900,
+    "official_language": "Luxemburgués / Francés / Alemán"
+  },
+  {
+    "city": "Madrid",
+    "country": "España",
+    "latitude": 40.4168,
+    "longitude": -3.7038,
+    "population": 6810530,
+    "official_language": "Español"
+  },
+  {
+    "city": "Minsk",
+    "country": "Bielorrusia",
+    "latitude": 53.9006,
+    "longitude": 27.5590,
+    "population": 1919000,
+    "official_language": "Bielorruso / Ruso"
+  },
+  {
+    "city": "Mónaco",
+    "country": "Mónaco",
+    "latitude": 43.7384,
+    "longitude": 7.4246,
+    "population": 39000,
+    "official_language": "Francés"
+  },
+  {
+    "city": "Moscú",
+    "country": "Rusia",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "population": 12737400,
+    "official_language": "Ruso"
+  },
+  {
+    "city": "Nicosia",
+    "country": "Chipre",
+    "latitude": 35.1856,
+    "longitude": 33.3823,
+    "population": 200000,
+    "official_language": "Griego / Turco"
+  },
+  {
+    "city": "Oslo",
+    "country": "Noruega",
+    "latitude": 59.9139,
+    "longitude": 10.7522,
+    "population": 707000,
+    "official_language": "Noruego"
+  },
+  {
+    "city": "París",
+    "country": "Francia",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "population": 11346800,
+    "official_language": "Francés"
+  },
+  {
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "latitude": 42.4410,
+    "longitude": 19.2625,
+    "population": 150799,
+    "official_language": "Montenegrino"
+  },
+  {
+    "city": "Praga",
+    "country": "República Checa",
+    "latitude": 50.0755,
+    "longitude": 14.4378,
+    "population": 1309000,
+    "official_language": "Checo"
+  },
+  {
+    "city": "Riga",
+    "country": "Letonia",
+    "latitude": 56.9496,
+    "longitude": 24.1052,
+    "population": 591882,
+    "official_language": "Letón"
+  },
+  {
+    "city": "Roma",
+    "country": "Italia",
+    "latitude": 41.9028,
+    "longitude": 12.4964,
+    "population": 2873000,
+    "official_language": "Italiano"
+  },
+  {
+    "city": "San Marino",
+    "country": "San Marino",
+    "latitude": 43.9336,
+    "longitude": 12.4486,
+    "population": 4050,
+    "official_language": "Italiano"
+  },
+  {
+    "city": "Sarajevo",
+    "country": "Bosnia y Herzegovina",
+    "latitude": 43.8563,
+    "longitude": 18.4131,
+    "population": 275524,
+    "official_language": "Bosnio / Croata / Serbio"
+  },
+  {
+    "city": "Skopie",
+    "country": "Macedonia del Norte",
+    "latitude": 41.9981,
+    "longitude": 21.4254,
+    "population": 544086,
+    "official_language": "Macedonio"
+  },
+  {
+    "city": "Sofía",
+    "country": "Bulgaria",
+    "latitude": 42.6977,
+    "longitude": 23.3219,
+    "population": 1236000,
+    "official_language": "Búlgaro"
+  },
+  {
+    "city": "Tallin",
+    "country": "Estonia",
+    "latitude": 59.4370,
+    "longitude": 24.7536,
+    "population": 437619,
+    "official_language": "Estonio"
+  },
+  {
+    "city": "Tirana",
+    "country": "Albania",
+    "latitude": 41.3275,
+    "longitude": 19.8189,
+    "population": 895000,
+    "official_language": "Albanés"
+  },
+  {
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "latitude": 47.1410,
+    "longitude": 9.5215,
+    "population": 5547,
+    "official_language": "Alemán"
+  },
+  {
+    "city": "Valletta",
+    "country": "Malta",
+    "latitude": 35.8997,
+    "longitude": 14.5146,
+    "population": 6400,
+    "official_language": "Maltés / Inglés"
+  },
+  {
+    "city": "Varsovia",
+    "country": "Polonia",
+    "latitude": 52.2297,
+    "longitude": 21.0122,
+    "population": 1790658,
+    "official_language": "Polaco"
+  },
+  {
+    "city": "Viena",
+    "country": "Austria",
+    "latitude": 48.2082,
+    "longitude": 16.3738,
+    "population": 2028499,
+    "official_language": "Alemán"
+  },
+  {
+    "city": "Vilna",
+    "country": "Lituania",
+    "latitude": 54.6872,
+    "longitude": 25.2797,
+    "population": 580020,
+    "official_language": "Lituano"
+  },
+  {
+    "city": "Zagreb",
+    "country": "Croacia",
+    "latitude": 45.8150,
+    "longitude": 15.9819,
+    "population": 806341,
+    "official_language": "Croata"
+  }
+]

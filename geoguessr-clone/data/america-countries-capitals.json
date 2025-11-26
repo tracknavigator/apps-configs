@@ -1,0 +1,282 @@
+[
+  {
+    "city": "Ottawa",
+    "country": "Canadá",
+    "latitude": 45.4215,
+    "longitude": -75.6972,
+    "population": 994837,
+    "official_language": "Inglés / Francés"
+  },
+  {
+    "city": "Washington D.C.",
+    "country": "Estados Unidos",
+    "latitude": 38.8951,
+    "longitude": -77.0364,
+    "population": 705749,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Ciudad de México",
+    "country": "México",
+    "latitude": 19.4326,
+    "longitude": -99.1332,
+    "population": 9209944,
+    "official_language": "Español"
+  },
+  {
+    "city": "Guatemala",
+    "country": "Guatemala",
+    "latitude": 14.6349,
+    "longitude": -90.5069,
+    "population": 994000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Belmopán",
+    "country": "Belice",
+    "latitude": 17.2510,
+    "longitude": -88.7590,
+    "population": 20000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Tegucigalpa",
+    "country": "Honduras",
+    "latitude": 14.0723,
+    "longitude": -87.1921,
+    "population": 1200000,
+    "official_language": "Español"
+  },
+  {
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "latitude": 13.6929,
+    "longitude": -89.2182,
+    "population": 570000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Managua",
+    "country": "Nicaragua",
+    "latitude": 12.1364,
+    "longitude": -86.2514,
+    "population": 1150000,
+    "official_language": "Español"
+  },
+  {
+    "city": "San José",
+    "country": "Costa Rica",
+    "latitude": 9.9281,
+    "longitude": -84.0907,
+    "population": 335000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Panamá",
+    "country": "Panamá",
+    "latitude": 8.9833,
+    "longitude": -79.5167,
+    "population": 880000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "latitude": 23.1136,
+    "longitude": -82.3666,
+    "population": 2100000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Santo Domingo",
+    "country": "República Dominicana",
+    "latitude": 18.4861,
+    "longitude": -69.9312,
+    "population": 2950000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Kingston",
+    "country": "Jamaica",
+    "latitude": 17.9714,
+    "longitude": -76.7936,
+    "population": 670000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Nassau",
+    "country": "Bahamas",
+    "latitude": 25.0343,
+    "longitude": -77.3963,
+    "population": 274400,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "latitude": 13.0975,
+    "longitude": -59.6167,
+    "population": 110000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Basseterre",
+    "country": "Saint Kitts y Nevis",
+    "latitude": 17.3026,
+    "longitude": -62.7177,
+    "population": 14000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Saint John's",
+    "country": "Antigua y Barbuda",
+    "latitude": 17.1274,
+    "longitude": -61.8468,
+    "population": 22000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Roseau",
+    "country": "Dominica",
+    "latitude": 15.3092,
+    "longitude": -61.3794,
+    "population": 16000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "St. George's",
+    "country": "Granada",
+    "latitude": 12.0561,
+    "longitude": -61.7486,
+    "population": 33000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Castries",
+    "country": "Santa Lucía",
+    "latitude": 13.9094,
+    "longitude": -60.9789,
+    "population": 20000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Kingstown",
+    "country": "San Vicente y las Granadinas",
+    "latitude": 13.1600,
+    "longitude": -61.2248,
+    "population": 16000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Port-au-Prince",
+    "country": "Haití",
+    "latitude": 18.5944,
+    "longitude": -72.3074,
+    "population": 987000,
+    "official_language": "Francés / Criollo haitiano"
+  },
+  {
+    "city": "Bogotá",
+    "country": "Colombia",
+    "latitude": 4.7110,
+    "longitude": -74.0721,
+    "population": 7900000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "latitude": 10.4806,
+    "longitude": -66.9036,
+    "population": 2900000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Quito",
+    "country": "Ecuador",
+    "latitude": -0.1807,
+    "longitude": -78.4678,
+    "population": 2010000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Lima",
+    "country": "Perú",
+    "latitude": -12.0464,
+    "longitude": -77.0428,
+    "population": 8700000,
+    "official_language": "Español"
+  },
+  {
+    "city": "La Paz",
+    "country": "Bolivia",
+    "latitude": -16.5000,
+    "longitude": -68.1500,
+    "population": 789541,
+    "official_language": "Español / Quechua / Aymara"
+  },
+  {
+    "city": "Sucre",
+    "country": "Bolivia",
+    "latitude": -19.0333,
+    "longitude": -65.2629,
+    "population": 300000,
+    "official_language": "Español / Quechua / Aymara"
+  },
+  {
+    "city": "Asunción",
+    "country": "Paraguay",
+    "latitude": -25.2637,
+    "longitude": -57.5759,
+    "population": 525000,
+    "official_language": "Español / Guaraní"
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "latitude": -34.9011,
+    "longitude": -56.1645,
+    "population": 1340000,
+    "official_language": "Español"
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "latitude": -34.6037,
+    "longitude": -58.3816,
+    "population": 3075646,
+    "official_language": "Español"
+  },
+  {
+    "city": "Brasilia",
+    "country": "Brasil",
+    "latitude": -15.8267,
+    "longitude": -47.9218,
+    "population": 3055149,
+    "official_language": "Portugués"
+  },
+  {
+    "city": "Georgetown",
+    "country": "Guyana",
+    "latitude": 6.8013,
+    "longitude": -58.1551,
+    "population": 118000,
+    "official_language": "Inglés"
+  },
+  {
+    "city": "Paramaribo",
+    "country": "Surinam",
+    "latitude": 5.8520,
+    "longitude": -55.2038,
+    "population": 241000,
+    "official_language": "Holandés"
+  },
+  {
+    "city": "Cayenne",
+    "country": "Guayana Francesa",
+    "latitude": 4.9224,
+    "longitude": -52.3135,
+    "population": 58600,
+    "official_language": "Francés"
+  }
+]
